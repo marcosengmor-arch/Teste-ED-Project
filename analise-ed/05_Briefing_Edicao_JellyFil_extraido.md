@@ -180,6 +180,23 @@ Fonte: prints do briefing de edição enviados pelo Marcos em 08/10/2026 (doc n�
   - Mulher com fita métrica (régua de pedreiro) "not to get up for 30 years"
   - Split-screen tecido saudável vs placa "how much time", "due to toxic plaque deposits"
 
+  **PL10-14 — MUS: 4 etapas (continuação do grid)**
+  - Split-screen tecido rosa saudável vs cordões de placa amarela "toxic plaque hardens" (3 setas descendo = progressão)
+  - Vídeo estilo "flagra" com legenda sensacionalista "Caught in the Act: 40-Year-Old Woman Caught Cheating… with another man!" (casal pego no quarto) → reforço do medo dentro do MUS
+  - 3D de dois canais: um limpo vermelho, outro entupido ocre, "before the point of no return"
+  - Pote "Hydrolyzed Collagen" (vidro âmbar, pó branco, colher de madeira) com título amarelo grande "HYDROLYZED COLLAGEN" e cavalo Percheron ao fundo em madeira
+  - Tendões equinos crus sobre mesa de laboratório, "directly"
+  - Garanhão em cocheira + prancheta com perfil de colágeno "a specific profile of… already"
+  - Cavalo de costas no estábulo "the same as at five" (potência na velhice)
+  - 3D esponja vermelha com fragmento branco se soltando "some over 30 years into fragments"
+  - **Urina escura (3 frames):** copos de laboratório com urina marrom, etiqueta "Lexington Lab – Penile Fibrosis Clearance Study · Patient 47 · 72hr urine", fita de pH, foto de microscopia ao lado, anotação manuscrita "urine now mahogany; particulates confirmed as collagen debris via microscopy", frasco com fragmentos visíveis "fragments leaving the body"
+  - Tanques de aço inox de laboratório farmacêutico "There are 17 of those machines"
+  - **Bloco regulatório (4 frames):** manchete "FDA classifies that form as an unregulated biological product, and unregulated biologicals have been prohibited by law for retail sale since 1987" + prédio da FDA; carta oficial FDA em papel timbrado datada "May 15, 2024, To Whom It May Concern"; página "Unregulated Biological Products – FDA Regulatory Classification, 21 CFR 1271"; certificado FDA com selo dourado "FDA category 21 CFR 111"
+  - **RM antes/depois:** "Cedars-Sinai Medical Imaging · Patient #14 Lexington Pilot 2023 · DAY 1 / DAY 30" com corte transversal escuro → vermelho vivo, "Cavernous Volume +47%", "This is the mechanism"
+  - **Régua antes/depois:** "Volunteer #22 Lexington Pilot 2023 · DAY 1: 5.63 in / 4.41 in · DAY 30: 8.46 in / 5.24 in · +7.2 / +2.1 inches in 30 days" com fotos de corpo (rosto cortado) e banner vermelho
+  - Vitamina C lipossomal: 3D do intestino "The vitamin is encapsulated… liposome"
+  - Pycnogenol: frasco âmbar com rótulo de pinheiro + casca de pinheiro + livro "Clinical Studies: 21 published since 2003", "from French maritime pine bark"
+
 - **Padrões de edição da tese observados:**
   1. Cada ponto lógico tem **três camadas visuais**: (a) documento "real" fotografado na mesa (paper, revista, jornal, memo com marca-texto e post-it), (b) 3D anatômico ou microscopia, (c) rosto humano sofrendo (homem grisalho, mão na testa) ou analogia doméstica (mangueira, quintal).
   2. **Papers e jornais são fabricados em estilo editorial real** (WSJ, Journal of Urology, Endocrine Reviews, SEC 10-K) e sempre aparecem com marca-texto amarelo + anotação à mão. A anotação à mão é o que faz parecer "a mesa do expert".
@@ -188,6 +205,10 @@ Fonte: prints do briefing de edição enviados pelo Marcos em 08/10/2026 (doc n�
   5. **Telas de "Video removed"** (Instagram e Facebook) funcionam como prova de censura dentro da tese.
   6. **Analogia visual literal** da copy: mangueira verde vs ressecada; fita métrica; cicatriz.
   7. Legenda pequena branca inferior em quase tudo; grande colorida só em títulos de infográfico.
+  8. **Prova operacional fabricada com etiqueta de laboratório**: copo de urina com etiqueta impressa, ID de paciente, data, fita de pH e anotação à mão. Mesma gramática dos papers, aplicada ao corpo do voluntário.
+  9. **Antes/depois sempre em dupla**: exame (RM com %) + régua (polegadas com decimais) para o mesmo "voluntário", com nome de piloto e ano.
+  10. **Bloco regulatório em 4 variações do mesmo documento** (manchete, carta, página de regulamento, certificado) para o reason why "venda bruta proibida".
+  11. **Flagra de traição** inserido dentro do MUS para não deixar o medo esfriar durante a parte técnica.
 
 → **Para a Longhorn Soda (tese):** manter as três camadas e a gramática "documento + marca-texto + post-it". Substituições: galão de glifosato borrifado no **pasto/cerca de rancho**; o saco "CATTLE FEED 50 LB" (já existe na Jelly Fil) ganha ao lado um **saco de bicarbonato de sódio 50 LB** e um rótulo real de tampão ruminal; memo Bayer 1998 mantido; WSJ US$24 bi mantido; "Video removed" mantido; Bill Gates/Lone Star tick podem sair (decorativos, lente 7 do relatório 01) ou virar "o glifosato no mato do Texas"; 3D da esponja/cimento mantido; **split-screen novo: touro Longhorn de 18 anos cobrindo vaca vs homem de 50 de costas na cama**; analogia da mangueira vira **couro de sela novo vs ressecado** ou mantém a mangueira (rural também); fita métrica mantida; cartaz "TWENTY-FOUR BILLION" mantido. Adicionar: recorte de jornal real do leilão "Longhorn sells for $700,000 in Fort Worth" na mesma gramática de jornal fotografado.
 
@@ -195,8 +216,54 @@ Fonte: prints do briefing de edição enviados pelo Marcos em 08/10/2026 (doc n�
 
 ---
 
+## PRODUCT BUILD-UP
+
+### 1. Produção
+- Formato: **UGC**.
+- Avatares:
+  - Dr. Peter Attia — Expert
+  - Sylvester Stallone — Avatar Transformado, **2 cenários**: de pijama na cozinha com caneca ("Pete, I just woke up hard.") e de camisa preta em poltrona de couro com mansão/piscina ao fundo ("She froze for three seconds")
+  - Homem comum, 60+ — Depoimento 01 (sala com estante, suéter, "that my sex life was over")
+  - Dr. Robert Callahan — Depoimento médico (jaleco "Novatec Labs · R&D Director", laboratório ao fundo, "I never saw a complete reversal")
+
+### 2. Edição
+- **Resumo:** Mantém provas visuais muito fortes.
+- **Legenda:** mesma ideia de VSL.
+- **Trilha sonora:** **Sexy**.
+- **Tipos de B-roll usados:**
+  - Cinematografia com IA
+  - Pornô
+  - Provas científicas
+  - Cinematografia
+  - Soluções comuns
+  - Ligação entre expert e avatar transformado
+  - OBS do briefing: faz um insert rápido com as provas da tese em dado momento (sem print na tabela).
+- Grid observado (8 frames): pote de vidro com pó escuro dentro de bolsa térmica médica na geladeira "I came back" → fazendeiro com cavalo Percheron diante da placa "WHITFIELD FARMS · EST. 1987 · Kentucky's Largest Private Percheron Breeding Farm" com celeiro vermelho e trator, "by the owner of Whitfield" → split-screen Attia e Stallone ao telefone "I have powder," → pornô "on the first try, Pete." → **RM "Cedars-Sinai · Cardiac MRI – Fibrosis Quantification · 72 days · Fibrosis 60% → 38%"** em tela de computador com post-it manuscrito "72 days: Fibrosis 60%→38%. Significant regression noted. Continue current regimen." → mesmo laudo impresso com clipe "72 DAYS" e gráfico de barras → sala de espera de clínica com ~22 homens sentados "22 patients of mine" → quadro branco "ACTIVE PATIENTS – LA CLINIC · Total seen this week 22 · Referred by Marcus 15" com nomes manuscritos, "from the L.A. clinic".
+- Padrões: (a) o pote de vidro aparece em contexto doméstico/médico real (geladeira, bolsa térmica) para dar materialidade ao "truque na mão"; (b) **a fazenda tem nome, placa, ano de fundação e dono com rosto**: a fonte improvável ganha endereço; (c) o telefonema expert ↔ avatar é split-screen; (d) a RM aparece duas vezes (tela e papel) com post-it; (e) o estudo piloto vira sala de espera cheia + quadro branco manuscrito; (f) trilha muda para sexy quando os resultados chegam.
+
+→ **Para a Longhorn Soda (build-up):** Huberman de volta com o pote de vidro de pó dentro da bolsa térmica, na geladeira da cozinha do rancho; **rancheiro velho com Longhorn diante da placa do rancho** ("[Nome] Ranch · Est. 19xx · Texas Longhorn Breeders since…") com celeiro e pickup; split-screen Huberman ↔ Tyson ao telefone às 6h "I have powder, Mike"; Tyson de pijama na cozinha com caneca "Andrew, I just woke up hard" e, depois, em poltrona na varanda do rancho "She froze for three seconds"; RM 60% → 28% em tela e papel com post-it (Attia assina); sala de espera com 37 homens em clínica de Fort Worth + quadro "ACTIVE PATIENTS – FORT WORTH · referred by [rancheiro]"; dois touros irmãos (um cobrindo, outro parado) como insert; Dale (62, veterano) como "homem comum 60+" na sala de estar; diretor de P&D de jaleco no lab texano "I never saw a complete reversal". Trilha: sexy.
+
+---
+
+## BIG OFFER
+
+### 1. Produção
+- Formato: **UGC**.
+- Avatares:
+  - Dr. Peter Attia — Expert
+  - Homem comum, 60+ — Depoimento 01 (rosto desfocado, sala com estante e janela, "Five days into the protocol,")
+  - Arnold Schwarzenegger — Depoimento 02 (selfie em casa com quadro ao fundo, "78 years old.")
+  - Jean-Claude Van Damme — Depoimento 03 (gorro preto, óculos, "65 years old.")
+- Padrão: celebridades repetem na oferta as mesmas que abriram a lead (Arnold e Van Damme), fechando o arco; depoimento de homem comum com **rosto borrado** entra como prova "real".
+
+### 2. Edição
+- (aguardando print)
+
+→ **Para a Longhorn Soda (oferta):** Costner (71) abre os depoimentos ("the Yellowstone cowboy"), depois Stallone (79) e Ford (84), repetindo quem apareceu na lead; Dale como homem comum com rosto borrado "Five days into the protocol"; Carol gravando no celular dela.
+
+---
+
 ## Blocos pendentes (aguardando prints)
-- Marketing Thesis — texto da seção 2 Edição (resumo, legenda, trilha); B-rolls já inventariados
-- Product Build-up
-- Big Offer
-- Close
+- Marketing Thesis — texto da seção 2 Edição (resumo, legenda, trilha)
+- Big Offer — seção 2 Edição + B-rolls
+- Close — produção, edição, B-rolls
