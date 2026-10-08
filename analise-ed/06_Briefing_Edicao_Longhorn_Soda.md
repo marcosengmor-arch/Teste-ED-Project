@@ -165,9 +165,10 @@ Convenções herdadas em todos os blocos:
   - **Dr. Peter Attia** — médico de apoio (entra para a RM e o piloto).
 
 ### 2. Edição
-- **Resumo:** Mestre. Três camadas por ponto lógico: documento na mesa + 3D/microscopia + rosto humano ou analogia doméstica. Guerreiro na conspiração.
-- **Legenda:** pequena; grande em títulos de infográfico ("97%", "14X", "$24 BILLION").
-- **Trilha sonora:** Intrigante/tensa na conspiração; neutra-didática na anatomia; sobe na ponte do touro.
+- **Resumo:** Muita prova, com trechos de 4 a 5 provas visuais seguidas para a mesma afirmação. É o bloco que a Jelly Fil aponta como fonte do poder de escala: aqui não se economiza prova. Três camadas por ponto lógico: documento na mesa + 3D/microscopia + rosto humano ou analogia doméstica.
+- **Legenda:** pequena; grande em títulos de infográfico ("97%", "14X", "$24 BILLION", "$700,000").
+- **Trilha sonora:** Melodia intrigante na abertura → beat meio sexy quando entra benefício/anatomia → tensão com batida de coração na conspiração (Bayer 1998, FDA, "video removed") e no relógio/ponto sem retorno → volta a subir, esperançosa, na ponte do touro. Trocar a trilha a cada ponto lógico, não a cada bloco.
+- **Tipos de B-roll (lista espelho da Jelly Fil):** cinematografia · cinematografia com IA · **jogando pesticida no pasto e na ração** · provas científicas (estudos) · 3D anatômico · prova jornalística (físico e digital, incluindo o recorte real do leilão) · top secret · provas confidenciais · homem broxa · prova de vídeo removido · **prova em formato de quadro de detetive** (cortiça, fotos, barbante: glifosato → Bayer → FDA → rancho) · pornô · prova de microscópio · prova dentro de livro médico/veterinário · soluções comuns · **mulher olhando outro** (flagra da câmera) · MUITA prova visual.
 - **Tipos de B-roll por ponto lógico:**
 
   **PL1 — Causa raiz / glifosato está em tudo**

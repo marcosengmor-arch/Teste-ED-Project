@@ -123,7 +123,10 @@ Fonte: prints do briefing de edição enviados pelo Marcos em 08/10/2026 (doc n�
 - Padrão de produção das testemunhas: ambiente doméstico "real" (estante, porta-retrato), lower-third com nome/cargo/período, rosto borrado quando a fonte é "protegida". Isso dá textura de documentário dentro do UGC.
 
 ### 2. Edição
-- Resumo / legenda / trilha: **(aguardando print do texto)**.
+- **Resumo:** Muita prova, uns trechos com até 4 ou 5 provas seguidas. "Deixam tudo extremamente visual, acredito que o poder de escala dessa VSL veio daqui."
+- **Legenda:** mesma ideia.
+- **Trilha sonora:** Melodia intrigante → muda para um beat (meio sexy) → em dado momento fica tenso, bate até um coração → muda bastante a trilha ao longo do bloco.
+- **Tipos de B-roll usados (lista do briefing):** cinematografia · cinematografia com IA · jogando pesticida nas comidas · provas científicas (estudos) · 3D anatômico · prova jornalística (físico e digital) · top secret · provas confidenciais · homem broxa · prova de vídeo removido · prova em formato de quadro de detetive · pornô · prova visual de microscópio · prova dentro de livro médico · soluções comuns · mulher traindo · MUITA prova visual.
 - **Inventário dos B-rolls da tese (5 grids, ~70 frames), em ordem de ponto lógico:**
 
   **PL1 — Causa raiz / glifosato está em tudo**
@@ -318,7 +321,7 @@ Fonte: prints do briefing de edição enviados pelo Marcos em 08/10/2026 (doc n�
 | Background | UGC | Expert | Intrigante | Pequena | Média | Palco, Stanford, fotos com avatar, microscópio, ligação |
 | Emotional | UGC | Avatar 1ª pessoa | Intrigante → triste | Pequena (grande só no pico vermelho) | Baixa | Fotos reais do casal, IA na cama, celular, broxada, café |
 | Discovery | UGC | Expert | Emocional | Pequena | Média | Mesa de estudo, Medline/Cochrane, dinheiro + farmas |
-| Thesis | UGC + testemunhas com lower-third | Expert + ex-FDA + ex-Pfizer | (texto não recebido) | Pequena; grande em títulos | Média-alta | Documento + marca-texto + post-it; 3D; split saudável/doente; memo 1998; "video removed"; urina; RM + régua; FDA 4x |
+| Thesis | UGC + testemunhas com lower-third | Expert + ex-FDA + ex-Pfizer | Intrigante → beat sexy → tenso com batida de coração; muda muito | Pequena; grande em títulos | Alta (4-5 provas seguidas) | Documento + marca-texto + post-it; 3D; split saudável/doente; memo 1998; "video removed"; urina; RM + régua; FDA 4x |
 | Build-up | UGC | Expert + avatar (2 cenários) + homem comum + médico de jaleco | Sexy | Pequena | Média | Pote na geladeira, fazenda com placa, telefone split, RM tela + papel, sala de espera, quadro branco |
 | Big Offer | UGC | Expert + homem comum borrado + 2 celebridades da lead | Sexy / épica | Pequena | Média-alta | Frasco com fumaça, registro/certificados/planilhas, homem e médico com o produto, AUA, FDA |
 | Close | UGC | Expert informal + Johnny Sins + avatar | Épica / sexy | Pequena | Média | Kits em 4 formas, frame da própria lead, capas dos bônus, Zoom, maca, broxa P&B |
@@ -334,8 +337,10 @@ Fonte: prints do briefing de edição enviados pelo Marcos em 08/10/2026 (doc n�
 8. Celebridades da lead voltam na oferta; o close cita a própria lead.
 9. Sexo explícito presente em todos os blocos exceto background e discovery.
 10. Legenda grande colorida só em pico de benefício/número/título; o resto é pequena branca inferior.
+11. **A tese é o bloco de maior densidade de prova** (até 4-5 provas visuais consecutivas para uma afirmação) e é apontada pelo próprio briefing como a provável fonte do poder de escala da VSL. Não economizar prova visual ali.
+12. **A trilha da tese não é estável:** intrigante → beat sexy → tensão com batida de coração. A música acompanha o ponto lógico (conspiração = tensão, benefício = sexy), não o bloco.
 
 ---
 
-## Pendente
-- Marketing Thesis — texto da seção 2 Edição (resumo, legenda, trilha). Inventário de B-rolls completo.
+## Status
+- Extração completa. Todos os blocos com produção, edição e B-rolls.
