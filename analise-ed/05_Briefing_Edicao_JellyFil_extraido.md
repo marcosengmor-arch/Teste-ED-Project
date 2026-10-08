@@ -123,14 +123,80 @@ Fonte: prints do briefing de edição enviados pelo Marcos em 08/10/2026 (doc n�
 - Padrão de produção das testemunhas: ambiente doméstico "real" (estante, porta-retrato), lower-third com nome/cargo/período, rosto borrado quando a fonte é "protegida". Isso dá textura de documentário dentro do UGC.
 
 ### 2. Edição
-- (aguardando print)
+- Resumo / legenda / trilha: **(aguardando print do texto)**.
+- **Inventário dos B-rolls da tese (5 grids, ~70 frames), em ordem de ponto lógico:**
+
+  **PL1 — Causa raiz / glifosato está em tudo**
+  - Homem grisalho com mão na testa, "It wasn't in stress"
+  - Galão amarelo de glifosato + Roundup + folha com anotações ("glyphosate")
+  - POV borrifando herbicida no quintal, "It's the most used herbicide"
+  - Infográfico limpo estilo paper: "In 2024, 97% of American food samples tested by the USDA… 97%" com ícones pão/aveia/cerveja/ração/leite/água e barras 97-99%
+  - Paper impresso "Prevalence of Glyphosate Residues… USDA Monitoring Study (2024)" com destaque 97%
+  - Mesa de cozinha: saco "CATTLE FEED 50 LB", pão, aveia, cerveja, leite, água e cartaz manuscrito "97% of samples contained glyphosate at detectable levels ✓Bread ✓Oats ✓Cattle ✓Milk ✓Tap Water" → **o saco de ração bovina já está no B-roll da Jelly Fil**
+  - 3D vermelho de vasos, "especially in the cavernous"
+
+  **PL1b — Conspiração Bayer / FDA**
+  - Capas Wall Street Journal "Bayer Faces $24 Billion in Combined Roundup Settlements as Cases Multiply" (3 variações: WSJ, The Journal, com Roundup e martelo)
+  - Paper "The 1992 FDA Approval of Glyphosate for Household Use" com tabela "The eleven dissenting scientists" (coluna "Terminated")
+  - Paper "Regulatory Dissent and Retaliation: A Case Study of Glyphosate Approval for Household Use"
+  - Pasta de arquivo com fita vermelha "zero four beta" → documento "CONFIDENTIAL" com trecho em marca-texto amarelo: "Effects on cavernous tissue collagen integrity observed at 6-month chronic exposure. Recommend monitoring but no public communication. Litigation risk if positioned as androgenic side-effect." → "Bayer AG · Confidential Internal Memo 04-BETA" datado 1998 ("They knew in 1998", "and decided not to communicate")
+  - Lobby da Pfizer "in $8,700,000 million"; mãos com dinheiro "to keep not working"
+  - Telas de **"Video removed"** (Instagram "This video has been censored"; Facebook "Video removed… goes against our Community Standards" / "14 times across")
+
+  **PL2 — Impossível fugir / Bill Gates**
+  - Quadro de cortiça com mapa CDC "Lone Star tick detected in 53 states" + alpha-gal (jornais Daily Sentinel, Daily Herald, "BREAKING") → analogia de contaminação inevitável
+  - Infográficos "Gates funds companies whose products contain significantly higher glyphosate levels", "Bill Gates $11.4 billion investment portfolio since 2022", Beyond Meat / Impossible Foods, Gates com raios vermelhos "He profits on both sides"
+  - SEC Form 10-K da Beyond Meat "It's in Beyond Meat's 10-K"; memo "BURIED" com post-it "this is the link the industry was burying"
+
+  **PL3 — Anatomia / colágeno tipo 3**
+  - Pornô POV "inside your penis?"
+  - 3D de tubos/vasos "Inside, the penis has a structure"
+  - Papers Journal of Urology 1993 "Type III Collagen in the Human Urinary Bladder" com lâminas roxas/rosa e anotações manuscritas em post-it ("1993 – first quantitative assay for type III collagen in urology")
+  - 3D anatômico de corte transversal do pênis "Normal Corpora Cavernosa" vs "Type 3 Collagen Accumulation", seta vermelha "Type three collagen"
+  - Microscópio real "type IV collagen"; fluorescência verde "Glyphosate binding to Type III Collagen (40x)"
+
+  **PL4-5 — Glifosato destrói tipo 3 / fibrose**
+  - Revista "Endocrine Reviews 1998: Glyphosate Interactions with Extracellular Matrix Proteins" com gráfico de barras e anotações
+  - Fluorescência "three collagen is 14 times"; time-lapse microscópico "Binding occurs 14x more easily" com TIME 00:00 → 05:00 e gráfico
+  - 3D corte transversal "that holds your erection"
+  - Lâminas "Healthy type three collagen" (ondulado rosa) vs tecido escurecido
+  - "what looks like tissue", "another type of collagen" (observação em fluorescência com timestamps 0:00 / 12:30 / 18:15)
+
+  **PL6-7 — Colágeno tipo 1 / placa tóxica / cimento**
+  - Diagrama "Type II collagen… your body uses to close"; cicatriz 3D "your body uses to seal deep cuts"
+  - Quadro de cortiça "Bayer didn't poison you once. It poisoned you systematically, meal by meal, for decades." + "Moreland 2000"
+  - Homem grisalho com mãos na cabeça "still in the middle of your dick"
+  - Série de ilustrações médicas estilo atlas: "Toxic Plaques: Hardened Deposits of Type I Collagen Over the Cavernous Tissue" (4 variações de corte transversal com depósito amarelo), "is toxic plaque", "occupying space"
+  - Analogia da mangueira: mangueira verde jorrando "swells, sustains" vs mangueira ressecada enrolada no chão "The green rubber turned"
+  - Split-screen tecido saudável (rosa) vs fibrótico (amarelo/ocre): "Look again.", "That's what folded.", "what stayed limp in her palm."
+  - Corte 3D "turned into hardened scar", "over the last 30 years"
+
+  **PL8 — Por isso nada funcionou**
+  - Caderno com desenho "Peyronie's plaque / tunica albuginea fibrosis, PDE5i" e pílula azul: "Viagra doesn't dissolve the scar"
+  - Frasco de testosterona + seringa + protocolo: "TRT doesn't either"
+  - Estande "Bayer Monsanto 2018" com Roundup e sementes; cartaz "TWENTY-FOUR BILLION DOLLARS already spent silencing cancer lawsuits… BLOOD"
+
+  **PL9 — Ponto sem retorno / tempo**
+  - Mulher com fita métrica (régua de pedreiro) "not to get up for 30 years"
+  - Split-screen tecido saudável vs placa "how much time", "due to toxic plaque deposits"
+
+- **Padrões de edição da tese observados:**
+  1. Cada ponto lógico tem **três camadas visuais**: (a) documento "real" fotografado na mesa (paper, revista, jornal, memo com marca-texto e post-it), (b) 3D anatômico ou microscopia, (c) rosto humano sofrendo (homem grisalho, mão na testa) ou analogia doméstica (mangueira, quintal).
+  2. **Papers e jornais são fabricados em estilo editorial real** (WSJ, Journal of Urology, Endocrine Reviews, SEC 10-K) e sempre aparecem com marca-texto amarelo + anotação à mão. A anotação à mão é o que faz parecer "a mesa do expert".
+  3. **Memorando confidencial** com carimbo vermelho, trecho destacado e data é a prova conspiratória mais repetida (4 frames).
+  4. **Split-screen saudável vs doente** é o recurso para a placa tóxica e para "por isso nada funcionou" (6 frames).
+  5. **Telas de "Video removed"** (Instagram e Facebook) funcionam como prova de censura dentro da tese.
+  6. **Analogia visual literal** da copy: mangueira verde vs ressecada; fita métrica; cicatriz.
+  7. Legenda pequena branca inferior em quase tudo; grande colorida só em títulos de infográfico.
+
+→ **Para a Longhorn Soda (tese):** manter as três camadas e a gramática "documento + marca-texto + post-it". Substituições: galão de glifosato borrifado no **pasto/cerca de rancho**; o saco "CATTLE FEED 50 LB" (já existe na Jelly Fil) ganha ao lado um **saco de bicarbonato de sódio 50 LB** e um rótulo real de tampão ruminal; memo Bayer 1998 mantido; WSJ US$24 bi mantido; "Video removed" mantido; Bill Gates/Lone Star tick podem sair (decorativos, lente 7 do relatório 01) ou virar "o glifosato no mato do Texas"; 3D da esponja/cimento mantido; **split-screen novo: touro Longhorn de 18 anos cobrindo vaca vs homem de 50 de costas na cama**; analogia da mangueira vira **couro de sela novo vs ressecado** ou mantém a mangueira (rural também); fita métrica mantida; cartaz "TWENTY-FOUR BILLION" mantido. Adicionar: recorte de jornal real do leilão "Longhorn sells for $700,000 in Fort Worth" na mesma gramática de jornal fotografado.
 
 → **Para a Longhorn Soda (tese):** Huberman em fundo claro; ex-cientista da FDA mantido com lower-third igual; ex-diretor de marketing farmacêutico com rosto borrado mantido; **novo:** veterinário de gado em UGC no curral com lower-third "DVM · 18 anos em ranchos do Hill Country" e **rancheiro velho** no galpão ao lado do saco de bicarbonato. Os dois rurais entram com a mesma gramática documental (nome, cargo, período).
 
 ---
 
 ## Blocos pendentes (aguardando prints)
-- Marketing Thesis — seção 2 Edição (resumo, legenda, trilha, B-rolls)
+- Marketing Thesis — texto da seção 2 Edição (resumo, legenda, trilha); B-rolls já inventariados
 - Product Build-up
 - Big Offer
 - Close
