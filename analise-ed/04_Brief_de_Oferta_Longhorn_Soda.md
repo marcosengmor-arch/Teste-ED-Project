@@ -1,6 +1,6 @@
 ***Pesquisa – Longhorn Soda (ED · bicarbonato · touro Longhorn · Texas)***
 
-Versão v1 · 08/10/2026 · Base: Soda Horse Peak (estrutura), Jelly Fil (pique de edição), Steel Power (lead de medo), decisões fechadas em conversa.
+Versão v2 (final para copy) · 08/10/2026 · Base: Soda Horse Peak (estrutura), Jelly Fil (pique de edição, briefing 05/06), Steel Power (lead de medo), decisões fechadas em conversa.
 Legenda: `[VALIDADO]` está em 2+ VSLs do corpus · `[NOVO]` decisão desta oferta · `[VERIFICAR]` fato externo não confirmado em fonte primária.
 
 ---
@@ -258,6 +258,27 @@ Ordem dos blocos: micro-lead (Julia Ann) → lead (Huberman) → background (Hub
 - **Close:** viral → cronômetro → kits (empurrão de 6 pelo mecanismo) → bônus → garantia → Tyson "duas opções" → dois caminhos → "ou você é o cara certo, ou não" → empilhamento → FOMO → future pace → três razões (lógica, mecânica, identidade: "esse homem não morreu, está enterrado sob 30 anos de cimento; torne-se ele novamente").
 - **FAQ cômico texano** (6 perguntas, padrão Max/Steel): "comecei há 3 dias e já cresceu, é normal?"; "tenho 68 e estou 2x por dia"; "dobrei a dose"; "chegou em 1 dia"; "o presente surpresa"; "minha esposa não me deixa ir trabalhar".
 - **Entrega:** 72h, embalagem e fatura sem nome.
+
+## Ajustes para a copy vindos do briefing de edição (v2)
+
+O briefing de edição da Jelly Fil (05) e a versão Longhorn (06) impõem regras que a copy precisa respeitar para a edição funcionar. Quem escrever a VSL segue estas:
+
+1. **Escrever para imagem literal.** Cada frase da copy vira um plano. Frases abstratas não têm B-roll. Preferir "ela puxou o lençol até o ombro" a "ela se afastou".
+2. **Tese com 4 a 5 provas seguidas por ponto lógico.** O briefing aponta a densidade de prova da tese como a fonte de escala da Jelly Fil. A copy deve entregar, para cada afirmação da tese, pelo menos: um documento citável (paper, jornal, memo), um número, uma analogia doméstica e um "olhe para isto" (3D, exame, split). Não resumir a tese.
+3. **Plantar o galpão três vezes.** O saco de bicarbonato aparece na emotional (camp, com a frase "guarde esse detalhe do galpão"), na tese (mesa de cozinha com a ração) e no MUS (rancheiro no cocho). A copy precisa das três menções, com payoff explícito na discovery ("Mike, você me disse que viu um saco de bicarbonato nesse galpão").
+4. **Nomear os 4 verbos em tela.** DISSOLVER · RECONSTRUIR · PROTEGER · REATIVAR são títulos de legenda grande. A copy deve dizer cada verbo isolado, em frase curta, antes de explicar o ingrediente.
+5. **Antes/depois em dupla, nomeado.** Toda vez que a copy citar resultado, citar exame com % e régua com decimais para o mesmo voluntário, com nome do piloto e ano ("Voluntário 22, Piloto Longhorn 2025: 5,63 → 8,46 polegadas").
+6. **Fonte com endereço.** O rancho tem nome, ano de fundação e dono. A copy dá os três na primeira menção.
+7. **Testemunhas com cargo e período.** Ex-cientista da FDA (1989-2003), ex-diretor de marketing farmacêutico (2007-2021), veterinário (18 anos, Hill Country), rancheiro (criador desde 1987). A copy apresenta cada um assim.
+8. **Reinserir medo na tese.** No meio da parte técnica, uma frase que traga de volta a câmera da cozinha ou o olhar dela para o peão. Sem isso o flagra não tem onde entrar.
+9. **Reinserir dor antes do CTA final.** O close termina com uma frase de homem broxa (P&B na edição) antes do botão verde.
+10. **Citar a própria lead no close.** "Este vídeo passou de 5 milhões de views" com referência à cena de abertura.
+11. **Fechar o loop do vídeo.** Se a micro-lead promete vídeo no final, o close entrega algo nomeado como esse vídeo.
+12. **"Boi vs touro".** A linha "te transformaram em boi antes de você virar touro" entra na tese (PL6-7) e volta no close como identidade.
+13. **"Não é bovino" reescrito** em áudio e legenda: "não é o colágeno bovino de confinamento que vendem em pote para ruga; é de tendão de touro Longhorn criado solto".
+14. **Trilha segue o ponto lógico.** A copy marca, por bloco, onde a emoção vira (conspiração = tensão; benefício = sexy; ponte do touro = esperança) para o editor trocar a trilha no lugar certo.
+15. **FAQ de 6 perguntas** com cidades texanas, tom cômico, fechando com CTA.
+16. **Confissão do Huberman com o conteúdo real dele** (banho gelado, sol da manhã, frio na virilha), e callback dela no "por isso nada funcionou" da tese.
 
 ## Pendências e decisões em aberto
 
