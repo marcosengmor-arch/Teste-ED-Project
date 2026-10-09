@@ -1,6 +1,6 @@
 {
   "titulo": "EXEMPLO VSL — Transcrição EN + Tradução PT-BR + Prints",
-  "fonte": "Fonte: VSL EXEMPLO.mp4 (0:12, 640x360). Transcrição: AssemblyAI (speaker labels). Tradução fiel: nomes, marcas, valores em dólares, libras e referências dos EUA mantidos exatamente como falados.",
+  "fonte": "Fonte: VSL EXEMPLO.mp4 (0:12, 640x360). Transcrição: AssemblyAI (speaker labels). Tradução adaptada (Fase 5): números por extenso, nomes, moeda com preço psicológico, medidas e referências culturais adaptados ao mercado de destino; log completo em NOTAS DE ADAPTAÇÃO.",
   "nota_prints": "Timing: cada mini-bloco traz o intervalo de tempo x → y em que aquela fala acontece no vídeo. Prints: 3 frames dos momentos mais importantes, nomeados bNN_descricao_HH-MM-SS.jpg na pasta frames/.",
   "falantes": ["NARRADOR", "MARIA"],
   "frames_dir": "VSL-Pipeline-EXEMPLO/frames",
@@ -16,7 +16,7 @@
             {"ts": "0:03", "legenda": "Barra de cores com contador em 3 s", "arquivo": "b01_barra_cores_contador_00-00-03.jpg"}
           ],
           "falas": [
-            {"falante": "NARRADOR", "en": "If you're over 60, pay attention.", "pt": "Se você tem mais de 60 anos, preste atenção."}
+            {"falante": "NARRADOR", "en": "If you're over 60, pay attention.", "pt": "Se você tem mais de sessenta anos, preste atenção."}
           ]
         }
       ]
@@ -30,12 +30,19 @@
             {"ts": "0:08", "legenda": "Contador em 8 s (depoimento)", "arquivo": "b02_contador_8s_depoimento_00-00-08.jpg"}
           ],
           "falas": [
-            {"falante": "MARIA", "en": "My name is Mary and I suffered with this for 20 years.", "pt": "Meu nome é Mary e eu sofri com isso por 20 anos."},
+            {"falante": "MARIA", "en": "My name is Mary and I suffered with this for 20 years.", "pt": "Meu nome é Maria e eu sofri com isso por vinte anos."},
             {"falante": "NARRADOR", "en": "Wow.", "pt": "Uau."}
           ]
         }
       ]
     }
   ],
-  "notas": {}
+  "notas": {
+    "adaptacoes_culturais": [],
+    "personagens_renomeados": ["Mary → Maria"],
+    "conversoes": [],
+    "duvidas": [],
+    "correcoes_asr": [],
+    "inconsistencias": []
+  }
 }

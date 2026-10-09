@@ -38,7 +38,7 @@ Para baixar VSL por link (YouTube etc.), aí sim liberar o domínio do vídeo em
 | 2 Áudio | `audio_vsl.mp3` 128k | script | `vsl.py audio VIDEO --name NOME` |
 | 3 Transcrição | AssemblyAI **com diarização** → `transcricao_raw.json`, `segments.json`, `transcricao.md` | script | `vsl.py transcribe --name NOME --lang en\|pt` |
 | 4 Falantes + blocos | A/B/C → papéis reais; blocos e mini-blocos com timestamps | Claude | lê `transcricao.md` |
-| 5 Tradução | fiel (estudo) ou adaptada (produção, regras do PROMPT) | Claude | escreve `doc.json` |
+| 5 Tradução | **adaptada** (regras do PROMPT: números por extenso, nomes, moeda psicológica, medidas, cultura) + NOTAS DE ADAPTAÇÃO no fim | Claude | escreve `doc.json` |
 | 6 Frames | prévia automática (`frames` sem `--doc`), contact sheet (`sheet`) para legendar olhando, depois extração final pelos nomes do `doc.json` (`frames --doc`) | script + Claude | `vsl.py frames VIDEO --name NOME [--doc doc.json]` · `vsl.py sheet --name NOME` |
 | 7 Doc | `.docx` no layout do modelo (`MODELO.md`); upload ao Drive "Transcrições VSL" | script + Claude | `vsl.py docx --name NOME` |
 | 8 Verificação | contagens, ordem de timestamps, prints dentro do intervalo, arquivos, nomes | script + Claude | `vsl.py verify --name NOME` |

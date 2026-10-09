@@ -362,8 +362,9 @@ def cmd_docx(a):
             for f in mb["falas"]:
                 fala(f, "pt")
 
-    notas = d.get("notas") or {}
-    if any(notas.values()):
+    # Notas de adaptação (Fase 5 do PROMPT): sempre presentes, salvo tradução fiel
+    notas = d.get("notas")
+    if notas is not None:
         doc.add_page_break()
         doc.add_heading("NOTAS DE ADAPTAÇÃO", level=1)
         for titulo, chave in (("Adaptações culturais", "adaptacoes_culturais"),
@@ -372,10 +373,12 @@ def cmd_docx(a):
                               ("Pontos com dúvida [?? ??]", "duvidas"),
                               ("Erros de transcrição corrigidos", "correcoes_asr"),
                               ("Inconsistências no original", "inconsistencias")):
-            if notas.get(chave):
-                doc.add_heading(titulo, level=2)
-                for it in notas[chave]:
-                    doc.add_paragraph(it, style="List Bullet")
+            doc.add_heading(titulo, level=2)
+            itens = notas.get(chave) or []
+            if not itens:
+                doc.add_paragraph("Nenhuma.")
+            for it in itens:
+                doc.add_paragraph(it, style="List Bullet")
 
     out = w / d.get("arquivo_saida", f"{a.name}_VSL__Transcricao_EN__Traducao_PTBR__Prints.docx")
     doc.save(out)

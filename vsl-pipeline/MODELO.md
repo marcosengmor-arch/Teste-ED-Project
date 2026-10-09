@@ -42,12 +42,20 @@ Heading 2 e **antes** das falas:
   personagens, produto, oferta/preços, antes/depois, demos, CTA. Densidade do modelo: ~2,4 prints/min.
 - Legenda em PT-BR descrevendo só o que aparece no frame; lettering e marcas em EN-US entre aspas.
 
-## Tradução (como está no modelo)
-"Tradução fiel: nomes, marcas, valores em dólares, libras e referências dos EUA mantidos
-exatamente como falados." Ou seja, o modelo é material de **estudo/modelagem**, sem
-localização. As regras de adaptação da Fase 5 do PROMPT (nomes, moeda, medidas) só entram
-quando o pedido for uma VSL para **produzir** em outro mercado; nesse caso a seção
-NOTAS DE ADAPTAÇÃO é incluída no final (o montador só a gera se `notas` tiver conteúdo).
+## Tradução (decisão do Marcos: adaptar, sempre)
+O doc-modelo usava tradução fiel (nomes e valores dos EUA mantidos). **O padrão do pipeline
+é a Fase 5 do PROMPT**: números por extenso, nomes adaptados e consistentes (Mary → Maria do
+início ao fim), moeda com preço psicológico ($97 → R$ 497), medidas convertidas (lb → kg,
+°F → °C), referências culturais equivalentes (autoridade como Harvard: manter), gírias por
+equivalente cultural, comentários de editor em português, nada melhorado/cortado/adicionado.
+Todo ajuste entra no log e o doc termina com a seção **NOTAS DE ADAPTAÇÃO** (adaptações
+culturais, personagens renomeados, conversões, dúvidas [?? ??], correções de ASR,
+inconsistências do original). A Parte 1 preserva o original em inglês. Só gerar tradução
+fiel se o pedido disser isso explicitamente (então `notas` = null no doc.json).
+
+## Imagens
+Como no exemplo: largura 2,35 pol, altura pela proporção do vídeo. É material de referência;
+não escalar para vídeos horizontais.
 
 ## doc.json (o que o Claude produz nas Fases 4–5)
 Ver `doc.exemplo.json`: `titulo`, `fonte`, `nota_prints`, `falantes`, `frames_dir`,
