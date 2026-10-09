@@ -171,13 +171,14 @@ def cmd_transcribe(a):
 
 
 # ---------- fase 6: frames ----------
-def extract_frame(video, sec, out):
+def extract_frame(video, sec, out, scale=None):
+    vf = ["-vf", f"scale={scale}:-2"] if scale else []
     for delta in (0, -2, 2):
         t = sec + delta
         if t < 0:
             continue
         r = subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-ss", str(t), "-i", video,
-                            "-frames:v", "1", "-q:v", "2", str(out)], capture_output=True)
+                            "-frames:v", "1", *vf, "-q:v", "3", str(out)], capture_output=True)
         if r.returncode == 0 and out.is_file() and out.stat().st_size > 0:
             return t
     return None
@@ -214,7 +215,7 @@ def cmd_frames(a):
                     sec = ts_to_sec(pr["ts"])
                     if sec >= total:
                         missing.append(pr["arquivo"]); continue
-                    if extract_frame(a.video, sec, fdir / pr["arquivo"]) is None:
+                    if extract_frame(a.video, sec, fdir / pr["arquivo"], a.scale) is None:
                         missing.append(pr["arquivo"])
                     else:
                         done += 1
@@ -226,7 +227,7 @@ def cmd_frames(a):
         index = {}
         for sec in auto_timestamps(segments, a.every, a.extra, total):
             out = fdir / f"auto_{ts_file(sec)}.jpg"
-            got = extract_frame(a.video, sec, out)
+            got = extract_frame(a.video, sec, out, a.scale)
             index[ts_doc(sec)] = None if got is None else str(out)
             if got is None:
                 missing.append(ts_doc(sec))
@@ -317,6 +318,8 @@ def cmd_docx(a):
     small(d["fonte"])
     small(d["nota_prints"])
     small("Falantes: " + " · ".join(d["falantes"]), italic=False)
+    if d.get("correcoes_asr"):
+        small("Correções de transcrição (ASR): " + d["correcoes_asr"])
 
     doc.add_heading(f"Estrutura da VSL ({len(d['blocos'])} blocos)", level=1)
     for b in d["blocos"]:
@@ -456,7 +459,9 @@ def main():
     s.set_defaults(fn=cmd_transcribe)
     s = sub.add_parser("frames"); s.add_argument("video"); s.add_argument("--name", required=True)
     s.add_argument("--doc"); s.add_argument("--every", type=int, default=60)
-    s.add_argument("--extra", nargs="*", default=[]); s.set_defaults(fn=cmd_frames)
+    s.add_argument("--extra", nargs="*", default=[])
+    s.add_argument("--scale", type=int, help="largura em px dos frames finais (ex.: 540 para docx leve)")
+    s.set_defaults(fn=cmd_frames)
     s = sub.add_parser("sheet"); s.add_argument("--name", required=True)
     s.add_argument("--cols", type=int, default=4); s.add_argument("--rows", type=int, default=5)
     s.set_defaults(fn=cmd_sheet)
