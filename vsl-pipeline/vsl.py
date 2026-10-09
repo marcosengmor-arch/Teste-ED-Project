@@ -14,7 +14,7 @@ Subcomandos:
   check                                   testa chave + acesso à AssemblyAI
   prep   VIDEO --name N                   pasta VSL-Pipeline-N/, duração, resolução
   audio  VIDEO --name N                   audio_vsl.mp3 128k
-  transcribe --name N [--lang en|pt]      AssemblyAI com speaker_labels
+  transcribe --name N [--lang en|pt] [--audio-url URL]   AssemblyAI com speaker_labels
   frames VIDEO --name N [--every 60] [--extra ...]   prévia automática (troca de falante + cada N s)
   frames VIDEO --name N --doc doc.json    extrai os prints declarados no doc.json (nome bNN_desc_HH-MM-SS.jpg)
   sheet  --name N [--cols 4]              contact sheets dos frames para legendar olhando
@@ -132,14 +132,18 @@ def cmd_transcribe(a):
     import requests
     h = headers()
     w = work(a.name)
-    audio = w / "audio_vsl.mp3"
-    if not audio.is_file():
-        sys.exit(f"{audio} não existe. Rode `audio` antes.")
-    with open(audio, "rb") as f:
-        up = requests.post(f"{AAI}/upload", headers=h, data=f, timeout=900)
-    up.raise_for_status()
+    if a.audio_url:
+        audio_url = a.audio_url          # URL pública (ex.: download direto do Drive)
+    else:
+        audio = w / "audio_vsl.mp3"
+        if not audio.is_file():
+            sys.exit(f"{audio} não existe. Rode `audio` antes.")
+        with open(audio, "rb") as f:
+            up = requests.post(f"{AAI}/upload", headers=h, data=f, timeout=900)
+        up.raise_for_status()
+        audio_url = up.json()["upload_url"]
     j = requests.post(f"{AAI}/transcript", headers=h, timeout=60, json={
-        "audio_url": up.json()["upload_url"], "language_code": a.lang,
+        "audio_url": audio_url, "language_code": a.lang,
         "speaker_labels": True, "punctuate": True, "format_text": True})
     j.raise_for_status()
     tid = j.json()["id"]
@@ -447,7 +451,9 @@ def main():
         s = sub.add_parser(name); s.add_argument("video"); s.add_argument("--name", required=True)
         s.set_defaults(fn=fn)
     s = sub.add_parser("transcribe"); s.add_argument("--name", required=True)
-    s.add_argument("--lang", default="en"); s.set_defaults(fn=cmd_transcribe)
+    s.add_argument("--lang", default="en")
+    s.add_argument("--audio-url", help="URL pública do áudio/vídeo em vez de upload")
+    s.set_defaults(fn=cmd_transcribe)
     s = sub.add_parser("frames"); s.add_argument("video"); s.add_argument("--name", required=True)
     s.add_argument("--doc"); s.add_argument("--every", type=int, default=60)
     s.add_argument("--extra", nargs="*", default=[]); s.set_defaults(fn=cmd_frames)
