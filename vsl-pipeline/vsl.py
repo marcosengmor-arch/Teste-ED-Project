@@ -362,9 +362,9 @@ def cmd_docx(a):
             for f in mb["falas"]:
                 fala(f, "pt")
 
-    # Notas de adaptação (Fase 5 do PROMPT): sempre presentes, salvo tradução fiel
+    # Tradução fiel (padrão): sem notas. Só gera a seção se `notas` vier no doc.json
     notas = d.get("notas")
-    if notas is not None:
+    if notas:
         doc.add_page_break()
         doc.add_heading("NOTAS DE ADAPTAÇÃO", level=1)
         for titulo, chave in (("Adaptações culturais", "adaptacoes_culturais"),
