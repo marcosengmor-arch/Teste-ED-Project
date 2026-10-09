@@ -1,0 +1,41 @@
+{
+  "projeto": "EXEMPLO",
+  "direcao": "EN → PT",
+  "mercado": "Brasil",
+  "duracao": "00:10",
+  "falantes": ["NARRADOR", "MARIA (depoimento)"],
+  "incluir_original": true,
+  "blocos": [
+    {
+      "emoji": "🎣",
+      "nome": "GANCHO",
+      "ts_inicio": "00:00",
+      "ts_fim": "00:10",
+      "segmentos": [
+        {
+          "falante": "NARRADOR",
+          "timestamp": "00:00",
+          "frame_path": "VSL-Pipeline-EXEMPLO/frames/frame_0000.jpg",
+          "texto_traduzido": "Se você tem mais de sessenta anos, preste atenção.",
+          "texto_original": "If you're over 60, pay attention.",
+          "comentario_editor": "[B-ROLL: homem na cozinha olhando pro espelho]"
+        },
+        {
+          "falante": "MARIA (depoimento)",
+          "timestamp": "00:05",
+          "frame_path": "VSL-Pipeline-EXEMPLO/frames/frame_0005.jpg",
+          "texto_traduzido": "Meu nome é Maria e eu sofria com isso há vinte anos.",
+          "texto_original": "My name is Mary and I suffered with this for 20 years."
+        }
+      ]
+    }
+  ],
+  "notas": {
+    "adaptacoes_culturais": [],
+    "personagens_renomeados": ["Mary → Maria"],
+    "conversoes": [],
+    "duvidas": [],
+    "correcoes_asr": [],
+    "inconsistencias": []
+  }
+}
