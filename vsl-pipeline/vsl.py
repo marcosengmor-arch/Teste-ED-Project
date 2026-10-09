@@ -180,6 +180,9 @@ def extract_frame(video, sec, out, scale=None):
         r = subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-ss", str(t), "-i", video,
                             "-frames:v", "1", *vf, "-q:v", "3", str(out)], capture_output=True)
         if r.returncode == 0 and out.is_file() and out.stat().st_size > 0:
+            # ffmpeg grava JPEG sem cabeçalho JFIF; python-docx exige JFIF/Exif → regrava via PIL
+            from PIL import Image
+            Image.open(out).convert("RGB").save(out, "JPEG", quality=88)
             return t
     return None
 
