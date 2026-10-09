@@ -1,41 +1,41 @@
 {
-  "projeto": "EXEMPLO",
-  "direcao": "EN → PT",
-  "mercado": "Brasil",
-  "duracao": "00:10",
-  "falantes": ["NARRADOR", "MARIA (depoimento)"],
-  "incluir_original": true,
+  "titulo": "EXEMPLO VSL — Transcrição EN + Tradução PT-BR + Prints",
+  "fonte": "Fonte: VSL EXEMPLO.mp4 (0:12, 640x360). Transcrição: AssemblyAI (speaker labels). Tradução fiel: nomes, marcas, valores em dólares, libras e referências dos EUA mantidos exatamente como falados.",
+  "nota_prints": "Timing: cada mini-bloco traz o intervalo de tempo x → y em que aquela fala acontece no vídeo. Prints: 3 frames dos momentos mais importantes, nomeados bNN_descricao_HH-MM-SS.jpg na pasta frames/.",
+  "falantes": ["NARRADOR", "MARIA"],
+  "frames_dir": "VSL-Pipeline-EXEMPLO/frames",
+  "img_width_in": 2.35,
   "blocos": [
     {
-      "emoji": "🎣",
-      "nome": "GANCHO",
-      "ts_inicio": "00:00",
-      "ts_fim": "00:10",
-      "segmentos": [
+      "n": 1, "titulo": "LEAD / GANCHO (abertura)", "inicio": "0:00", "fim": "0:06",
+      "mini": [
         {
-          "falante": "NARRADOR",
-          "timestamp": "00:00",
-          "frame_path": "VSL-Pipeline-EXEMPLO/frames/frame_0000.jpg",
-          "texto_traduzido": "Se você tem mais de sessenta anos, preste atenção.",
-          "texto_original": "If you're over 60, pay attention.",
-          "comentario_editor": "[B-ROLL: homem na cozinha olhando pro espelho]"
-        },
+          "inicio": "0:00", "fim": "0:06",
+          "prints": [
+            {"ts": "0:00", "legenda": "Abertura: padrão de teste colorido com relógio", "arquivo": "b01_abertura_padrao_teste_00-00-00.jpg"},
+            {"ts": "0:03", "legenda": "Barra de cores com contador em 3 s", "arquivo": "b01_barra_cores_contador_00-00-03.jpg"}
+          ],
+          "falas": [
+            {"falante": "NARRADOR", "en": "If you're over 60, pay attention.", "pt": "Se você tem mais de 60 anos, preste atenção."}
+          ]
+        }
+      ]
+    },
+    {
+      "n": 2, "titulo": "DEPOIMENTO: Maria", "inicio": "0:06", "fim": "0:12",
+      "mini": [
         {
-          "falante": "MARIA (depoimento)",
-          "timestamp": "00:05",
-          "frame_path": "VSL-Pipeline-EXEMPLO/frames/frame_0005.jpg",
-          "texto_traduzido": "Meu nome é Maria e eu sofria com isso há vinte anos.",
-          "texto_original": "My name is Mary and I suffered with this for 20 years."
+          "inicio": "0:06", "fim": "0:12",
+          "prints": [
+            {"ts": "0:08", "legenda": "Contador em 8 s (depoimento)", "arquivo": "b02_contador_8s_depoimento_00-00-08.jpg"}
+          ],
+          "falas": [
+            {"falante": "MARIA", "en": "My name is Mary and I suffered with this for 20 years.", "pt": "Meu nome é Mary e eu sofri com isso por 20 anos."},
+            {"falante": "NARRADOR", "en": "Wow.", "pt": "Uau."}
+          ]
         }
       ]
     }
   ],
-  "notas": {
-    "adaptacoes_culturais": [],
-    "personagens_renomeados": ["Mary → Maria"],
-    "conversoes": [],
-    "duvidas": [],
-    "correcoes_asr": [],
-    "inconsistencias": []
-  }
+  "notas": {}
 }

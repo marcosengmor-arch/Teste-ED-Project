@@ -34,18 +34,17 @@ Para baixar VSL por link (YouTube etc.), aí sim liberar o domínio do vídeo em
 
 | Fase | O que | Quem | Comando |
 |---|---|---|---|
-| 1 Preparação | pasta `VSL-Pipeline-NOME/`, duração | script | `vsl.py prep VIDEO --name NOME` |
+| 1 Preparação | pasta `VSL-Pipeline-NOME/`, duração, resolução | script | `vsl.py prep VIDEO --name NOME` |
 | 2 Áudio | `audio_vsl.mp3` 128k | script | `vsl.py audio VIDEO --name NOME` |
-| 3 Transcrição | AssemblyAI **com diarização** (`speaker_labels`) → `transcricao_raw.json`, `segments.json`, `transcricao.md` | script | `vsl.py transcribe --name NOME --lang en\|pt` |
-| 4 Falantes + blocos | mapear A/B/C → NARRADOR, depoimento, médico; blocos da VSL | Claude | lê `transcricao.md` |
-| 5 Tradução | regras do prompt (números por extenso, moeda psicológica, nomes, gírias, log de adaptações) | Claude | escreve `doc.json` |
-| 6 Frames | troca de falante + a cada 60 s + extras (início de bloco, [B-ROLL]); fallback ±2 s | script | `vsl.py frames VIDEO --name NOME --extra 00:05:00 ...` |
-| 7 Doc | `.docx` no layout do prompt + notas de adaptação; upload ao Drive ("Transcrições VSL") | script + Claude | `vsl.py docx --name NOME` |
-| 8 Verificação | checklist do prompt | Claude | — |
+| 3 Transcrição | AssemblyAI **com diarização** → `transcricao_raw.json`, `segments.json`, `transcricao.md` | script | `vsl.py transcribe --name NOME --lang en\|pt` |
+| 4 Falantes + blocos | A/B/C → papéis reais; blocos e mini-blocos com timestamps | Claude | lê `transcricao.md` |
+| 5 Tradução | fiel (estudo) ou adaptada (produção, regras do PROMPT) | Claude | escreve `doc.json` |
+| 6 Frames | prévia automática (`frames` sem `--doc`), contact sheet (`sheet`) para legendar olhando, depois extração final pelos nomes do `doc.json` (`frames --doc`) | script + Claude | `vsl.py frames VIDEO --name NOME [--doc doc.json]` · `vsl.py sheet --name NOME` |
+| 7 Doc | `.docx` no layout do modelo (`MODELO.md`); upload ao Drive "Transcrições VSL" | script + Claude | `vsl.py docx --name NOME` |
+| 8 Verificação | contagens, ordem de timestamps, prints dentro do intervalo, arquivos, nomes | script + Claude | `vsl.py verify --name NOME` |
 
-`doc.exemplo.json` mostra o formato que a Fase 5 produz e a Fase 7 consome
-(blocos → segmentos com falante, timestamp, frame, tradução, original,
-comentário de editor; mais as notas finais).
+`doc.exemplo.json` mostra o formato que as Fases 4–5 produzem e a Fase 7 consome.
+`MODELO.md` descreve o layout exato do doc de referência.
 
 ## Modos
 
