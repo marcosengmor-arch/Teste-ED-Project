@@ -1,4 +1,4 @@
-***Pesquisa – Longhorn Soda (ED · bicarbonato · touro Longhorn · Texas)***
+***Pesquisa – SodaFil / Bull Soda Trick (ED · bicarbonato · touro Longhorn · Texas)***
 
 Versão v2 (final para copy) · 08/10/2026 · Base: Soda Horse Peak (estrutura), Jelly Fil (pique de edição, briefing 05/06), Steel Power (lead de medo), decisões fechadas em conversa.
 Legenda: `[VALIDADO]` está em 2+ VSLs do corpus · `[NOVO]` decisão desta oferta · `[VERIFICAR]` fato externo não confirmado em fonte primária.
@@ -9,7 +9,7 @@ Legenda: `[VALIDADO]` está em 2+ VSLs do corpus · `[NOVO]` decisão desta ofer
 
 ## Contexto Geral da Oferta
 
-- **Produto:** Longhorn Soda (nome provisório, ver hipóteses). Goma, 1 ao dia em jejum. Quatro compostos em sinergia: bicarbonato de sódio em preparo tamponado ("do jeito que o rancheiro mistura na ração"), colágeno hidrolisado de tendão de touro Longhorn de pasto, pycnogenol (casca de pinheiro marítimo francês), Tongkat Ali (extrato padronizado). Fabricado em laboratório independente no Texas, sem dono farmacêutico. Protocolo de 6 meses. `[VALIDADO]` fórmula de 4 verbos (Jelly Fil, Soda Horse); `[NOVO]` fonte bovina e geografia texana.
+- **Produto:** **SodaFil** (nome fechado em 09/10/2026). Truque: **Bull Soda Trick**. Goma, 1 ao dia em jejum. Quatro compostos em sinergia: bicarbonato de sódio em preparo tamponado ("do jeito que o rancheiro mistura na ração"), colágeno hidrolisado de tendão de touro Longhorn de pasto, pycnogenol (casca de pinheiro marítimo francês), Tongkat Ali (extrato padronizado). Fabricado em laboratório independente no Texas, sem dono farmacêutico. Protocolo de 6 meses. `[VALIDADO]` fórmula de 4 verbos (Jelly Fil, Soda Horse); `[NOVO]` fonte bovina e geografia texana.
 
 - **Promessa principal:** Uma colher do bicarbonato barato do Walmart, preparada do jeito que os rancheiros de Longhorn do Texas guardam há décadas, dissolve o "cimento" que está secando dentro do seu pênis há 30 anos. Ereção dura como pedra sob comando, sem Viagra, em 14 dias. E devolve os centímetros que o cimento roubou: 7 a 10 cm em 30 dias. `[VALIDADO]` promessa 14x Viagra / toalha / centímetros (Soda Horse).
 
@@ -74,19 +74,19 @@ Legenda: `[VALIDADO]` está em 2+ VSLs do corpus · `[NOVO]` decisão desta ofer
 - **Como o produto resolve:** Bicarbonato tamponado quebra a placa ácida nas paredes dos vasos; o corpo manda uma onda de sangue que lava os fragmentos; colágeno Longhorn, pycnogenol e Tongkat completam.
 - **Provação/explicação lógica:** Validado 1/5 (Steel Power), com ultrassom como prova visual. Fraqueza: não explica tamanho, só dureza, e perde "uma ferida, dois sintomas". Usar só se a promessa dimensional for cortada.
 
-## Nome "Chiclete" (Hipóteses de Nome para Oferta ou Produto)
+## Nome "Chiclete" (DECIDIDO em 09/10/2026)
 
-### Nome 1: Longhorn Soda (produto) / "o truque do bicarbonato do rancho" (truque)
+| Função | Nome | Justificativa |
+|---|---|---|
+| Truque (nome de boca na VSL, repetido ao longo da copy) | **Bull Soda Trick** | 3 sílabas. "Bull" = Tyson + Longhorn na mesma palavra. "Soda" mantém a linhagem Soda Horse e a pista de receita caseira sem usar a string queimada "baking soda trick". Eco de Red Bull (energia, potência). Tradução literal: "truque do refrigerante do touro"; o bicarbonato é revelado na primeira frase da lead. |
+| Produto (frasco, checkout, garantia) | **SodaFil** | Junta as duas linhagens validadas (Soda Horse + JellyFil). Sufixo "-fil" soa como sildenafil/tadalafil: registra como "da prateleira do Viagra" sem dizer. "Fill" é o verbo do mecanismo (a esponja volta a encher). |
+| Hook / thumbnail (A/B) | Texas Bull Trick vs Bull Soda Trick | Texas Bull Trick esconde o ingrediente por completo e carrega identidade; Bull Soda Trick carrega receita. O CTR decide. |
+| Segredo dentro da tese | "the ranch powder" / "every rancher's barn" | Nome de boca do rancheiro e do veterinário. |
+| Garantia | The Bull Guarantee | 60 dias, fica com os frascos. |
 
-- **Justificativa:** Carrega origem (Texas, touro), ingrediente (soda) e herança da família validada (Soda Horse) em duas palavras. Longhorn é ícone visual que o americano reconhece em 1 segundo. Separa o nome do truque (o que o prospect pode "fazer em casa") do nome do produto (o que ele compra), como a Soda Horse faz com "truque do refrigerante para cavalos" → Soda Horse Peak.
+**Regra:** nunca escrever "baking soda trick" junto na copy. "Baking soda" aparece na receita; "Bull Soda Trick" aparece como nome. Separados, a oferta fica fora das páginas de interceptação.
 
-### Nome 2: Texas Bull Soda / "o truque do touro"
-
-- **Justificativa:** Explicita o estado e o animal; "touro" dialoga com Tyson ("Iron Mike", "touro humano") e com a linha "te transformaram em boi antes de virar touro". Mais memético para hooks. Risco: "bull" em inglês soa como "bullshit" em alguns contextos; testar.
-
-### Nome 3: Ranch Soda Peak / "o pó do galpão"
-
-- **Justificativa:** Mantém o sufixo "Peak" da linhagem Soda Horse para quem já comprou a anterior reconhecer a casa. "Pó do galpão" é o nome de boca do segredo dos rancheiros, com cena embutida (saco de 25 kg no galpão). Menos específico que os dois primeiros; usar como nome do segredo dentro da VSL mesmo que o produto se chame Longhorn Soda.
+Hipóteses descartadas: SodaFil (vira nome de hook/thumb, não de produto), Ranch Soda Trick (associação com molho ranch; usado como nome de boca do segredo), Bull Baking Soda Trick (string queimada + leitura "bullshit"), Horn Soda Trick (trocadilho "horny"; opcional para anúncios).
 
 ---
 
@@ -147,7 +147,7 @@ Observação: os buscadores não entregam contagem de views; os números abaixo 
 
 ### VSLs de apoio (o que cada uma empresta)
 
-| VSL | Empresta para a Longhorn Soda |
+| VSL | Empresta para a SodaFil |
 |---|---|
 | **Jelly Fil** (Attia + Stallone, Gelatina de Cavalo) | Pique de edição e estrutura de blocos (micro-lead UGC → micro-lead "3 mentiras" → lead → background → emotional → discovery → tese → build-up → offer → close); emotional com data, dia e hora; "truque na mão" antes do produto; três razões; cronômetro 15 min; Johnny Sins. |
 | **Max Vitalize** (Samadi + Costner, Horse Gelatin) | Micro-lead com 3 depoimentos (duas mulheres 30+ e um homem 60+); lista de truques que falharam ("sal, bicarbonato e até mel"); analogia do pneu de bicicleta; "medicina veterinária é a única ciência limpa"; garantia 365 dias; 10 primeiros com reembolso; FAQ cômico. |
@@ -283,7 +283,7 @@ O briefing de edição da Jelly Fil (05) e a versão Longhorn (06) impõem regra
 ## Pendências e decisões em aberto
 
 1. Contrato de imagem de Julia Ann (define se a micro-lead sai com nome ou com persona anônima).
-2. Nome final: Longhorn Soda vs Texas Bull Soda vs Ranch Soda Peak (teste de thumbnail).
+2. Nome final: SodaFil vs Texas Bull Soda vs Ranch Soda Peak (teste de thumbnail).
 3. A/B 1: micro-lead Julia Ann vs mulher do interior 35+.
 4. A/B 2: lead por Ideia 1 (touro) vs Ideia 2 (Arlington) vs Ideia 3 (Huberman confessa).
 5. Verificar antes de escrever: "chifre cresce a vida inteira" (não encontrei fonte primária; usar "chifres de 100+ polegadas" que está documentado); idade reprodutiva real de touros Longhorn; views dos TikToks listados.

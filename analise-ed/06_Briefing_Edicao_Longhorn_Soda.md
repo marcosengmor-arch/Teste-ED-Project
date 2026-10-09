@@ -1,7 +1,7 @@
-# Briefing de Edição — Longhorn Soda
+# Briefing de Edição — SodaFil (Bull Soda Trick)
 
 **Versão:** v1 · 08/10/2026
-**Base:** briefing de edição da Jelly Fil (05) + brief de oferta Longhorn Soda (04)
+**Base:** briefing de edição da Jelly Fil (05) + brief de oferta SodaFil (04)
 **Regra:** mesma estrutura, mesma gramática visual e mesmo ritmo da Jelly Fil. Muda a pele (Texas, touro, Tyson, Huberman), não o motor.
 
 Convenções herdadas em todos os blocos:
@@ -311,17 +311,17 @@ Convenções herdadas em todos os blocos:
 - **Legenda:** mesma da VSL.
 - **Trilha sonora:** Sexy · varia · Épica.
 - **Tipos de B-roll:**
-  - Inserts do produto: frasco Longhorn Soda (rótulo com silhueta de chifres, paleta terrosa/azul-escuro) com fumaça "And that's how Longhorn Soda was born"
+  - Inserts do produto: frasco SodaFil (rótulo com silhueta de chifres de Longhorn, paleta azul-escuro + dourado herdada da JellyFil) com fumaça "And that's how SodaFil was born"
   - Provas visuais em versão rápida: quadro de cortiça com registro de estudo duplo-cego "Men Aged 35-70" carimbado "VALIDATED"; tela do registro; certificado de validação com selo dourado e QR; planilha "94% Measurable Functional Reversal" com anotações; dashboard "94% · +41% from baseline"; folha amarela "3,000 in current trial, 35-70 → 94%"
   - Pornô
   - **Homens com o produto:** homem grisalho sorrindo na varanda de rancho segurando o frasco "one gummy on an empty stomach in the morning"; Dale com o frasco na pickup
-  - Médico com o produto: diretor de P&D de jaleco "Longhorn Soda is the first and only"
+  - Médico com o produto: diretor de P&D de jaleco "SodaFil is the first and only"
   - 3D anatômico (vaso com partículas "oxidative"; lâmina "plaques")
   - Cinematografia com IA (cientista pipetando "Four substances"; "sterile conditions")
   - Homem broxa (mulher tentando, "to get an erection"; ereção espontânea)
   - Soluções comuns (cartela de Viagra desfocada "No dependency")
   - Certificado de eficácia (mesma gramática do "FDA Guarantee of Efficacy", decisão de risco registrada no brief 04)
-  - Página AUA "'Longhorn Soda' Matrix Demonstrates 14x Superiority" (idem)
+  - Página AUA "'SodaFil' Matrix Demonstrates 14x Superiority" (idem)
   - **Imagem de Carol com Dale antes de ela aparecer:** casal 60+ no rancho, ela de vestido, ele de chapéu, "62 years old"
   - **Escassez com imagem literal:** veterinário cuidando de Longhorn "a few thousand units a month"; recorte real "Longhorn $700,000" como âncora de valor `[REAL]`
   - Rancheiro contando frascos no galpão "67 bottles"
@@ -352,7 +352,7 @@ Convenções herdadas em todos os blocos:
   - Pornô "with firm erections"
   - Capas dos bônus em cartela escura com fumaça, mesma arte: "How to Use Your New Dick by Johnny Sins" · "Prolonged Orgasm Manual" · "Lesbian Trick Map of Female Pleasure" · "Surprise Bonus" (caixa fechada com laço)
   - Cronômetro 15:00 em vermelho
-  - Garantia: selo "BULL GUARANTEE · 60 DAYS · KEEP THE BOTTLES" com silhueta de chifres
+  - Garantia: selo "THE BULL GUARANTEE · 60 DAYS · KEEP THE BOTTLES" com silhueta de chifres
   - **Tyson "duas opções":** Tyson de frente, corte para homem de costas na cama (caminho 1) e para homem acordando duro na janela do rancho (caminho 2)
   - Soluções comuns: bomba peniana em uso "without a trick,"
   - Homem broxa P&B "functional loss" antes do CTA final
