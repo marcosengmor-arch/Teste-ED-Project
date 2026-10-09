@@ -36,7 +36,7 @@ Legenda: `[VALIDADO]` está em 2+ VSLs do corpus · `[NOVO]` decisão desta ofer
 
 ## Três Ideias de Ângulo Principal (Top 3 Big Ideas)
 
-### Ideia 1: O touro que não cai (ângulo principal)
+### Ideia 1: O touro que não amolece (BIG IDEA CENTRAL — decidido em 09/10/2026)
 
 - **Descrição:** O touro Longhorn do Texas come o dobro do veneno que você come, direto do mato pulverizado, e mesmo assim cobre vacas com 15, 18 anos (equivalente a um homem de 75) com chifres que passam de 100 polegadas ponta a ponta. Os rancheiros que vivem desse animal guardam um pó de menos de 1 dólar no galpão, e não está em rótulo nenhum. Pergunta paradoxal: "Se glifosato mata a potência, por que o único animal que come o dobro dele é o único que não perde a dele?"
 - **Por que pode funcionar:** É a Big Idea validada em 4/5 VSLs (organismo que escapa do veneno), com a fonte improvável trocada. A fonte cavalo está em 3/5 e já tem thread na internet chamada "Baking Soda Horse Trick Explained" (ver pesquisa), ou seja, está queimando por nome. O touro mantém o motor e troca a pele. E tem dois ativos que o cavalo não tinha: bicarbonato na ração de gado é prática real e verificável (tampão ruminal), e o Longhorn tem recorde de leilão de US$700 mil em Fort Worth, número real para ancorar valor. `[VALIDADO]` estrutura · `[NOVO]` fonte.
@@ -53,7 +53,7 @@ Legenda: `[VALIDADO]` está em 2+ VSLs do corpus · `[NOVO]` decisão desta ofer
 
 ## Mecanismos – Problema e Solução (3 opções)
 
-### Mecanismo 1 – Cimento na esponja (recomendado)
+### Mecanismo 1 – Cimento na esponja (DECIDIDO em 09/10/2026)
 
 - **Nome do mecanismo:** Placa tóxica / cimento na esponja de colágeno.
 - **Causa invisível do problema:** O corpo cavernoso é uma esponja feita 70-80% de colágeno tipo 3, a única estrutura que o corpo quase nunca substitui. O glifosato (Roundup), presente em 93-97% dos alimentos americanos, gruda nesse colágeno e não sai. Refeição após refeição, 40 anos, ele seca camada por camada como cimento. A esponja endurece: não absorve sangue, não incha, não cresce. E como 90% do tamanho final é definido antes dos 21 anos, o mesmo cimento que te fez amolecer aos 50 travou seu crescimento aos 15. Uma ferida, dois sintomas. Não é idade, não é testosterona, não é da cabeça: é cimento. Tem relógio: 18 meses de desculpas, 5 anos falhando metade das vezes, 10 anos acabou; acima de 70% de esponja cimentada não volta.
@@ -81,7 +81,8 @@ Legenda: `[VALIDADO]` está em 2+ VSLs do corpus · `[NOVO]` decisão desta ofer
 | Truque (nome de boca na VSL, repetido ao longo da copy) | **Bull Soda Trick** | 3 sílabas. "Bull" = Tyson + Longhorn na mesma palavra. "Soda" mantém a linhagem Soda Horse e a pista de receita caseira sem usar a string queimada "baking soda trick". Eco de Red Bull (energia, potência). Tradução literal: "truque do refrigerante do touro"; o bicarbonato é revelado na primeira frase da lead. |
 | Produto (frasco, checkout, garantia) | **SodaFil** | Junta as duas linhagens validadas (Soda Horse + JellyFil). Sufixo "-fil" soa como sildenafil/tadalafil: registra como "da prateleira do Viagra" sem dizer. "Fill" é o verbo do mecanismo (a esponja volta a encher). |
 | Hook / thumbnail (A/B) | Texas Bull Trick vs Bull Soda Trick | Texas Bull Trick esconde o ingrediente por completo e carrega identidade; Bull Soda Trick carrega receita. O CTR decide. |
-| Segredo dentro da tese | "the ranch powder" / "every rancher's barn" | Nome de boca do rancheiro e do veterinário. |
+| Variação do nome na parte do rancho (tese PL10, MUS, build-up) | **Ranch Soda Trick** | O rancheiro e o veterinário chamam assim; o Huberman volta a "Bull Soda Trick" ao sair do rancho. Dá duas camadas ao mesmo truque: o nome do touro (promessa) e o nome do rancho (origem). |
+| Segredo dentro da tese | "the ranch powder" / "every rancher's barn" | Nome de boca. |
 | Garantia | The Bull Guarantee | 60 dias, fica com os frascos. |
 
 **Regra:** nunca escrever "baking soda trick" junto na copy. "Baking soda" aparece na receita; "Bull Soda Trick" aparece como nome. Separados, a oferta fica fora das páginas de interceptação.
