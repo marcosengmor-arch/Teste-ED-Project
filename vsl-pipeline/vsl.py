@@ -5,8 +5,11 @@ Implementa as fases mecânicas do PROMPT-Pipeline-VSL.md. As fases de
 julgamento (identificar falantes, mapear blocos, traduzir, legendar) são
 feitas pelo Claude e gravadas em doc.json, que o subcomando `docx` monta.
 
-Chave da AssemblyAI: SOMENTE via variável de ambiente ASSEMBLYAI_API_KEY
-(secret do ambiente). Nunca em arquivo, log ou chat.
+Chave da AssemblyAI: cadastrada como *network secret* do ambiente cloud.
+O proxy da Anthropic injeta o header `authorization` nas requisições para
+api.assemblyai.com; a sessão nunca vê a chave. O script envia as requisições
+sem credencial. (Fallback local: variável ASSEMBLYAI_API_KEY, se existir.)
+Nunca em arquivo, log ou chat.
 
 Subcomandos:
   check                       testa chave + acesso a api.assemblyai.com
@@ -55,11 +58,10 @@ def duration(video):
 
 
 def headers():
+    """Sem credencial por padrão: o network secret do ambiente injeta o header.
+    Fora do ambiente cloud, usa ASSEMBLYAI_API_KEY se estiver definida."""
     key = os.environ.get("ASSEMBLYAI_API_KEY", "").strip()
-    if not key:
-        sys.exit("ASSEMBLYAI_API_KEY não encontrada. Configure como secret do ambiente "
-                 "e abra uma sessão nova.")
-    return {"authorization": key}
+    return {"authorization": key} if key else {}
 
 
 # ---------- fases ----------
@@ -69,13 +71,17 @@ def cmd_check(a):
         r = requests.get(f"{AAI}/transcript", headers=headers(), params={"limit": 1}, timeout=20)
     except requests.RequestException as e:
         print(f"REDE: não alcançou api.assemblyai.com -> {e}")
-        print("Libere api.assemblyai.com na política de rede do ambiente.")
+        print("O secret ainda não está ativo nesta sessão: confira se api.assemblyai.com "
+              "está em 'Sites permitidos' do network secret, ou abra uma sessão nova.")
         return 1
     if r.status_code == 200:
         print("OK: chave válida e api.assemblyai.com acessível.")
         return 0
     if r.status_code in (401, 403):
-        print(f"CHAVE: AssemblyAI respondeu {r.status_code} (chave inválida).")
+        modo = "variável ASSEMBLYAI_API_KEY" if headers() else "network secret do ambiente"
+        print(f"CHAVE: AssemblyAI respondeu {r.status_code} usando {modo}.")
+        print("Confira o secret: site api.assemblyai.com, header Authorization sem prefixo, "
+              "valor = chave.")
         return 1
     print(f"Resposta inesperada {r.status_code}: {r.text[:200]}")
     return 1

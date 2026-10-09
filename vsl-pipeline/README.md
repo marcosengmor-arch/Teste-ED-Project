@@ -6,18 +6,29 @@ o Claude na sessão.
 
 ## Configuração (uma vez, nas settings do ambiente cloud)
 
-A chave da AssemblyAI fica **só** no ambiente, como secret. Nunca em
-arquivo (`~/.assemblyai_key` não persiste aqui) nem colada no chat.
+A chave da AssemblyAI entra como **network secret** do ambiente. O proxy da
+Anthropic injeta o header na saída da requisição; a sessão nunca vê a chave,
+e ela não existe como variável de ambiente nem em arquivo. Nunca cole a chave
+no chat.
 
-1. Menu do ambiente cloud na barra de título da sessão → **Edit**.
-2. **Network secrets** (ou variável de ambiente): `ASSEMBLYAI_API_KEY` = sua chave.
-3. **Network access**: liberar `api.assemblyai.com` em *Allowed domains*
-   ("Allow package managers" marcado). VSL por link → liberar o domínio do vídeo.
-4. Abrir uma **sessão nova**.
+1. Em claude.ai/code, menu do ambiente cloud na barra de título → **Edit**.
+2. Seção **Network secrets** → **Add secret**:
+   - **Nome**: um rótulo, ex. `AssemblyAI` (não é a chave).
+   - **Tipo de segredo**: Bearer (padrão).
+   - **Sites permitidos**: `api.assemblyai.com`.
+   - **Prefixos de caminho**: vazio.
+   - **Custom headers**: uma linha com Name `Authorization`, **Prefix vazio**
+     (apagar o "Bearer"; a AssemblyAI usa a chave crua), Value = a chave.
+3. **Connect**. Não precisa mexer em Network access: o host listado no secret
+   já fica acessível.
+4. Abrir uma **sessão nova** e rodar:
 
 ```bash
 python3 vsl-pipeline/vsl.py check     # deve responder OK
 ```
+
+Para baixar VSL por link (YouTube etc.), aí sim liberar o domínio do vídeo em
+**Network access → Custom → Allowed domains**.
 
 ## Mapa das fases
 
