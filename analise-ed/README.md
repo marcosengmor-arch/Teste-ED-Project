@@ -7,6 +7,7 @@
 | `04_Brief_de_Oferta_Longhorn_Soda.md` + `.docx` | Brief de oferta preenchido no modelo do time: premissas, 3 big ideas, 3 mecanismos, 3 nomes, pesquisa de mercado com fontes, explicação das VSLs, emotional story (Huberman, Attia, Tyson, rancheiro, Longhorn) e pontos lógicos |
 | `05_Briefing_Edicao_JellyFil_extraido.md` + `.docx` | Briefing de edição da Jelly Fil transcrito dos prints, bloco a bloco (produção, edição, B-rolls), com síntese transversal e 10 regras de ouro |
 | `06_Briefing_Edicao_Longhorn_Soda.md` + `.docx` | Briefing de edição da Longhorn Soda na mesma estrutura: avatares, trilha, legenda, B-rolls por bloco e por ponto lógico, checklist de edição |
+| `07_Analise_3_Copies_Pontos_Fortes_Fracos.md` + `.docx` | Análise das 3 copies (ALPHAEREC, HORSE-JELLY/JellyRock, SODA-HORSE PEAK): pontos fortes bloco a bloco, pontos fracos, comparativo por dimensão e o mapa final do que usar / não replicar na VSL SodaFil |
 | `03_Relatorio_Detalhes_e_Adaptacao_Longhorn.md` | Fichas técnicas das 5 VSLs, dissecação da Soda Horse, bancos de personagens, superestruturas, analogias, números e swipe, arquitetura de oferta, mecanismos de outros nichos, mapa de adaptação Soda Horse → touro Longhorn / Texas, riscos, pendências |
 
 Materiais de origem: dissecações Jelly Fil, Max Vitalize (Horse Gelatin), Steel Power; análise de padrões C14; transcrição Soda Horse Peak (OT249, pitch 01:04:30). Power Up lida só via síntese C14.
