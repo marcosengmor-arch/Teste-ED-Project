@@ -223,6 +223,8 @@ Convenções herdadas em todos os blocos:
   - **Banheira de gelo "Ice baths don't either"** (callback Huberman)
   - Prótese 3D "a dead hard penis"
   - **Copo de bicarbonato puro + homem arrotando** "pure baking soda just makes you burp"
+  - **Frame do "vídeo do garanhão" dentro de celular, riscado em vermelho, "WRONG ANIMAL"**
+  - **3D: estômago único do cavalo/homem (bicarbonato espumando) vs 4 compartimentos do boi (tamponando no rúmen)**
   - Estande Bayer Monsanto 2018; cartaz "TWENTY-FOUR BILLION DOLLARS"
 
   **PL9 — Ponto sem retorno / relógio**
@@ -240,6 +242,8 @@ Convenções herdadas em todos os blocos:
   - Rancheiro velho no galpão apontando o saco "it's in every barn in Texas"
   - Veterinário no curral: rótulo real de produto de ração com "sodium bicarbonate" `[REAL]` + "it's not on any potency label because nobody looked"
   - Prancheta com perfil de colágeno do touro
+  - **Split-screen: manequim de coleta de garanhão (haras) vs touro Longhorn cobrindo vaca no pasto** "the stallion is collected on a dummy; the bull mounts"
+  - Manchete real de "milkshaking" banido em corrida de cavalo ao lado do rótulo de ração com "sodium bicarbonate"
   - Split-screen flagra: frame da câmera de segurança do peão (callback) "Caught in the act" — reinsere o medo dentro da tese
 
 ---
@@ -253,7 +257,7 @@ Convenções herdadas em todos os blocos:
 - **Legenda grande em cada verbo:** "DISSOLVE" · "REBUILD" · "PROTECT" · "REACTIVATE" (cores diferentes).
 - **Trilha:** sobe de didática para esperançosa.
 - **B-rolls:**
-  - **Dissolver:** caixa de bicarbonato puro + copo + homem arrotando (erro); rancheiro misturando bicarbonato na ração em proporção (acerto); 3D esponja com fragmento branco se soltando "some over 30 years into fragments"; **urina escura (3 frames):** copo com urina marrom, etiqueta "Fort Worth Lab – Penile Fibrosis Clearance Study · Patient 47 · 72hr urine", fita de pH, microscopia ao lado, anotação "urine now mahogany; particulates confirmed as collagen debris", frasco com fragmentos "fragments leaving the body"; touro cobrindo "that's the stamina the breeder knows"
+  - **Dissolver:** frame do vídeo do garanhão riscado "WRONG ANIMAL"; 3D um estômago vs quatro; caixa de bicarbonato puro + copo + homem arrotando (erro); rancheiro misturando bicarbonato na ração em proporção (acerto); 3D esponja com fragmento branco se soltando "some over 30 years into fragments"; **urina escura (3 frames):** copo com urina marrom, etiqueta "Fort Worth Lab – Penile Fibrosis Clearance Study · Patient 47 · 72hr urine", fita de pH, microscopia ao lado, anotação "urine now mahogany; particulates confirmed as collagen debris", frasco com fragmentos "fragments leaving the body"; touro cobrindo "that's the stamina the breeder knows"
   - **Reconstruir:** pote "Hydrolyzed Collagen" âmbar com Longhorn ao fundo em madeira; **tendões bovinos crus** na mesa de laboratório "directly"; touro em cocheira + prancheta "a specific profile of"; pote de colágeno de farmácia riscado "not the feedlot bovine collagen they sell for wrinkles"; 3D esponja rosa reinchando; **RM "Fort Worth Imaging · Patient #14 Longhorn Pilot 2025 · DAY 1 / DAY 30 · Cavernous Volume +47%"**; **régua "Volunteer #22 Longhorn Pilot 2025 · DAY 1 5.63 in / DAY 30 8.46 in · +7.2 / +2.1 inches"** com fotos de corpo sem rosto e banner vermelho; tanques de inox "There are 17 of those machines"; **bloco regulatório 4x:** manchete FDA "unregulated biological product… prohibited since 1987", carta FDA datada, página 21 CFR 1271, certificado 21 CFR 111
   - **Proteger:** frasco âmbar Pycnogenol + casca de pinheiro + livro "21 clinical studies since 2003", "from French maritime pine bark"; 3D glifosato tentando grudar e escorregando; gráfico IIEF 15 → 27
   - **Reativar:** raiz de Tongkat Ali em madeira; gráfico "free T +28-40% in 7 days"; **tracker de ereção noturna** (linha plana → picos); homem acordando duro (cueca, manhã, janela do rancho)

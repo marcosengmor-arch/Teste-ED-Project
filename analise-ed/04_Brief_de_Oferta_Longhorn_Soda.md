@@ -260,6 +260,41 @@ Ordem dos blocos: micro-lead (Julia Ann) → lead (Huberman) → background (Hub
 - **FAQ cômico texano** (6 perguntas, padrão Max/Steel): "comecei há 3 dias e já cresceu, é normal?"; "tenho 68 e estou 2x por dia"; "dobrei a dose"; "chegou em 1 dia"; "o presente surpresa"; "minha esposa não me deixa ir trabalhar".
 - **Entrega:** 72h, embalagem e fatura sem nome.
 
+## Desqualificação do truque do cavalo (registrado em 10/10/2026)
+
+**Decisão:** a VSL bate no "truque do cavalo" (Soda Horse / Horse Gelatin, já escalado demais) como primeira solução comum, antes do Viagra. O cavalo é contraste, não protagonista: no máximo 20% da lead. Nunca citar "Soda Horse" ou "JellyFil" pelo nome; dizer "o truque do cavalo" ou "o vídeo do garanhão".
+
+### Munição
+
+| # | Fato | Status | Uso na copy |
+|---|------|--------|-------------|
+| 1 | **Cavalo tem um estômago só. Boi tem quatro.** Cavalo é monogástrico, igual ao homem. Boi tem rúmen, tanque de fermentação onde o bicarbonato tampona por horas. | `[REAL]` | Espinha dorsal do ataque. "O truque do cavalo copiou o animal errado. O cavalo tem o mesmo estômago que você: bicarbonato puro cai no ácido, espuma, você arrota. O boi digere diferente, e é daí que o rancheiro tirou o preparo." Explica por que o truque do cavalo falhou em quem tentou, sem dizer que bicarbonato não funciona. |
+| 2 | **Bicarbonato nunca foi do haras. É da ração de gado há décadas** (tampão ruminal, 0,7-1% MS, produto comercial com rótulo). No cavalo, o uso conhecido é "milkshake": bicarbonato por sonda em cavalo de corrida para segurar ácido lático no músculo. É doping, proibido nas pistas, nada a ver com potência. | `[REAL]` | "Quem te contou a história do cavalo pegou o pó do lugar errado. No cavalo, bicarbonato é doping de corrida, vai por sonda, serve para músculo. No gado vai na ração todo dia há 60 anos, e o veterinário te mostra o saco." |
+| 3 | **Garanhão de haras não cobre égua. É coletado num manequim e a égua é inseminada.** O touro Longhorn no pasto monta de verdade, sozinho, dezenas de vacas por temporada. | `[REAL para raças de tração como o Percheron; verificar antes de citar raça]` | Destrói a imagem central da Soda Horse ("garanhão de US$30 milhões cobrindo égua aos 28"). "O garanhão de 30 milhões não cobre égua nenhuma há anos. Ele é coletado num boneco. O touro que eu vi no Texas monta no pasto, aos 18 anos, sem veterinário do lado." Split-screen literal: manequim de coleta vs touro cobrindo vaca. |
+| 4 | **O Longhorn viveu 300 anos solto no Texas, sem veterinário, sem ração, comendo mato.** O Percheron é cavalo de tração, criado em estábulo, com nutricionista e veterinário de plantão. | `[REAL, história da raça]` | "Um come mato pulverizado e se vira sozinho; o outro tem a melhor medicina do mundo pagando a conta. Qual dos dois tem o segredo?" |
+| 5 | **Colágeno: o problema não é a espécie, é o confinamento.** "Não é o bovino de confinamento de pote de ruga, nem o equino de estábulo; é tendão de touro de pasto que vive 25 anos." | `[gramática da família]` | Resolve o "não é bovino" da Soda Horse invertendo a desqualificação. |
+| 6 | **"Se você tentou o truque do cavalo e só arrotou, não foi você."** | `[mercado]` | Remoção de culpa aplicada ao truque anterior. Converte quem comprou a concorrência em prospect quente. |
+
+### Onde entra na lead (3 opções)
+
+- **A) Lead "o animal errado" (Huberman) — LEAD PRINCIPAL.** Entra pelo paradoxo do touro; no segundo minuto desmonta o cavalo: "Você já viu o vídeo do garanhão de 30 milhões. Milhares de homens tentaram. Uma colher de bicarbonato puro, e arrotaram. Não foi você. Foi o animal errado. O cavalo tem o mesmo estômago que você." Mantém a estrutura validada da Soda Horse e usa o cavalo como contraste, igual ao Viagra.
+- **B) Lead do veterinário (alternativa, padrão entrevista Steel Power).** "Trabalhei 18 anos em haras do Kentucky e 10 em rancho no Texas. O truque do cavalo é mentira, e eu sei porque eu via o que davam aos garanhões: nada. Eles são coletados num manequim." Guardar como segunda VSL ou inserto dentro da tese.
+- **C) Micro-lead "3 mentiras do truque do cavalo" (padrão Jelly Fil / Max).** Mentira 1: o garanhão cobre égua aos 28. Mentira 2: o pó vem do haras. Mentira 3: bicarbonato puro funciona. Cada mentira derruba uma peça da Soda Horse e abre o touro. Candidata a micro-lead 02 antes da lead principal.
+
+### Onde entra no MUS
+
+- **Dissolver (reason why do preparo):** (1) "Bicarbonato puro só faz arrotar. Foi o que 99% fizeram com o truque do cavalo." (2) "O cavalo tem um estômago, igual ao seu. O boi tem quatro, e o bicarbonato fica tamponando por horas." (3) "O rancheiro não dá pó puro ao touro. Mistura na ração, na proporção certa. Esse preparo é o que o SodaFil reproduz para um estômago humano."
+- **Reconstruir:** "não é o colágeno bovino de confinamento, nem o equino de estábulo; é tendão de touro de pasto que vive 25 anos."
+- **Ponte da tese (PL10):** garanhão coletado vs touro montando no pasto, split-screen.
+
+### Edição (vai para o briefing 06)
+
+- Split-screen: manequim de coleta de garanhão vs touro Longhorn cobrindo vaca.
+- Ilustração/3D: estômago único do cavalo (e do homem) vs 4 compartimentos do boi, com o bicarbonato espumando no primeiro e tamponando no rúmen.
+- Frame do "vídeo do garanhão" dentro de celular, riscado em vermelho, legenda "WRONG ANIMAL".
+- Homem com copo de bicarbonato puro arrotando (já previsto em PL8).
+- Rótulo real de ração com "sodium bicarbonate" ao lado de manchete de "milkshaking" banido em corrida de cavalo (prova jornalística real).
+
 ## Ajustes para a copy vindos do briefing de edição (v2)
 
 O briefing de edição da Jelly Fil (05) e a versão Longhorn (06) impõem regras que a copy precisa respeitar para a edição funcionar. Quem escrever a VSL segue estas:
