@@ -24,6 +24,54 @@ Regras transversais: pó sempre sem marca (saco de rancho, lata, colher de madei
 
 ---
 
+## DECISÕES FINAIS — demonstração escolhida por prova (registradas em 10/10/2026)
+
+| Prova | Decisão | Como fica |
+|---|---|---|
+| **1** Longhorns não cimentam | **1B + 1C** | O exame de aptidão reprodutiva do veterinário no touro de 17 anos (ficha "POTENTIAL BREEDER — SATISFACTORY", "AGE 17 = MAN OF 75") é a prova; os **dois laudos de glifosato** (ração do touro vs pão/aveia do homem, marcador amarelo, post-it "o touro come 2x mais e não cimenta") entram como a prova visual que fecha o ponto. |
+| **2** Bicarbonato é prática real de ração | **2A** | Rótulo real de ração com "Sodium Bicarbonate" marcado + folha de extensão rural com "0.7–1% of dry matter" + busca no celular. A única parte checável no Google, mostrada como tal. |
+| **3** Cavalo 1 estômago, boi 4 | **3B em versão física de bancada** | Em vez de 3D: **um torso na bancada e dois objetos representando o estômago de cada animal**. Um recipiente único (cavalo); um conjunto de quatro compartimentos ligados (boi). O pó cai no do cavalo: espuma e sobe (arroto). No do boi: entra no rúmen e fica circulando, cobrindo a parede. Depois o **torso humano** recebe o mesmo recipiente único do cavalo: "o seu é igual ao do cavalo". Lettering "WRONG ANIMAL". Huberman conduz, o rancheiro ao lado. |
+| **4 + 5** Dissolver o cimento / a placa sai | **O corte do pênis inclinado** | A demonstração da lead (modelo anatômico aberto, inclinado no suporte de madeira, cimento preto por dentro). O preparo é despejado pelo funil, escorre por dentro e **limpa a placa tóxica**, que cai na bandeja transparente. Serve de prova 4 (dissolve) e prova 5 (a placa sai do corpo). Na lead é a demo inteira; no MUS volta em plano fechado (a bandeja enchendo de preto). |
+| **6** Colágeno de pote vs tendão de Longhorn | **6B + 6C** | Os dois rótulos lado a lado ("bovine hide, feedlot" vs "Longhorn tendon, pasture-raised, type III") e, no curral, o **tendão real na mão do veterinário**, esticado ("isso é a mola"), ao lado do pote de farmácia. |
+| **7** Esponja reconstruída cresce | **7B** | A régua do piloto com o set à mostra: tripé, fita no chão, mesma régua clínica, mesma luz, mesma distância. "Mesma régua, mesma luz, mesmo intervalo." Cartão "Day 1 / Day 30" com decimais (5,6" → 8,4"), rosto desfocado, nome e cidade do Texas. |
+| **8** Proteger (o glifosato de amanhã) | **8B** | A mesa do café com bandeirinhas de palito (ppb em pão, aveia, café, cerveja, mel), balança somando "sua dose de hoje", marcador no laudo correspondente. |
+| **9** Óxido nítrico | **9A + 9C** | Tira de saliva de óxido nítrico (rosa claro antes, vermelho escuro 2 h depois, lado a lado na escala do fabricante) + o gráfico à mão de Attia no quadro branco ("IIEF 15 → 27", "92%") com a página do estudo marcada. |
+| **10** Reativar (Tongkat) | **10C** | 3D da esponja com receptores cinzas "DORMANT" acendendo em verde um a um, "ACTIVATED", contador subindo. |
+| **11** Quatro verbos na ordem | **sem demonstração** | Fica na copy e no 3D dos 4 verbos. |
+| **12** Dose exata, não dá pra fazer em casa | **12C** | O fardo de feno inteiro na mesa de jantar, prato e talheres ao lado. "Ou isso, ou uma goma." |
+| **13** Garanhão coletado vs touro no pasto | **13A, com Huberman na fazenda** | Split: coleta de garanhão em manequim acolchoado com veterinário de luvas (imagem real de haras) vs touro Longhorn cobrindo vaca no pasto. Lettering "$30 MILLION — NEVER MOUNTS" / "$700K — MOUNTS AT 18". Huberman narra da cerca do rancho, o touro atrás. |
+| **14** Dois touros irmãos | **14A** | Dois touros do mesmo ano, brincos 41 e 42, dois currais, dois cochos, quadro-negro com a data. Só o 41 recebe o pó. Dia 30: o 41 cobre; o 42 fica no canto. Mesmo pasto, mesma ração, mesmo glifosato. |
+| **15** Marcos (72 h ereção matinal) | **15A** | O teste do selo postal: anel de selos antes de dormir. Dia 1 inteiro, dia 3 rasgado. Os dois anéis na mesa. "O corpo não sabe mentir dormindo." |
+| **16** Trial 94% / 97% | **16B** | A folha "First dataset" com número de registro, 94% e 97% em amarelo, a mão de Attia com a caneta, post-it "entre o 4º e o 14º dia". |
+| **17** Milkshaking é doping | **17B + 17C** | O veterinário no haras com a sonda nasogástrica e a bomba numa cabeça de cavalo de treino ("era pra segurar o ácido lático na corrida, nada a ver com égua"), e o split pista vs pasto como visual da explicação: "BICARBONATE = MUSCLE" / "BICARBONATE = BREEDING". "Mesmo pó, animal errado, motivo errado." |
+
+### Ordem de produção (só as escolhidas)
+
+| # | Demo | Bloco | Local |
+|---|---|---|---|
+| 1 | Corte do pênis inclinado (provas 4 + 5) com Huberman | Lead A + MUS Dissolver | Rancho, mesa de madeira |
+| 2 | Torso + dois estômagos na bancada (prova 3) | Lead A / MUS Dissolver | Rancho, mesma mesa |
+| 3 | Split manequim vs pasto (prova 13) + sonda e split pista vs pasto (prova 17) | Lead / desqualificação do cavalo | Haras + cerca do rancho |
+| 4 | Exame do veterinário + dois laudos (prova 1) | MUS ponto 1 | Curral |
+| 5 | Rótulo de ração + celular (prova 2) | MUS ponto 2 | Galpão |
+| 6 | Dois rótulos + tendão na mão (prova 6) | MUS Reconstruir | Curral |
+| 7 | Régua do piloto com o set à mostra (prova 7) | MUS Reconstruir | Clínica |
+| 8 | Mesa do café com bandeirinhas (prova 8) | MUS Proteger | Cozinha do rancho |
+| 9 | Tira de óxido nítrico + gráfico à mão (prova 9) | MUS Proteger | Clínica / quadro branco |
+| 10 | Receptores acendendo (prova 10) | MUS Reativar | 3D |
+| 11 | Fardo na mesa de jantar (prova 12) | MUS por que não em casa | Cozinha do rancho |
+| 12 | Dois currais, brincos 41 e 42 (prova 14) | Prova animal | Rancho, 30 dias |
+| 13 | Selo postal (prova 15) | Marcos | Quarto / mesa |
+| 14 | Primeira planilha (prova 16) | Trial | Mesa de Attia |
+
+### Props das demonstrações escolhidas
+
+Modelo anatômico de pênis em corte, inclinado em suporte de madeira, com esponja vermelha e cavidade; pasta de giz ou gelatina com carvão ativado (placa tóxica); funil e béquer; bandeja transparente; torso anatômico de bancada; recipiente único (estômago do cavalo) e conjunto de quatro compartimentos ligados (estômagos do boi), transparentes; pó sem marca (saco de rancho, lata, colher de madeira); prancheta e ficha de exame reprodutivo; dois laudos de glifosato impressos; rótulo real de ração com sodium bicarbonate e folha de extensão rural; celular com a busca; pote de colágeno de farmácia e ficha do extrato de tendão; tendão bovino do açougue em bandeja; régua clínica, tripé, fita no chão, cartão Day 1 / Day 30; mesa de café (pão, aveia, café, cerveja, mel), bandeirinhas de palito, balança de cozinha; tiras de teste de óxido nítrico na saliva; quadro branco e página do estudo impressa; fardo de feno, prato e talheres; imagem real de coleta em manequim; cabeça de cavalo de treino, sonda nasogástrica e bomba; dois touros do mesmo ano com brincos 41 e 42, dois currais, quadro-negro; tira de selos postais; folha "First dataset" impressa, caneta, post-its, marcador amarelo.
+
+---
+
+## CATÁLOGO COMPLETO (referência: as 3 opções originais por prova)
+
 ## PROVA 1 — "Longhorns não cimentam": come o dobro do veneno e cobre aos 18
 
 **1A · CAMPO — A balança do cocho.** O rancheiro pendura na balança de gancho a ração do dia do touro: o ponteiro marca 15 kg. Ao lado, Huberman pendura o prato de um homem: 1,2 kg. Lettering "15 KG / DAY" vs "1.2 KG / DAY". Corte para o mesmo touro, brinco com o ano de nascimento visível, cobrindo uma vaca no pasto. Lettering "BORN 2008".
@@ -126,23 +174,3 @@ Regras transversais: pó sempre sem marca (saco de rancho, lata, colher de madei
 **17B · CAMPO — A sonda no haras.** Veterinário mostra a sonda nasogástrica e a bomba usadas no milkshake, numa cabeça de cavalo de treino. "Era assim que davam. Pra segurar o ácido lático na corrida. Nada a ver com égua."
 **17C · SPLIT — Pista vs pasto.** Esquerda: cavalo de corrida no portão de largada, lettering "BICARBONATE = MUSCLE". Direita: touro cobrindo vaca, lettering "BICARBONATE = BREEDING". "Mesmo pó, animal errado, motivo errado."
 
----
-
-## Prioridade de produção (o que filmar primeiro)
-
-| # | Demo | Bloco da VSL | Por quê primeiro |
-|---|---|---|---|
-| 1 | Corte do pênis com Huberman no rancho (lead) | Lead A | É o ad validado; congruência clique → VSL |
-| 2 | 3A Dois béqueres com fita de pH (cavalo vs touro) | Lead / MUS Dissolver | Desqualifica o cavalo com cor na tela |
-| 3 | 4A + 4B Esponja cimentada no vidro + balança | MUS Dissolver | Mecanismo decidido, prova física e número |
-| 4 | 5A + 5B Sete potes + filtro de café | MUS Dissolver (sensorial) | Prova nojenta, inesquecível |
-| 5 | 7A Seringa graduada e régua | MUS Reconstruir | Tamanho medido, não prometido |
-| 6 | 11A Cinco vidros em fila | MUS 4 verbos | Justifica a fórmula e os 6 meses |
-| 7 | 14A + 14C Dois touros + trail cam | Prova animal | Único "teste sem placebo" filmável de verdade |
-| 8 | 15A Selo postal | Marcos | Barato, real, o espectador pode fazer em casa |
-| 9 | 9A Tira de óxido nítrico | MUS Proteger | Instrumento real de farmácia |
-| 10 | 13A Split manequim vs pasto | Desqualificação do cavalo | Destrói a imagem central da Soda Horse |
-
-## Lista de props
-
-Modelo anatômico de pênis em corte (silicone ou impressão 3D) com esponja vermelha e cavidade; pasta de giz ou gelatina com carvão ativado (cimento); esponjas de celulose vermelhas (30+); vasos e tubos de acrílico com régua colada; béqueres e fitas de pH; seringas de 60 ml graduadas; balança de cozinha e balança de precisão (mg); microscópio USB; filtros de café; 7 potes de urina com etiqueta; tiras de teste de óxido nítrico na saliva; kit de testosterona caseiro; selos postais; lâmpada com fio cortado e interruptor; mangueira transparente com pinça; bandeja com 100 esponjas; quadro de cortiça e polaroides; calendário de parede; trail cam; balança de gancho; saco de bicarbonato grau ração sem marca; rótulo real de ração com sodium bicarbonate; tendão bovino do açougue; pote de colágeno de farmácia; fardo de feno; quadro-negro do curral; prancheta de exame veterinário.
