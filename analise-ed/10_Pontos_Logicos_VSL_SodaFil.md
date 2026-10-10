@@ -128,7 +128,7 @@ Micro-lead e lead ficam fora deste documento, por ordem do Marcos.
 
 **PL-T15 · Por que não dá para fazer em casa.** Afirmação: o preparo exige dose exata (abaixo o ácido destrói, acima é arroto e barriga); o tendão de Longhorn tem um único processamento no Texas, venda bruta proibida; 14 meses para virar goma sem perder potência. Prova: o fardo de feno na mesa de jantar (12C: "ou isso, ou uma goma"); "então é só tomar bicarbonato?" → "o seu estômago". Imagem: o fardo na mesa. Loop: "e é aqui que o truque do touro vira resultado, em dias".
 
-**PL-T16 · A linha do tempo.** Afirmação: 72 h ereção matinal espontânea; 5 dias 91% notam o pau mais cheio na primeira mijada; 14 dias sem pílula; 21 dias crescimento mensurável; 30 dias reversão na ressonância. Prova: o selo postal volta como marco (15A: dia 1 inteiro, dia 3 rasgado); fita métrica aos 21 dias; RM do Mike aos 30 (60% → 28%). Imagem: os dois anéis de selo na mesa. Loop: "eu não vou te pedir para acreditar em mim. Vou te mostrar o primeiro homem".
+**PL-T16 · A linha do tempo.** Afirmação: 72 h ereção matinal espontânea; 5 dias 91% notam o pau mais cheio e o peso na mão na primeira mijada; 14 dias sem pílula; 21 dias crescimento mensurável (fita métrica, "ela congela por três segundos quando você abre a calça"); 30 dias reversão na ressonância. Prova: o selo postal volta como marco (15A: dia 1 inteiro, dia 3 rasgado); fita métrica aos 21 dias; RM do Mike aos 30 (60% → 28%). Imagem: os dois anéis de selo na mesa. Loop: "eu não vou te pedir para acreditar em mim. Vou te mostrar o primeiro homem".
 
 ---
 
