@@ -183,27 +183,45 @@ Observação: os buscadores não entregam contagem de views; os números abaixo 
 | **Johnny Sins** | Bônus "Como usar seu novo pênis". | Validado 2x. |
 | **Sydney Sweeney** | Thumbnail e referência falada ("a mulher que 100 milhões de homens querem passou 3 meses treinando com lutadores de 60 anos"), nunca narradora de cena sexual. | Validada como superestrutura no C14. |
 
-### Resumo de como o problema aconteceu até o fundo do poço
+### Resumo de como o problema aconteceu até o fundo do poço — EMOTIONAL v3 (traição consumada + reconquista, decidida em 10/10/2026)
 
-Ordem dos blocos: micro-lead (Julia Ann) → lead (Huberman) → background (Huberman confessa) → emotional (Tyson em 1ª pessoa) → confissão da esposa → discovery → tese → MUS → build-up → oferta → close → FAQ.
+**Decisões fixadas nesta versão**
+- **A mulher:** "minha esposa", sem nome, sem rosto (dublê de costas, mão, cabelo; na entrevista, rosto desfocado e lower-third "a esposa pediu para ser protegida"). Nunca nomear a esposa real.
+- **O final:** reconquista, não perda. A traição acontece 100% (cozinha → quarto), mas no 11º dia ela volta para a cama dele e nunca mais vai "ver os cavalos". Casa com a persona principal (casado da esposa fria), que quer a mulher de volta, não o divórcio.
+- **O rival:** o peão do rancheiro velho, 30 e poucos, monta touro, mora no rancho onde o camp foi montado. É quem tem acesso ao pó do galpão e é o cowboy que ela vê todo dia.
+- **A câmera:** "Eu sou o Mike Tyson. Minha casa tem câmera em todo cômodo." Ele nunca olhava as gravações até sentir o cheiro diferente na caminhonete. A câmera do galpão do rancheiro (contra roubo de gado) é a segunda câmera: mostra o peão pegando o pó no saco.
+- **A virada:** Huberman liga para o Mike para ele ser o primeiro. Attia entra depois, como o médico da ressonância e do piloto.
+- **Plano B jurídico:** se a opção "minha esposa" for barrada, deslocar no tempo: "a mulher com quem eu vivia em 2007, quando eu estava quebrado". Perde a atualidade do camp; guardar só como reserva.
 
 **Como começa (Tyson, 1ª pessoa):** "Cheguei aos 58 anos sendo Mike Tyson." Dois anos antes da luta, começou devagar: uma noite falha, culpa o treino. Depois outra. Depois ele percebe que está inventando desculpa para não tentar: "acordo cedo", "o camp", "estou moído". A esposa vira de costas primeiro por respeito, depois por hábito. "Eu, que entrei em ringue contra todo homem que me disseram para enfrentar, tinha mais medo de um quarto escuro com a minha mulher do que de qualquer luta."
 
-**O que ele tentou:** TRT (parou pelo coração), a erva que ele mesmo vende ("relaxava, não levantava"), até veneno de sapo. Viagra: "funcionou duas vezes, na terceira eu tomei dois e nada". Protocolos do amigo Huberman: banho gelado, sol de manhã, sono. "Fiz tudo. Fiquei forte. Continuei morto."
+**O que ele tentou:** TRT (parou pelo coração), a erva que ele mesmo vende ("relaxava, não levantava"), até veneno de sapo. Viagra: "funcionou duas vezes, na terceira eu tomei dois e nada" — a cena do remédio que esquenta e não chega. Protocolos do amigo Huberman: banho gelado, sol de manhã, sono. "Fiz tudo. Fiquei forte. Continuei morto." Vergonha de vestiário: para de se trocar na frente do sparring.
 
-**O camp no Texas (plantar o segredo):** três meses antes da luta, treino em propriedade perto de Arlington, vizinha de um rancho de Longhorn. O rancheiro velho dá acesso à pista para corrida. Mike vê, no galpão, um saco de 25 kg de bicarbonato de sódio ao lado da ração. Pergunta. O velho ri: "isso é para o boi não cair". Mike não dá importância. **"Guarde esse detalhe do galpão."** (técnica validada da Soda Horse: loop com payoff).
+**1. O camp (plantar o segredo e o rival):** setembro de 2024, rancho de Longhorn perto de Arlington, oito semanas antes da luta. A esposa vai junto "para cuidar dele". O rancheiro velho cede a casa principal e a pista para corrida. Mike vê, no galpão, um saco de 25 kg de bicarbonato ao lado da ração. Pergunta. O velho ri: "isso é para o boi não cair". **"Guarde esse detalhe do galpão."** No churrasco do primeiro sábado aparece o peão: boné, mão grossa, monta touro. Ela ri de um jeito que o Mike não via há dois anos. **"Guarde esse detalhe também."**
 
-**A noite de Arlington (agravamento):** 15/11/2024. 72.300 pessoas, 108 milhões em casa. Ele fica de pé 8 rounds contra um garoto de 27. Volta ao hotel como o homem mais aplaudido do país. No quarto, ela espera. Nada. "Está tudo bem, Mike, você lutou 8 rounds." A frase que ele ouve pelo resto da vida.
+**2. A descida:** celular virado para baixo. Ela passa a "ir ver os cavalos" nas tardes de sparring. Cheiro diferente na caminhonete. O peão em churrasco, em evento, na casa, "consertando o chuveiro". Mike, na entrevista no rancho, camisa aberta, olhando para baixo: "Eu lutei contra o Holyfield, contra o Lewis. Nenhum soco me acertou como aquele cheiro."
 
-**A descida (meses seguintes):** celular virado para baixo, cheiro diferente no carro, ela indo "ao rancho" ver os cavalos nas tardes em que ele viaja. O peão do velho começa a aparecer em churrasco, em evento, na casa. Mike instala câmera na cozinha "querendo prova de traição". O que a câmera mostra: o peão misturando um pó branco num copo na pia dele, antes de subir para "consertar o chuveiro". Nada acontece. Mas o olhar dela quando o rapaz passa é o olhar que ele não via há dois anos.
+**3. A câmera (cena 100%, padrão Soda Horse):** Mike volta mais cedo de um treino cortado. Abre o aplicativo das câmeras pela primeira vez em meses. **"Eu assisti aquilo umas 20 vezes."** CAM 03, cozinha, P&B, REC, timecode 2:14 PM: o peão entra pela porta dos fundos com uma lata, mistura um pó branco num copo **na pia dele**, olha o relógio da parede, bebe, limpa a bancada e sobe. CAM 02, corredor: a porta do quarto; a mão dela puxando o peão para dentro. Corte seco para tela branca: "I watched that thing 20 times."
+
+**4. O soco que não sai:** "Eu quis matar o garoto. Eu sou o Mike Tyson. E eu fiquei sentado na caminhonete, no escuro, por uma hora. Porque ele tinha o que eu não tinha." (Vestiário do Alpha Erec e café de Beverly Hills, dentro de uma caminhonete no Texas.)
+
+**5. A noite de Arlington (agravamento):** 15/11/2024. 72.300 pessoas, 108 milhões em casa. "Eu lutei contra o Jake Paul com aquele vídeo na cabeça." Fica de pé 8 rounds contra um garoto de 27. Volta ao hotel como o homem mais aplaudido do país. No quarto, ela espera. Nada. "Está tudo bem, Mike, você lutou 8 rounds."
+
+**6. O fundo:** jantar com amigos na casa deles. Alguém faz piada: "aguentou 8 rounds com o Jake Paul, hein". A esposa ri e solta, meio bêbada: **"oito rounds é fácil; difícil é o décimo."** Silêncio na mesa. Ele entende que todos entenderam. No quarto, pela primeira vez, ele mostra o vídeo e pede a verdade.
+
+**7. O outro lado (entrevista dela, para o Huberman, varanda do rancho, de costas ou desfocada):** "Com o Mike fazia dois anos. Eu virava de lado e dizia 'tudo bem'. O garoto não era bonito. Ele era duro. Por horas. Eu não amava ele. Voltei no dia seguinte, e no outro. Tenho vergonha." Huberman no plano do entrevistador, mão na testa. "Toda história tem dois lados. Metade dos casamentos deste país acaba assim, em silêncio, dentro do quarto."
+
+**8. A pista (o truque entra pela mão do rival):** o rancheiro velho, na manhã seguinte, vendo o Mike mexer no celular: "Esse pó que o garoto mistura? Sai do saco do galpão. Todo touro meu come isso. Mas ele não toma puro, garoto. Puro só arrota." Câmera do galpão: o peão enchendo a lata no saco. Payoff do loop do galpão.
 
 ### Fundo do poço (a virada)
 
-**O fundo:** jantar com amigos na casa deles. Alguém faz piada com a luta: "aguentou 8 rounds com o Jake Paul, hein". A esposa ri e solta, meio bêbada, sem maldade: "oito rounds é fácil; difícil é o décimo". Silêncio na mesa. Ele entende que todos entenderam. Ele vai para o quarto e, pela primeira vez, pede a ela a verdade. **Confissão gravada da esposa (depois, para o Huberman):** "Eu amo o Mike. Mas comecei a olhar. Nunca fiz. Mas comecei a olhar. E o que eu olhava não era o rosto do rapaz. Era o volume na calça dele, e o jeito como ele tinha certeza de que ia funcionar. Mike não tinha mais essa certeza. Eu sentia isso na mão dele tremendo."
+**A ligação:** Mike liga para o Huberman às 6 da manhã. "Cancela o que você tiver. Preciso de você em Dallas." Huberman cancela podcast, patrocínio e seis meses de gravações. Vai ao rancho, senta com o velho, ouve o preparo. Seis meses de pesquisa (o bloco de investigação). Chama o Attia para a ressonância: 60% de cimento.
 
-**A virada:** Mike liga para o Huberman às 6 da manhã. "Cancela o que você tiver. Preciso de você em Dallas." Huberman cancela podcast, patrocínio e seis meses de gravações. Chama o Attia. Na primeira conversa, Mike menciona a câmera e o pó branco. Huberman pergunta o que era. Mike não sabe. Attia pergunta onde o rapaz trabalha. "Num rancho de Longhorn perto de Arlington." Huberman: "Mike, você me disse que viu um saco de bicarbonato nesse galpão três meses antes da luta." Payoff do loop. Os dois vão ao rancho. O velho conta tudo.
+**O convite (Huberman liga para o Mike):** "Mike, eu não tenho fórmula. Tenho o pó e o preparo do rancheiro. Vou fazer na cozinha, sem certificação, na mão. Você topa ser o primeiro?" Mike: "O pó do garoto?" Huberman: "O pó do touro. O garoto só pegou emprestado." Tela dividida, chamada, lettering "WANNA BE THE FIRST?".
 
-**Superação (marcos, 1ª pessoa do Mike):** o Huberman volta do rancho com um pote de vidro de pó e prepara a primeira dose na cozinha às 7 da manhã, num copo de suco. 4º dia: ligação às 6h, "acordei duro, sem mão, sem nada, igual 1986". 11º dia: ela, pela primeira vez em dois anos, e a frase vira "oito rounds é fácil; o Mike aguenta a noite". RM aos 30 dias: 60% → 28%. Dois touros irmãos no rancho, um com o pó, outro sem: o sem para de cobrir. Dale e Carol entre os 37. "O peão perdeu a arma. Eu recuperei a minha mulher."
+**Superação (marcos, 1ª pessoa do Mike):** Huberman prepara a primeira dose na cozinha do rancho às 7 da manhã, num copo de suco. 4º dia: ligação às 6h, "acordei duro, sem mão, sem nada, igual 1986". 11º dia, 4 da manhã: "eu peguei ela. Ela chorou antes de eu entrar. Perguntou o que tinha mudado. Eu disse: os cavalos." Ela nunca mais foi ver os cavalos. A frase vira: **"oito rounds é fácil; o Mike aguenta o décimo."** RM aos 30 dias: 60% → 28%. Dois touros irmãos no rancho, um com o pó, outro sem. Dale e Carol entre os 37. "O peão perdeu a arma. Eu recuperei a minha mulher."
+
+**Versão anterior (v2, medo sem traição consumada):** substituída. Se o jurídico vetar a cena do quarto, voltar à v2: a câmera para na porta e a confissão dela é "comecei a olhar, nunca fiz".
 
 ## PONTOS LÓGICOS (Problema e Solução)
 
