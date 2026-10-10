@@ -89,7 +89,23 @@
 - A tentativa de compra: AE 20:16 → 20:22 (Attia em tom laranja, maços de $100 "for the formula", carimbo TOP SECRET "permanent NDA") + HJ 17:23 (documento assinado "FOR THE FORMULA").
 - A censura: AE 20:24 + 20:28 (telas "Video removed" do Facebook e do YouTube).
 - O vilão com nome: AE 28:08 (stand "Bayer Monsanto 2018" com Roundup e sementes) + AE 28:15 (pôster "$24 Billion already spent silencing cancer lawsuits — Blood Money").
-**Não levar:** AE 20:53 → 21:58 (Bill Gates, carrapato Lone Star, "53 estados", carne vegetal, 10-K); HJ 17:59 → 19:24 (GenX, Goldman Sachs, lodo no pasto, caminhão que cobra duas vezes). Os dois desvios saem inteiros.
+**Não levar:** AE 20:53 → 21:58 (Bill Gates, carrapato Lone Star, "53 estados", carne vegetal, 10-K). Sai inteiro.
+
+### PL7-B — Mantido por decisão (10/10/2026): o bloco "GenX, Goldman Sachs e o lodo no pasto" (HJ 17:52 → 19:50)
+
+É o bloco que fecha a tese do vilão com mecânica econômica e mata a objeção "então eu mudo a comida". Entra depois do memo e antes do mecanismo do problema, adaptado de PFAS para glifosato em quatro movimentos:
+
+**1. A troca de rótulo (HJ 17:59 → 18:14).** Frames: executivos analisando documento em frente à fábrica à noite; executivo e cientistas olhando documento no laboratório; lettering "SAME FAMILY"; monitor "PFAS FREE" com checkbox "Final Label Authorization". **Adaptação real:** depois dos processos, a Bayer tirou o glifosato do Roundup de jardim vendido ao consumidor nos EUA (a partir de 2023) e manteve o Roundup agrícola. Lettering: "GLYPHOSATE-FREE" no frasco da prateleira → "a versão do seu jardim mudou; a versão do seu bife, não". Monitor com "Final Label Authorization" igual ao da HJ.
+
+**2. Cobrar duas vezes (HJ 18:26 → 18:58).** Frames: arranha-céu visto de baixo; trader na mesa de operações com telas; fichário "INVESTIGATIVE REPORT" com mapa dos EUA e "US$ 1.7 billion"; fazendeiro de boné com tablet e mapa de talhões; mangueira sugando bueiro; caminhão-tanque na estrada de terra; cano despejando lodo na plantação; lettering "the same truck charging twice". **Adaptação real:** a mesma empresa vende a semente feita para sobreviver ao veneno (Roundup Ready) e o veneno. "O mesmo caminhão cobra duas vezes: a semente que aguenta o spray, e o spray." Frames: saco de semente com o selo "Roundup Ready" ao lado do galão; o mapa de talhões no tablet do fazendeiro; a nota fiscal com as duas linhas marcadas em amarelo. O trader e o fichário de fundo ficam para "quem financia a fazenda": fundos de Wall Street donos de terra agrícola (manter o frame do fichário com "US$ X billion" e o lettering "IT'S NOT THEORY" de HJ 19:02).
+
+**3. O lodo no pasto do seu bife (HJ 18:51 → 19:24).** Frames: mangueira no bueiro; caminhão-tanque; cano despejando lodo escuro; pasta "Q3 2024 INVESTMENT FUND PORTFOLIO ANALYSIS – CONFIDENTIAL"; linha de produção "3M POISONING FOR 28 YEARS"; mão assinando documento com lettering "ON THE PASTURE OF YOUR STEAK". **Adaptação com fato real e texano:** o lodo de esgoto das cidades é espalhado como adubo em pasto (biossólidos), e em 2024 rancheiros do condado de Johnson, Texas, processaram a prefeitura e a empresa de biossólidos por gado morto e pasto contaminado. É o segundo veneno no mesmo prato: "a prefeitura paga pra levar o esgoto; o rancho recebe pra espalhar no pasto; o caminhão cobra duas vezes; o seu bife come os dois". Manter os frames do bueiro, do caminhão e do cano; trocar "3M" por "BAYER — 50 YEARS"; a mão assinando documento vira a assinatura do contrato de biossólidos com o condado. Lettering: "ON THE PASTURE OF YOUR STEAK — JOHNSON COUNTY, TX".
+
+**4. Não existe filtro pra chuva (HJ 19:38 → 19:42).** Frames: pesquisadores de parka vermelha coletando amostra na neve, etiqueta "Antarctica"; prato de café da manhã (ovos, salsicha, hash brown) e suco; lettering "you can change the food". **Adaptação real:** o USGS encontrou glifosato no ar e na água da chuva do Mississippi e de Iowa (60 a 100% das amostras). Trocar a Antártida pela chuva caindo num pasto do Texas e pelo coletor de chuva com etiqueta "USGS — Rain Sample". Fala mantida: "você pode trocar a comida, a panela, o filtro da torneira, mas não existe filtro que resolva a chuva". É o que torna o verbo PROTEGER obrigatório no MUS.
+
+**Fechamento do bloco (HJ 19:42):** "3 corporações coordenadas faturando US$ 32 bilhões por ano com o seu pau não levantando." Ficar com o número e com o prato de café da manhã como última imagem antes do mecanismo.
+
+**Não levar deste bloco:** nada; cortar apenas repetições de caminhão (um frame de cada basta).
 
 ---
 
@@ -115,3 +131,4 @@
 | PL5 | HJ 24:54 bilhete no prato | — | pedal do acelerador | AE 27:14 microscopias | — |
 | PL6 | AE 30:02 infográfico boca→2h | 485/ano · 9.700 · 1–2%/ano | estágios do cimento | AE 28:48 meio a meio | AE 32:04/32:09 flagra |
 | PL7 | AE 19:43 memo 04-BETA · WSJ $24 bi | 73 estudos · 7 demitidos · $8,7 bi | "assinatura mensal" | HJ 16:03 homem com a caixa | AE 20:45 insider borrado · AE 20:24 vídeo removido |
+| PL7-B | HJ 19:07 pasta do fundo · contrato de biossólidos (Johnson County, TX) | $1,7 bi · $32 bi/ano · 60–100% da chuva | "o caminhão cobra duas vezes" | HJ 18:58 cano despejando lodo · chuva no pasto | HJ 18:14 monitor "Final Label Authorization" |
