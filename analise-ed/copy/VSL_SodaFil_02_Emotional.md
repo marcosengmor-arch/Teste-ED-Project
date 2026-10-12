@@ -52,7 +52,7 @@ Eight weeks before Arlington, I bought a ranch in Fort Worth. Twenty minutes fro
 
 I saw it. I'm Mike Tyson. I see everything. And I did nothing. 'Cause what am I gonna say? "Don't laugh"? With what I got going on downstairs? I ain't got no leverage, bro. A man with a dead dick ain't got no leverage in his own house. That's real talk.
 
-Then it got worse. Her phone face down on the table. Her going to "see the horses" every afternoon I got sparring. A smell in my truck that ain't mine and ain't hers. The house lost its color, man. Felt like a hotel room. I'm the guest.
+Then it got worse. Her phone face down on the table. Her going to "see the horses" every afternoon I got sparring. And halfway through camp, Netflix flew me to New York. Four days of press. Fallon, the morning shows, sitting next to Jake Paul telling the whole world what I'm gonna do to him. Four days off the ranch. And when I got back, the house was different. The smell was different. She was different. Hiding her phone. Cold. And her eyes, bro. Her eyes was telling on her. My own house lost its color. Felt like one more hotel room, like the ones I just left in New York. And I'm the guest.
 
 And I did the most pathetic thing a man can do. My security puts cameras in every house I stay in. Every room. I never opened that app one time. One afternoon they cut my session short, I'm sitting in the truck, and I open it. I'm looking for proof she's cheating. What that camera gave me was so much worse.
 
@@ -140,7 +140,7 @@ Oito semanas antes de Arlington, eu comprei um rancho em Fort Worth. Vinte minut
 
 Eu vi. Eu sou o Mike Tyson. Eu vejo tudo. E não fiz nada. Porque eu ia falar o quê? "Não ri"? Com o que eu tenho lá embaixo? Eu não tenho moral nenhuma, mano. Homem com pau morto não tem moral dentro da própria casa. Isso é papo reto.
 
-Aí piorou. O celular dela virado pra baixo na mesa. Ela indo "ver os cavalos" toda tarde que eu tinha sparring. Um cheiro na minha caminhonete que não é meu e não é dela. A casa perdeu a cor, cara. Parecia quarto de hotel. E o hóspede era eu.
+Aí piorou. O celular dela virado pra baixo na mesa. Ela indo "ver os cavalos" toda tarde que eu tinha sparring. E no meio do camp, a Netflix me levou pra Nova York. Quatro dias de imprensa. Fallon, os programas de manhã, sentado do lado do Jake Paul dizendo pro mundo inteiro o que eu ia fazer com ele. Quatro dias fora do rancho. E quando eu voltei, a casa tava diferente. O cheiro tava diferente. Ela tava diferente. Escondendo o celular. Fria. E os olhos dela, mano. Os olhos dela entregavam. A minha própria casa perdeu a cor. Parecia mais um quarto de hotel, igual os que eu tinha acabado de deixar em Nova York. E o hóspede era eu.
 
 E eu fiz a coisa mais patética que um homem pode fazer. A minha segurança põe câmera em toda casa onde eu fico. Todo cômodo. Eu nunca abri aquele aplicativo uma vez. Uma tarde cortaram o meu treino mais cedo, eu tô sentado na caminhonete, e abro. Eu tava procurando prova de traição. O que aquela câmera me deu foi muito pior.
 
@@ -197,7 +197,8 @@ Eu saí de Fort Worth com duas perguntas cravadas na cabeça. A primeira: o que 
 | O pau estranho | (não havia) | "You look down at your own dick like it belongs to somebody else. Like it's some stranger that showed up in your pants and won't leave." | Ferida de identidade |
 | A moral | "I noticed. And I did nothing." | "'Cause what am I gonna say? 'Don't laugh'? With what I got going on downstairs? I ain't got no leverage, bro. A man with a dead dick ain't got no leverage in his own house. That's real talk." | VOC: a perda de autoridade em casa |
 | Soluções comuns (v3) | (não havia; Soda Horse não desqualifica soluções na emotional) | "First one charged me five grand to tell me: Mike, Viagra." · "like fucking my own wife turned into a military operation" · "Robot shit. I'm hard, but I ain't there." · "Like a cooked noodle." · "Like you take a crying baby off your lap." · "No blood. You just dead." · "The mirror started hurting, bro. The mirror." | Padrão Alpha Erec (Viagra 3 meses → a noite → "it's okay" → TRT → vestiário) na voz do Mike; VOC: o relógio no carro, o robô, o vestiário |
-| O hóspede | "It felt like a hotel room." | "+ I'm the guest." | Imagem concreta |
+| A viagem (Soda Horse 5.3a: "voltei de uma temporada e a casa estava diferente") | (v2 não tinha a ausência) | "Halfway through camp, Netflix flew me to New York. Four days of press. Fallon, the morning shows, sitting next to Jake Paul… Four days off the ranch. And when I got back, the house was different. The smell was different. She was different. … Her eyes was telling on her." | A temporada de filmagem do Costner vira a press tour da luta: 4 dias em Nova York, pública e verificável |
+| O hóspede | "It felt like a hotel room." | "Felt like one more hotel room, like the ones I just left in New York. And I'm the guest." | Imagem concreta, agora ligada à viagem |
 | A caminhonete | "I wanted to kill him. I'm Mike Tyson. And I didn't get out of the truck." | "+ I been to prison. … You can't fight a man for having what you don't got." | Biografia real + lógica de rua |
 | O hotel | "It's okay, Mike. You went eight rounds." | "+ It's okay. Them two words. A man can take a lot of things, but a man can't take 'it's okay' from his wife." | VOC: a frase de pena |
 | O jantar | "And I knew that everybody knew." | "+ The whole table knew. God damn." | Tique do Tyson ("God damn") |
