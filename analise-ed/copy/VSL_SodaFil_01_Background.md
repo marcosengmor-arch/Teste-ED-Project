@@ -1,8 +1,8 @@
-# VSL SodaFil — BLOCO 1: BACKGROUND STORY (v2, 12/10/2026)
+# VSL SodaFil — BLOCO 1: BACKGROUND STORY (v3, 12/10/2026)
 
-**Mudanças da v2 (ordem do Marcos):** sem Attia no background; autoridade do Huberman construída com números e lista de assuntos, no padrão Alpha Erec ("Top 5… 200 milhões de downloads… falo sobre tudo… mas até 6 meses atrás eu nunca tinha falado sobre…"); o tease do mecanismo ganha nome: **placa castradora / castrating plaque**.
-**Segue:** doc 10 (PL-B1, B2, B4, B5; PL-B3 removido), brief 04, doc 06.
-**Entra depois de:** a lead. **Duração-alvo:** 2 min 20 s a 2 min 45 s.
+**Método desta versão (ordem do Marcos):** modelagem pela **estrutura invisível** do bloco validado (Alpha Erec 4.1 → 5.3, com a confissão da Soda Horse 3.1–3.2 encaixada na mesma função). A ordem psicológica e a função de cada parágrafo são respeitadas; o conteúdo é do Huberman (fatos, assuntos, números dele), não do Attia. Toques originais marcados na tabela de modelagem no fim. Escrita segue o guia interno de comunicação (A-B-C, momentum, frases curtas, grupos de três, mostrar em vez de dizer, bucket brigades, ler em voz alta).
+
+**Entra depois de:** a lead. **Duração-alvo:** 2 min 50 s a 3 min 10 s (o bloco validado tem 2 min 18 s + 1 min 47 s).
 **Marcações:** `[LETTERING]` = legenda grande colorida (só nos picos). `[B-ROLL]` = plano literal. Sem marcação = legenda pequena branca inferior.
 
 ---
@@ -11,53 +11,51 @@
 
 **ANDREW HUBERMAN:**
 
-But before I show you how this works, you're asking yourself: who the hell is this guy, and why should I listen to him about my dick?
+But before we go on, you're probably asking yourself: who am I to be telling you any of this?
 
-Fair question. So let me answer it. And then let me tell you the one thing about my own work that I'm ashamed of.
+My name is Andrew Huberman. I'm a professor of neurobiology at Stanford School of Medicine. `[B-ROLL: Stanford, Huberman de jaleco no laboratório]` For twenty years I ran a lab that studied one thing: how the nervous system controls the body, and how to take that control back. `[B-ROLL: microscópio, neurônios]` Stress. Sleep. Hormones. Recovery. Then, five years ago, I left the bench to do something that, at the time, nobody had a name for. Teaching men the actual science of their own bodies. Not opinions. Protocols. `[B-ROLL: estúdio do podcast]`
 
-My name is Andrew Huberman. I'm a professor of neurobiology at Stanford School of Medicine. `[B-ROLL: Stanford, laboratório, Huberman de jaleco]`
+Today those protocols run through NFL locker rooms, Navy SEAL teams, Silicon Valley founders, and actors who have to take their shirt off on camera at 60 and look like a bull. `[B-ROLL: atleta, operador, CEO, ator sem camisa, um plano cada]` Men who will do anything to keep working the way they worked at 30. And I was the best in the world at making them stronger. `[B-ROLL: homem de 55 forte na academia]`
 
-You've probably seen me on my podcast, Huberman Lab. `[B-ROLL: estúdio, capa do podcast]` Top 5 in the United States in the health category, four years running. Hundreds of millions of downloads. `[LETTERING: "TOP 5 — 4 YEARS" / "HUNDREDS OF MILLIONS OF DOWNLOADS"]` I interview scientists, physicians, researchers, the men who run the biggest labs in this country. `[B-ROLL: convidados reais com lower-third]`
+That's exactly where my shame lives.
 
-And I talk about everything. Testosterone. Dopamine. Sleep. Growth hormone. Intermittent fasting. Mitochondria. Testosterone replacement therapy. `[B-ROLL: capas dos episódios reais passando, uma por palavra]` If you've ever taken a cold shower to raise your testosterone, you did that because of me. `[B-ROLL: Huberman na banheira de gelo]` If you've ever stepped outside to get morning sunlight in your eyes, that was me too. `[B-ROLL: sol da manhã]` I have an entire episode on testosterone. I have a chapter on cold exposure to the groin. `[B-ROLL: tela do episódio real, capítulo "Cold Exposure to Groin"]` Millions of American men built their mornings around what I told them.
+Because for five years, I made men stronger. Cold. Sun. Sleep. Training. Testosterone up, cortisol down. And I sent those stronger men home to their wives with a dead dick. `[LETTERING: "STRONGER MAN" branco / "DEAD DICK" vermelho]` I built the engine and never looked at the tissue. `[B-ROLL: o mesmo homem forte sentado na beira da cama, luz azul, ela de costas]` And the tissue is where this happens.
+
+You've probably seen me on my podcast, Huberman Lab. `[B-ROLL: capa do podcast, tela do YouTube]` The most listened-to health podcast in the world. Over six million subscribers on YouTube alone. Hundreds of millions of downloads. `[LETTERING: "6,000,000+ SUBSCRIBERS"]` I interview scientists, physicians, Nobel laureates. And I talk about everything. Dopamine. Sleep. Testosterone. Growth hormone. Cold exposure. Morning sunlight. Fertility. `[B-ROLL: capas reais dos episódios, uma por palavra]` I have a three-hour episode on male hormones. I have a chapter on cold exposure to the groin.
 
 But until six months ago, I had never once said the words "castrating plaque." `[LETTERING: "CASTRATING PLAQUE"]`
 
-Because I had never heard them. Nobody had.
+And that's exactly why I'm here.
 
-And here's the part that embarrasses me.
+Because what I'm going to show you in the next few minutes is something I didn't know existed until last December. Something happening inside the body of almost every American man over 40. `[B-ROLL: animação 3D, corte do pênis, área escurecendo]` And not one doctor, not me, not my colleagues at Stanford, not a single urologist in this country, was looking at it.
 
-For six years, I taught men how to build a stronger body. And I sent those stronger men home with a dead dick. `[LETTERING: "STRONGER MAN" branco / "DEAD DICK" vermelho]`
+But I need to go back a little. Because this story starts with a friend of mine.
 
-Because everything I taught them, the cold, the sun, the sleep, the training, all of it makes the man stronger. None of it touches the tissue. `[B-ROLL: homem forte de 55 na academia, corte para ele sentado na beira da cama, luz azul]` And the tissue is where this happens.
+I've lived in Los Angeles for the last few years. `[B-ROLL: LA, casa, academia de garagem]` And in that time I built a very specific kind of friendship with a man who trains in the same gym I do. We've lifted together. We've eaten at each other's tables. I've watched him with his kids. `[B-ROLL: fotos de Huberman e Tyson juntos]` His name is Mike Tyson. Yes, that Mike Tyson. `[B-ROLL: Tyson 1986, cinturão]` The youngest heavyweight champion in history. Twenty years old. The most feared man on the planet for a decade. When you were a boy and you closed your eyes and imagined what it meant to be feared, this is the man you saw. `[B-ROLL: Tyson entrando no ringue, anos 80]`
 
-There is something going on inside the dick of almost every American man after 40. `[B-ROLL: animação 3D, corte do pênis, área escurecendo]` A deposit. It builds up in the one tissue that decides whether you get hard or not, and it does to that tissue exactly what a knife does to a bull. `[B-ROLL: touro no pasto; corte para um boi castrado, cabeça baixa, no curral]` No cut. No blood. No pain. No warning. `[LETTERING: "NO PAIN" branco / "NO WARNING" vermelho]` It turns living flesh into something soft and dead that doesn't answer to anything: not to desire, not to a blue pill, not to a cold shower. And it does it in the most cowardly way possible: so slowly that by the time a man notices, the damage is already done.
+I know this man. I've seen him train. I've seen him eat. I've seen him at 58 with his shirt off, with more muscle than most of my listeners have at 30. `[B-ROLL: Tyson sem camisa, treino 2024]` The man who, at 58, stood up for eight rounds in front of 72,000 people in Arlington, Texas, and 108 million more at home. `[B-ROLL: AT&T Stadium, 15 de novembro de 2024]` Mike is what I'd call a biological exception. The man who ages wrong. Upward.
 
-And nobody in this country, not me, not my colleagues at Stanford, not the urologists, not the pharmaceutical companies, had the courage or the eye to give it a name. `[LETTERING: "NOBODY NAMED IT"]`
+At least that's what I thought.
 
-I'm going to give it one tonight. And I'm going to show you where it came from, what it's doing to you right now, and the one animal on earth that it can't touch.
+In December of 2024, three weeks after Arlington, Mike called me at six in the morning. `[B-ROLL: tela de chamada recebida, 6:02 AM]` I cancelled my next three episodes and disappeared into research for six months. Let me say that again so you understand. I cancelled three episodes. In one week, I walked away from a confirmed sponsorship deal. I didn't record. I didn't set foot in my lab. The people who run my company thought I'd lost my mind. `[B-ROLL: agenda riscada, estúdio vazio, luz apagada]` And I did all of it for one reason.
 
-But this story doesn't start in a lab. It starts with a friend. `[B-ROLL: foto de Huberman e Tyson juntos, academia]`
+Because what Mike told me that morning, when he finally opened up, after years of carrying it, wasn't a patient's complaint. It was the confession of a man who had hit the bottom. `[B-ROLL: Tyson no rancho, camisa aberta, cabeça baixa]`
 
-I've known Mike Tyson for years. We've trained together. We've eaten at each other's tables. I've seen him with his shirt off at 58, with more muscle than most of my listeners have at 30. `[B-ROLL: Tyson sem camisa, treino, 2024]` For me, Mike was living proof that a man could get old and stay a bull. The most feared man in America. The man who, at 58, stood up for eight rounds in front of 72,000 people in Arlington, Texas, and 108 million more at home. `[B-ROLL: AT&T Stadium, 15 de novembro de 2024, multidão]`
+And when I hung up the phone, I already understood three things. `[B-ROLL: três cartelas, uma por frase]`
 
-And he was the first one to break. `[B-ROLL: Tyson no rancho, camisa aberta, olhando para baixo]`
+The first: what was happening to Mike Tyson was not something any urologist on earth was going to diagnose. It wasn't age. It wasn't stress. It wasn't low testosterone. I checked. His numbers were better than mine.
 
-What he told me, in that ranch house outside Arlington, wasn't a patient's complaint. It was a confession. The most feared man in America, sitting in front of me with his head down, telling me his dick hadn't worked right in two years, and that he'd just found out what that costs a man.
+The second: if it was happening to him, to the man with the best doctors, the best nutritionists, the best trainers on the planet one phone call away, then it was happening to almost every other American man over 45. Quietly. No diagnosis. No name.
 
-So stop and think about this with me. If it dropped Mike Tyson, with all the money in the world and every doctor in the world one phone call away, what do you think it's already doing to yours, with nobody there to warn you? `[LETTERING: "WHAT IS IT DOING TO YOURS?"]`
+And the third: nobody was talking about it for a very specific reason. A reason that involves three of the largest corporations in the world. `[LETTERING: "3 CORPORATIONS"]` A reason that, if I said it out loud, was going to cost me the credibility I spent twenty years building at Stanford.
 
-That night, three things became clear to me. `[B-ROLL: três cartelas, uma por frase]`
+I said it anyway.
 
-The first: it wasn't age. It wasn't stress. It wasn't testosterone, and believe me, I checked. It was something else. Something nobody looks for, because nobody knows it's there.
+Because after I saw what I saw, I couldn't go back to my old routine. I shut the door on the lab, I cancelled everything, and I went head first into the data. And what I found in those six months is what I'm going to hand you in the next few minutes. `[B-ROLL: Huberman lendo papéis à noite, laptop]`
 
-The second: if it took down Mike Tyson, it is taking down every American man, quietly, one by one, with no name and no diagnosis. Including you. Today.
+But before we get to the science and the solution, I need you to hear from Mike himself what he told me that morning. Because it's the hardest part of this story. And it's the part that will make you understand why a man like that agreed to sit in front of this camera.
 
-And the third, the dirtiest one: nobody talks about it for a very specific reason. A reason that involves three of the largest corporations on the planet, and more money than you and I will ever see. `[LETTERING: "3 CORPORATIONS"]`
-
-I'm going to prove all three.
-
-But first, you need to hear how it started. And you need to hear it from Mike. `[B-ROLL: Tyson levanta a cabeça, olha para a câmera]`
+It was when Mike told me what he saw on the camera in his own kitchen. `[B-ROLL: frame P&B da câmera CAM 03, congelado; corte para Tyson levantando a cabeça]`
 
 ---
 
@@ -65,68 +63,75 @@ But first, you need to hear how it started. And you need to hear it from Mike. `
 
 **ANDREW HUBERMAN:**
 
-Mas antes de eu te mostrar como isso funciona, você está se perguntando: quem diabos é esse cara, e por que eu deveria ouvir ele falar do meu pau?
+Mas antes de continuarmos, você provavelmente está se perguntando: quem sou eu pra te dizer tudo isso?
 
-Pergunta justa. Então deixa eu responder. E depois deixa eu te contar a única coisa do meu próprio trabalho de que eu tenho vergonha.
+Meu nome é Andrew Huberman. Sou professor de neurobiologia na Faculdade de Medicina de Stanford. Por vinte anos eu comandei um laboratório que estudava uma coisa só: como o sistema nervoso controla o corpo, e como tomar esse controle de volta. Estresse. Sono. Hormônios. Recuperação. Aí, cinco anos atrás, eu saí da bancada pra fazer uma coisa que, na época, ninguém tinha nome pra dar. Ensinar homens a ciência de verdade do próprio corpo. Não opinião. Protocolo.
 
-Meu nome é Andrew Huberman. Sou professor de neurobiologia na Faculdade de Medicina de Stanford.
+Hoje esses protocolos rodam em vestiário da NFL, em equipe de Navy SEAL, em fundador do Vale do Silício, e em ator que precisa tirar a camisa na frente da câmera aos 60 e parecer um touro. Homens que fazem qualquer coisa pra continuar funcionando como funcionavam aos 30. E eu era o melhor do mundo em deixar esses homens mais fortes.
 
-Você provavelmente já me viu no meu podcast, Huberman Lab. Top 5 nos Estados Unidos na categoria saúde, por quatro anos seguidos. Centenas de milhões de downloads. Eu entrevisto cientistas, médicos, pesquisadores, os homens que comandam os maiores laboratórios deste país.
+É exatamente aí que mora a minha vergonha.
 
-E eu falo sobre tudo. Testosterona. Dopamina. Sono. Hormônio do crescimento. Jejum intermitente. Mitocôndrias. Terapia de reposição de testosterona. Se você já tomou banho gelado pra subir a testosterona, você fez isso por minha causa. Se você já saiu de casa pra pegar o sol da manhã nos olhos, isso também fui eu. Eu tenho um episódio inteiro sobre testosterona. Tenho um capítulo sobre exposição ao frio na virilha. Milhões de homens americanos montaram a manhã deles em cima do que eu disse.
+Porque por cinco anos, eu deixei homens mais fortes. Frio. Sol. Sono. Treino. Testosterona pra cima, cortisol pra baixo. E mandei esses homens mais fortes pra casa, pra mulher deles, com um pau morto. Eu construí o motor e nunca olhei pro tecido. E é no tecido que isso acontece.
+
+Você provavelmente já me viu no meu podcast, Huberman Lab. O podcast de saúde mais ouvido do mundo. Mais de seis milhões de inscritos só no YouTube. Centenas de milhões de downloads. Eu entrevisto cientistas, médicos, ganhadores do Nobel. E eu falo sobre tudo. Dopamina. Sono. Testosterona. Hormônio do crescimento. Exposição ao frio. Sol da manhã. Fertilidade. Eu tenho um episódio de três horas sobre hormônios masculinos. Tenho um capítulo sobre exposição ao frio na virilha.
 
 Mas até seis meses atrás, eu nunca tinha dito as palavras "placa castradora".
 
-Porque eu nunca tinha ouvido. Ninguém tinha.
+E é exatamente por isso que eu estou aqui.
 
-E aqui vem a parte que me envergonha.
+Porque o que eu vou te mostrar nos próximos minutos é uma coisa que eu nem sabia que existia até dezembro passado. Uma coisa que está acontecendo dentro do corpo de quase todo homem americano acima dos 40. E nenhum médico, nem eu, nem meus colegas de Stanford, nem um único urologista deste país, estava olhando pra isso.
 
-Por seis anos, eu ensinei homens a construir um corpo mais forte. E mandei esses homens mais fortes pra casa com um pau morto.
+Mas eu preciso voltar um pouco. Porque essa história começa com um amigo meu.
 
-Porque tudo que eu ensinei, o frio, o sol, o sono, o treino, tudo isso deixa o homem mais forte. Nada disso toca no tecido. E é no tecido que isso acontece.
+Eu moro em Los Angeles há alguns anos. E nesse tempo eu construí um tipo muito específico de amizade com um homem que treina na mesma academia que eu. A gente já levantou peso junto. Já comeu na mesa um do outro. Eu já vi ele com os filhos. O nome dele é Mike Tyson. Sim, aquele Mike Tyson. O campeão dos pesos-pesados mais jovem da história. Vinte anos de idade. O homem mais temido do planeta por uma década. Quando você era menino e fechava os olhos e imaginava o que era ser temido, era esse homem que você via.
 
-Tem uma coisa acontecendo dentro do pau de quase todo homem americano depois dos 40. Um depósito. Ele se acumula no único tecido que decide se você fica duro ou não, e faz com esse tecido exatamente o que a faca faz com um touro. Sem corte. Sem sangue. Sem dor. Sem aviso. Ele transforma carne viva numa coisa mole e morta que não responde mais a nada: nem ao desejo, nem à pílula azul, nem ao banho gelado. E faz isso do jeito mais covarde possível: tão devagar que, quando o homem percebe, o estrago já está feito.
+Eu conheço esse homem. Eu vi ele treinar. Vi ele comer. Vi ele aos 58 sem camisa, com mais músculo do que a maioria dos meus ouvintes tem aos 30. O homem que, aos 58, ficou de pé por oito rounds na frente de 72 mil pessoas em Arlington, no Texas, e de mais 108 milhões em casa. O Mike é o que eu chamaria de exceção biológica. O homem que envelhece errado. Pra cima.
 
-E ninguém neste país, nem eu, nem meus colegas de Stanford, nem os urologistas, nem as farmacêuticas, teve a coragem ou o olho pra dar um nome a isso.
+Pelo menos era o que eu pensava.
 
-Eu vou dar um nome hoje. E vou te mostrar de onde veio, o que está fazendo com você agora, e o único animal da Terra que ele não consegue tocar.
+Em dezembro de 2024, três semanas depois de Arlington, o Mike me ligou às seis da manhã. Eu cancelei os meus três episódios seguintes e sumi dentro da pesquisa por seis meses. Deixa eu repetir pra você entender. Eu cancelei três episódios. Em uma semana, abri mão de um contrato de patrocínio confirmado. Não gravei. Não pisei no meu laboratório. As pessoas que tocam a minha empresa acharam que eu tinha enlouquecido. E eu fiz tudo isso por um único motivo.
 
-Mas esta história não começa num laboratório. Começa com um amigo.
+Porque o que o Mike me contou naquela manhã, quando finalmente se abriu, depois de anos carregando aquilo, não era queixa de paciente. Era a confissão de um homem que tinha chegado ao fundo.
 
-Eu conheço o Mike Tyson há anos. A gente já treinou junto. Já comeu na mesa um do outro. Eu já vi ele sem camisa aos 58, com mais músculo do que a maioria dos meus ouvintes tem aos 30. Pra mim, o Mike era a prova viva de que um homem podia envelhecer e continuar touro. O homem mais temido da América. O homem que, aos 58, ficou de pé por oito rounds na frente de 72 mil pessoas em Arlington, no Texas, e de mais 108 milhões em casa.
+E quando eu desliguei o telefone, eu já tinha entendido três coisas.
 
-E ele foi o primeiro a quebrar.
+A primeira: o que estava acontecendo com o Mike Tyson não era uma coisa que urologista nenhum do mundo ia diagnosticar. Não era idade. Não era estresse. Não era testosterona baixa. Eu chequei. Os números dele eram melhores que os meus.
 
-O que ele me contou, naquela casa de rancho perto de Arlington, não era queixa de paciente. Era uma confissão. O homem mais temido da América, sentado na minha frente de cabeça baixa, me contando que o pau dele não funcionava direito há dois anos, e que ele tinha acabado de descobrir quanto isso custa a um homem.
+A segunda: se estava acontecendo com ele, com o homem que tem os melhores médicos, os melhores nutricionistas, os melhores preparadores do planeta a um telefonema de distância, então estava acontecendo com quase todo outro homem americano acima dos 45. Em silêncio. Sem diagnóstico. Sem nome.
 
-Então para e pensa comigo. Se isso derrubou o Mike Tyson, com todo o dinheiro do mundo e todo médico do mundo a um telefonema de distância, o que você acha que isso já está fazendo com o seu, sem ninguém pra te avisar?
+E a terceira: ninguém estava falando disso por um motivo muito específico. Um motivo que envolve três das maiores corporações do mundo. Um motivo que, se eu dissesse em voz alta, ia me custar a credibilidade que eu levei vinte anos pra construir em Stanford.
 
-Naquela noite, três coisas ficaram claras pra mim.
+Eu disse mesmo assim.
 
-A primeira: não era idade. Não era estresse. Não era testosterona, e pode acreditar, eu chequei. Era outra coisa. Uma coisa que ninguém procura, porque ninguém sabe que existe.
+Porque depois que eu vi o que vi, eu não conseguia mais voltar pra minha rotina. Fechei a porta do laboratório, cancelei tudo e mergulhei de cabeça nos dados. E o que eu encontrei nesses seis meses é o que eu vou te entregar nos próximos minutos.
 
-A segunda: se derrubou o Mike Tyson, está derrubando todo homem americano, em silêncio, um por um, sem nome e sem diagnóstico. Incluindo você. Hoje.
+Mas antes de chegar na ciência e na solução, eu preciso que você ouça da boca do próprio Mike o que ele me contou naquela manhã. Porque é a parte mais difícil desta história. E é a parte que vai te fazer entender por que um homem como ele aceitou sentar na frente desta câmera.
 
-E a terceira, a mais suja: ninguém fala disso por um motivo muito específico. Um motivo que envolve três das maiores corporações do planeta, e mais dinheiro do que eu e você vamos ver na vida.
-
-Eu vou provar as três.
-
-Mas antes, você precisa ouvir como começou. E precisa ouvir do Mike.
+Foi quando o Mike me contou o que ele viu na câmera da própria cozinha.
 
 ---
 
-## Notas de construção
+## Modelagem: estrutura invisível do bloco validado → nossa versão
 
-| PL (doc 10) | Onde está | Loop aberto |
-|---|---|---|
-| PL-B1 quem é o Huberman | "My name is Andrew Huberman" → "built their mornings around what I told them" | — |
-| Tease do mecanismo (novo) | "until six months ago, I had never once said the words 'castrating plaque'" | o batismo na tese (PL-T1 → T3) |
-| PL-B2 a confissão | "here's the part that embarrasses me" → "NOBODY NAMED IT" → "I'm going to give it one tonight" | callback em "por que nada funcionou" (regra 16); "the one animal on earth it can't touch" → ponte do touro |
-| PL-B4 o amigo | "It starts with a friend" → "what is it doing to yours?" | a confissão do Mike (emotional) |
-| PL-B5 as três coisas | "three things became clear" → "I'm going to prove all three" | PL-D3, PL-T6, PL-D6/D8 |
+| # | Parágrafo do bloco validado (Alpha Erec 4.1–5.3 / Soda Horse 3.1–3.2) | Função psicológica | Nossa versão (Huberman) | Toque original |
+|---|---|---|---|---|
+| 1 | "Antes de continuarmos, quem sou eu pra te dizer tudo isso?" | Antecipar a objeção de autoridade antes que ela nasça | Mesma frase, mesma posição | — |
+| 2 | Formação + o que fez + a virada há 13 anos para algo "que ninguém chamava de longevidade masculina" + a clínica + quem ele atende (bilionários, NFL, atores que tiram a camisa aos 60) | Credencial concreta → pivô para o nicho → prova social por clientela de elite | Stanford, 20 anos de laboratório (sistema nervoso, estresse, sono, hormônios), a virada há 5 anos para "ensinar homens a ciência do próprio corpo, protocolos", e quem usa os protocolos (NFL, SEALs, fundadores, atores aos 60) | "Não opinião. Protocolo." como assinatura do Huberman |
+| 3 | SH: "E eu era o melhor do mundo nisso… mas é aí que mora a minha vergonha… forcei ereções em paus que apodreciam por dentro… maquiagem num cadáver" | Humildade que aumenta a autoridade; o expert como parte do problema; tease do mecanismo | "Eu era o melhor do mundo em deixá-los mais fortes. É exatamente aí que mora a minha vergonha… mandei esses homens mais fortes pra casa com um pau morto. Construí o motor e nunca olhei pro tecido." | A confissão é do conteúdo real dele (frio, sol, sono, testosterona), regra 16 do brief |
+| 4 | "Você provavelmente já me viu no meu podcast… Top 5… 200 milhões… entrevisto… falo sobre tudo: lista… Mas até 6 meses atrás eu nunca tinha falado sobre placas tóxicas. E é exatamente por isso que estou aqui." | Autoridade de massa com números → amplitude de assuntos → o ÚNICO assunto que faltava = o mecanismo | Huberman Lab, 6 milhões no YouTube, centenas de milhões de downloads, Nobel, lista de assuntos reais dele (dopamina, sono, testosterona, GH, frio, sol, fertilidade), "episódio de 3 horas sobre hormônios masculinos", "capítulo de frio na virilha" → "nunca tinha dito as palavras 'placa castradora'" | O nome do mecanismo é novo (não existe nas 3 copies) |
+| 5 | "Algo que eu mesmo não sabia que existia até outubro… dentro do corpo de todo homem acima de 40… nenhum médico estava enxergando. Mas preciso voltar um pouco. Essa história começa com um amigo." | Promessa de revelação + culpa compartilhada da medicina + ponte para a história | Mesma sequência, "dezembro passado", "nem um único urologista" | — |
+| 6 | Geografia e intimidade (LA, 15 min, golfe desde 2009, jantares, filhos) → "O nome dele é Stallone. Sim, aquele Stallone." → o ícone (Rocky, Rambo, "quando você fechava os olhos aos 12…") | Intimidade verificável → revelação do nome com pausa → o avatar como fantasia do espectador | LA, mesma academia, levantar peso junto, mesa, filhos → "Mike Tyson. Sim, aquele Mike Tyson." → campeão mais jovem, 20 anos, "o homem mais temido do planeta", "quando você era menino e imaginava o que era ser temido" | "Ser temido" no lugar de "ser homem": é o eixo do Tyson |
+| 7 | "Eu conheço esse homem. Vi ele treinar, comer, sem camisa aos 65 na minha piscina… exceção biológica… envelhece pra cima. Pelo menos era o que eu pensava." | Testemunho ocular → o avatar como exceção → a quebra em uma frase | Vi treinar, comer, sem camisa aos 58; Arlington, 72 mil, 108 milhões; "exceção biológica… envelhece errado, pra cima. Pelo menos era o que eu pensava." | Arlington entra aqui como prova de força, antes de virar cena de falha no emotional |
+| 8 | "Em outubro de 2025 o Sylvester me ligou num sábado. Cancelei 3 podcasts, 6 meses de pesquisa. Vou repetir… $350.000… jantares… nenhum paciente… minha esposa achou que eu tinha enlouquecido… por um único motivo." | O custo da descoberta como prova de que ela vale; repetição para ênfase | "Dezembro de 2024, três semanas depois de Arlington, às seis da manhã. Cancelei três episódios, seis meses. Deixa eu repetir… patrocínio… não gravei… não pisei no laboratório… as pessoas que tocam a minha empresa acharam que eu tinha enlouquecido… por um único motivo." | Sem "esposa" (Huberman não é casado publicamente); "seis da manhã" liga à Emotional v3 |
+| 9 | "O que ele me contou não era queixa de paciente. Era a confissão de um homem no fundo do poço." | Reclassificar a conversa: de consulta para confissão | Igual, "depois de anos carregando aquilo" | — |
+| 10 | "Quando desliguei, já tinha entendido 3 coisas. A primeira: não era o que urologista nenhum ia diagnosticar. Não era idade, estresse, testosterona." | Tese plantada 1: causa oculta | Igual + "Eu chequei. Os números dele eram melhores que os meus." | A linha dos números é o Huberman (ele mede) |
+| 11 | "A segunda: se acontecia com ele, com o melhor médico, nutricionista, preparador, então acontecia com todo homem acima de 50, em silêncio, sem nome." | Tese plantada 2: transferência para o espectador | Igual, "acima dos 45" | — |
+| 12 | "A terceira: ninguém fala por um motivo específico: 3 das maiores corporações. Ia me custar a credibilidade de 13 anos. Mas eu falei mesmo assim." | Tese plantada 3: vilão + coragem do narrador | Igual, "vinte anos em Stanford. Eu disse mesmo assim." | "Eu disse mesmo assim" isolado, como frase de ritmo |
+| 13 | "Depois do que vi, não conseguia voltar à rotina. Tranquei o consultório, cancelei tudo, mergulhei nos dados, e o que encontrei em 6 meses é o que vou te dar de presente." | Compromisso do narrador + promessa de entrega | Igual, "fechei a porta do laboratório" | — |
+| 14 | "Mas antes da ciência e da solução, você precisa ouvir da boca do próprio Sylvester… a parte mais difícil… por que ele aceitou aparecer. Foi quando ele me contou o que aconteceu naquele café em Beverly Hills." | Ponte para o emotional com gancho de cena específica | Igual, "…o que ele viu na câmera da própria cozinha." | A cena-gancho é a nossa cena 100% |
 
-- **Attia:** removido deste bloco. Entra só onde a história precisa dele (ressonância e piloto, no build-up), sem apresentação formal aqui.
-- **Números do podcast:** "Top 5 in the health category, four years running" e "hundreds of millions of downloads" são seguros para o Huberman Lab. Se o time quiser um número redondo ("over 500 million downloads"), conferir antes da gravação.
-- **Nome do mecanismo:** "castrating plaque" aparece uma vez, como tease, e volta na tese. A frase "exactly what a knife does to a bull" prepara o "boi vs touro" (regra 12): touro com placa castradora é boi.
-- **Picos de legenda grande (7):** TOP 5 — 4 YEARS / HUNDREDS OF MILLIONS · CASTRATING PLAQUE · STRONGER MAN / DEAD DICK · NO PAIN / NO WARNING · NOBODY NAMED IT · WHAT IS IT DOING TO YOURS? · 3 CORPORATIONS.
-- **Trilha:** neutra até "what I told them"; pausa seca em "castrating plaque"; grave em "here's the part that embarrasses me"; sobe em "It starts with a friend"; silêncio em "And he was the first one to break".
+**Fatos a conferir antes da gravação:** "mais de seis milhões de inscritos no YouTube" e "centenas de milhões de downloads" (seguros para o Huberman Lab em 2026, conferir número atual); "episódio de três horas sobre hormônios masculinos" (existe episódio longo de otimização hormonal masculina); "professor de neurobiologia" (real; ele também é de oftalmologia); "20 anos de laboratório" (contar do pós-doc). Tyson: campeão mais jovem aos 20 anos (real), Arlington 72.300 e 108 milhões (real).
+
+**Picos de legenda grande (4):** STRONGER MAN / DEAD DICK · 6,000,000+ SUBSCRIBERS · CASTRATING PLAQUE · 3 CORPORATIONS. (Menos picos que a v2: o bloco validado é de voz, não de lettering.)
+
+**Trilha:** neutra até "parecer um touro"; grave em "É exatamente aí que mora a minha vergonha"; volta a neutra no podcast; pausa seca em "placa castradora"; sobe em "Sim, aquele Mike Tyson"; silêncio em "Pelo menos era o que eu pensava"; tensão em "três coisas"; corta no frame da câmera.
