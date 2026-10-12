@@ -1,7 +1,8 @@
-# VSL SodaFil — BLOCO 2: EMOTIONAL STORY (v2, 12/10/2026)
+# VSL SodaFil — BLOCO 2: EMOTIONAL STORY (v3, 12/10/2026)
 
 **Mudança da v2 (ordem do Marcos):** a fala do Mike reescrita na voz do Mike (guia em `referencias/Voz_Tyson_e_Kiki.md`): curta, de rua, com palavrão como pontuação, "listen", "you know what I'm saying", dupla negativa, humor em cima da própria dor, terceira pessoa quando é sobre o mito. Conversa entre dois amigos, não depoimento. Em cima disso, a **VOC do prospect** (os pensamentos, as desculpas, os medos, as feridas) entra pela boca do Mike para o cara em casa pensar "porra, eu sei como é isso" e "é isso mesmo, cara". A esposa fala o mesmo idioma, mais contida. A estrutura da Soda Horse (blocos 5, 6 e 7) continua a mesma, parágrafo a parágrafo.
-**Entra depois de:** o background ("fui atrás dos dois"). **Duração-alvo:** 6 min a 6 min 20 s.
+**Mudança da v3 (ordem do Marcos):** inserido o sub-bloco de **desqualificação das soluções comuns** (padrão Alpha Erec 6.1–7.1: Viagra que funciona 3 meses e dobra na noite da escova de cabelo, "tá tudo bem" como execução, TRT e o fígado, a fuga do vestiário), reescrito na voz do Mike, cara a cara com o Huberman. Entra depois da descida ("um estranho que apareceu dentro da sua calça") e antes do camp, porque cronologicamente ele tentou tudo isso nos dois anos antes de Arlington, e o "ainda nem era o pior" entrega a câmera. O "tá tudo bem" do hotel agora é a segunda vez ("same two words as that night with the pill"). Sem nome de esposa: "Lakiha" do texto-base virou "ela / minha mulher".
+**Entra depois de:** o background ("fui atrás dos dois"). **Duração-alvo:** 8 min a 8 min 20 s.
 **Formato:** copy lisa nas duas línguas. Picos de legenda e trilha nas notas do fim.
 
 ---
@@ -28,6 +29,22 @@ And I'm gonna be honest with you, bro. I did everything right. I quit the road. 
 
 And here's the fucked up part. You start blaming everything else. The training. My knee. I'm tired. I'm old. I had two beers. And you start volunteering for the late nights so you ain't got to try. You pray she's asleep before you get upstairs. You, Mike Tyson, praying your wife is asleep. And then you look down at your own dick like it belongs to somebody else. Like it's some stranger that showed up in your pants and won't leave.
 
+That's when I decided to do something about it. I burned a fortune on Hollywood urologists before I ever opened my mouth to Andrew. First one charged me five grand to tell me: "Mike, Viagra. Take one pill forty-five minutes before, and you're good."
+
+And it worked. About three months. And it gave me this dumb-ass hope, like a kid. I'm popping the blue one in the car, staring at the clock, like fucking my own wife turned into a military operation. But every pill took a little more of the soul out of it. Robot shit. I'm hard, but I ain't there. And then, fourth month, came the night that broke me in half.
+
+She's on the bed, back to the mirror, brushing her hair. I come up behind her. Open the robe. Grab them titties, full hand, spilling over my fingers. She let me. I'm on her like a bull at the trough. She let me. I lay her down, pull the panties to the side... and when I put the head of my dick at her door, it bent. Didn't go soft slow. Bent. Like a cooked noodle. I push, it slides out. I grab it, rub it on her, trying to pump it up. Nothing. It wouldn't fill.
+
+She stayed still. Maybe five seconds. Then she put her hand on top of mine and moved my dick away from her. Slow. Gentle. Wasn't disgust. Wasn't mad. It was gentle, bro. Like you take a crying baby off your lap.
+
+And my dick just laying there in her hand. Soft. Warm from the pill that got in my blood but never got where it was supposed to go. And she said: "It's okay, Mike. Let's just sleep."
+
+Most castrating sentence of my life. Worse than getting booed. Worse than any lawsuit. Worse than two divorces. 'Cause a woman being gentle with a man she stopped wanting? That's the cleanest execution there is. No blood. You just dead.
+
+But I didn't stop there. Second doctor says: "Forget Viagra, Mike. The secret is TRT." Result? Three months and fifteen grand later, my liver lit up and he shut it down on the spot. And the limp came back worse. Now the blue one didn't lift nothing either. I even tried my own weed. Relaxed me. Didn't raise a damn thing.
+
+I started ducking the gym I trained in for ten years. Told everybody I was "saving time." Real reason? I couldn't stand being naked in that locker room next to some 45-year-old with his dick slapping against his thigh. The mirror started hurting, bro. The mirror. And that still wasn't the worst of it.
+
 Then came the camp.
 
 September. Eight weeks before Arlington. We set up on a Longhorn ranch outside of town. The old man that owns it, good dude, gave us the big house. My wife came with me. To take care of me, she said. And first Saturday, barbecue, here come this ranch hand. Thirty years old. Rides bulls. Hands like a damn shovel. He's at my table. Laughing at my jokes. Drinking my beer. Fixing the shower upstairs while I'm getting punched in the face six hours a day. And she laughing at some dumb shit he said in a way I ain't heard her laugh in two years.
@@ -46,7 +63,7 @@ Same moans I couldn't get out of her in two years. Not one time. That kid mixed 
 
 And three weeks later I had to go fight for real.
 
-I walked in that stadium with that video in my head. 72,000 people screaming my name. I stood up eight rounds. Eight rounds at 58, bro. And I get back to the hotel that night, and she's waiting. And nothing. Nothing. And she puts her hand on my chest and says, "It's okay, Mike. You went eight rounds." It's okay. Them two words. A man can take a lot of things, but a man can't take "it's okay" from his wife.
+I walked in that stadium with that video in my head. 72,000 people screaming my name. I stood up eight rounds. Eight rounds at 58, bro. And I get back to the hotel that night, and she's waiting. And nothing. Nothing. And she puts her hand on my chest and says, "It's okay, Mike. You went eight rounds." There it was again. Same two words as that night with the pill. A man can take a lot of things, but a man can't take "it's okay" from his wife twice.
 
 Month later we at dinner with friends. Somebody makes a joke. "Eight rounds with Jake Paul, huh, Mike?" And my wife laughs, two glasses in, and says, "Eight rounds is easy. The tenth is the hard one." And the table went quiet. And I knew everybody knew. The whole table knew. God damn.
 
@@ -100,6 +117,22 @@ E vou ser sincero contigo, mano. Eu fiz tudo certo. Larguei a estrada. Larguei a
 
 E aí vem a parte foda. Você começa a culpar todo o resto. O treino. O meu joelho. Tô cansado. Tô velho. Tomei duas cervejas. E você começa a se oferecer pra trabalhar até tarde pra não ter que tentar. Você reza pra ela já estar dormindo quando você subir. Você, o Mike Tyson, rezando pra sua mulher estar dormindo. E aí você olha pro seu próprio pau como se fosse de outro cara. Como se fosse um estranho que apareceu dentro da sua calça e não vai embora.
 
+Foi aí que eu decidi agir. Torrei uma fortuna com urologista de Hollywood antes de abrir a boca pro Andrew. O primeiro me cobrou cinco mil pra dizer: "Mike, Viagra. Toma uma pílula quarenta e cinco minutos antes e pronto."
+
+E funcionou. Uns três meses. E me deu uma esperança burra, de moleque. Eu engolindo o azulzinho no carro, olhando pro relógio, como se foder a minha própria mulher tivesse virado operação militar. Só que cada pílula tirava mais um pedaço da alma da coisa. Coisa de robô. Eu tô duro, mas eu não tô ali. E aí, no quarto mês, veio a noite que me quebrou ao meio.
+
+Ela na cama, de costas pro espelho, passando a escova no cabelo. Eu chego por trás. Abro o roupão. Agarro aqueles peitos, mão cheia, transbordando entre os dedos. Ela deixou. Eu em cima dela que nem touro no cocho. Ela deixou. Deito ela, puxo a calcinha pro lado... e quando encosto a cabeça do meu pau na entrada dela, ele dobrou. Não foi amolecendo devagar. Dobrou. Igual macarrão cozido. Eu empurro, escorrega pra fora. Pego na mão, esfrego nela, tentando encher aquilo. Nada. Não enchia.
+
+Ela ficou parada. Uns cinco segundos. Aí botou a mão em cima da minha e tirou o meu pau de perto dela. Devagar. Com carinho. Não foi nojo. Não foi raiva. Foi carinho, mano. Igual quem tira uma criança chorando do colo.
+
+E o meu pau ali, largado na mão dela. Mole. Quente do remédio que entrou no sangue mas não chegou onde tinha que chegar. E ela disse: "Tá tudo bem, Mike. Vamos dormir."
+
+A frase mais castradora da minha vida. Pior que vaia. Pior que qualquer processo. Pior que dois divórcios. Porque mulher sendo carinhosa com o homem que ela parou de desejar? É a execução mais limpa que existe. Sem sangue. Você só tá morto.
+
+Mas eu não parei aí. O segundo médico falou: "Esquece Viagra, Mike. O segredo é TRT." Resultado? Três meses e quinze mil dólares depois, meu fígado acendeu o alerta e ele mandou parar na hora. E a broxeira voltou pior. Agora nem o azulzinho levantava mais nada. Eu até tentei a minha própria erva. Relaxou. Não levantou porra nenhuma.
+
+Comecei a fugir da academia onde treinei dez anos. Falava pra todo mundo que era pra "ganhar tempo". A real? Eu não aguentava mais ficar pelado naquele vestiário do lado de um cara de 45 com o pau batendo na coxa. O espelho começou a doer, mano. O espelho. E aquilo ainda nem era o pior.
+
 Aí veio o camp.
 
 Setembro. Oito semanas antes de Arlington. A gente montou num rancho de Longhorn fora da cidade. O velho dono, cara bom, cedeu a casa grande. Minha mulher foi junto. Pra cuidar de mim, ela disse. E no primeiro sábado, churrasco, aparece esse peão. Trinta anos. Monta touro. Mão do tamanho de uma pá. Na minha mesa. Rindo das minhas piadas. Bebendo a minha cerveja. Consertando o chuveiro lá em cima enquanto eu tomo soco na cara seis horas por dia. E ela rindo de uma besteira que ele falou de um jeito que eu não ouvia ela rir há dois anos.
@@ -118,7 +151,7 @@ Os mesmos gemidos que eu não consegui tirar dela em dois anos. Nem uma vez. Aqu
 
 E três semanas depois eu tinha que lutar de verdade.
 
-Eu entrei naquele estádio com aquele vídeo na cabeça. 72 mil pessoas gritando o meu nome. Fiquei de pé oito rounds. Oito rounds aos 58, mano. E volto pro hotel naquela noite, e ela tá esperando. E nada. Nada. E ela põe a mão no meu peito e fala: "Tá tudo bem, Mike. Você aguentou oito rounds." Tá tudo bem. Essas duas palavras. Homem aguenta muita coisa, mas homem não aguenta um "tá tudo bem" da própria mulher.
+Eu entrei naquele estádio com aquele vídeo na cabeça. 72 mil pessoas gritando o meu nome. Fiquei de pé oito rounds. Oito rounds aos 58, mano. E volto pro hotel naquela noite, e ela tá esperando. E nada. Nada. E ela põe a mão no meu peito e fala: "Tá tudo bem, Mike. Você aguentou oito rounds." De novo. As mesmas palavras daquela noite da pílula. Homem aguenta muita coisa, mas homem não aguenta um "tá tudo bem" da própria mulher duas vezes.
 
 Um mês depois, jantar com amigos. Alguém faz uma piada. "Oito rounds com o Jake Paul, hein, Mike?" E a minha mulher ri, na segunda taça, e solta: "Oito rounds é fácil. Difícil é o décimo." E a mesa ficou em silêncio. E eu soube que todo mundo sabia. A mesa inteira sabia. Puta que pariu.
 
@@ -162,6 +195,7 @@ Eu saí daquele rancho com duas perguntas cravadas na cabeça. A primeira: o que
 | As desculpas | (não havia) | "You start blaming everything else. The training. My knee. I'm tired. I'm old. I had two beers. You start volunteering for the late nights so you ain't got to try. You pray she's asleep before you get upstairs." | VOC: as mentiras que o prospect conta pra si mesmo |
 | O pau estranho | (não havia) | "You look down at your own dick like it belongs to somebody else. Like it's some stranger that showed up in your pants and won't leave." | Ferida de identidade |
 | A moral | "I noticed. And I did nothing." | "'Cause what am I gonna say? 'Don't laugh'? With what I got going on downstairs? I ain't got no leverage, bro. A man with a dead dick ain't got no leverage in his own house. That's real talk." | VOC: a perda de autoridade em casa |
+| Soluções comuns (v3) | (não havia; Soda Horse não desqualifica soluções na emotional) | "First one charged me five grand to tell me: Mike, Viagra." · "like fucking my own wife turned into a military operation" · "Robot shit. I'm hard, but I ain't there." · "Like a cooked noodle." · "Like you take a crying baby off your lap." · "No blood. You just dead." · "The mirror started hurting, bro. The mirror." | Padrão Alpha Erec (Viagra 3 meses → a noite → "it's okay" → TRT → vestiário) na voz do Mike; VOC: o relógio no carro, o robô, o vestiário |
 | O hóspede | "It felt like a hotel room." | "+ I'm the guest." | Imagem concreta |
 | A caminhonete | "I wanted to kill him. I'm Mike Tyson. And I didn't get out of the truck." | "+ I been to prison. … You can't fight a man for having what you don't got." | Biografia real + lógica de rua |
 | O hotel | "It's okay, Mike. You went eight rounds." | "+ It's okay. Them two words. A man can take a lot of things, but a man can't take 'it's okay' from his wife." | VOC: a frase de pena |
@@ -170,6 +204,6 @@ Eu saí daquele rancho com duas perguntas cravadas na cabeça. A primeira: o que
 
 **Regras de voz aplicadas:** "ain't", "don't" por "doesn't", "nobody" com dupla negativa, "bro/man", "you know what I'm saying", "that's real talk", "God damn", "listen", terceira pessoa ("I'm Mike Tyson"), frases de uma palavra ("Nothing. Nothing."). Sem "nigga" (risco de plataforma e de deepfake). Nenhum nome de esposa; rosto dela nunca aparece.
 
-**Picos de legenda grande (9):** "Not tonight, Mike." (amarelo itálico) · "EVERY MARRIED MAN KNOWS THAT VOICE" · "A MAN WITH A DEAD DICK AIN'T GOT NO LEVERAGE" · "I WATCHED IT ABOUT TWENTY TIMES" (tela branca, corte seco) · "HE HAD WHAT I DIDN'T HAVE" · "It's okay, Mike." (amarelo itálico) · "The tenth is the hard one." (amarelo itálico) · "a dead dick" (amarelo itálico, fala dela) · "HOLD ON TO THAT DETAIL" (fundo vermelho).
+**Picos de legenda grande (12):** "MILITARY OPERATION" · "It bent." (amarelo itálico) · "THE CLEANEST EXECUTION THERE IS" ·  "Not tonight, Mike." (amarelo itálico) · "EVERY MARRIED MAN KNOWS THAT VOICE" · "A MAN WITH A DEAD DICK AIN'T GOT NO LEVERAGE" · "I WATCHED IT ABOUT TWENTY TIMES" (tela branca, corte seco) · "HE HAD WHAT I DIDN'T HAVE" · "It's okay, Mike." (amarelo itálico) · "The tenth is the hard one." (amarelo itálico) · "a dead dick" (amarelo itálico, fala dela) · "HOLD ON TO THAT DETAIL" (fundo vermelho).
 
 **Trilha:** melancólica até "I'm the guest"; tensão na câmera; silêncio em "I watched it about twenty times" e na caminhonete; grave no hotel e no jantar; sem trilha na pergunta final e na esposa; volta grave em "hold on to that detail"; sobe em "millimeter by millimeter"; corta nas duas perguntas.
