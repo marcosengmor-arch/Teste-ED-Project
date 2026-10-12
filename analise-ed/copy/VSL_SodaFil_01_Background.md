@@ -48,7 +48,7 @@ That's what I thought. Until the phone rang at six in the morning, three weeks a
 
 Everybody saw him stand up for eight rounds in front of 72,000 people. It was in every paper in the country. But what nobody knows is what happened when he got back to the hotel room that night. I know. Because I sat down with both of them, face to face. And what his wife told me, with her back to the camera, without a drop of guilt in her voice, was this.
 
-**MIKE'S WIFE (voice, back to camera):** I went up those stairs with a thirty-year-old ranch hand because I got tired of sleeping next to the most feared man in America with a dead dick.
+**LAKIHA (voice, back to camera):** I went up those stairs with a thirty-year-old ranch hand because I got tired of sleeping next to the most feared man in America with a dead dick.
 
 **ANDREW HUBERMAN:**
 
@@ -114,7 +114,7 @@ Era isso que eu pensava. Até o telefone tocar às seis da manhã, três semanas
 
 Todo mundo viu ele ficar de pé por oito rounds na frente de 72 mil pessoas. Saiu em todo jornal do país. Mas o que ninguém sabe é o que aconteceu quando ele voltou pro quarto do hotel naquela noite. Eu sei. Porque eu sentei com os dois, cara a cara. E o que a esposa dele me disse, de costas pra câmera, sem uma gota de culpa na voz, foi isto.
 
-**ESPOSA DO MIKE (voz, de costas):** Eu subi aquela escada com um peão de trinta anos porque cansei de dormir ao lado do homem mais temido da América com um pau morto.
+**LAKIHA (voz, de costas):** Eu subi aquela escada com um peão de trinta anos porque cansei de dormir ao lado do homem mais temido da América com um pau morto.
 
 **ANDREW HUBERMAN:**
 

@@ -1,7 +1,7 @@
 # VSL SodaFil — BLOCO 2: EMOTIONAL STORY (v3, 12/10/2026)
 
 **Mudança da v2 (ordem do Marcos):** a fala do Mike reescrita na voz do Mike (guia em `referencias/Voz_Tyson_e_Kiki.md`): curta, de rua, com palavrão como pontuação, "listen", "you know what I'm saying", dupla negativa, humor em cima da própria dor, terceira pessoa quando é sobre o mito. Conversa entre dois amigos, não depoimento. Em cima disso, a **VOC do prospect** (os pensamentos, as desculpas, os medos, as feridas) entra pela boca do Mike para o cara em casa pensar "porra, eu sei como é isso" e "é isso mesmo, cara". A esposa fala o mesmo idioma, mais contida. A estrutura da Soda Horse (blocos 5, 6 e 7) continua a mesma, parágrafo a parágrafo.
-**Mudança da v3 (ordem do Marcos):** inserido o sub-bloco de **desqualificação das soluções comuns** (padrão Alpha Erec 6.1–7.1: Viagra que funciona 3 meses e dobra na noite da escova de cabelo, "tá tudo bem" como execução, TRT e o fígado, a fuga do vestiário), reescrito na voz do Mike, cara a cara com o Huberman. Entra depois da descida ("um estranho que apareceu dentro da sua calça") e antes do camp, porque cronologicamente ele tentou tudo isso nos dois anos antes de Arlington, e o "ainda nem era o pior" entrega a câmera. O "tá tudo bem" do hotel agora é a segunda vez ("same two words as that night with the pill"). Sem nome de esposa: "Lakiha" do texto-base virou "ela / minha mulher".
+**Mudança da v3 (ordem do Marcos):** inserido o sub-bloco de **desqualificação das soluções comuns** (padrão Alpha Erec 6.1–7.1: Viagra que funciona 3 meses e dobra na noite da escova de cabelo, "tá tudo bem" como execução, TRT e o fígado, a fuga do vestiário), reescrito na voz do Mike, cara a cara com o Huberman. Entra depois da descida ("um estranho que apareceu dentro da sua calça") e antes do camp, porque cronologicamente ele tentou tudo isso nos dois anos antes de Arlington, e o "ainda nem era o pior" entrega a câmera. O "tá tudo bem" do hotel agora é a segunda vez ("same two words as that night with the pill"). Decisão do Marcos (12/10): a esposa pode ser nomeada: Lakiha. O rosto continua fora da câmera.
 **Entra depois de:** o background ("fui atrás dos dois"). **Duração-alvo:** 8 min a 8 min 20 s.
 **Formato:** copy lisa nas duas línguas. Picos de legenda e trilha nas notas do fim.
 
@@ -17,7 +17,7 @@ I got to 58 being Mike Tyson. Youngest champion ever. The whole world scared of 
 
 Let me tell you how a man gets there. 'Cause it don't fall apart all at once. It's like a line on your face. You don't wake up with it. It started ten years ago and you just ain't seen it yet.
 
-It started with her back. About two years ago my wife started turning her back on me. And at first it was just a look.
+It started with her back. About two years ago Lakiha started turning her back on me. And at first it was just a look.
 
 **ANDREW HUBERMAN:** Sorry, a look?
 
@@ -33,9 +33,9 @@ That's when I decided to do something about it. I burned a fortune on Hollywood 
 
 And it worked. About three months. And it gave me this dumb-ass hope, like a kid. I'm popping the blue one in the car, staring at the clock, like fucking my own wife turned into a military operation. But every pill took a little more of the soul out of it. Robot shit. I'm hard, but I ain't there. And then, fourth month, came the night that broke me in half.
 
-She's on the bed, back to the mirror, brushing her hair. I come up behind her. Open the robe. Grab them titties, full hand, spilling over my fingers. She let me. I'm on her like a bull at the trough. She let me. I lay her down, pull the panties to the side... and when I put the head of my dick at her door, it bent. Didn't go soft slow. Bent. Like a cooked noodle. I push, it slides out. I grab it, rub it on her, trying to pump it up. Nothing. It wouldn't fill.
+Lakiha's on the bed, back to the mirror, brushing her hair. I come up behind her. Open the robe. Grab them titties, full hand, spilling over my fingers. She let me. I'm on her like a bull at the trough. She let me. I lay her down, pull the panties to the side... and when I put the head of my dick at her door, it bent. Didn't go soft slow. Bent. Like a cooked noodle. I push, it slides out. I grab it, rub it on her, trying to pump it up. Nothing. It wouldn't fill.
 
-She stayed still. Maybe five seconds. Then she put her hand on top of mine and moved my dick away from her. Slow. Gentle. Wasn't disgust. Wasn't mad. It was gentle, bro. Like you take a crying baby off your lap.
+Lakiha stayed still. Maybe five seconds. Then she put her hand on top of mine and moved my dick away from her. Slow. Gentle. Wasn't disgust. Wasn't mad. It was gentle, bro. Like you take a crying baby off your lap.
 
 And my dick just laying there in her hand. Soft. Warm from the pill that got in my blood but never got where it was supposed to go. And she said: "It's okay, Mike. Let's just sleep."
 
@@ -71,9 +71,9 @@ So tell me something, Andrew. You got the biggest science show in the world. Wha
 
 **ANDREW HUBERMAN:** I don't know yet, Mike. But I swear to you I'm going to find out.
 
-But every story has two sides. And before I went anywhere near the science, I was missing the side that Mike could never give me. Hers. So I went after her. We talked for hours, and she let me record part of it, as long as I kept her face off the camera. Pay very close attention to what she's about to say. Because this isn't just about Mike. Half the marriages in this country end. And a lot of them don't die in a fight. They die exactly like this. In silence. Inside the bedroom. It could be yours.
+But every story has two sides. And before I went anywhere near the science, I was missing the side that Mike could never give me. Hers. So I went after Lakiha. We talked for hours, and she let me record part of it, as long as I kept her face off the camera. Pay very close attention to what she's about to say. Because this isn't just about Mike. Half the marriages in this country end. And a lot of them don't die in a fight. They die exactly like this. In silence. Inside the bedroom. It could be yours.
 
-**MIKE'S WIFE (voice, back to camera):** I'm gonna be honest with you, because I told Mike I would. I love that man. I really do. But love don't make a woman cum. For two years, what was between the legs of the most feared man in America was dead meat. Dead. I'd lie next to him and go cum by myself in the shower, biting the towel so he wouldn't hear me. Lord. To the world he was Iron Mike. Baddest man on the planet. In that bedroom he was a man with a dead dick, and I was a woman pretending she didn't care.
+**LAKIHA (voice, back to camera):** I'm gonna be honest with you, because I told Mike I would. I love that man. I really do. But love don't make a woman cum. For two years, what was between the legs of the most feared man in America was dead meat. Dead. I'd lie next to him and go cum by myself in the shower, biting the towel so he wouldn't hear me. Lord. To the world he was Iron Mike. Baddest man on the planet. In that bedroom he was a man with a dead dick, and I was a woman pretending she didn't care.
 
 Then that boy showed up. And look, I can't explain it to you. All I know is from the day I saw the bulge in that boy's jeans, my head started going places it hadn't been in years. Him grabbing me the way Mike don't grab me no more. And when it finally happened, he filled me up. Every inch. He made me squirt like I hadn't since I was twenty. And it wasn't one time. That boy fucked me hard as a rock for hours without going soft once. Mike didn't do that in his prime. And I went back the next day. And the day after. I knew his sparring schedule better than his trainer did. I got addicted to a ranch hand. In the house my husband's name paid for. It wasn't the money. Mike got more money than that boy will ever see.
 
@@ -81,7 +81,7 @@ It wasn't the fame either. He's Mike Tyson, for God's sake. It was the one thing
 
 **ANDREW HUBERMAN:** She didn't leave him. Not yet. But she'd already left the bed. And the man she left it for slept two hundred yards from Mike's front door, on a ranch, with the bulls. Hold on to that detail. The ranch. Because that day I didn't pay attention to it either. But that kid worked those cattle every morning, and as I'd only understand much later, it was exactly from the world of those bulls that he took the secret that stole Mike Tyson's wife.
 
-**MIKE'S WIFE (voice):** A ranch hand gave me what the most feared man in America couldn't.
+**LAKIHA (voice):** A ranch hand gave me what the most feared man in America couldn't.
 
 **ANDREW HUBERMAN:** And that's the cruelest part of all. Mike was on that ranch for eight weeks. He walked past that barn every single morning. The thing that could have saved him was fifty feet from where he trained. And it was the outsider, the kid, who saw what Mike never saw.
 
@@ -105,7 +105,7 @@ Eu cheguei aos 58 sendo o Mike Tyson. O campeão mais novo da história. O mundo
 
 Deixa eu te contar como um homem chega nesse ponto. Porque não desaba de uma vez. É que nem ruga na cara. Você não acorda com ela. Ela começou dez anos atrás e você só não tinha visto ainda.
 
-Começou com as costas dela. Uns dois anos atrás, a minha mulher começou a virar as costas pra mim. E no começo era só um olhar.
+Começou com as costas dela. Uns dois anos atrás, a Lakiha começou a virar as costas pra mim. E no começo era só um olhar.
 
 **ANDREW HUBERMAN:** Desculpa, um olhar?
 
@@ -121,9 +121,9 @@ Foi aí que eu decidi agir. Torrei uma fortuna com urologista de Hollywood antes
 
 E funcionou. Uns três meses. E me deu uma esperança burra, de moleque. Eu engolindo o azulzinho no carro, olhando pro relógio, como se foder a minha própria mulher tivesse virado operação militar. Só que cada pílula tirava mais um pedaço da alma da coisa. Coisa de robô. Eu tô duro, mas eu não tô ali. E aí, no quarto mês, veio a noite que me quebrou ao meio.
 
-Ela na cama, de costas pro espelho, passando a escova no cabelo. Eu chego por trás. Abro o roupão. Agarro aqueles peitos, mão cheia, transbordando entre os dedos. Ela deixou. Eu em cima dela que nem touro no cocho. Ela deixou. Deito ela, puxo a calcinha pro lado... e quando encosto a cabeça do meu pau na entrada dela, ele dobrou. Não foi amolecendo devagar. Dobrou. Igual macarrão cozido. Eu empurro, escorrega pra fora. Pego na mão, esfrego nela, tentando encher aquilo. Nada. Não enchia.
+A Lakiha na cama, de costas pro espelho, passando a escova no cabelo. Eu chego por trás. Abro o roupão. Agarro aqueles peitos, mão cheia, transbordando entre os dedos. Ela deixou. Eu em cima dela que nem touro no cocho. Ela deixou. Deito ela, puxo a calcinha pro lado... e quando encosto a cabeça do meu pau na entrada dela, ele dobrou. Não foi amolecendo devagar. Dobrou. Igual macarrão cozido. Eu empurro, escorrega pra fora. Pego na mão, esfrego nela, tentando encher aquilo. Nada. Não enchia.
 
-Ela ficou parada. Uns cinco segundos. Aí botou a mão em cima da minha e tirou o meu pau de perto dela. Devagar. Com carinho. Não foi nojo. Não foi raiva. Foi carinho, mano. Igual quem tira uma criança chorando do colo.
+A Lakiha ficou parada. Uns cinco segundos. Aí botou a mão em cima da minha e tirou o meu pau de perto dela. Devagar. Com carinho. Não foi nojo. Não foi raiva. Foi carinho, mano. Igual quem tira uma criança chorando do colo.
 
 E o meu pau ali, largado na mão dela. Mole. Quente do remédio que entrou no sangue mas não chegou onde tinha que chegar. E ela disse: "Tá tudo bem, Mike. Vamos dormir."
 
@@ -159,9 +159,9 @@ Então me diz uma coisa, Andrew. Você tem o maior programa de ciência do mundo
 
 **ANDREW HUBERMAN:** Eu ainda não sei, Mike. Mas juro pra você que vou descobrir.
 
-Mas toda história tem dois lados. E antes de chegar perto da ciência, estava me faltando o lado que o Mike nunca poderia me dar. O dela. Então fui atrás dela. Conversamos por horas, e ela me deixou gravar um trecho, desde que o rosto dela ficasse fora da câmera. Presta muita atenção no que ela vai dizer. Porque isso não é só sobre o Mike. Metade dos casamentos deste país acaba. E muitos deles não morrem numa briga. Morrem exatamente assim. Em silêncio. Dentro do quarto. Pode ser o seu.
+Mas toda história tem dois lados. E antes de chegar perto da ciência, estava me faltando o lado que o Mike nunca poderia me dar. O dela. Então fui atrás da Lakiha. Conversamos por horas, e ela me deixou gravar um trecho, desde que o rosto dela ficasse fora da câmera. Presta muita atenção no que ela vai dizer. Porque isso não é só sobre o Mike. Metade dos casamentos deste país acaba. E muitos deles não morrem numa briga. Morrem exatamente assim. Em silêncio. Dentro do quarto. Pode ser o seu.
 
-**ESPOSA DO MIKE (voz, de costas):** Vou ser sincera com você, porque eu prometi pro Mike que seria. Eu amo aquele homem. De verdade. Mas amor não faz mulher gozar. Por dois anos, o que ficava entre as pernas do homem mais temido da América era carne morta. Morta. Eu deitava do lado dele e ia gozar sozinha no chuveiro, mordendo a toalha pra ele não me ouvir. Meu Deus. Pro mundo ele era o Iron Mike. O homem mais perigoso do planeta. Naquele quarto ele era um homem com um pau morto, e eu era uma mulher fingindo que não ligava.
+**LAKIHA (voz, de costas):** Vou ser sincera com você, porque eu prometi pro Mike que seria. Eu amo aquele homem. De verdade. Mas amor não faz mulher gozar. Por dois anos, o que ficava entre as pernas do homem mais temido da América era carne morta. Morta. Eu deitava do lado dele e ia gozar sozinha no chuveiro, mordendo a toalha pra ele não me ouvir. Meu Deus. Pro mundo ele era o Iron Mike. O homem mais perigoso do planeta. Naquele quarto ele era um homem com um pau morto, e eu era uma mulher fingindo que não ligava.
 
 Aí aquele menino apareceu. E olha, eu não sei te explicar. Só sei que, desde o dia em que eu vi o volume na calça daquele menino, a minha cabeça começou a ir pra lugares que não ia há anos. Ele me agarrando do jeito que o Mike não me agarra mais. E quando finalmente aconteceu, ele me preencheu. Cada polegada. Me fez esguichar como eu não esguichava desde os vinte. E não foi uma vez. Aquele menino me comeu duro feito pedra por horas sem amolecer uma vez. O Mike não fazia isso nem no auge. E eu voltei no dia seguinte. E no outro. Eu sabia o horário de sparring dele melhor que o treinador. Eu fiquei viciada num peão. Dentro da casa que o nome do meu marido pagou. Não era o dinheiro. O Mike tem mais dinheiro do que aquele menino vai ver na vida.
 
@@ -169,7 +169,7 @@ Também não era a fama. Ele é o Mike Tyson, pelo amor de Deus. Era a única co
 
 **ANDREW HUBERMAN:** Ela não deixou o Mike. Ainda não. Mas já tinha deixado a cama. E o homem por quem ela deixou dormia a duzentos metros da porta do Mike, num rancho, com os touros. Guarda esse detalhe. O rancho. Porque naquele dia eu também não prestei atenção. Mas aquele moleque lidava com aquele gado toda manhã, e, como eu só entenderia muito depois, foi exatamente do mundo daqueles touros que ele tirou o segredo que roubou a mulher do Mike Tyson.
 
-**ESPOSA DO MIKE (voz):** Foi um peão de rancho que me deu o que o homem mais temido da América não conseguia.
+**LAKIHA (voz):** Foi um peão de rancho que me deu o que o homem mais temido da América não conseguia.
 
 **ANDREW HUBERMAN:** E essa é a parte mais cruel de todas. O Mike passou oito semanas naquele rancho. Passou na frente daquele galpão toda santa manhã. A coisa que podia ter salvado ele estava a quinze metros de onde ele treinava. E foi o de fora, o moleque, que enxergou o que o Mike nunca enxergou.
 
@@ -202,7 +202,7 @@ Eu saí daquele rancho com duas perguntas cravadas na cabeça. A primeira: o que
 | O jantar | "And I knew that everybody knew." | "+ The whole table knew. God damn." | Tique do Tyson ("God damn") |
 | A esposa | neutra | "I'm gonna be honest with you, because I told Mike I would." · "Lord." · "that boy" · "you hear me? I got tired." · "Mike got more money than that boy will ever see." | Mesmo idioma, mais contida; lealdade e vergonha na mesma frase |
 
-**Regras de voz aplicadas:** "ain't", "don't" por "doesn't", "nobody" com dupla negativa, "bro/man", "you know what I'm saying", "that's real talk", "God damn", "listen", terceira pessoa ("I'm Mike Tyson"), frases de uma palavra ("Nothing. Nothing."). Sem "nigga" (risco de plataforma e de deepfake). Nenhum nome de esposa; rosto dela nunca aparece.
+**Regras de voz aplicadas:** "ain't", "don't" por "doesn't", "nobody" com dupla negativa, "bro/man", "you know what I'm saying", "that's real talk", "God damn", "listen", terceira pessoa ("I'm Mike Tyson"), frases de uma palavra ("Nothing. Nothing."). Sem "nigga" (risco de plataforma e de deepfake). Esposa nomeada (Lakiha, decisão de 12/10); rosto dela nunca aparece.
 
 **Picos de legenda grande (12):** "MILITARY OPERATION" · "It bent." (amarelo itálico) · "THE CLEANEST EXECUTION THERE IS" ·  "Not tonight, Mike." (amarelo itálico) · "EVERY MARRIED MAN KNOWS THAT VOICE" · "A MAN WITH A DEAD DICK AIN'T GOT NO LEVERAGE" · "I WATCHED IT ABOUT TWENTY TIMES" (tela branca, corte seco) · "HE HAD WHAT I DIDN'T HAVE" · "It's okay, Mike." (amarelo itálico) · "The tenth is the hard one." (amarelo itálico) · "a dead dick" (amarelo itálico, fala dela) · "HOLD ON TO THAT DETAIL" (fundo vermelho).
 

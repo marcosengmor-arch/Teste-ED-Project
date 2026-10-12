@@ -186,7 +186,7 @@ Observação: os buscadores não entregam contagem de views; os números abaixo 
 ### Resumo de como o problema aconteceu até o fundo do poço — EMOTIONAL v3 (traição consumada + reconquista, decidida em 10/10/2026)
 
 **Decisões fixadas nesta versão**
-- **A mulher:** "minha esposa", sem nome, sem rosto (dublê de costas, mão, cabelo; na entrevista, rosto desfocado e lower-third "a esposa pediu para ser protegida"). Nunca nomear a esposa real.
+- **A mulher:** Lakiha, nomeada (decisão do Marcos em 12/10/2026). Rosto fora da câmera (dublê de costas, mão, cabelo; na entrevista, de costas ou desfocada).
 - **O final:** reconquista, não perda. A traição acontece 100% (cozinha → quarto), mas no 11º dia ela volta para a cama dele e nunca mais vai "ver os cavalos". Casa com a persona principal (casado da esposa fria), que quer a mulher de volta, não o divórcio.
 - **O rival:** o peão do rancheiro velho, 30 e poucos, monta touro, mora no rancho onde o camp foi montado. É quem tem acesso ao pó do galpão e é o cowboy que ela vê todo dia.
 - **A câmera:** "Eu sou o Mike Tyson. Minha casa tem câmera em todo cômodo." Ele nunca olhava as gravações até sentir o cheiro diferente na caminhonete. A câmera do galpão do rancheiro (contra roubo de gado) é a segunda câmera: mostra o peão pegando o pó no saco.
