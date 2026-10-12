@@ -4,7 +4,7 @@
 **Estilo (regra para a VSL inteira):** o da Soda Horse. Conversa de homem com homem. Palavra forte, concreta, que bate: "quem diabos", "foder", "apodrecendo por dentro", "castrando", "carne viva", "maquiagem num cadáver". Frases curtas quando dói. Nada de tom de palestra.
 **Conteúdo:** do Huberman (podcast, protocolos, banho gelado, sol, sono, testosterona), não do Attia. Sem Attia neste bloco.
 **Entra depois de:** a lead. **Duração-alvo:** 4 min 30 s a 4 min 50 s (o trecho modelado tem 4 min 47 s).
-**Marcações:** `[LETTERING]` = legenda grande colorida (só nos picos). `[B-ROLL]` = plano literal. Sem marcação = legenda pequena branca inferior.
+**Formato:** copy lisa nas duas línguas, sem marcações de edição. Picos de legenda e trilha ficam nas notas do fim; B-rolls, no briefing de edição (06).
 
 ---
 
@@ -16,21 +16,21 @@ But before I show you how, you're asking yourself: who the hell am I to be telli
 
 Before I show you this, you need to know who I am. And you need to know one thing about me that I'm ashamed of to this day.
 
-I'm Andrew Huberman. Professor of neurobiology at Stanford. `[B-ROLL: Stanford, Huberman de jaleco]` And for the last five years I've run the most listened-to podcast in America when the subject is getting a man to work like a man again. `[B-ROLL: estúdio, microfone, tela do YouTube]` Through my studio come Silicon Valley billionaires, NFL players, special forces operators, Hollywood actors who have to take their shirt off at 60 and still look like a bull. `[B-ROLL: um plano para cada]` Men who do exactly what I tell them so they can keep fucking the way they fucked at 25.
+I'm Andrew Huberman. Professor of neurobiology at Stanford. And for the last five years I've run the most listened-to podcast in America when the subject is getting a man to work like a man again. Through my studio come Silicon Valley billionaires, NFL players, special forces operators, Hollywood actors who have to take their shirt off at 60 and still look like a bull. Men who do exactly what I tell them so they can keep fucking the way they fucked at 25.
 
-And I was the best in the world at it. Cold plunge. Sun on the groin. Sleep. Training. Testosterone up, cortisol down. `[B-ROLL: Huberman na banheira de gelo; sol da manhã; homem forte na academia]` There wasn't a man I couldn't make stronger.
+And I was the best in the world at it. Cold plunge. Sun on the groin. Sleep. Training. Testosterone up, cortisol down. There wasn't a man I couldn't make stronger.
 
-But that's exactly where my shame lives. `[LETTERING: "MY SHAME"]`
+But that's exactly where my shame lives.
 
-Because for five years, I made men stronger around dicks that were already rotting from the inside. And I didn't even know it. `[LETTERING: "ROTTING" vermelho / "FROM THE INSIDE" branco]`
+Because for five years, I made men stronger around dicks that were already rotting from the inside. And I didn't even know it.
 
-I fixed the body. I made the guy strong as a bull, gave him a pat on the back, and sent him home to his wife. `[B-ROLL: homem de 55 saindo da academia; corte para ele na beira da cama, luz azul, ela de costas]` And underneath, the damage was growing in silence. Castrating that man from the inside out. `[LETTERING: "CASTRATING" vermelho]` While I, the man who taught more American men about testosterone than anyone alive, told him to take another cold shower. Smiling.
+I fixed the body. I made the guy strong as a bull, gave him a pat on the back, and sent him home to his wife. And underneath, the damage was growing in silence. Castrating that man from the inside out. While I, the man who taught more American men about testosterone than anyone alive, told him to take another cold shower. Smiling.
 
-In other words: I wasn't fixing those men. I was polishing the horns on a steer and calling it science. `[B-ROLL: boi castrado no curral, cabeça baixa; chifres sendo polidos]`
+In other words: I wasn't fixing those men. I was polishing the horns on a steer and calling it science.
 
 And there's a reason for that.
 
-Because there is something going on inside the dick of almost every American man past his early 40s that kills the tissue from the inside. `[B-ROLL: animação 3D, corte do pênis, área escurecendo]` It turns living flesh into something soft and dead that doesn't answer to anything anymore. Not to desire. Not to a blue pill. Not to a cold shower. And it does it in the most cowardly way possible. Slowly. No pain. No warning. `[LETTERING: "NO PAIN" branco / "NO WARNING" vermelho]` So that by the time the man notices, the damage is already done.
+Because there is something going on inside the dick of almost every American man past his early 40s that kills the tissue from the inside. It turns living flesh into something soft and dead that doesn't answer to anything anymore. Not to desire. Not to a blue pill. Not to a cold shower. And it does it in the most cowardly way possible. Slowly. No pain. No warning. So that by the time the man notices, the damage is already done.
 
 And here's the scariest part. Not one doctor in this country, not me, not my colleagues at Stanford, not a single urologist, had the courage or the eye to give it a name.
 
@@ -38,39 +38,39 @@ Until six months ago.
 
 And this story starts with a man. But not just any man.
 
-I've lived in Los Angeles for a few years now, and in that time I built a real friendship with a guy who trains in the same gym I do. `[B-ROLL: academia, LA]` We lift together. We eat at each other's tables. I've watched his kids grow up. `[B-ROLL: fotos de Huberman e Tyson juntos]` His name is Mike Tyson.
+I've lived in Los Angeles for a few years now, and in that time I built a real friendship with a guy who trains in the same gym I do. We lift together. We eat at each other's tables. I've watched his kids grow up. His name is Mike Tyson.
 
-Yeah. That Mike Tyson. `[B-ROLL: Tyson 1986, cinturão, entrada no ringue]` Iron Mike. The youngest heavyweight champion in history. The man who put 44 men on the canvas. The man who made an entire generation of boys lock the bathroom door and shadowbox in front of the mirror, and an entire generation of their mothers wonder what he'd do to them in bed.
+Yeah. That Mike Tyson. Iron Mike. The youngest heavyweight champion in history. The man who put 44 men on the canvas. The man who made an entire generation of boys lock the bathroom door and shadowbox in front of the mirror, and an entire generation of their mothers wonder what he'd do to them in bed.
 
-I know this man up close. I've seen him with his shirt off at 58 with more muscle than my listeners have at 30. `[B-ROLL: Tyson sem camisa, treino 2024]` To me, Mike was living proof that a man could get old and stay a bull. Nature's exception.
+I know this man up close. I've seen him with his shirt off at 58 with more muscle than my listeners have at 30. To me, Mike was living proof that a man could get old and stay a bull. Nature's exception.
 
-That's what I thought. Until the phone rang at six in the morning, three weeks after Arlington. `[B-ROLL: tela de chamada recebida, 6:02 AM]`
+That's what I thought. Until the phone rang at six in the morning, three weeks after Arlington.
 
-Everybody saw him stand up for eight rounds in front of 72,000 people. `[B-ROLL: AT&T Stadium, 15 de novembro de 2024]` It was in every paper in the country. But what nobody knows is what happened when he got back to the hotel room that night. I know. Because I sat down with both of them, face to face. And what his wife told me, with her back to the camera, without a drop of guilt in her voice, was this. `[B-ROLL: varanda do rancho, ela de costas, lower-third "a esposa pediu para ser protegida"]`
+Everybody saw him stand up for eight rounds in front of 72,000 people. It was in every paper in the country. But what nobody knows is what happened when he got back to the hotel room that night. I know. Because I sat down with both of them, face to face. And what his wife told me, with her back to the camera, without a drop of guilt in her voice, was this.
 
-**MIKE'S WIFE (voice, back to camera):** I went up those stairs with a thirty-year-old ranch hand because I got tired of sleeping next to the most feared man in America with a dead dick. `[LETTERING amarelo itálico: "a dead dick"]`
+**MIKE'S WIFE (voice, back to camera):** I went up those stairs with a thirty-year-old ranch hand because I got tired of sleeping next to the most feared man in America with a dead dick.
 
 **ANDREW HUBERMAN:**
 
 Hold on to that sentence. Because in a few minutes it's going to make complete sense, and it's going to scare you. Since the same thing that killed Mike Tyson's dick is happening inside you right now, while you're listening to me.
 
-When Mike called me, I did something crazy. I cancelled episodes. I threw sponsorships in the trash. I went six months without recording a single show. `[B-ROLL: agenda riscada, estúdio vazio, luz apagada]`
+When Mike called me, I did something crazy. I cancelled episodes. I threw sponsorships in the trash. I went six months without recording a single show.
 
-My team thought I'd lost my mind. Why? Because what he told me at that ranch wasn't a patient's complaint. It was the confession of a man at the bottom of the hole. `[B-ROLL: Tyson no rancho, camisa aberta, cabeça baixa]` The most feared man this country ever produced, sitting in front of me with his head down, telling me his dick hadn't gotten hard in two years, and that he'd watched, on a camera in his own kitchen, what that costs a man.
+My team thought I'd lost my mind. Why? Because what he told me at that ranch wasn't a patient's complaint. It was the confession of a man at the bottom of the hole. The most feared man this country ever produced, sitting in front of me with his head down, telling me his dick hadn't gotten hard in two years, and that he'd watched, on a camera in his own kitchen, what that costs a man.
 
-Iron Mike. The man who made grown men shake just hearing his name. Destroyed in front of me because he couldn't even fuck his own wife anymore, and had to watch a thirty-year-old ranch hand do it for him. `[B-ROLL: frame P&B congelado da CAM 03, o peão na bancada]`
+Iron Mike. The man who made grown men shake just hearing his name. Destroyed in front of me because he couldn't even fuck his own wife anymore, and had to watch a thirty-year-old ranch hand do it for him.
 
-And that's when it hit me. If this dropped him, the man with the best doctors, the best of everything one phone call away, then I had to find out what the hell this was. Whatever it cost. And in six months, buried in my files, I understood three things. `[B-ROLL: Huberman lendo papéis à noite; três cartelas]`
+And that's when it hit me. If this dropped him, the man with the best doctors, the best of everything one phone call away, then I had to find out what the hell this was. Whatever it cost. And in six months, buried in my files, I understood three things.
 
 The first: it was nothing any urologist was going to diagnose. It wasn't age. It wasn't stress. It wasn't testosterone. I checked. His numbers were better than mine. It was something else. Something nobody looks for, because nobody knows it's there.
 
 The second: if this dropped Mike Tyson's dick, it was dropping every American man's dick, in silence, with no name, no diagnosis, one by one. Including yours. Today.
 
-And the third, the dirtiest one of all: nobody was talking about it for a very specific reason. A reason that involves three of the largest corporations on the planet, and trillions of dollars on the line, to make sure you never open your eyes. `[LETTERING: "3 CORPORATIONS"]`
+And the third, the dirtiest one of all: nobody was talking about it for a very specific reason. A reason that involves three of the largest corporations on the planet, and trillions of dollars on the line, to make sure you never open your eyes.
 
-So stop and think about this with me. If this dropped Mike Tyson, with all the money and all the doctors in the world at his disposal, what do you think it's already doing to yours, with nobody there to warn you? `[LETTERING: "WHAT IS IT DOING TO YOURS?"]`
+So stop and think about this with me. If this dropped Mike Tyson, with all the money and all the doctors in the world at his disposal, what do you think it's already doing to yours, with nobody there to warn you?
 
-But before I show you the science, you have to hear this from his own mouth. And since I'm a scientist before anything else, I didn't settle for one side of the story. I went after both. `[B-ROLL: Huberman de camisa xadrez na sala do rancho, janelas para o pasto]` What Mike told me at that ranch, I haven't forgotten to this day. And what she confessed to me afterward, about what was missing in her husband, about what the other guy had and he didn't, that's what changed everything. `[B-ROLL: Tyson levanta a cabeça, olha para o Huberman]`
+But before I show you the science, you have to hear this from his own mouth. And since I'm a scientist before anything else, I didn't settle for one side of the story. I went after both. What Mike told me at that ranch, I haven't forgotten to this day. And what she confessed to me afterward, about what was missing in her husband, about what the other guy had and he didn't, that's what changed everything.
 
 ---
 
