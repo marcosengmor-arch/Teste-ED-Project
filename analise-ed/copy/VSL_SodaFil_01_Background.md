@@ -1,9 +1,9 @@
-# VSL SodaFil — BLOCO 1: BACKGROUND STORY (v1, 12/10/2026)
+# VSL SodaFil — BLOCO 1: BACKGROUND STORY (v2, 12/10/2026)
 
-**Segue:** doc 10 (PL-B1 a PL-B5), brief 04 (personagens, confissão do Huberman com o conteúdo real dele), doc 06 (regras de edição: imagem literal, legenda grande só nos picos).
-**Entra depois de:** a lead (fora deste documento). A primeira frase pressupõe que a lead acabou de prometer "o que eu vou te contar nos próximos minutos".
-**Duração-alvo:** 2 min 15 s a 2 min 40 s (≈ 560 palavras em inglês).
-**Marcações:** `[LETTERING]` = legenda grande colorida (só nos picos). `[B-ROLL]` = plano literal que a frase vira. Sem marcação = legenda pequena branca inferior, plano do narrador.
+**Mudanças da v2 (ordem do Marcos):** sem Attia no background; autoridade do Huberman construída com números e lista de assuntos, no padrão Alpha Erec ("Top 5… 200 milhões de downloads… falo sobre tudo… mas até 6 meses atrás eu nunca tinha falado sobre…"); o tease do mecanismo ganha nome: **placa castradora / castrating plaque**.
+**Segue:** doc 10 (PL-B1, B2, B4, B5; PL-B3 removido), brief 04, doc 06.
+**Entra depois de:** a lead. **Duração-alvo:** 2 min 20 s a 2 min 45 s.
+**Marcações:** `[LETTERING]` = legenda grande colorida (só nos picos). `[B-ROLL]` = plano literal. Sem marcação = legenda pequena branca inferior.
 
 ---
 
@@ -13,13 +13,17 @@
 
 But before I show you how this works, you're asking yourself: who the hell is this guy, and why should I listen to him about my dick?
 
-Fair question. So let me answer it, and then let me tell you the one thing about my own work that I'm ashamed of.
+Fair question. So let me answer it. And then let me tell you the one thing about my own work that I'm ashamed of.
 
-My name is Andrew Huberman. I'm a professor of neurobiology at Stanford School of Medicine. `[B-ROLL: Stanford, laboratório, Huberman de jaleco]` And for the last six years I've hosted the most listened-to health podcast in the world. `[B-ROLL: estúdio do podcast, microfone]`
+My name is Andrew Huberman. I'm a professor of neurobiology at Stanford School of Medicine. `[B-ROLL: Stanford, laboratório, Huberman de jaleco]`
 
-If you've ever taken a cold shower to raise your testosterone… you did that because of me. `[B-ROLL: Huberman na banheira de gelo]` If you've ever gone outside to get sunlight in your eyes first thing in the morning… that was me too. `[B-ROLL: sol da manhã, homem no quintal]` I have an entire episode on testosterone. I have a chapter on cold exposure to the groin. `[B-ROLL: tela do episódio real, capítulo "Cold Exposure to Groin"]` Millions of American men built their mornings around what I told them.
+You've probably seen me on my podcast, Huberman Lab. `[B-ROLL: estúdio, capa do podcast]` Top 5 in the United States in the health category, four years running. Hundreds of millions of downloads. `[LETTERING: "TOP 5 — 4 YEARS" / "HUNDREDS OF MILLIONS OF DOWNLOADS"]` I interview scientists, physicians, researchers, the men who run the biggest labs in this country. `[B-ROLL: convidados reais com lower-third]`
 
-Peter Attia has sat across from me at this microphone. `[B-ROLL: Attia no podcast, lower-third "Dr. Peter Attia, MD — Stanford / Johns Hopkins"]` So have the men who run the biggest labs in this country. `[B-ROLL: convidados reais do podcast, lower-thirds]` When a man wants to be stronger, sharper, harder at 50 than he was at 30, he comes to my work.
+And I talk about everything. Testosterone. Dopamine. Sleep. Growth hormone. Intermittent fasting. Mitochondria. Testosterone replacement therapy. `[B-ROLL: capas dos episódios reais passando, uma por palavra]` If you've ever taken a cold shower to raise your testosterone, you did that because of me. `[B-ROLL: Huberman na banheira de gelo]` If you've ever stepped outside to get morning sunlight in your eyes, that was me too. `[B-ROLL: sol da manhã]` I have an entire episode on testosterone. I have a chapter on cold exposure to the groin. `[B-ROLL: tela do episódio real, capítulo "Cold Exposure to Groin"]` Millions of American men built their mornings around what I told them.
+
+But until six months ago, I had never once said the words "castrating plaque." `[LETTERING: "CASTRATING PLAQUE"]`
+
+Because I had never heard them. Nobody had.
 
 And here's the part that embarrasses me.
 
@@ -27,11 +31,11 @@ For six years, I taught men how to build a stronger body. And I sent those stron
 
 Because everything I taught them, the cold, the sun, the sleep, the training, all of it makes the man stronger. None of it touches the tissue. `[B-ROLL: homem forte de 55 na academia, corte para ele sentado na beira da cama, luz azul]` And the tissue is where this happens.
 
-There is something going on inside the dick of almost every American man after 40. `[B-ROLL: animação 3D, corte do pênis, área escurecendo]` Something that kills the tissue from the inside. Slowly. No pain. No warning. It turns living flesh into something soft and dead that doesn't answer to anything: not to desire, not to a blue pill, not to a cold shower. `[LETTERING: "NO PAIN" branco / "NO WARNING" vermelho]` And it does it in the most cowardly way possible: so slowly that by the time a man notices, the damage is already done.
+There is something going on inside the dick of almost every American man after 40. `[B-ROLL: animação 3D, corte do pênis, área escurecendo]` A deposit. It builds up in the one tissue that decides whether you get hard or not, and it does to that tissue exactly what a knife does to a bull. `[B-ROLL: touro no pasto; corte para um boi castrado, cabeça baixa, no curral]` No cut. No blood. No pain. No warning. `[LETTERING: "NO PAIN" branco / "NO WARNING" vermelho]` It turns living flesh into something soft and dead that doesn't answer to anything: not to desire, not to a blue pill, not to a cold shower. And it does it in the most cowardly way possible: so slowly that by the time a man notices, the damage is already done.
 
 And nobody in this country, not me, not my colleagues at Stanford, not the urologists, not the pharmaceutical companies, had the courage or the eye to give it a name. `[LETTERING: "NOBODY NAMED IT"]`
 
-I'm not a medical doctor. I don't prescribe, I don't operate, and I don't read MRIs. So the part of this story that needs a doctor has one. `[B-ROLL: Attia de jaleco em frente a uma ressonância]` Dr. Peter Attia. Stanford. Johns Hopkins. One of the most respected longevity physicians in the United States, and a close friend. He's the one who measured what I'm about to show you. You'll see his numbers with your own eyes.
+I'm going to give it one tonight. And I'm going to show you where it came from, what it's doing to you right now, and the one animal on earth that it can't touch.
 
 But this story doesn't start in a lab. It starts with a friend. `[B-ROLL: foto de Huberman e Tyson juntos, academia]`
 
@@ -39,7 +43,7 @@ I've known Mike Tyson for years. We've trained together. We've eaten at each oth
 
 And he was the first one to break. `[B-ROLL: Tyson no rancho, camisa aberta, olhando para baixo]`
 
-What he told me, in that ranch house outside Arlington, wasn't a patient's complaint. It was a confession. The most feared man in America, sitting in front of me with his head down, telling me his dick hadn't worked right in two years, and that he'd found out what that costs a man.
+What he told me, in that ranch house outside Arlington, wasn't a patient's complaint. It was a confession. The most feared man in America, sitting in front of me with his head down, telling me his dick hadn't worked right in two years, and that he'd just found out what that costs a man.
 
 So stop and think about this with me. If it dropped Mike Tyson, with all the money in the world and every doctor in the world one phone call away, what do you think it's already doing to yours, with nobody there to warn you? `[LETTERING: "WHAT IS IT DOING TO YOURS?"]`
 
@@ -63,13 +67,17 @@ But first, you need to hear how it started. And you need to hear it from Mike. `
 
 Mas antes de eu te mostrar como isso funciona, você está se perguntando: quem diabos é esse cara, e por que eu deveria ouvir ele falar do meu pau?
 
-Pergunta justa. Então deixa eu responder, e depois deixa eu te contar a única coisa do meu próprio trabalho de que eu tenho vergonha.
+Pergunta justa. Então deixa eu responder. E depois deixa eu te contar a única coisa do meu próprio trabalho de que eu tenho vergonha.
 
-Meu nome é Andrew Huberman. Sou professor de neurobiologia na Faculdade de Medicina de Stanford. E nos últimos seis anos eu apresento o podcast de saúde mais ouvido do mundo.
+Meu nome é Andrew Huberman. Sou professor de neurobiologia na Faculdade de Medicina de Stanford.
 
-Se você já tomou banho gelado pra subir a testosterona… você fez isso por minha causa. Se você já saiu de casa pra pegar sol nos olhos logo de manhã… isso também fui eu. Eu tenho um episódio inteiro sobre testosterona. Tenho um capítulo sobre exposição ao frio na virilha. Milhões de homens americanos montaram a manhã deles em cima do que eu disse.
+Você provavelmente já me viu no meu podcast, Huberman Lab. Top 5 nos Estados Unidos na categoria saúde, por quatro anos seguidos. Centenas de milhões de downloads. Eu entrevisto cientistas, médicos, pesquisadores, os homens que comandam os maiores laboratórios deste país.
 
-O Peter Attia já sentou na minha frente neste microfone. Os homens que comandam os maiores laboratórios deste país também. Quando um homem quer ficar mais forte, mais afiado, mais duro aos 50 do que era aos 30, ele vem atrás do meu trabalho.
+E eu falo sobre tudo. Testosterona. Dopamina. Sono. Hormônio do crescimento. Jejum intermitente. Mitocôndrias. Terapia de reposição de testosterona. Se você já tomou banho gelado pra subir a testosterona, você fez isso por minha causa. Se você já saiu de casa pra pegar o sol da manhã nos olhos, isso também fui eu. Eu tenho um episódio inteiro sobre testosterona. Tenho um capítulo sobre exposição ao frio na virilha. Milhões de homens americanos montaram a manhã deles em cima do que eu disse.
+
+Mas até seis meses atrás, eu nunca tinha dito as palavras "placa castradora".
+
+Porque eu nunca tinha ouvido. Ninguém tinha.
 
 E aqui vem a parte que me envergonha.
 
@@ -77,11 +85,11 @@ Por seis anos, eu ensinei homens a construir um corpo mais forte. E mandei esses
 
 Porque tudo que eu ensinei, o frio, o sol, o sono, o treino, tudo isso deixa o homem mais forte. Nada disso toca no tecido. E é no tecido que isso acontece.
 
-Tem uma coisa acontecendo dentro do pau de quase todo homem americano depois dos 40. Uma coisa que mata o tecido por dentro. Devagar. Sem dor. Sem aviso. Ela transforma carne viva numa coisa mole e morta que não responde mais a nada: nem ao desejo, nem à pílula azul, nem ao banho gelado. E faz isso do jeito mais covarde possível: tão devagar que, quando o homem percebe, o estrago já está feito.
+Tem uma coisa acontecendo dentro do pau de quase todo homem americano depois dos 40. Um depósito. Ele se acumula no único tecido que decide se você fica duro ou não, e faz com esse tecido exatamente o que a faca faz com um touro. Sem corte. Sem sangue. Sem dor. Sem aviso. Ele transforma carne viva numa coisa mole e morta que não responde mais a nada: nem ao desejo, nem à pílula azul, nem ao banho gelado. E faz isso do jeito mais covarde possível: tão devagar que, quando o homem percebe, o estrago já está feito.
 
 E ninguém neste país, nem eu, nem meus colegas de Stanford, nem os urologistas, nem as farmacêuticas, teve a coragem ou o olho pra dar um nome a isso.
 
-Eu não sou médico. Não receito, não opero e não leio ressonância. Então a parte desta história que precisa de um médico tem um. Dr. Peter Attia. Stanford. Johns Hopkins. Um dos médicos de longevidade mais respeitados dos Estados Unidos, e um amigo próximo. Foi ele que mediu o que eu vou te mostrar. Você vai ver os números dele com os seus próprios olhos.
+Eu vou dar um nome hoje. E vou te mostrar de onde veio, o que está fazendo com você agora, e o único animal da Terra que ele não consegue tocar.
 
 Mas esta história não começa num laboratório. Começa com um amigo.
 
@@ -89,7 +97,7 @@ Eu conheço o Mike Tyson há anos. A gente já treinou junto. Já comeu na mesa 
 
 E ele foi o primeiro a quebrar.
 
-O que ele me contou, naquela casa de rancho perto de Arlington, não era queixa de paciente. Era uma confissão. O homem mais temido da América, sentado na minha frente de cabeça baixa, me contando que o pau dele não funcionava direito há dois anos, e que ele tinha descoberto quanto isso custa a um homem.
+O que ele me contou, naquela casa de rancho perto de Arlington, não era queixa de paciente. Era uma confissão. O homem mais temido da América, sentado na minha frente de cabeça baixa, me contando que o pau dele não funcionava direito há dois anos, e que ele tinha acabado de descobrir quanto isso custa a um homem.
 
 Então para e pensa comigo. Se isso derrubou o Mike Tyson, com todo o dinheiro do mundo e todo médico do mundo a um telefonema de distância, o que você acha que isso já está fazendo com o seu, sem ninguém pra te avisar?
 
@@ -111,14 +119,14 @@ Mas antes, você precisa ouvir como começou. E precisa ouvir do Mike.
 
 | PL (doc 10) | Onde está | Loop aberto |
 |---|---|---|
-| PL-B1 quem é o Huberman | "My name is Andrew Huberman" → "comes to my work" | — |
-| PL-B2 a confissão | "And here's the part that embarrasses me" → "NOBODY NAMED IT" | "nobody named it" → batismo do cimento na tese; callback em "por que nada funcionou" (regra 16) |
-| PL-B3 Attia | "I'm not a medical doctor" → "with your own eyes" | a ressonância (build-up) |
+| PL-B1 quem é o Huberman | "My name is Andrew Huberman" → "built their mornings around what I told them" | — |
+| Tease do mecanismo (novo) | "until six months ago, I had never once said the words 'castrating plaque'" | o batismo na tese (PL-T1 → T3) |
+| PL-B2 a confissão | "here's the part that embarrasses me" → "NOBODY NAMED IT" → "I'm going to give it one tonight" | callback em "por que nada funcionou" (regra 16); "the one animal on earth it can't touch" → ponte do touro |
 | PL-B4 o amigo | "It starts with a friend" → "what is it doing to yours?" | a confissão do Mike (emotional) |
 | PL-B5 as três coisas | "three things became clear" → "I'm going to prove all three" | PL-D3, PL-T6, PL-D6/D8 |
 
-- **Fatos reais usados:** Stanford School of Medicine, professor de neurobiologia; podcast; episódio de testosterona; capítulo "Cold Exposure to Groin"; sol da manhã; Attia convidado (Journal Club); Tyson 58 em Arlington, 72.300 (arredondado para 72.000) e 108 milhões. "Six years" de podcast: conferir na gravação (Huberman Lab começou em janeiro de 2021).
-- **Cuidados:** Huberman nunca diz que é médico; a frase "I don't prescribe, I don't operate, I don't read MRIs" transfere a clínica para o Attia. Nenhum nome de esposa. Tyson "the most feared man in America" é epíteto público.
-- **Picos de legenda grande (5):** STRONGER MAN / DEAD DICK · NO PAIN / NO WARNING · NOBODY NAMED IT · WHAT IS IT DOING TO YOURS? · 3 CORPORATIONS.
-- **Trilha:** neutra até "comes to my work"; grave em "here's the part that embarrasses me"; sobe em "It starts with a friend"; corta no silêncio em "And he was the first one to break".
-- **Registro de palavrão:** "dick" desde a primeira frase, no padrão do corpus. Sem "fuck" neste bloco; entra na voz do Mike.
+- **Attia:** removido deste bloco. Entra só onde a história precisa dele (ressonância e piloto, no build-up), sem apresentação formal aqui.
+- **Números do podcast:** "Top 5 in the health category, four years running" e "hundreds of millions of downloads" são seguros para o Huberman Lab. Se o time quiser um número redondo ("over 500 million downloads"), conferir antes da gravação.
+- **Nome do mecanismo:** "castrating plaque" aparece uma vez, como tease, e volta na tese. A frase "exactly what a knife does to a bull" prepara o "boi vs touro" (regra 12): touro com placa castradora é boi.
+- **Picos de legenda grande (7):** TOP 5 — 4 YEARS / HUNDREDS OF MILLIONS · CASTRATING PLAQUE · STRONGER MAN / DEAD DICK · NO PAIN / NO WARNING · NOBODY NAMED IT · WHAT IS IT DOING TO YOURS? · 3 CORPORATIONS.
+- **Trilha:** neutra até "what I told them"; pausa seca em "castrating plaque"; grave em "here's the part that embarrasses me"; sobe em "It starts with a friend"; silêncio em "And he was the first one to break".
