@@ -56,7 +56,7 @@ Hold on to that sentence. Because in a few minutes it's going to make complete s
 
 When Mike called me, I did something crazy. I cancelled episodes. I threw sponsorships in the trash. I went six months without recording a single show.
 
-My team thought I'd lost my mind. Why? Because what he told me at that ranch wasn't a patient's complaint. It was the confession of a man at the bottom of the hole. The most feared man this country ever produced, sitting in front of me with his head down, telling me his dick hadn't gotten hard in two years, and that he'd watched, on a camera in his own kitchen, what that costs a man.
+My team thought I'd lost my mind. Why? Because what he told me at his ranch in Fort Worth wasn't a patient's complaint. It was the confession of a man at the bottom of the hole. The most feared man this country ever produced, sitting in front of me with his head down, telling me his dick hadn't gotten hard in two years, and that he'd watched, on a camera in his own kitchen, what that costs a man.
 
 Iron Mike. The man who made grown men shake just hearing his name. Destroyed in front of me because he couldn't even fuck his own wife anymore, and had to watch a thirty-year-old ranch hand do it for him.
 
@@ -70,7 +70,7 @@ And the third, the dirtiest one of all: nobody was talking about it for a very s
 
 So stop and think about this with me. If this dropped Mike Tyson, with all the money and all the doctors in the world at his disposal, what do you think it's already doing to yours, with nobody there to warn you?
 
-But before I show you the science, you have to hear this from his own mouth. And since I'm a scientist before anything else, I didn't settle for one side of the story. I went after both. What Mike told me at that ranch, I haven't forgotten to this day. And what she confessed to me afterward, about what was missing in her husband, about what the other guy had and he didn't, that's what changed everything.
+But before I show you the science, you have to hear this from his own mouth. And since I'm a scientist before anything else, I didn't settle for one side of the story. I went after both. What Mike told me at that ranch in Fort Worth, I haven't forgotten to this day. And what she confessed to me afterward, about what was missing in her husband, about what the other guy had and he didn't, that's what changed everything.
 
 ---
 
@@ -122,7 +122,7 @@ Guarda essa frase. Porque daqui a alguns minutos ela vai fazer todo o sentido, e
 
 Quando o Mike me ligou, eu fiz uma loucura. Cancelei episódios. Joguei patrocínio no lixo. Passei seis meses sem gravar um único programa.
 
-Minha equipe achou que eu tinha enlouquecido. Por quê? Porque o que ele me contou naquele rancho não era queixa de paciente. Era a confissão de um homem no fundo do poço. O homem mais temido que este país já produziu, sentado na minha frente de cabeça baixa, me contando que o pau dele não levantava há dois anos, e que ele tinha assistido, numa câmera da própria cozinha, quanto isso custa a um homem.
+Minha equipe achou que eu tinha enlouquecido. Por quê? Porque o que ele me contou no rancho dele em Fort Worth não era queixa de paciente. Era a confissão de um homem no fundo do poço. O homem mais temido que este país já produziu, sentado na minha frente de cabeça baixa, me contando que o pau dele não levantava há dois anos, e que ele tinha assistido, numa câmera da própria cozinha, quanto isso custa a um homem.
 
 O Iron Mike. O homem que fazia marmanjo tremer só de ouvir o nome. Destruído na minha frente porque não conseguia mais nem comer a própria esposa, e teve que assistir um peão de trinta anos fazer isso por ele.
 
@@ -136,7 +136,7 @@ E a terceira, a mais suja de todas: ninguém falava sobre isso por um motivo mui
 
 Então para e pensa comigo. Se isso derrubou o Mike Tyson, com todo o dinheiro e todos os médicos do mundo à disposição, o que você acha que isso já está fazendo com o seu, sem ninguém pra te avisar?
 
-Mas antes de eu te mostrar a ciência, você tem que ouvir isso da boca dele. E como eu sou cientista antes de tudo, não me contentei com um lado só da história. Fui atrás dos dois. O que o Mike me contou naquele rancho, eu não esqueci até hoje. E o que ela me confessou depois, sobre o que faltava no marido dela, sobre o que o outro cara tinha e ele não, foi isso que mudou tudo.
+Mas antes de eu te mostrar a ciência, você tem que ouvir isso da boca dele. E como eu sou cientista antes de tudo, não me contentei com um lado só da história. Fui atrás dos dois. O que o Mike me contou naquele rancho em Fort Worth, eu não esqueci até hoje. E o que ela me confessou depois, sobre o que faltava no marido dela, sobre o que o outro cara tinha e ele não, foi isso que mudou tudo.
 
 ---
 

@@ -38,7 +38,7 @@ Micro-lead e lead ficam fora deste documento, por ordem do Marcos.
 
 **PL-E2 · Tudo que ele tentou.** Afirmação: ele tentou o que você tentou, com mais dinheiro que você. Prova: TRT (parou pelo coração), a erva, o veneno de sapo, Viagra ("funcionou duas vezes, na terceira tomei dois e nada"), os protocolos do Huberman (banho gelado, sol, sono: "fiquei forte, continuei morto"). Imagem: bandeja de TRT com receita (AE 13:58), cápsulas "quentes do remédio" (AE 13:27), banheira de gelo. Loop: a vergonha de vestiário: "parei de me trocar na frente do sparring".
 
-**PL-E3 · O camp: plantar o galpão e o rival.** Afirmação: o segredo e o inimigo estavam no mesmo rancho. Prova: setembro de 2024, rancho de Longhorn perto de Arlington; o saco de 25 kg no galpão ("é para o boi não cair"); o peão no churrasco. Imagem: saco ao lado da ração; a risada dela. Lettering "HOLD ON TO THAT DETAIL" duas vezes. Loop: duas pistas plantadas.
+**PL-E3 · O camp: plantar o galpão e o rival.** Afirmação: o segredo e o inimigo estavam no rancho que ele comprou. Prova: setembro de 2024, o Mike compra um rancho em Fort Worth (Longhorn, 20 min de Arlington) como base do camp; gado, capataz velho e peões vêm com a compra; o saco de 25 kg no galpão ("é para o boi não cair"); o peão no churrasco. Imagem: saco ao lado da ração; a risada dela. Lettering "HOLD ON TO THAT DETAIL" duas vezes. Loop: duas pistas plantadas.
 
 **PL-E4 · A descida.** Afirmação: a traição começa nos detalhes, não no ato. Prova: celular virado, "ir ver os cavalos", cheiro na caminhonete, o peão "consertando o chuveiro". Imagem: gestos pequenos (regra de imagem literal). Loop: "nenhum soco me acertou como aquele cheiro".
 

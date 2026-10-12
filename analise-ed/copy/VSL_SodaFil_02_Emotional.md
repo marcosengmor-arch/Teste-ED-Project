@@ -2,6 +2,7 @@
 
 **Mudança da v2 (ordem do Marcos):** a fala do Mike reescrita na voz do Mike (guia em `referencias/Voz_Tyson_e_Kiki.md`): curta, de rua, com palavrão como pontuação, "listen", "you know what I'm saying", dupla negativa, humor em cima da própria dor, terceira pessoa quando é sobre o mito. Conversa entre dois amigos, não depoimento. Em cima disso, a **VOC do prospect** (os pensamentos, as desculpas, os medos, as feridas) entra pela boca do Mike para o cara em casa pensar "porra, eu sei como é isso" e "é isso mesmo, cara". A esposa fala o mesmo idioma, mais contida. A estrutura da Soda Horse (blocos 5, 6 e 7) continua a mesma, parágrafo a parágrafo.
 **Mudança da v3 (ordem do Marcos):** inserido o sub-bloco de **desqualificação das soluções comuns** (padrão Alpha Erec 6.1–7.1: Viagra que funciona 3 meses e dobra na noite da escova de cabelo, "tá tudo bem" como execução, TRT e o fígado, a fuga do vestiário), reescrito na voz do Mike, cara a cara com o Huberman. Entra depois da descida ("um estranho que apareceu dentro da sua calça") e antes do camp, porque cronologicamente ele tentou tudo isso nos dois anos antes de Arlington, e o "ainda nem era o pior" entrega a câmera. O "tá tudo bem" do hotel agora é a segunda vez ("same two words as that night with the pill"). Decisão do Marcos (12/10): a esposa pode ser nomeada: Lakiha. O rosto continua fora da câmera.
+**Nova abordagem (12/10, ordem do Marcos):** o Mike **comprou um rancho em Fort Worth** oito semanas antes de Arlington para ser a base do camp contra o Jake Paul. Fort Worth é a cidade dos Longhorn, a 20 minutos do estádio. O gado, o capataz velho (40 anos tocando o lugar) e os peões vieram com a compra. O rival trabalha para o Mike; a câmera é da casa do Mike; o galpão com o saco é do Mike; "a casa que o nome do meu marido pagou" é literal.
 **Entra depois de:** o background ("fui atrás dos dois"). **Duração-alvo:** 8 min a 8 min 20 s.
 **Formato:** copy lisa nas duas línguas. Picos de legenda e trilha nas notas do fim.
 
@@ -47,7 +48,7 @@ I started ducking the gym I trained in for ten years. Told everybody I was "savi
 
 Then came the camp.
 
-September. Eight weeks before Arlington. We set up on a Longhorn ranch outside of town. The old man that owns it, good dude, gave us the big house. My wife came with me. To take care of me, she said. And first Saturday, barbecue, here come this ranch hand. Thirty years old. Rides bulls. Hands like a damn shovel. He's at my table. Laughing at my jokes. Drinking my beer. Fixing the shower upstairs while I'm getting punched in the face six hours a day. And she laughing at some dumb shit he said in a way I ain't heard her laugh in two years.
+Eight weeks before Arlington, I bought a ranch in Fort Worth. Twenty minutes from the stadium. Longhorn country. Two hundred head of cattle came with it, and so did the people. An old foreman who'd been running the place for forty years, and his ranch hands. I made it my base for the Jake Paul camp. My wife came with me. To take care of me, she said. And first Saturday, barbecue, here come this ranch hand. Thirty years old. Rides bulls. Hands like a damn shovel. Works for me now, technically. He's at my table. Laughing at my jokes. Drinking my beer. Fixing the shower upstairs while I'm getting punched in the face six hours a day. And she laughing at some dumb shit he said in a way I ain't heard her laugh in two years.
 
 I saw it. I'm Mike Tyson. I see everything. And I did nothing. 'Cause what am I gonna say? "Don't laugh"? With what I got going on downstairs? I ain't got no leverage, bro. A man with a dead dick ain't got no leverage in his own house. That's real talk.
 
@@ -57,7 +58,7 @@ And I did the most pathetic thing a man can do. My security puts cameras in ever
 
 I watched it about twenty times.
 
-Kid comes in the back door of my kitchen. Got a tin can. Mixes some kind of white powder in a glass at my sink. Looks at the clock on the wall. Drinks it. Wipes my counter. And walks up my stairs like the house is his. And the hallway camera got a mic, Andrew. The worst part wasn't what I saw. It's what I heard. My wife moaning so loud it came down the stairs and into the kitchen.
+Kid comes in the back door of my kitchen. My kitchen, in my ranch, that I paid for. Got a tin can. Mixes some kind of white powder in a glass at my sink. Looks at the clock on the wall. Drinks it. Wipes my counter. And walks up my stairs like the house is his. And the hallway camera got a mic, Andrew. The worst part wasn't what I saw. It's what I heard. My wife moaning so loud it came down the stairs and into the kitchen.
 
 Same moans I couldn't get out of her in two years. Not one time. That kid mixed his little secret at my counter and fucked my wife in my bed so loud the damn camera picked it up. And I'm sitting in that truck, alone, in the dark, phone shaking in my hand. An hour. I wanted to kill him. I'm Mike Tyson. I been to prison. And I didn't get out the truck. You know why? 'Cause he had what I didn't have. Simple as that. You can't fight a man for having what you don't got.
 
@@ -79,11 +80,11 @@ Then that boy showed up. And look, I can't explain it to you. All I know is from
 
 It wasn't the fame either. He's Mike Tyson, for God's sake. It was the one thing my husband couldn't give me anymore. And it's not that he stopped trying. It's like something inside of him just quit. Just stopped working. And I got tired of pretending, you hear me? I got tired.
 
-**ANDREW HUBERMAN:** She didn't leave him. Not yet. But she'd already left the bed. And the man she left it for slept two hundred yards from Mike's front door, on a ranch, with the bulls. Hold on to that detail. The ranch. Because that day I didn't pay attention to it either. But that kid worked those cattle every morning, and as I'd only understand much later, it was exactly from the world of those bulls that he took the secret that stole Mike Tyson's wife.
+**ANDREW HUBERMAN:** She didn't leave him. Not yet. But she'd already left the bed. And the man she left it for slept two hundred yards from Mike's front door, in the bunkhouse, with the bulls. On Mike's own ranch. Hold on to that detail. The ranch. Because that day I didn't pay attention to it either. But that kid worked Mike's cattle every morning, and as I'd only understand much later, it was exactly from the world of those bulls that he took the secret that stole Mike Tyson's wife.
 
 **LAKIHA (voice):** A ranch hand gave me what the most feared man in America couldn't.
 
-**ANDREW HUBERMAN:** And that's the cruelest part of all. Mike was on that ranch for eight weeks. He walked past that barn every single morning. The thing that could have saved him was fifty feet from where he trained. And it was the outsider, the kid, who saw what Mike never saw.
+**ANDREW HUBERMAN:** And that's the cruelest part of all. Mike owned that ranch. He walked past his own barn every single morning for eight weeks. The thing that could have saved him was fifty feet from where he trained, on land with his name on the deed. And it was the outsider, the kid, who saw what Mike never saw.
 
 But what sent a chill down my spine was a sentence she kept repeating. It's like something inside of him just quit. Because it wasn't her heart that went cold. It was his dick that died from the inside.
 
@@ -91,7 +92,7 @@ She never stopped wanting Mike. Mike's dick just stopped being able. And there w
 
 What if the same silent thing that was killing men's erections wasn't just dropping them, but shrinking them? Stealing the inches that should have been theirs from the very beginning? Hold on to that suspicion. Because in a few minutes I'm going to prove it to you. Millimeter by millimeter.
 
-I left that ranch with two questions nailed into my head. The first: what is this thing that kills a man's tissue from the inside, in silence, without him even feeling it, until it locks his erection and steals his size along with it? And the second: what did that kid take out of that barn that brought his back?
+I left Fort Worth with two questions nailed into my head. The first: what is this thing that kills a man's tissue from the inside, in silence, without him even feeling it, until it locks his erection and steals his size along with it? And the second: what did that kid take out of that barn that brought his back?
 
 ---
 
@@ -135,7 +136,7 @@ Comecei a fugir da academia onde treinei dez anos. Falava pra todo mundo que era
 
 Aí veio o camp.
 
-Setembro. Oito semanas antes de Arlington. A gente montou num rancho de Longhorn fora da cidade. O velho dono, cara bom, cedeu a casa grande. Minha mulher foi junto. Pra cuidar de mim, ela disse. E no primeiro sábado, churrasco, aparece esse peão. Trinta anos. Monta touro. Mão do tamanho de uma pá. Na minha mesa. Rindo das minhas piadas. Bebendo a minha cerveja. Consertando o chuveiro lá em cima enquanto eu tomo soco na cara seis horas por dia. E ela rindo de uma besteira que ele falou de um jeito que eu não ouvia ela rir há dois anos.
+Oito semanas antes de Arlington, eu comprei um rancho em Fort Worth. Vinte minutos do estádio. Terra de Longhorn. Vieram duzentas cabeças de gado junto, e veio o pessoal também. Um capataz velho que tocava aquilo há quarenta anos, e os peões dele. Fiz dali a minha base pro camp do Jake Paul. Minha mulher foi junto. Pra cuidar de mim, ela disse. E no primeiro sábado, churrasco, aparece esse peão. Trinta anos. Monta touro. Mão do tamanho de uma pá. Tecnicamente, trabalha pra mim agora. Na minha mesa. Rindo das minhas piadas. Bebendo a minha cerveja. Consertando o chuveiro lá em cima enquanto eu tomo soco na cara seis horas por dia. E ela rindo de uma besteira que ele falou de um jeito que eu não ouvia ela rir há dois anos.
 
 Eu vi. Eu sou o Mike Tyson. Eu vejo tudo. E não fiz nada. Porque eu ia falar o quê? "Não ri"? Com o que eu tenho lá embaixo? Eu não tenho moral nenhuma, mano. Homem com pau morto não tem moral dentro da própria casa. Isso é papo reto.
 
@@ -145,7 +146,7 @@ E eu fiz a coisa mais patética que um homem pode fazer. A minha segurança põe
 
 Eu assisti aquilo umas vinte vezes.
 
-O moleque entra pela porta dos fundos da minha cozinha. Com uma lata. Mistura um pó branco num copo na minha pia. Olha o relógio da parede. Bebe. Limpa a minha bancada. E sobe a minha escada como se a casa fosse dele. E a câmera do corredor tem microfone, Andrew. O pior não foi o que eu vi. Foi o que eu ouvi. A minha mulher gemendo tão alto que descia a escada e chegava na cozinha.
+O moleque entra pela porta dos fundos da minha cozinha. Minha cozinha, no meu rancho, que eu paguei. Com uma lata. Mistura um pó branco num copo na minha pia. Olha o relógio da parede. Bebe. Limpa a minha bancada. E sobe a minha escada como se a casa fosse dele. E a câmera do corredor tem microfone, Andrew. O pior não foi o que eu vi. Foi o que eu ouvi. A minha mulher gemendo tão alto que descia a escada e chegava na cozinha.
 
 Os mesmos gemidos que eu não consegui tirar dela em dois anos. Nem uma vez. Aquele moleque misturou o segredinho dele na minha bancada e comeu a minha mulher na minha cama tão alto que a maldita câmera captou. E eu sentado naquela caminhonete, sozinho, no escuro, com o celular tremendo na mão. Uma hora. Eu quis matar ele. Eu sou o Mike Tyson. Eu já fui preso. E eu não saí da caminhonete. Sabe por quê? Porque ele tinha o que eu não tinha. Simples assim. Você não pode brigar com um homem por ele ter o que você não tem.
 
@@ -167,11 +168,11 @@ Aí aquele menino apareceu. E olha, eu não sei te explicar. Só sei que, desde 
 
 Também não era a fama. Ele é o Mike Tyson, pelo amor de Deus. Era a única coisa que o meu marido não conseguia mais me dar. E não é que ele parou de tentar. É como se alguma coisa dentro dele tivesse desistido. Parado de funcionar. E eu cansei de fingir, tá me ouvindo? Eu cansei.
 
-**ANDREW HUBERMAN:** Ela não deixou o Mike. Ainda não. Mas já tinha deixado a cama. E o homem por quem ela deixou dormia a duzentos metros da porta do Mike, num rancho, com os touros. Guarda esse detalhe. O rancho. Porque naquele dia eu também não prestei atenção. Mas aquele moleque lidava com aquele gado toda manhã, e, como eu só entenderia muito depois, foi exatamente do mundo daqueles touros que ele tirou o segredo que roubou a mulher do Mike Tyson.
+**ANDREW HUBERMAN:** Ela não deixou o Mike. Ainda não. Mas já tinha deixado a cama. E o homem por quem ela deixou dormia a duzentos metros da porta do Mike, no alojamento dos peões, com os touros. No rancho do próprio Mike. Guarda esse detalhe. O rancho. Porque naquele dia eu também não prestei atenção. Mas aquele moleque lidava com o gado do Mike toda manhã, e, como eu só entenderia muito depois, foi exatamente do mundo daqueles touros que ele tirou o segredo que roubou a mulher do Mike Tyson.
 
 **LAKIHA (voz):** Foi um peão de rancho que me deu o que o homem mais temido da América não conseguia.
 
-**ANDREW HUBERMAN:** E essa é a parte mais cruel de todas. O Mike passou oito semanas naquele rancho. Passou na frente daquele galpão toda santa manhã. A coisa que podia ter salvado ele estava a quinze metros de onde ele treinava. E foi o de fora, o moleque, que enxergou o que o Mike nunca enxergou.
+**ANDREW HUBERMAN:** E essa é a parte mais cruel de todas. O rancho era do Mike. Ele passou na frente do próprio galpão toda santa manhã por oito semanas. A coisa que podia ter salvado ele estava a quinze metros de onde ele treinava, em terra com o nome dele na escritura. E foi o de fora, o moleque, que enxergou o que o Mike nunca enxergou.
 
 Mas o que me deu calafrios na espinha foi uma frase que ela repetia sem parar. É como se alguma coisa dentro dele tivesse desistido. Porque não foi o coração dela que esfriou. Foi o pau dele que morreu por dentro.
 
@@ -179,7 +180,7 @@ Ela nunca parou de querer o Mike. O pau do Mike é que simplesmente parou de con
 
 E se essa mesma coisa silenciosa que estava matando a ereção dos homens não estivesse só derrubando eles, mas encolhendo eles? Roubando as polegadas que deveriam ser deles desde o começo? Guarda essa suspeita. Porque daqui a pouco eu vou provar isso pra você. Milímetro por milímetro.
 
-Eu saí daquele rancho com duas perguntas cravadas na cabeça. A primeira: o que é essa coisa que mata o tecido de um homem por dentro, em silêncio, sem que ele nem sinta, até travar a ereção e roubar o tamanho junto? E a segunda: o que aquele moleque tirou daquele galpão que trouxe o dele de volta?
+Eu saí de Fort Worth com duas perguntas cravadas na cabeça. A primeira: o que é essa coisa que mata o tecido de um homem por dentro, em silêncio, sem que ele nem sinta, até travar a ereção e roubar o tamanho junto? E a segunda: o que aquele moleque tirou daquele galpão que trouxe o dele de volta?
 
 ---
 
