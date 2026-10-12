@@ -334,6 +334,15 @@ O briefing de edição da Jelly Fil (05) e a versão Longhorn (06) impõem regra
 15. **FAQ de 6 perguntas** com cidades texanas, tom cômico, fechando com CTA.
 16. **Confissão do Huberman com o conteúdo real dele** (banho gelado, sol da manhã, frio na virilha), e callback dela no "por isso nada funcionou" da tese.
 
+
+## Regra de estilo da copy (registrada em 12/10/2026)
+
+- **Modelagem:** cada bloco é escrito em cima da estrutura invisível do bloco equivalente da **Soda Horse** (ordem psicológica e função de cada parágrafo), adaptado à nossa VSL com toques originais. Alpha Erec e Horse Jelly entram só nas provas e em frases pontuais.
+- **Voz:** a da Soda Horse. Conversa de homem com homem. Palavra forte e concreta ("quem diabos", "foder", "apodrecendo por dentro", "castrando", "carne viva"). Frases curtas quando dói. Nada de tom de palestra ou de artigo.
+- **Conteúdo do expert:** sempre do Huberman (podcast, protocolos, banho gelado, sol, sono, testosterona), nunca os fatos do Attia. Attia não é apresentado no background; entra onde a história precisa de médico (ressonância, piloto).
+- **Nome do mecanismo:** "placa castradora" / "castrating plaque" substitui "placa tóxica" na VSL inteira. "Cimento" é o que ela faz com a esponja.
+- **Escrita:** segue o guia interno de comunicação (`referencias/Comunicacao_Copywriting_guia_interno.md`): A-B-C, momentum, uma ideia por frase, grupos de três, mostrar em vez de dizer, bucket brigades, ler em voz alta.
+
 ## Pendências e decisões em aberto
 
 1. Contrato de imagem de Julia Ann (define se a micro-lead sai com nome ou com persona anônima).
