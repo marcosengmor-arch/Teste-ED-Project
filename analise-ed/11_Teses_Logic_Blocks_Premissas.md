@@ -603,7 +603,7 @@ Leitura: a Soda Horse convence por **lógica e experiência própria** (o prospe
 
 ### 4.4 O que isso diz para a SodaFil (sem escrever copy)
 
-1. **Espinha = Soda Horse** (cimento, tamanho travado aos 15, 7 polegadas, uma ferida, relógio úmido/seco, paradoxo do animal, bicarbonato herói, "puro só arrota"). Já está no doc 10 e no brief 04, com "placa castradora" no lugar de "placa tóxica".
+1. **Espinha = Soda Horse** (cimento, tamanho travado aos 15, 7 polegadas, uma ferida, relógio úmido/seco, paradoxo do animal, bicarbonato herói, "puro só arrota"). Já está no doc 10 e no brief 04. Nome do mecanismo mantido: "placa tóxica".
 2. **Enxertos da Alpha Erec para fechar as afirmações nuas da Soda Horse:** Journal of Urology 1993 na esponja; Endocrine Reviews 14x no "o veneno escolhe o seu pau"; "sangue enche, colágeno permite encher" (HJ) como frase-chave; "fígado do alcoólatra, pulmão do fumante" (HJ) para a fibrose; o vilão com balanço fica na discovery (já está lá: memo 04-Beta, $24 bi), não precisa repetir na tese.
 3. **O que a Soda Horse não prova e a nossa deve provar:** a âncora de 7 polegadas (precisa de uma fonte ou de uma lógica, mesmo que seja a do "estudo com 1.000 mulheres" dito com nome de revista); o "cada um faz 10%" (pode virar lógica física: dissolver sem reconstruir = esponja frouxa; reconstruir sem proteger = refaz metade em 6 meses; são os loops que já estão em PL-T10→T12).
 4. **A ponte Longhorn já é mais forte que a do cavalo:** o touro come a ração com Roundup do saco do capataz (callback direto da discovery), vale $700 mil, cobre aos 18, e o capataz disse "straight, all you do is burp" antes de o Huberman explicar o ácido do estômago. Isso transforma a PREMISSA 33 da Soda Horse (Lógica do Cotidiano) em Callback + Autoridade de quem vive do animal.
@@ -612,7 +612,7 @@ Leitura: a Soda Horse convence por **lógica e experiência própria** (o prospe
 
 ## PARTE 5 — PROPOSTA INICIAL DE CADEIA DE PREMISSAS DA SODAFIL (para validação; não é copy)
 
-Montada sobre a espinha da Soda Horse, com os enxertos acima e os elementos já decididos (Huberman, Fort Worth, capataz, Longhorn, placa castradora, conjunto único de números do doc 10). Cada linha: afirmativa → prova prevista → etiqueta.
+Montada sobre a espinha da Soda Horse, com os enxertos acima e os elementos já decididos (Huberman, Fort Worth, capataz, Longhorn, placa tóxica, conjunto único de números do doc 10). Cada linha: afirmativa → prova prevista → etiqueta.
 
 **BLOCO A — A ESPONJA**
 1. Por dentro o pau é uma esponja de colágeno tipo III (70–80%) → J Urol 1993 (post-it), 3D enchendo → Prova Científica.
@@ -620,9 +620,9 @@ Montada sobre a espinha da Soda Horse, com os enxertos acima e os elementos já 
 3. O corpo para de fabricar colágeno elástico aos 25; o que gruda nela, fica → gráfico 25 anos + ferida com sutura → Lógica Biológica.
 4. O glifosato que você viu no saco de ração e no seu bife procura exatamente essa esponja: 14x → Endocrine Reviews + confocal → Prova Científica + Callback (saco do capataz).
 
-**BLOCO B — A PLACA CASTRADORA**
+**BLOCO B — A PLACA TÓXICA**
 5. Refeição após refeição ele seca em camadas como cimento; o corpo tapa com tipo I, que é cicatriz; "cimento não enche, não endurece, não bombeia, não fode" → câmera lenta + dedo na esponja cimentada (doc 08) → Lógica Física + Metáfora.
-6. Ele não esperou você fazer 40: 90% do tamanho é definido antes dos 21 (Stanford); te travou aos 15; "castrado antes de virar homem" → Prova Científica + Callback RFK (meninos) → nome: placa castradora.
+6. Ele não esperou você fazer 40: 90% do tamanho é definido antes dos 21 (Stanford); te travou aos 15; "castrado antes de virar homem" → Prova Científica + Callback RFK (meninos) → nome: placa tóxica.
 7. O orgasmo que ela nunca esquece só acontece a 7 polegadas (estudo, 1.000 mulheres) e te travaram logo abaixo da linha; Lakiha e o peão → Prova Científica + Callback.
 8. Olha as duas esponjas; este exame é real: 60%, a um passo → torso com dois estômagos (3B) + MRI → Prova Visual + Documental.
 9. Cada polegada que sumiu no chuveiro é cimento ocupando esponja; foi isso que entortou na mão dela → Experiência Própria + Callback da cena.
