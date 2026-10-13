@@ -656,3 +656,37 @@ Montada sobre a espinha da Soda Horse, com os enxertos acima e os elementos já 
 27. 4 verbos; 72h / 5d / 14d / 21d / 30d; "bom demais pra ser verdade, por isso não vou pedir pra acreditar" → Fechamento Lógico → ponte para o build-up (37 piloto → 1.800, 94/97/91%).
 
 **Pontos a validar antes de escrever:** (a) manter a âncora de 7 polegadas e como dar fonte; (b) usar "cicatriz/tipo I" dentro do cimento (AE) ou só cimento (SH); (c) o bloco de declínio androgênico da HJ entra (mandíbula, matinal) ou fica de fora; (d) onde entra o Mike na tese (só no 60% e nas soluções comuns, como acima, ou também na régua).
+
+---
+
+## PARTE 6 — CAMADAS POR PREMISSA DA SODAFIL (decisão de 13/10/2026)
+
+Regra de montagem: cada premissa da Parte 5 recebe a lógica da Soda Horse, a prova visual/numérica da Alpha Erec (ou Horse Jelly) e, só nas premissas marcadas, um toque nosso. Lettering de ritmo como na Soda Horse; imagem de laboratório como na Alpha Erec, debaixo do lettering, não no lugar dele. Uma fonte por premissa científica, dita em voz alta com nome e ano.
+
+| Premissa | Lógica (SH) | Prova visual / numérica (AE/HJ) | Toque nosso |
+|---|---|---|---|
+| 1. Esponja 70–80% tipo III | "Esponja cheia de furos, feita pra uma coisa só" | Lâmina histológica + J Urol 1993 com post-it + mola ondulada (HJ 20:15) | — |
+| 2. Sangue enche, colágeno permite encher | "Esponja travada, pau mole. Ponto" (STUCK SPONGE / PERIOD) | 3D do corte enchendo (HJ 19:55) | Lettering no estilo SH |
+| 3. O corpo para aos 25; o que gruda, fica | "Andaime que o corpo quase nunca substitui" | Gráfico "collagen production after 25" (HJ 29:36) | — |
+| 4. O veneno procura o seu pau: 14x | "Não escolheu por acaso" | Corpo 3D "não é o fígado, não é o pulmão" + microscopia verde + Endocrine Reviews 1998 com barra 14x | Callback: o saco de ração do capataz entra na lista (ração → bife → água → esponja) |
+| 5. Seca em camadas como cimento | Colher de pedreiro, cimento fresco (SH 29:38) | Fibras com ligações enegrecidas (AE 24:26) + ferida de pele, uma frase (AE 24:50) | — |
+| 6. Te travou aos 15 | "Castrado antes de virar homem" | Página de Stanford legível | Callback RFK (meninos) |
+| 7. 7 polegadas / 1.000 mulheres | A linha entre satisfazer e ela procurar fora | Fonte com nome em tela (a SH não dá) | Callback Lakiha e o peão |
+| 8. Placa tóxica, nomeada uma vez | "Olha as 2 esponjas" | Microscopia lado a lado (AE 27:14) + corte do pênis com placas (AE 25:46) | — |
+| 9. Exame real: 60% | "A um passo do ponto sem volta" | Ressonância na tela com o número | A do Mike (o build-up repete 60 → 28) |
+| 10–11. Não é idade; Viagra, TRT, prótese | Balde na pedra, fio cortado, lâmpada apagada | Blister de Viagra sobre "doesn't dissolve the scar" (AE 27:24), frasco de TRT | — |
+| 12. Relógio | Cimento úmido solta, seco vira pedra | Infográfico boca → 40 min → 2 h (AE 30:02) + túnel calcificado (SH 29:24) | — |
+| 13–16. O touro | Paradoxo dos 15 kg, incentivo do criador, pó fora de rótulo | Nenhuma de laboratório; a prova é gente | Capataz, saco, $700 mil, "straight, all you do is burp" |
+| 17. Dissolver | "Puro só arrota" | Urina escura (lettering) | — |
+| 20–22. Reconstruir | "Não é o bovino de confinamento" | Régua com decimais e ressonância, mesmo set | Dois rótulos (6B), tendão na mão (6C), Voluntário 22 com o tripé à mostra |
+| 24–26. Proteger, Reativar | Escudo, fio emendado | Hopkins 92% / IIEF 15→27 em gráfico à mão; DORMANT → ACTIVATED; monitor noturno | Tira de saliva de óxido nítrico (9A) |
+
+### Regra de voz da tese: o fato vira cena na cama dele (padrão Alpha Erec)
+
+A Alpha Erec explica menos e personaliza mais. O padrão, em três movimentos, sempre nesta ordem:
+
+1. **Fato em uma frase curta**, sem jargão acumulado. "A função dele é uma só: encher de sangue quando você é estimulado, segurar sob pressão e te manter duro por tempo suficiente pra foder."
+2. **Tradução imediata para a cama dele hoje à noite**, em segunda pessoa, com ela na cena. "Ele decide se hoje à noite o seu pau vai ficar duro o suficiente pra foder a sua esposa, ou se vai continuar mole quando ela colocar a mão nele. Se ela vai gemer ou te dar um tapinha nas costas. Se você vai gozar dentro dela ou adormecer fingindo que estava cansado."
+3. **Cadência de repetição que fecha o bloco** e coloca o veneno na rotina dele. "Ano após ano, bife após bife, copo d'água após copo d'água." "Cicatriz não enche. Cicatriz não endurece. Cicatriz não bombeia sangue. Cicatriz não fode."
+
+O que isso muda na nossa: nenhuma premissa científica (1, 3, 4, 5, 8, 12, 24–26) termina no fato. Cada uma termina no movimento 2 ou 3. O número e a fonte ficam na tela (lettering + imagem da AE); a voz gasta as palavras na cena, não na explicação. Teste de cada parágrafo da tese: se o último período não tem "você", "ela" ou "seu pau", o parágrafo não acabou.
