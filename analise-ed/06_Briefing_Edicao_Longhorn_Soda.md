@@ -169,6 +169,26 @@ Convenções herdadas em todos os blocos:
 - **Legenda:** pequena; grande em títulos de infográfico ("97%", "14X", "$24 BILLION", "$700,000").
 - **Trilha sonora:** Melodia intrigante na abertura → beat meio sexy quando entra benefício/anatomia → tensão com batida de coração na conspiração (Bayer 1998, FDA, "video removed") e no relógio/ponto sem retorno → volta a subir, esperançosa, na ponte do touro. Trocar a trilha a cada ponto lógico, não a cada bloco.
 - **Tipos de B-roll (lista espelho da Jelly Fil):** cinematografia · cinematografia com IA · **jogando pesticida no pasto e na ração** · provas científicas (estudos) · 3D anatômico · prova jornalística (físico e digital, incluindo o recorte real do leilão) · top secret · provas confidenciais · homem broxa · prova de vídeo removido · **prova em formato de quadro de detetive** (cortiça, fotos, barbante: glifosato → Bayer → FDA → rancho) · pornô · prova de microscópio · prova dentro de livro médico/veterinário · soluções comuns · **mulher olhando outro** (flagra da câmera) · MUITA prova visual.
+- **Regra visual do dano: cimento, nunca rasgo (decisão de 13/10/2026).** O estoque de tecido da Alpha Erec entra inteiro, convertido. Mesma função (mostrar o dano dentro do tecido), outro material: tudo cimentado, congelando por dentro. Conversão plano a plano:
+
+  | Stock da Alpha Erec (timecode) | Versão SodaFil (cimento) |
+  |---|---|
+  | Fibras onduladas com ligações enegrecidas (24:26, "the chemical bonds harden") | As mesmas fibras sendo envolvidas por cimento cinza úmido que vai clareando e secando; a mola para de voltar |
+  | Microscopia roxa com depósito verde (24:35, "damage deposits") | Microscopia com o depósito cinza-claro de cimento entre as fibras, crescendo em camadas |
+  | Tecido de pele com fibras cicatriciais (24:50, "that's the material") | Cimento fresco sendo despejado sobre a esponja; uma frase só ("o corpo tapa o buraco com o que tem") |
+  | Microscopia de esponja com lettering TOXIC PLAQUES (25:36) | Esponja 3D rosa com bloco de cimento branco no meio, lettering TOXIC PLAQUE (já existe na SH 28:33, melhorar a resolução) |
+  | Corte do pênis com placas de tipo I + histologia (25:46) | O mesmo corte, com cimento cinza preenchendo os furos da esponja em vez de placas brancas; histologia ao lado com a mancha cinza |
+  | Corte 3D do pênis com placas e lupa (26:13–26:16) | Lupa passando sobre a esponja: a parte viva rosa, a parte cimentada cinza, fronteira nítida ("é aqui que ele entorta") |
+  | Mangueira nova → 20 verões (26:18–26:41) | Fica como está na AE (mangueira), ou troca por tubo de borracha com cimento secando dentro, se o diretor preferir manter um só material |
+  | Microscopia lado a lado saudável x placa (27:14, "look at that image") | Lado a lado: esponja viva x esponja cimentada, mesma escala, mesma luz; é a imagem do "foi isso que ela segurou" |
+  | Corte de tecido roxo com cicatriz branca (27:54, "hardened scar") | Corte com o bloco de cimento seco, rachado, inerte |
+  | Corte saudável vermelho x com placas (28:48, "point of no return") | Barra de progresso de cimento sobre a esponja: 60% cinza, linha vermelha no 70% |
+  | Animação de glifosato verde nos vasos e fibras (30:05–30:10, "won't let go") | Partículas verdes do glifosato chegando e virando grão de cimento ao grudar na fibra |
+  | Painel fibras saudáveis → cicatriz → placa endurecida (30:18–30:21) | Painel em três tempos: esponja viva → cimento úmido → cimento seco; ligado ao relógio (úmido solta, seco não) |
+  | Túnel calcificado da SH (29:24) e colher de pedreiro com cimento fresco (29:38) | Mantidos; são a âncora do relógio |
+
+  Regra de cor: vivo = rosa/vermelho; cimento úmido = cinza escuro brilhante; cimento seco = cinza claro fosco com rachaduras. Nada rasga, sangra ou se rompe na nossa; tudo trava, seca e congela. Na MUS, o processo inverte com o mesmo material: o preparo escorre, o cimento escurece, solta em grãos e cai na bandeja (demo do corte inclinado).
+
 - **Tipos de B-roll por ponto lógico:**
 
   **PL1 — Causa raiz / glifosato está em tudo**
