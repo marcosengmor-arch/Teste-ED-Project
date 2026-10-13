@@ -32,7 +32,7 @@
 | B | O cimento e a placa tóxica | Ligar o veneno da discovery à esponja (14x), mostrar o cimento secando em camadas, estender o dano para trás (aos 15) e para ela (7 polegadas). Nomear uma vez. Exame anônimo: 60%. | SH 11–12 + AE 11–12 | — | ~3:15 |
 | C | Uma ferida, por que nada funcionou, o relógio | Unificar broxar + encolher; absolver (não é idade, não é cabeça); desqualificar Viagra, TRT, prótese com as memórias do Mike; instalar o relógio úmido/seco. | SH 13 + AE 13–14 | — | ~3:00 |
 | D | A resposta no touro | Paradoxo (come mais veneno, não cimenta) com o exame do veterinário e os dois laudos → por que não o cavalo (manequim vs pasto) → $700 mil em jogo → o bicarbonato está no rótulo; o segredo é o preparo → "o touro faz 4 coisas". | SH 14 | 1B + 1C, 13A, 2A | ~3:00 |
-| E | DISSOLVER | Revelar o bicarbonato, desarmar "tenho na cozinha" com o torso e os dois estômagos ("puro só arrota"), prova na urina, dose exata (o fardo na mesa). | SH 15 | 3B físico, 4 + 5, 12C | ~2:30 |
+| E | DISSOLVER | Revelar o bicarbonato, desarmar "tenho na cozinha" com o torso e os dois estômagos ("puro só arrota"), callback da bandeja da lead em plano fechado, prova na urina, dose exata (o fardo na mesa). | SH 15 | 3B físico, 4 + 5 (plano fechado), 12C | ~2:30 |
 | F | RECONSTRUIR | Por que dissolver não basta; tendão de touro reprodutor; régua e ressonância; ela congela 3 segundos. | SH 16 | 6B + 6C, 7B | ~2:30 |
 | G | PROTEGER + REATIVAR + linha do tempo | O café de amanhã → escudo; receptores mudos → fio emendado; homem inteiro; marcos; ponte para o build-up. | SH 17 | 8B, 9A + 9C, 10C | ~3:00 |
 
@@ -202,10 +202,10 @@ ARGUMENTO: Na mesa de madeira do rancho, Huberman com o rancheiro ao lado: um to
 MEMÓRIA: Ele viu o arroto no copo há 30 segundos. Agora sabe por quê.
 Etiqueta: Lógica Biológica + Demonstração Física + Callback ("It's not the horse").
 
-**PREMISSA 31:** Preparado do jeito do cocho, na dose certa, ele passa do estômago e faz uma coisa que nenhum remédio faz. Lembra do cimento? A placa é um depósito duro e ácido. O bicarbonato, na forma certa, é a única coisa que quebra esse depósito em pedaços pequenos o bastante pra sair na urina. Olha isso acontecendo. · **Demo 4 + 5**
-ARGUMENTO: O corte do pênis inclinado, em plano fechado: o preparo é despejado pelo funil, escorre por dentro, o cimento escurece, solta em grãos e cai na bandeja transparente; a bandeja enchendo de preto. Lettering "DISSOLVE".
+**PREMISSA 31:** Preparado do jeito do cocho, na dose certa, ele passa do estômago e faz uma coisa que nenhum remédio faz. Lembra do cimento? A placa é um depósito duro e ácido. O bicarbonato, na forma certa, é a única coisa que quebra esse depósito em pedaços pequenos o bastante pra sair na urina. Você já viu isso acontecer no começo deste vídeo. Olha a bandeja de novo. · **Demo 4 + 5, plano fechado (callback da lead)**
+ARGUMENTO: A demonstração inteira (modelo em corte inclinado, funil, o preparo escorrendo, a placa soltando) é da lead. Aqui ela não se repete: volta só em plano fechado, a bandeja transparente enchendo de preto, os grãos caindo. Lettering "DISSOLVE". Três a cinco segundos.
 MEMÓRIA: Nos primeiros dias a sua urina vai ficar mais escura. Não é doença. É o cimento saindo. Você vai literalmente mijar pra fora o cimento que travou o seu pau por 30 anos. E vai ter a prova na sua própria mão.
-Etiqueta: Prova Visual (demonstração) + Prova por Experiência Própria (futura).
+Etiqueta: Callback (demo da lead) + Prova por Experiência Própria (futura).
 
 **PREMISSA 32:** E a dose tem que ser exata. A do touro é 9 quilos em 900 de ração. Pra ter a dose do touro do jeito do touro, você teria que comer o que ele come. Abaixo disso o ácido destrói antes de chegar. Acima, é só arroto e barriga. Ou isso, ou uma goma. · **Demo 12C**
 ARGUMENTO: Um fardo de feno inteiro em cima da mesa de jantar da cozinha do rancho, prato e talheres ao lado. Lettering "380 MG. EXACT." Breve: a balança do misturador ("9 kg / 900 kg = 1%") e a balança de precisão com a dose humana.
@@ -304,7 +304,7 @@ Esponja de colágeno que decide tudo e não se renova (1–4) → o glifosato do
 | 1 Longhorns não cimentam | 1B + 1C | 23 |
 | 2 Bicarbonato é prática de ração | 2A | 26 |
 | 3 Cavalo 1 estômago, boi 4 | 3B físico | 30 |
-| 4 + 5 Dissolve / sai na urina | Corte inclinado | 31 |
+| 4 + 5 Dissolve / sai na urina | Corte inclinado: demo inteira na lead; no MUS só o plano fechado da bandeja enchendo de preto | 31 |
 | 6 Colágeno de pote vs tendão | 6B + 6C | 36 |
 | 7 Esponja cresce | 7B | 39 |
 | 8 Proteger | 8B | 42 |
