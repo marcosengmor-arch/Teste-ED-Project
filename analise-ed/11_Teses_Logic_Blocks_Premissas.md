@@ -681,12 +681,19 @@ Regra de montagem: cada premissa da Parte 5 recebe a lógica da Soda Horse, a pr
 | 20–22. Reconstruir | "Não é o bovino de confinamento" | Régua com decimais e ressonância, mesmo set | Dois rótulos (6B), tendão na mão (6C), Voluntário 22 com o tripé à mostra |
 | 24–26. Proteger, Reativar | Escudo, fio emendado | Hopkins 92% / IIEF 15→27 em gráfico à mão; DORMANT → ACTIVATED; monitor noturno | Tira de saliva de óxido nítrico (9A) |
 
-### Regra de voz da tese: o fato vira cena na cama dele (padrão Alpha Erec)
+### Regra de voz da tese (padrão Alpha Erec)
 
-A Alpha Erec explica menos e personaliza mais. O padrão, em três movimentos, sempre nesta ordem:
+É simples: a Alpha Erec humaniza a explicação e prova com o que é testável no próprio cara. Cada fato do mecanismo é traduzido para algo que ele já passou ou passa. Ele ouve a explicação, lembra do que aconteceu na cama, e entende sem precisar acreditar em ninguém: a prova é a memória dele.
 
-1. **Fato em uma frase curta**, sem jargão acumulado. "A função dele é uma só: encher de sangue quando você é estimulado, segurar sob pressão e te manter duro por tempo suficiente pra foder."
-2. **Tradução imediata para a cama dele hoje à noite**, em segunda pessoa, com ela na cena. "Ele decide se hoje à noite o seu pau vai ficar duro o suficiente pra foder a sua esposa, ou se vai continuar mole quando ela colocar a mão nele. Se ela vai gemer ou te dar um tapinha nas costas. Se você vai gozar dentro dela ou adormecer fingindo que estava cansado."
-3. **Cadência de repetição que fecha o bloco** e coloca o veneno na rotina dele. "Ano após ano, bife após bife, copo d'água após copo d'água." "Cicatriz não enche. Cicatriz não endurece. Cicatriz não bombeia sangue. Cicatriz não fode."
+| Fato (o que a tela prova) | Memória que a voz aciona (o que ele já viveu) |
+|---|---|
+| A esponja decide tudo | Mole quando ela colocou a mão; tapinha nas costas; adormecer fingindo cansaço |
+| O glifosato entra pela comida | Bife após bife, copo d'água após copo d'água, os últimos 40 anos |
+| Esponja virando cicatriz | A culpa que ele foi procurar no estresse, na idade, na esposa |
+| Cicatriz não incha, dobra | A quinta-feira em que ele dobrou; a mão dela tirando ele de cima dela |
+| Placa ocupa espaço de esponja | Ele comparou no chuveiro e fingiu que não era nada |
+| Viagra força sangue contra cicatriz | Funcionou no começo e foi enfraquecendo; dor de cabeça e nada |
+| Receptor morto para o sinal | A matinal que sumiu; "quando foi a última vez?" |
+| Relógio | As desculpas (viagem, prazo, acordar cedo); dormir de costas por escolha |
 
-O que isso muda na nossa: nenhuma premissa científica (1, 3, 4, 5, 8, 12, 24–26) termina no fato. Cada uma termina no movimento 2 ou 3. O número e a fonte ficam na tela (lettering + imagem da AE); a voz gasta as palavras na cena, não na explicação. Teste de cada parágrafo da tese: se o último período não tem "você", "ela" ou "seu pau", o parágrafo não acabou.
+O que isso muda na nossa: número e fonte ficam na tela (lettering + imagem da AE); a voz gasta as palavras na lembrança dele. Nenhum parágrafo da tese termina no fato: termina em algo que ele já sentiu. Cada premissa científica da Parte 5 (1, 3, 4, 5, 8, 12, 24–26) precisa ter a sua linha de memória escolhida antes da copy.
