@@ -344,6 +344,8 @@ O briefing de edição da Jelly Fil (05) e a versão Longhorn (06) impõem regra
 - **Nome do mecanismo:** "placa castradora" / "castrating plaque" substitui "placa tóxica" na VSL inteira. "Cimento" é o que ela faz com a esponja.
 - **Escrita:** segue o guia interno de comunicação (`referencias/Comunicacao_Copywriting_guia_interno.md`): A-B-C, momentum, uma ideia por frase, grupos de três, mostrar em vez de dizer, bucket brigades, ler em voz alta.
 
+- **Fio "Everything's bigger in Texas" (decisão de 13/10/2026):** usar só em dois lugares, para não forçar. (1) Discovery, no mundo dos Longhorn: "You think that's about the trucks and the steaks. It's about the bulls… That saying isn't a joke. It's a clue." Única vez em lettering. (2) MUS, no verbo RECONSTRUIR, junto da régua do piloto: "Three inches in 30 days. Everything's bigger in Texas. Now it's got a reason." Só na voz. Fora da lead, do emotional e do close.
+
 ## Pendências e decisões em aberto
 
 1. Contrato de imagem de Julia Ann (define se a micro-lead sai com nome ou com persona anônima).
