@@ -23,6 +23,7 @@
 | `copy/VSL_SodaFil_06_Tese_D.md` + `.docx` | Tese parte 3, bloco D (a resposta no touro: exame do veterinário e laudos, manequim vs pasto, rótulo da ração, capataz, os 4 verbos), modelada na Soda Horse 14 |
 | `copy/VSL_SodaFil_07_Tese_E.md` + `.docx` | Tese parte 4, bloco E (DISSOLVER: bicarbonato, torso e dois estômagos, bandeja da lead em plano fechado, urina, dose e fardo), modelada na Soda Horse 15 |
 | `copy/VSL_SodaFil_08_Tese_F.md` + `.docx` | Tese parte 5, bloco F (RECONSTRUIR: dois rótulos, tendão na mão, Voluntário 22 com o set à mostra, "Everything's bigger in Texas. Now it's got a reason."), modelada na Soda Horse 16 |
+| `copy/VSL_SodaFil_09_Tese_G.md` + `.docx` | Tese parte 6, bloco G (PROTEGER com a mesa do café, Hopkins e a tira de saliva; REATIVAR com o fio emendado e os receptores; homem inteiro; monitor; marcos 72h→30d; ponte: "it was his"), modelada na Soda Horse 17 |
 | `03_Relatorio_Detalhes_e_Adaptacao_Longhorn.md` | Fichas técnicas das 5 VSLs, dissecação da Soda Horse, bancos de personagens, superestruturas, analogias, números e swipe, arquitetura de oferta, mecanismos de outros nichos, mapa de adaptação Soda Horse → touro Longhorn / Texas, riscos, pendências |
 
 Materiais de origem: dissecações Jelly Fil, Max Vitalize (Horse Gelatin), Steel Power; análise de padrões C14; transcrição Soda Horse Peak (OT249, pitch 01:04:30). Power Up lida só via síntese C14.

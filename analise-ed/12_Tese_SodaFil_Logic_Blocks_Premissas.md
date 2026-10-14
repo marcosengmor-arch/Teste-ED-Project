@@ -263,7 +263,7 @@ MEMÓRIA: O café de amanhã. O copo de hoje.
 Etiqueta: Lógica Física + Prova Documental.
 
 **PREMISSA 43:** Por isso a terceira coisa: proteger. O Pycnogenol, casca do pinheiro marítimo francês, faz uma coisa simples e brilhante: ocupa o espaço na esponja que o veneno ia ocupar. O veneno chega e não encontra onde grudar. Escudo. E isso não é teoria: Johns Hopkins mediu, 92% dos homens voltaram a ter ereção normal em 3 meses, índice de função erétil de 15 pra 27. `[toque: gráfico à mão]` · **Demo 9C**
-ARGUMENTO: 3D: partículas verdes batendo na esponja blindada e caindo; Attia desenha no quadro branco as barras "IIEF 15 → 27", "92%", com a página do estudo marcada e post-it "3 meses".
+ARGUMENTO: 3D: partículas verdes batendo na esponja blindada e caindo; Huberman desenha no quadro branco as barras "IIEF 15 → 27", "92%" (Attia não aparece na tese; entra no build-up), com a página do estudo marcada e post-it "3 meses".
 MEMÓRIA: "Com ele, cimento novo não se forma. A esponja limpa continua limpa."
 Etiqueta: Metáfora + Prova Científica / Especificidade.
 
