@@ -10,7 +10,7 @@
 - Sem pudor na fala: pau, broxou, mole que nem macarrão cozido, mijar o cimento pra fora, foder, gozar. Termo técnico uma vez, depois vira a palavra dele.
 - Nome do mecanismo: placa tóxica, nomeada uma vez com cerimônia; no resto, cimento. Nada rasga; tudo trava, seca e congela.
 - A ressonância de 60% é anônima na tese ("este homem"); o build-up revela que era a do Mike (60 → 28).
-- Colágeno: a desqualificação é por idade e função do animal (boi de 18 meses de couro vs touro reprodutor de 15 anos de tendão), não por dieta, porque o Longhorn come a ração do saco.
+- Colágeno: a desqualificação é por idade e função do animal (couro de boi de 18 meses vs chifre de touro reprodutor), não por dieta, porque o Longhorn come a ração do saco. Fonte do colágeno: o núcleo do chifre, a única parte do Longhorn que nunca para de crescer (decisão de 14/10).
 - Toque nosso só nas premissas marcadas `[toque]`.
 - Conjunto único de números: 70–80% · 14x · 90% antes dos 21 · 7 polegadas · 60% / 70% · 18 meses / 5 anos / 10 anos · 15 kg · 0,7–1% · $700 mil · 18 anos de monta · 9 g em 900 kg / 380 mg · 92% / IIEF 15→27 · +28–40% em 7 dias · 72h / 5d / 14d / 21d / 30d · Voluntário 22, 5,63" → 8,46" · RM 60 → 28.
 
@@ -20,7 +20,7 @@
 
 **MUP:** O seu pau não é músculo nem sangue, é uma esponja de colágeno que o corpo nunca troca. O glifosato que está no saco de ração do touro e no seu bife gruda nessa esponja 14 vezes mais que em qualquer outro tecido e seca em camadas como cimento. Esse cimento travou o seu tamanho aos 15 e te fez broxar aos 50. Uma ferida, dois sintomas. Não é idade, não é cabeça, não é testosterona. Tem nome (placa tóxica), tem relógio (70% é o ponto sem volta) e você já viu os sinais no chuveiro, na mão dela e na manhã em que não acordou duro.
 
-**MUS:** O touro Longhorn come 15 quilos daquela ração por dia e monta aos 18 como aos 3, porque o rancheiro mistura bicarbonato no cocho, e porque o touro faz quatro coisas na ordem. O bicarbonato está em todo saco de ração do Texas; o segredo é o preparo, porque puro, no seu estômago de um compartimento só, só faz arrotar. Dissolver (bicarbonato preparado) · Reconstruir (colágeno de tendão de touro reprodutor Longhorn) · Proteger (Pycnogenol) · Reativar (Tongkat Ali). Em 30 dias a esponja volta, e as polegadas que o cimento travou voltam com ela.
+**MUS:** O touro Longhorn come 15 quilos daquela ração por dia e monta aos 18 como aos 3, porque o rancheiro mistura bicarbonato no cocho, e porque o touro faz quatro coisas na ordem. O bicarbonato está em todo saco de ração do Texas; o segredo é o preparo, porque puro, no seu estômago de um compartimento só, só faz arrotar. Dissolver (bicarbonato preparado) · Reconstruir (colágeno do chifre de touro reprodutor Longhorn) · Proteger (Pycnogenol) · Reativar (Tongkat Ali). Em 30 dias a esponja volta, e as polegadas que o cimento travou voltam com ela.
 
 ---
 
@@ -33,7 +33,7 @@
 | C | Uma ferida, por que nada funcionou, o relógio | Unificar broxar + encolher; absolver (não é idade, não é cabeça); desqualificar Viagra, TRT, prótese com as memórias do Mike; instalar o relógio úmido/seco. | SH 13 + AE 13–14 | — | ~3:00 |
 | D | A resposta no touro | Paradoxo (come mais veneno, não cimenta) com o exame do veterinário e os dois laudos → por que não o cavalo (manequim vs pasto) → $700 mil em jogo → o bicarbonato está no rótulo; o segredo é o preparo → "o touro faz 4 coisas". | SH 14 | 1B + 1C, 13A, 2A | ~3:00 |
 | E | DISSOLVER | Revelar o bicarbonato, desarmar "tenho na cozinha" com o torso e os dois estômagos ("puro só arrota"), callback da bandeja da lead em plano fechado, prova na urina, dose exata (o fardo na mesa). | SH 15 | 3B físico, 4 + 5 (plano fechado), 12C | ~2:30 |
-| F | RECONSTRUIR | Por que dissolver não basta; tendão de touro reprodutor; régua e ressonância; ela congela 3 segundos. | SH 16 | 6B + 6C, 7B | ~2:30 |
+| F | RECONSTRUIR | Por que dissolver não basta; o chifre que nunca para de crescer; régua e ressonância; ela congela 3 segundos. | SH 16 | 6B + 6C, 7B | ~2:30 |
 | G | PROTEGER + REATIVAR + linha do tempo | O café de amanhã → escudo; receptores mudos → fio emendado; homem inteiro; marcos; ponte para o build-up. | SH 17 | 8B, 9A + 9C, 10C | ~3:00 |
 
 ---
@@ -227,8 +227,8 @@ ARGUMENTO: Esponja 3D limpa mas frouxa, afundando. Lettering "RECONSTRUIR".
 MEMÓRIA: "Duro, mas pequeno."
 Etiqueta: Lógica Física.
 
-**PREMISSA 36:** E só existe um material pra reconstruir: colágeno hidrolisado de tendão de touro reprodutor Longhorn. Não me venha com o potinho pra ruga: aquilo é couro de boi de confinamento, abatido com 18 meses, antes de o colágeno amadurecer, e o ácido do seu estômago destrói antes de absorver. A única coisa que cresce é o lucro do laboratório. O nosso vem do tendão de um touro que passou 15 anos montando. O homem para de fabricar colágeno aos 25. O touro reprodutor nunca para. É por isso que ele monta aos 18 como aos 3. `[toque: dois rótulos, tendão na mão]` · **Demo 6B + 6C**
-ARGUMENTO: Os dois rótulos lado a lado: "bovine hide, feedlot, 18 months" marcado em amarelo vs "Longhorn breeding-bull tendon, 15 years, type III 71%". No curral, o veterinário estica o tendão real com as duas mãos ("isso é a mola") ao lado do pote de farmácia; corte para o tendão virando gel âmbar. Gráfico "homem 25 / touro nunca".
+**PREMISSA 36:** E só existe um material pra reconstruir: colágeno hidrolisado do chifre de touro reprodutor Longhorn. Não me venha com o potinho pra ruga: aquilo é couro de boi de confinamento, abatido com 18 meses, antes de o colágeno amadurecer, e o ácido do seu estômago destrói antes de absorver. A única coisa que cresce é o lucro do laboratório. O nosso vem do núcleo do chifre: a única parte do Longhorn que nunca para de crescer, do primeiro dia ao último, mais de cem polegadas. O homem para de fabricar colágeno aos 25. O Longhorn nunca para, e é esse colágeno que empurra o chifre e mantém o aparelho dele ligado. É por isso que ele monta aos 18 como aos 3. `[toque: dois rótulos, chifre na mão]` · **Demo 6B + 6C**
+ARGUMENTO: Os dois rótulos lado a lado: "bovine hide, feedlot, 18 months" marcado em amarelo vs "Longhorn horn core, breeding bull, type III 71%". No curral, o veterinário com o chifre inteiro nas mãos ao lado do pote, depois o corte transversal com o núcleo; o touro vivo com chifres de mais de cem polegadas, lettering "NEVER STOPS GROWING"; corte para o núcleo virando gel âmbar. Gráfico "homem 25 / touro nunca".
 MEMÓRIA: O potinho dela, de novo.
 Etiqueta: Lógica Biológica + Contraste (idade e função, não dieta) + Prova Visual.
 
@@ -247,7 +247,7 @@ ARGUMENTO: Primeiro o set: tripé, fita no chão, régua clínica, luz. Depois o
 MEMÓRIA: "Ele teve que comprar cueca de tecido mais grosso."
 Etiqueta: Prova Documental / Visual + Prova por Caso.
 
-**PREMISSA 40:** Então é só comprar colágeno de touro? Não. O extrato vem do tendão de touro reprodutor, de um único centro de processamento no Texas, classificado como substância biológica não regulamentada e proibido de ser vendido cru. Ninguém vai jogar isso num liquidificador e vender num site chinês.
+**PREMISSA 40:** Então é só comprar colágeno de touro? Não. O extrato vem do chifre de touro reprodutor, de um único centro de processamento no Texas, classificado como substância biológica não regulamentada e proibido de ser vendido cru. Ninguém vai jogar isso num liquidificador e vender num site chinês.
 ARGUMENTO: Fachada do laboratório no Texas; carimbo "unregulated biologic / not for retail".
 MEMÓRIA: Nenhuma.
 Etiqueta: Especificidade + Escassez.
@@ -295,7 +295,7 @@ Etiqueta: Fechamento Lógico (antecipa a objeção) → build-up.
 
 ## 4. Cadeia lógica resumida
 
-Esponja de colágeno que decide tudo e não se renova (1–4) → o glifosato do saco e do bife gruda nela 14x e seca em camadas como cimento; cimento não fode (5–7) → te travou aos 15 e abaixo das 7 polegadas que ela precisa (8–9) → placa tóxica, nomeada; as duas esponjas; um exame real em 60% (10–11) → México e Alemanha numa frase, o chuveiro, mole que nem macarrão na mão dela (12–13) → uma ferida; não é idade nem cabeça (matinal); Viagra, TRT, prótese com as memórias do Mike; é cimento, despejado por quem sabia (14–20) → relógio úmido/seco, 18 m / 5 a / 10 a, 70%, "olhei pro pasto" (21–22) → o Longhorn come 15 kg e não cimenta (exame do veterinário, dois laudos); o garanhão é coletado, o touro monta; $700 mil; o bicarbonato está no rótulo, o segredo é o preparo; o capataz; o touro faz 4 coisas (23–28) → DISSOLVER: "tenho na cozinha", o torso e os dois estômagos (animal errado), o corte com o cimento caindo na bandeja, mijar o cimento, o fardo na mesa (29–34) → RECONSTRUIR: tendão de touro reprodutor vs couro de boi de 18 meses, régua do Voluntário 22, ela congela, "tudo é maior no Texas" (35–41) → PROTEGER: a mesa do café, Pycnogenol, Hopkins, tira de saliva; REATIVAR: fio emendado, Tongkat 28–40%, homem inteiro, monitor; marcos 72h→30d (42–47) → "não vou pedir pra acreditar: o primeiro homem, e a ressonância era dele" (48).
+Esponja de colágeno que decide tudo e não se renova (1–4) → o glifosato do saco e do bife gruda nela 14x e seca em camadas como cimento; cimento não fode (5–7) → te travou aos 15 e abaixo das 7 polegadas que ela precisa (8–9) → placa tóxica, nomeada; as duas esponjas; um exame real em 60% (10–11) → México e Alemanha numa frase, o chuveiro, mole que nem macarrão na mão dela (12–13) → uma ferida; não é idade nem cabeça (matinal); Viagra, TRT, prótese com as memórias do Mike; é cimento, despejado por quem sabia (14–20) → relógio úmido/seco, 18 m / 5 a / 10 a, 70%, "olhei pro pasto" (21–22) → o Longhorn come 15 kg e não cimenta (exame do veterinário, dois laudos); o garanhão é coletado, o touro monta; $700 mil; o bicarbonato está no rótulo, o segredo é o preparo; o capataz; o touro faz 4 coisas (23–28) → DISSOLVER: "tenho na cozinha", o torso e os dois estômagos (animal errado), o corte com o cimento caindo na bandeja, mijar o cimento, o fardo na mesa (29–34) → RECONSTRUIR: chifre que nunca para de crescer vs couro de boi de 18 meses, régua do Voluntário 22, ela congela, "tudo é maior no Texas" (35–41) → PROTEGER: a mesa do café, Pycnogenol, Hopkins, tira de saliva; REATIVAR: fio emendado, Tongkat 28–40%, homem inteiro, monitor; marcos 72h→30d (42–47) → "não vou pedir pra acreditar: o primeiro homem, e a ressonância era dele" (48).
 
 ## 5. Mapa das demonstrações do doc 08 na tese
 
@@ -305,7 +305,7 @@ Esponja de colágeno que decide tudo e não se renova (1–4) → o glifosato do
 | 2 Bicarbonato é prática de ração | 2A | 26 |
 | 3 Cavalo 1 estômago, boi 4 | 3B físico | 30 |
 | 4 + 5 Dissolve / sai na urina | Corte inclinado: demo inteira na lead; no MUS só o plano fechado da bandeja enchendo de preto | 31 |
-| 6 Colágeno de pote vs tendão | 6B + 6C | 36 |
+| 6 Colágeno de pote vs chifre de Longhorn | 6B + 6C | 36 |
 | 7 Esponja cresce | 7B | 39 |
 | 8 Proteger | 8B | 42 |
 | 9 Óxido nítrico | 9A + 9C | 43, 44 |
@@ -338,4 +338,4 @@ Esponja de colágeno que decide tudo e não se renova (1–4) → o glifosato do
 2. **Premissa 16** (declínio androgênico, da Horse Jelly): entra ou fica de fora.
 3. **Mangueira** da Alpha Erec: hoje a cadeia não usa; o "entorta" é a lupa na fronteira rosa/cinza (premissa 13).
 4. **Idade do touro:** unificada em 18 (doc 08 dizia 17 no exame do veterinário; ajustado para "AGE 18 = MAN OF 75").
-5. **Rótulo 6B:** texto alterado para idade e função ("feedlot, 18 months" vs "breeding-bull tendon, 15 years"); doc 08 e brief 04 alinhados.
+5. **Rótulo 6B:** texto alterado para idade e função ("feedlot, 18 months" vs "Longhorn horn core, breeding bull"); doc 08 e brief 04 alinhados. Fonte: chifre, não tendão (14/10).
