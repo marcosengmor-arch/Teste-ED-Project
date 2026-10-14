@@ -19,6 +19,7 @@
 | `referencias/Voz_Tyson_e_Kiki.md` | Guia de voz do Mike Tyson (traços de fala, trechos separados por falante do podcast com Theo Von) e da esposa, para a copy do emotional e do build-up |
 | `copy/VSL_SodaFil_03_Discovery.md` + `.docx` | Copy do Bloco 3 (Discovery): investigação, glifosato, RFK, memo, FDA, Big Pharma com dois depoimentos, o pó do galpão e o paradoxo do touro, modelado na Soda Horse blocos 8-10 com enxertos da Alpha Erec, EN + PT-BR |
 | `copy/VSL_SodaFil_04_Tese_A_B.md` + `.docx` | Tese parte 1, blocos A e B (a esponja, o cimento, a placa tóxica), modelada na Soda Horse 11–12 parágrafo a parágrafo: EN copy lisa + PT + tabela de modelagem, picos de legenda, tela e trilha |
+| `copy/VSL_SodaFil_05_Tese_C.md` + `.docx` | Tese parte 2, bloco C (uma ferida, por que nada funcionou, o relógio), modelada na Soda Horse 13: EN copy lisa + PT + tabela de modelagem, picos de legenda, tela e trilha |
 | `03_Relatorio_Detalhes_e_Adaptacao_Longhorn.md` | Fichas técnicas das 5 VSLs, dissecação da Soda Horse, bancos de personagens, superestruturas, analogias, números e swipe, arquitetura de oferta, mecanismos de outros nichos, mapa de adaptação Soda Horse → touro Longhorn / Texas, riscos, pendências |
 
 Materiais de origem: dissecações Jelly Fil, Max Vitalize (Horse Gelatin), Steel Power; análise de padrões C14; transcrição Soda Horse Peak (OT249, pitch 01:04:30). Power Up lida só via síntese C14.
