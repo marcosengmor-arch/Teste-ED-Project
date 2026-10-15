@@ -133,15 +133,16 @@ Colisão = busca rápida (15/10/2026) por produto com o mesmo nome. "Limpo" = ne
 
 ## 5. Recomendação e teste
 
-**Top 5 para o teste de thumbnail (substitui a pendência nº 2 do brief):**
+**Top 3 (revisão de 15/10/2026, critério: memorável e distante do concorrente direto Soda Horse Peak; nada fechado):**
 
 | Ordem | Nome | Fórmula | Aposta |
 |---|---|---|---|
-| 1 | **Torofil** | F1 | Novo na faixa, soa Rx, touro sem "bull", abre latino. |
-| 2 | **Lone Star Rise** | F4 | Texas embutido sem a palavra; soa marca, não clone. |
-| 3 | **Bull Soda Peak** | F3 | Continuidade máxima com o truque e com o nome mais validado. Aposta segura. |
-| 4 | **Longfil** | F1 | Promessa dimensional + Longhorn sem a marca. |
-| 5 | **SodaFil** | F1 | Controle (nome atual). |
+| 1 | **Torofil** | F1 | Som de princípio ativo com palavra conhecida dentro; grava com uma audição; longe de Soda Horse e HorseFil. Frase pronta: "Toro. Spanish for bull." |
+| 2 | **Lone Star Rise** | F4 | Memorável por imagem (estrela do Texas + verbo de ereção); nenhum concorrente usa geografia americana. `[CHECK]` Lone Star Beer. |
+| 3 | **HammerFil** | F5 | Arm & Hammer = a caixa de bicarbonato de toda geladeira: diz o ingrediente sem a string queimada, mais "duro como martelo". Mesmo movimento do Vapofil com o Vicks. `[CHECK]` Church & Dwight. |
+| Reserva | **Longfil** | F1 | Entra se o jurídico derrubar HammerFil. |
+
+Descartados nesta rodada: **Bull Soda Peak** e **Texas Bull Soda** (estrutura e vocabulário iguais ao concorrente direto); **SodaFil** deixa de ser controle pelo mesmo motivo ("Soda" + sufixo de Jellyfil).
 
 **Como decidir** `[INF]`:
 1. **Thumbnail CTR** com o mesmo criativo, só o nome trocado (regra do brief: "o CTR decide").
