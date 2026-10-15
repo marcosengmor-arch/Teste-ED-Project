@@ -155,6 +155,21 @@ Critério: dizer cinco vezes seguidas, rápido, sem tropeço. Soda Horse Peak = 
 
 **Escolha de trabalho (não fechada, revisão de 15/10/2026):** nome oficial = **Bull Hammer Rise** (frasco, checkout, garantia "The Bull Hammer Guarantee"); forma curta falada = **Bull Hammer** (thumbnail, nome de boca após a primeira menção). Por quê: estrutura ingrediente + fonte + resultado é padrão 5/5, não propriedade do concorrente, e nenhuma palavra coincide com Soda Horse Peak; o nome degrada bem na fala (sobra "Bull Hammer", como Soda Horse Peak vira "Soda Horse"); começa com a mesma palavra do truque (Bull Soda Trick), recall na primeira sílaba; "Rise" é a palavra de resultado já provada pelo Tropical Rise. Contra: meio passo mais longo que o ideal e três palavras ocupam mais espaço em thumbnail, resolvido com a forma curta.
 
+### Variações em três palavras (15/10/2026)
+
+Regra: pista de bicarbonato + touro + terceira palavra; sem engasgar. Colisão checada: só ferramentas de forja ("Bull Hammer" air hammer) e uma marca tailandesa de martelo ("Texas Bull"), classes diferentes de suplemento.
+
+| Ordem | Nome | Cadência | Por que pode ser melhor que Bull Hammer Rise | Risco |
+|---|---|---|---|---|
+| 1 | **Texas Bull Hammer** | 2-1-2 | Troca resultado por geografia, o ativo único da oferta; "Texas" é tão familiar que 5 sílabas saem fácil; nenhum concorrente tem estado americano no nome. Carrega lugar + touro + bicarbonato. | Sem palavra de resultado explícita. |
+| 2 | **Big Bull Hammer** | 1-1-2 | "Big" = fio "everything's bigger in Texas" + promessa dimensional em uma sílaba; aliteração B-B-H; cômico como Horse Jelly. O mais memorável. | Pode ler como piada demais para checkout. |
+| 3 | **Bull Hammer Rise** | 1-2-1 | Já registrado acima. | — |
+| 4 | **Bull Hammer Prime** | 1-2-1 | Status com sotaque texano (USDA Prime, "prime of life"); foge do Alpha saturado; termina em consoante seca como Peak. | "Prime" não é palavra de resultado. |
+| Coringa | **Bull Hammer Hard** | 1-2-1 | Promessa escancarada, aliteração H-H. | Compliance em plataforma de anúncio ("hard"). |
+| Coringa | **Hammer Horn Rise** | 2-1-1 | Aliteração H-H; touro pelo chifre. | Perde "Bull" explícito. |
+
+Descartados: Toro Hammer Rise e Longhorn Hammer Rise (5 sílabas sem a familiaridade de "Texas"), Hammer Bull Rise (lê como Red Bull), Bull Hammer Rock (pedra é a metáfora do inimigo na tese), Bull Hammer Max / Pro / Boost (genérico de nutra).
+
 ---
 
 ## 4. Nunca usar
