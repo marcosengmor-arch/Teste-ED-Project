@@ -107,3 +107,38 @@ Label: split design in Texas flag colors: a navy-blue vertical panel on the left
 - **Proposta 5** é a identidade de longo prazo se a marca for escalar para outros produtos "do Texas".
 
 Teste sugerido: gerar 4 variações de cada, montar os 5 lado a lado em 9:16 e rodar thumbnail CTR com o mesmo criativo. Em qualquer caso, os chifres longos horizontais e a estrela são obrigatórios: são o que diferencia de cavalo e de touro genérico.
+
+---
+
+## 6. Três propostas novas sem semelhança de cara (15/10/2026)
+
+Mesma psicologia de base (nome gigante em 2 linhas, animal-fonte como emblema, vermelho constante, gomas à vista, ícones masculinos, cena que é prova), mas fora das três caras já usadas: nada de rótulo amarelo com círculo vermelho, nada de preto hexagonal com criatura, nada de couro escuro com brasão de escudo.
+
+### Proposta 6 — "Marca a ferro" (ferro de marcar gado)
+
+Conceito: o rótulo é madeira crua clara com a marca do rancho queimada a ferro: um "B" com chifres de Longhorn. A psicologia é posse e calor: o touro é marcado, a mulher é marcada ("I'm her bull now"). Cores: creme da madeira, preto carbonizado, laranja-brasa. Cena: bancada de ferreiro com o ferro em brasa ao lado do frasco, faíscas. Nenhuma das três referências usa madeira, fogo de verdade ou marca queimada.
+
+```
+Vertical 9:16 product photography. A clear supplement bottle with a black ribbed cap, filled with translucent amber-orange gummies, standing on a rough blacksmith workbench; beside it, a glowing red-hot cattle branding iron resting on an anvil, sparks and faint smoke rising, dark forge in the background, warm orange light from the embers on the bottle.
+Label: pale raw-wood texture (light oak grain) that looks seared by a branding iron. Center: a large ranch brand mark burned black into the wood, a bold letter "B" with long Longhorn horns curving out of its top, charred edges and faint smoke marks around it. Above the brand, the product name burned into the wood in two lines of heavy condensed capitals: "BULL SODA" in charred black and "RISE" in glowing ember red-orange, as if still hot, with a small upward arrow. Below the brand: "SEARED-IN MALE STRENGTH*" in small charred capitals. A row of four small black burned-in icons with labels: flexed arm "STRENGTH*", lightning "ENERGY*", male symbol "PERFORMANCE*", shield "VITALITY*". Bottom: a thin black band with "DIETARY SUPPLEMENT · 30 GUMMIES" in cream capitals and a tiny Lone Star. Photorealistic, no spelling errors, 8k.
+```
+
+### Proposta 7 — "Refrigerante texano de 1985" (retrô + neon)
+
+Conceito: puxa a palavra "Soda" e a nostalgia do homem que ela escolheu em 1985. Rótulo de refrigerante texano vintage (o Dr Pepper nasceu em Waco): creme, vermelho-cereja, letras em script com bolhas, Longhorn dentro de uma tampinha de garrafa. Cena: balcão de lanchonete com um letreiro neon vermelho "RISE" aceso atrás do frasco; o neon é a ereção sem dizer. Nenhuma referência usa retrô, script, bolhas ou neon.
+
+```
+Vertical 9:16 product photography. A clear supplement bottle with a black ribbed cap, filled with translucent amber-orange gummies, standing on a chrome-edged 1950s Texas diner counter with a few drops of condensation; behind it, a glowing red neon sign spelling "RISE" in cursive, slightly out of focus, with a soft red glow on the bottle and counter, dark warm diner background.
+Label: vintage soda-pop style, cream background with cherry-red and dark-brown printing, fine carbonation bubbles rising along the sides. At the top, a red crimped bottle-cap badge containing a cream Texas Longhorn bull head with long horns and a tiny star. Below the cap, the product name: "BULL SODA" in big bold retro script lettering in cherry red with a cream outline, and under it "RISE" in large condensed cream capitals on a red ribbon, with an upward arrow at the end of the ribbon. Small text under the ribbon: "ORIGINAL TEXAS FORMULA · SINCE THE RANCH" in brown capitals. A row of four brown icons with labels: flexed arm "STRENGTH*", lightning "ENERGY*", male symbol "PERFORMANCE*", shield "VITALITY*". Bottom: red band reading "DIETARY SUPPLEMENT · 30 GUMMIES · CHERRY COLA FLAVOR" in cream capitals. Photorealistic, warm nostalgic lighting, no spelling errors, 8k.
+```
+
+### Proposta 8 — "Fivela de campeão de rodeio" (metal gravado)
+
+Conceito: o rótulo é uma fivela de cinto de campeão de rodeio: prata gravada, filetes dourados, esmalte vermelho, cabeça de Longhorn em relevo, "BULL SODA RISE" gravado como título de campeonato. Psicologia: status conquistado, o homem que venceu o touro. Cena: arena de rodeio com poeira e holofote, cerca de madeira. Difere do brasão da Jelly Rock porque é metal cromado gravado e não escudo sobre couro, e a cena é arena e não laboratório.
+
+```
+Vertical 9:16 product photography. A clear supplement bottle with a black ribbed cap, filled with translucent amber-orange gummies, standing on a wooden rodeo arena fence rail; behind it, a dusty rodeo arena under a single hard spotlight at night, floating dust particles, a blurred Texas Longhorn bull silhouette in the far background, warm spotlight on the bottle.
+Label: designed as an oversized engraved rodeo champion belt buckle filling the whole label: polished silver with intricate western floral engraving, gold rope border, and red enamel inlays. Center: a raised gold Texas Longhorn bull head with very long horns spanning the buckle. Across the top, engraved in bold capitals on a red enamel banner: "BULL SODA". Across the bottom, on a second red enamel banner: "RISE" in larger capitals with a gold upward arrow. Between them, small engraved text: "TEXAS CHAMPION MALE FORMULA*". A row of four small engraved icons with labels: flexed arm "STRENGTH*", lightning "ENERGY*", male symbol "PERFORMANCE*", shield "VITALITY*". Bottom edge: a thin engraved line reading "DIETARY SUPPLEMENT · 30 GUMMIES" and a small gold Lone Star. Metallic reflections, photorealistic, no spelling errors, 8k.
+```
+
+**Leitura:** a 6 é a mais crua e a mais ligada à emotional (marca, posse, calor); a 7 é a mais leve e a que mais usa o "Soda" do nome; a 8 é a de status e a mais "Texas" na cara. Para thumbnail, a 7 (neon "RISE") e a 6 (ferro em brasa) param o scroll por luz; a 8 vende no frasco.
