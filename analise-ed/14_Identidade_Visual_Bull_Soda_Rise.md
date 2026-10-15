@@ -218,3 +218,26 @@ Cap: matte black with a gold-foil Longhorn head embossed on the top and a thin g
 ### Variante v3b — ainda mais contraste (se o v3 sair apagado de novo)
 
 Mesmo prompt, trocando a frase do nome por: `"BULL SODA" in pure white with a thin gold outline and "RISE" in vivid red with a thick white outline and a gold drop shadow, both letters slightly raised like embossed enamel`, e acrescentando no final: `label colors vivid and punchy like a retail supplement label, not muted or vintage`.
+
+---
+
+## 9. v4: volta ao âmbar (15/10/2026). O que a v3 perdeu e o prompt corrigido
+
+A v3 saiu brilhante demais: trocou o registro de "garrafa de bourbon" por "rótulo de prateleira". Recursos premium perdidos na v3 e recuperados na v4:
+
+| Recurso premium | v2 (tinha) | v3 (perdeu) | v4 |
+|---|---|---|---|
+| Vidro âmbar de boticário | Sim | Transparente com gomas de doce | Âmbar de volta; gomas aparecem como uísque na luz (brilho quente interno, sem faísca) |
+| Paleta contida (foil sobre couro) | Sim | Branco puro com sombra, fio branco no RISE | Branco quente em foil, vermelho profundo saturado, dourado mais luminoso; sem sombra, sem fio branco |
+| Luz de ambiente (abajur, sombra) | Sim | Key light forte + contraluz = e-commerce | Luz de abajur mantida, só um reflexo suave no rótulo |
+| Ar no rótulo | Sim | Lotado | Ícones voltam, mas finos, em foil, com legendas brancas pequenas |
+| Marca "B" queimada | No rótulo | Removida | Só no topo da tampa |
+
+Regra que fica: **legibilidade se corrige com luminosidade do foil e saturação, não com branco chapado nem contraluz.**
+
+### Prompt v4 — Ranch Reserve âmbar, legível sem perder o registro
+
+```
+Vertical 9:16 luxury product photography. A dark amber apothecary-style glass supplement bottle with a thick base, standing on a worn brown leather saddle on a dark wooden table; the amber-orange gummies inside glow softly through the tinted glass like whisky held up to a lamp, warm and rich, no sparkle. Blurred dark ranch interior with a warm table lamp and a Longhorn painting in the background; soft warm lamp light with one gentle, controlled reflection across the label so the text reads clearly, moody and cinematic, not bright.
+Cap: matte black with a gold-foil Longhorn ranch-brand mark (a letter "B" with long horns) embossed on the top and a thin gold ring at the base. Label: dark brown full-grain leather with deep embossed texture, raised gold stitching and a thin gold-foil border. At the top, a large luminous gold-foil shield crest with a Texas Longhorn bull head with long horns and a small star beneath, the foil catching the lamp light; under it "EST. TEXAS" in small luminous gold spaced capitals. Product name in two lines of bold condensed capitals, clearly legible: "BULL SODA" in warm white foil, clean and solid, and "RISE" in deep saturated red foil with a thin gold outline, larger than the first line. Below, a thin gold rule, "TEXAS RANCH RESERVE" in luminous gold spaced capitals, and "SMALL BATCH · BATCH NO. 001" in small warm white capitals. Then a row of three refined gold-foil icons, solid but slim, separated by thin gold dividers, with labels in small bold warm white capitals: male symbol "MASCULINE*", lightning bolt "MAXIMUM POTENCY*", clock "DAILY ENERGY SUPPORT*". At the bottom, a narrow luminous gold-foil banner with a small Lone Star at each end reading "CHERRY COLA FLAVOR" in dark brown capitals, and "30 GUMMIES · DIETARY SUPPLEMENT" in small warm white capitals. Realistic leather, foil and amber glass; premium spirits-bottle aesthetic; crisp readable typography; no spelling errors, 8k.
+```
