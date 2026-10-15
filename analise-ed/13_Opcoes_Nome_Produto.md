@@ -143,6 +143,18 @@ Colisão = busca rápida (15/10/2026) por produto com o mesmo nome. "Limpo" = ne
 
 Descartados para o terceiro slot: Peak (concorrente), Max e Power (genérico de nutra, Max Vitalize já usou), Strike ("strike out"), Charge (energia, não ereção), Stand e Up (coloquiais).
 
+### Teste de boca (15/10/2026): curto e sem enrolar
+
+Critério: dizer cinco vezes seguidas, rápido, sem tropeço. Soda Horse Peak = 3 sílabas secas. Acima de 4 sílabas o apresentador enrola. "Bull Hammer Drive" e "Bull Hammer Growth" tropeçam na junção "mer-dr" / "mer-gr".
+
+| Ordem | Nome falado | Sílabas | Veredito |
+|---|---|---|---|
+| 1 | **Bull Hammer** | 3 | Limpo. Mesma contagem do concorrente. A palavra de resultado vai para o rótulo como sublinha ("Bull Hammer. Rise.") e para a copy, não para o nome falado. Na VSL, diz-se só "Bull Hammer". |
+| 2 | **Hammerhorn** | 3 | O mais fluente (escorrega como "Hammerhead"); soa marca de prateleira. Touro implícito. |
+| 3 | **Bull Hammer Rise** | 4 | Única pilha de três que não engasga ("mer-rise" liga suave). Limite do aceitável. |
+
+**Escolha de trabalho (não fechada):** nome = **Bull Hammer**; sublinha = **Rise**. Curto na boca, completo no frasco.
+
 ---
 
 ## 4. Nunca usar
