@@ -130,6 +130,19 @@ Colisão = busca rápida (15/10/2026) por produto com o mesmo nome. "Limpo" = ne
 
 **Recomendação da rodada:** **Bull Hammer** como nome principal de teste (explícito, direto, imagem pronta), **Hammerhorn** como variante de marca (mais sofisticado, carrega a promessa), **Horn & Hammer** só se o jurídico liberar.
 
+### F3b — Bull Hammer + palavra de resultado (pilha de três, padrão Soda Horse Peak)
+
+"Peak" é do concorrente direto; o terceiro slot usa as outras palavras validadas (Rise, Growth) ou uma com sabor texano. Ritmo: Soda Horse Peak = 1-1-1 sílabas; Bull Hammer + monossílabo = 1-2-1, mesma cadência de fala.
+
+| # | Nome | Terceira palavra | Por que funciona | Risco |
+|---|---|---|---|---|
+| 30 | **Bull Hammer Drive** | drive | Tripla leitura: cattle drive (tropas de Longhorn, universo 1883), sex drive, martelo que crava o prego. Texas sem a palavra Texas. Favorito. | "Drive" não é palavra validada no corpus de ED (é `[HIP]`). |
+| 31 | **Bull Hammer Rise** | rise | Validada (Tropical Rise); a mais explícita sobre ereção e a mais limpa. Aposta segura. | Menos personalidade que Drive. |
+| 32 | **Bull Hammer Growth** | growth | Validada (Men's Growth); única com a promessa dimensional no nome, casa com "everything's bigger in Texas". | Menos elegante na boca. |
+| — | Hammerhorn Drive / Hammerhorn Rise | — | Mesmo raciocínio para a variante de marca. | — |
+
+Descartados para o terceiro slot: Peak (concorrente), Max e Power (genérico de nutra, Max Vitalize já usou), Strike ("strike out"), Charge (energia, não ereção), Stand e Up (coloquiais).
+
 ---
 
 ## 4. Nunca usar
