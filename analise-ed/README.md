@@ -1,5 +1,7 @@
 # Análise de VSLs de ED — índice
 
+**Nome do produto (15/10/2026): Bull Soda Rise.** "SodaFil" continua como código interno nos nomes de arquivo.
+
 | Arquivo | Conteúdo |
 |---------|----------|
 | `01_Analise_de_Padroes_ED.md` | Inventário das 5 VSLs, assinaturas estruturais, padrões CORE/COMUM/LONG TAIL/AUSENTE, variáveis fixas e livres, 40 lentes, DNA do que ganha, "não faça", 20 hipóteses, briefs 70/30 e 40/60, checklist |
@@ -13,6 +15,7 @@
 | `10_Pontos_Logicos_VSL_SodaFil.md` + `.docx` | Esqueleto argumentativo da VSL, bloco a bloco (background, emotional v3, discovery, tese: problema / touro / 4 verbos, build-up, produto, oferta, close, FAQ): afirmação, prova, imagem-chave e loop de cada ponto lógico, conjunto único de números e mapa de loops |
 | `11_Teses_Logic_Blocks_Premissas.md` + `.docx` | Tese de marketing (MUP + MUS) das três copies quebrada em logic blocks e premissas (afirmativa + prova + etiqueta do tipo de prova): Soda Horse (53), Alpha Erec (41), Horse Jelly (diferenças); espinha comum, comparação, densidade de prova e proposta inicial da cadeia de premissas da SodaFil para validação |
 | `12_Tese_SodaFil_Logic_Blocks_Premissas.md` + `.docx` | Tese de marketing da SodaFil (MUP + MUS) em 7 logic blocks e 48 premissas (v2: um cimento, um veneno, RM anônima, demos 1–13 do doc 08 integradas) (afirmativa + prova na tela + memória do prospect + etiqueta), cadeia resumida, mapa de callbacks e pontos a validar antes da copy |
+| `13_Analise_Big_Offer_e_Close_3_Copies.md` + `.docx` | Produto, celebridades, escassez, oferta, garantia, close e FAQ das três copies: mapa de blocos, estrutura invisível comum (26 passos), pontos fortes e fracos de cada uma, comparação direta e o que o Bull Soda Rise leva de cada |
 | `copy/VSL_SodaFil_01_Background.md` + `.docx` | Copy do Bloco 1 (Background Story) da VSL SodaFil: apresentação do Huberman, confissão, Attia, Mike e as três coisas, em inglês com tradução PT-BR e notas de construção |
 | `referencias/Comunicacao_Copywriting_guia_interno.md` | Guia interno de comunicação e copywriting (A-B-C, momentum, ABT, 17 ferramentas, nível de leitura, erros fatais, checklists), convertido do docx recebido; referência obrigatória para a escrita dos blocos |
 | `copy/VSL_SodaFil_02_Emotional.md` + `.docx` | Copy do Bloco 2 (Emotional Story): depoimento do Mike, depoimento da esposa, o rancho e a suspeita do tamanho, modelado na Soda Horse blocos 5-7, EN + PT-BR com tabela de modelagem |

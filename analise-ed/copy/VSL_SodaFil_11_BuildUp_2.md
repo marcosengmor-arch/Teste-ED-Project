@@ -2,7 +2,7 @@
 
 **Bloco modelado:** SODA HORSE, bloco 19 (44:22 → 47:42), parágrafo a parágrafo. Enxertos nossos: o recap "só engolir bicarbonato?" encurtado (o bloco E já fez a prova dos estômagos e da dose); os 37 de Fort Worth com a dose preparada à mão; Carol no celular às 4 da manhã (herda a "mulher das 4 da manhã" da SH) e Dale em uma frase ("I'm not Mike Tyson"); os 14 laboratórios com o callback "maintenance is the product" (ex-executivo da discovery); o diretor de P&D do laboratório independente do Texas (herda Hartman/Meridian); o Mike como sócio com a condição do preço; o trial de 1.800. Sai: o churrasco em que os amigos oferecem as esposas (fora da voz do Huberman e da persona). Cadeia: doc 10, PL-P5 a PL-P8.
 **Estilo:** Huberman na voz da Soda Horse. Carol e Dale, texanos comuns. O diretor de P&D, seco.
-**Entra depois de:** o build-up 1 ("That's my bull. And I'm not going anywhere."). **Sai para:** a apresentação do produto ("His name is SodaFil."). **Duração-alvo:** 3 min 20 s (a da Soda Horse 19). **Tamanho:** 3490 caracteres falados em EN (SH 19: 3.600 em PT).
+**Entra depois de:** o build-up 1 ("That's my bull. And I'm not going anywhere."). **Sai para:** a apresentação do produto ("Its name is Bull Soda Rise."). **Duração-alvo:** 3 min 20 s (a da Soda Horse 19). **Tamanho:** 3490 caracteres falados em EN (SH 19: 3.600 em PT).
 **Formato:** copy lisa nas duas línguas. Picos de legenda e trilha nas notas do fim.
 
 ---
