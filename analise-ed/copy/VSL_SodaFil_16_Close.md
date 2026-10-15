@@ -1,0 +1,76 @@
+# VSL SodaFil — BLOCO 16: O CLOSE (Mike, dois caminhos, "eu fiz minha parte", FOMO, future pace, 3 motivos, a dor em P&B, CTA) (v1, 15/10/2026)
+
+**Bloco modelado:** SODA HORSE, bloco 24 (62:07 → 66:39), parágrafo a parágrafo. Enxertos de controle (doc 13): o terceiro motivo, identidade, da HORSE JELLY 23, na nossa chave (boi → touro, callback "that's my bull"); a dor reinserida em P&B antes do botão (regra 9 do briefing 06). Cadeia: doc 10, PL-C1 a PL-C8.
+**Estilo:** Mike na voz do Tyson, uma fala. Huberman na voz da Soda Horse.
+**Entra depois de:** a oferta ("I want you to hear this from Mike himself."). **Sai para:** o FAQ pós-close. **Duração-alvo:** 4 min 30 s (a da Soda Horse 24). **Tamanho:** 5093 caracteres falados em EN (Soda Horse 24: 4.800 (sem o motivo 3, cortado na transcrição) em PT).
+**Formato:** copy lisa nas duas línguas. Picos de legenda e trilha nas notas do fim.
+
+---
+
+## ENGLISH (copy final para gravação)
+
+**MIKE TYSON (denim jacket, to camera):** I put my name on this because I was the first man Andrew fixed. You got two choices right now. Close this video and keep sleeping with your back to your wife, waiting on the next guy to show up. Or click the button and do what I did. I did it. I'm 60 years old. If it worked on me, it's gonna work on you. That's real talk.
+
+**ANDREW HUBERMAN:** Mike's right. From this point on, you've got two roads. Only two. On the first one, you close this video and go on with your life the way it was. The cement keeps hardening inside you, in silence. In 18 months, you're sleeping with your back to her by choice. In five years, the loss is permanent. In ten, it's full surrender. And one fine day, at a family dinner, you'll watch your wife laughing at another man across the table and pretend everything's normal. You know it isn't. On the second road, you scroll down this page, pick the six-bottle kit, and click the green button below.
+
+You put your details into a secure page, and in 72 hours Bull Soda Rise is at your door in a discreet box, no name on the label, no name on the card statement. In four days, you wake up hard as a rock for the first time in years. In 14, you throw the Viagra in the trash. In 30, she lets out a startled moan when you put it in. And in three months, she's stopped looking at any other man. One road leads to surrender. The other leads back to the man she chose once. You're the man who clicks, or you're not. Click the green button, pick your kit, and take back your dick, your wife and your life. Look, I've done my part. I showed you the science: the glyphosate, the toxic plaque, the cement eating your sponge from the inside.
+
+I took you to Fort Worth and showed you the bull's secret. I showed you Mike. Mike's scan. Costner, Stallone, Ford. Carol, crying because she missed her own husband. The 1,800-man trial and the 94 percent. I gave you the ladder of kits, the bonuses, The Bull Guarantee, 60 days. I gave you everything I had to give. Now listen to me closely. The only real risk here is doing nothing. Because while you hesitate on that couch, another man is already clicking the green button and locking in exactly what you spent the last hour watching: a bigger dick, a hard erection, his wife coming back to bed crying with want. He's doing it. You're wondering if there's a catch. There isn't. Picture three months from now. Your dick in your hand first thing in the morning, thicker, heavier, harder than it was at 25, throbbing before you even open your eyes.
+
+A rock-hard erection every night, poking her in the back until she wakes up and sits on it without you asking. The energy of your 40s back, your body answering at the gym, and when you cum, your load tripled. And your wife, the one who's been turning her back on you for years, who'd already given up on you, getting wet again just from hearing the shower shut off, because she knows you're walking out of that bathroom hard as a rock to fuck her until she can't take it. You'll fuck all night without going soft. You'll make her squirt, make her beg you to stop, and the next day she's the one coming to find you asking for more. She'll look at you with that want from the beginning, and with a new fear: losing you to another woman. That's what's on the other side of this decision, one click away. And while you scroll, I'll give you three reasons to click before you close this page.
+
+The first is logic. You watched this far. You saw the science, the glyphosate, the facility in Texas. You saw Mike, the 1,800-man trial, the 94 percent reversal. Every number I gave you has a source. Every face I showed you has a name. Make the only choice an intelligent man would make in front of that much proof. The second is mechanical. The six-bottle kit dissolves all the cement and locks the result so it doesn't come back. Not the three-bottle kit. Not the two. The six, because the protocol is six months. The time it takes to dissolve 30 years of plaque, rebuild the whole sponge, shield it, and reactivate the signal. Three months brings results, but the cement starts again, and you're back on this page in 90 days, paying shipping and a higher price, if there's any stock left. Do it once. Close the loop.
+
+And the third is the one that actually matters. The woman sleeping next to you tonight already chose you once. Back when you were the man she met. The man who made her forget her own name in bed. That man didn't die. They turned him into a steer before he ever got to be a bull. He's buried under 30 years of cement, under 200 dinners where she looked away and thought you didn't notice. But he's in there, whole. Become her bull again. That's your job now. Logic, mechanics, identity. Pick one. Pick all three. It doesn't matter what moves you. What matters is that your hand moves.
+
+Or you close this page. And tonight, when she reaches over and puts her hand on you, you roll onto your side and say "it's okay" one more time.
+
+Scroll down. Pick the six-bottle kit. Click the green button. And go get your dick, your wife, and your life back.
+
+---
+
+## PORTUGUÊS (tradução para revisão)
+
+**MIKE TYSON (jaqueta jeans, à câmera):** Eu coloquei o meu nome nisso porque fui o primeiro homem que o Andrew consertou. Você tem duas escolhas agora. Fechar este vídeo e continuar dormindo de costas pra sua mulher, esperando o próximo cara aparecer. Ou clicar no botão e fazer o que eu fiz. Eu fiz. Eu tenho 60 anos. Se funcionou pra mim, vai funcionar pra você. Papo reto.
+
+**ANDREW HUBERMAN:** O Mike tem razão. Deste ponto em diante, você tem dois caminhos. Só dois. No primeiro, você fecha este vídeo e segue com a sua vida do jeito que estava. O cimento continua endurecendo dentro de você, em silêncio. Em 18 meses, você está dormindo de costas pra ela por escolha própria. Em cinco anos, a perda é permanente. Em dez, é rendição total. E um belo dia, num jantar de família, você vai ver a sua mulher rindo pra outro homem do outro lado da mesa e fingir que está tudo normal. Você sabe que não está. No segundo caminho, você desce esta página, escolhe o kit de 6 frascos e clica no botão verde abaixo.
+
+Você coloca os seus dados numa página segura, e em 72 horas o Bull Soda Rise chega na sua casa numa caixa discreta, sem nome no rótulo nem na fatura do cartão. Em quatro dias, você acorda duro feito pedra pela primeira vez em anos. Em 14, joga o Viagra no lixo. Em 30, ela solta um gemido assustado quando você coloca. E em três meses, ela parou de olhar pra qualquer outro homem. Um caminho leva à rendição. O outro leva de volta ao homem que ela escolheu um dia. Você é o homem que clica, ou não é. Clica no botão verde, escolhe o seu kit, e pega de volta o seu pau, a sua mulher e a sua vida. Olha, eu já fiz a minha parte. Eu te mostrei a ciência: o glifosato, a placa tóxica, o cimento comendo a sua esponja por dentro.
+
+Eu te levei a Fort Worth e te mostrei o segredo do touro. Te mostrei o Mike. A ressonância do Mike. O Costner, o Stallone, o Ford. A Carol, chorando porque sentia falta do próprio marido. O trial de 1.800 homens e os 94%. Te dei a escada de kits, os bônus, a Bull Guarantee, 60 dias. Eu te dei tudo que eu tinha pra te dar. Agora me escuta com atenção. O único risco real aqui é não fazer nada. Porque enquanto você hesita aí no sofá, outro homem já está clicando no botão verde e garantindo exatamente o que você passou esta última hora assistindo: um pau maior, uma ereção firme, a esposa dele voltando pra cama chorando de desejo. Ele está fazendo. Você está se perguntando se tem pegadinha. Não tem. Imagina daqui a três meses. O seu pau na sua mão logo de manhã, mais grosso, mais pesado, mais duro do que era aos 25, latejando antes mesmo de você abrir os olhos.
+
+Uma ereção dura feito pedra toda noite, cutucando as costas dela até ela acordar e sentar sem você nem pedir. A energia dos seus 40 de volta, o seu corpo respondendo na academia, e quando você goza, o seu jato triplicando. E a sua mulher, a que vinha virando as costas pra você há anos, que já tinha desistido de você, voltando a ficar molhada só de ouvir o chuveiro desligar, porque ela sabe que você vai sair daquele banheiro duro feito pedra pra foder ela até ela não aguentar mais. Você vai foder a noite inteira sem amolecer. Vai fazer ela esguichar, fazer ela implorar pra você parar, e no dia seguinte é ela que vai vir te procurar pedindo mais. Ela vai te olhar com aquele desejo do começo, e com um medo novo: te perder pra outra. É isso que está do outro lado desta decisão, a um clique de distância. E enquanto você desce a página, eu vou te dar três motivos pra clicar antes de fechar.
+
+O primeiro é lógico. Você assistiu até aqui. Viu a ciência, o glifosato, o laboratório no Texas. Viu o Mike, o trial de 1.800 homens, os 94% de reversão. Cada número que eu te dei tem fonte. Cada rosto que eu te mostrei tem nome. Faça a única escolha que um homem inteligente faria diante de tanta prova. O segundo é mecânico. O kit de 6 frascos dissolve todo o cimento e trava o resultado pra ele não voltar. Não é o kit de 3. Não é o de 2. É o de 6, porque o protocolo é de seis meses. O tempo que leva pra dissolver 30 anos de placa, reconstruir a esponja inteira, blindar, e reativar o sinal. Três meses trazem resultado, mas o cimento recomeça, e você está de volta nesta página em 90 dias, pagando frete e um preço maior, se ainda tiver estoque. Faça uma vez. Feche o ciclo.
+
+E o terceiro é o que realmente importa. A mulher dormindo do seu lado hoje à noite já te escolheu uma vez. Quando você ainda era o homem que ela conheceu. O homem que fazia ela esquecer o próprio nome na cama. Esse homem não morreu. Transformaram ele em boi antes de ele chegar a ser touro. Ele está enterrado sob 30 anos de cimento, sob 200 jantares em que ela desviou o olhar achando que você nem percebeu. Mas ele está lá, inteiro. Volte a ser o touro dela. Esse é o seu trabalho agora. Lógica, mecânica, identidade. Escolha um. Escolha os três. Não importa o que te move. O que importa é que a sua mão se mova.
+
+Ou você fecha esta página. E esta noite, quando ela estender a mão e encostar em você, você vira de lado e diz "tudo bem" mais uma vez.
+
+Desce a página. Escolhe o kit de 6 frascos. Clica no botão verde. E vai buscar o seu pau, a sua mulher e a sua vida de volta.
+
+---
+
+## Modelagem: Soda Horse 24 → nossos parágrafos
+
+| # | SH | Função | Nosso | PL (doc 10) | O que mudou |
+|---|---|---|---|---|---|
+| 1 | 24.1 | Kevin: "coloquei meu nome; 2 escolhas; eu fiz; 70 anos; se funcionou em mim" | Mike, igual, 60 anos, "That's real talk" | C1 | Voz do Tyson |
+| 2 | 24.2 | Dois caminhos: fecha o vídeo (18 m, 5 a, 10 a, jantar) / botão verde | "Mike's right" → "green button below" | C2 | Igual |
+| 3 | 24.2–24.3 | Página segura, 72 h, caixa discreta; 4 d, 14 d, 30 d, 3 meses; "o homem que clica ou não é"; "eu fiz minha parte": ciência | "You put your details" → "from the inside" | C2, C3 | Igual |
+| 4 | 24.3 | Litania: Lexington, Kevin, Stallone, Ford, Carol, trial, kits, bônus, garantia; "único risco é não agir"; outro homem clicando; future pace 3 meses | "I took you to Fort Worth" → "open your eyes" | C3, C4, C5 | Fort Worth, o touro, Mike, a ressonância, os três famosos, Carol, 1.800, The Bull Guarantee |
+| 5 | 24.4 | Future pace: toda noite, energia, jato, o chuveiro, esguichar, "medo novo"; "3 motivos" | "A rock-hard erection every night" → "before you close this page" | C5 | Igual |
+| 6 | 24.5 | Motivo 1 lógico; motivo 2 mecânico (kit de 6, 90 dias, frete) | "The first is logic" → "Close the loop" | C6 | Texas no lugar de Lexington |
+| 7 | (SH cortada) / HJ 23 | Motivo 3, identidade | "And the third is the one that actually matters" → "your hand moves" | C6 | **Enxerto HJ na nossa chave:** "They turned him into a steer before he ever got to be a bull... Become her bull again." (callback "that's my bull", "mounts at 18") |
+| 8 | (não há) | — | A dor em P&B: "Or you close this page. And tonight, when she reaches over... you roll onto your side and say 'it's okay' one more time." | C7 | Regra 9 do briefing: a dor reinserida antes do botão; paga o "It's okay" da emotional pela última vez |
+| 9 | 24 (CTA) | CTA | "Scroll down. Pick the six-bottle kit. Click the green button." | C8 | O loop do vídeo prometido na micro-lead entra aqui quando a lead for escrita (uma frase) |
+
+**Orçamento:** 9 movimentos contra 7 da Soda Horse (os dois a mais são o motivo 3 e a dor em P&B, 25 segundos). Saiu: "é você tomando de volta... e mais um pouco" (já dito na tese).
+
+**Picos de legenda grande (14):** "TWO CHOICES" (Mike) · "18 MONTHS · 5 YEARS · 10 YEARS" · "72 HOURS · DISCREET BOX" · "DAY 4 · DAY 14 · DAY 30 · MONTH 3" · "YOU'RE THE MAN WHO CLICKS. OR YOU'RE NOT." · "I'VE DONE MY PART" · "THE ONLY RISK IS DOING NOTHING" · "HE'S CLICKING. YOU'RE WONDERING." · "THAT'S WHAT'S ON THE OTHER SIDE OF THIS DECISION" · "1. LOGIC" · "2. MECHANICS" · "3. IDENTITY" · "BECOME HER BULL AGAIN" · "It's okay." (amarelo itálico, P&B, última vez).
+
+**Tela (doc 10 + briefing 06):** Mike de jaqueta jeans, à câmera, o touro ao fundo desfocado (§1); casal de costas, homem na beira da cama, o jantar (SH 62:46), a ressonância (§2); botão verde no celular, página de checkout, caixa na porta sem nome, cartela de Viagra no lixo (§3); recap em cortes de um segundo: placa → esponja apertada → bandeja preta → touro → Costner → Stallone → Ford → Carol → planilha → kits → bônus → selo (§4); mãos de outro homem no celular clicando (§4); b-roll de manhã, academia, chuveiro desligando, cama (§5); três cartelas, uma por motivo (§6–7); o casal jovem de jaqueta jeans → o touro no pasto, lettering "BECOME HER BULL AGAIN" (§7); P&B, homem na beira da cama, a mão dela chegando, lettering "It's okay." (§8); botão verde, o frame da abertura do vídeo (§9).
+
+**Trilha:** grave no Mike; grave e crescente nos dois caminhos; corta no "or you're not"; épica na litania e no FOMO; sexy e épica no future pace; três cortes secos nos motivos; o tema do touro no motivo 3, sobe em "Become her bull again"; **silêncio total** na dor em P&B; retoma o tema no CTA.
+
+**Tamanho:** 5093 caracteres falados em EN; a Soda Horse 24 tem 4.800 (sem o motivo 3, cortado na transcrição) em português (o inglês corre ~10% mais curto no mesmo tempo de fala).

@@ -33,6 +33,9 @@
 | `copy/VSL_SodaFil_12_Produto.md` + `.docx` | Apresentação do produto (Bull Soda Rise: o que é, 4 verbos, dose, como tomar, lista de "sem", "não importa" com o mecanismo por condição), modelada na Soda Horse 20 com o enxerto da Alpha Erec 19 |
 | `copy/VSL_SodaFil_13_Celebridades.md` + `.docx` | Celebridades e a esposa (Costner com o frasco, Stallone, Ford, Carol com o Dale), modelado na Soda Horse 21 sem as irmãs, com a especificidade da Alpha Erec |
 | `copy/VSL_SodaFil_14_Escassez.md` + `.docx` | Escassez (67 frascos, "o touro tem o próprio relógio"), protocolo de 6 meses e o endosso do Attia, modelado na Soda Horse 22 |
+| `copy/VSL_SodaFil_15_Oferta.md` + `.docx` | A oferta (condição do Mike, $500 → $147 → kit 6 paga 3 leva 6, o viral, 15 minutos, escada honesta, 5 bônus com o Zoom, The Bull Guarantee com "cor do frasco" e "só diga talvez"), modelada na Soda Horse 23 |
+| `copy/VSL_SodaFil_16_Close.md` + `.docx` | O close (Mike "duas escolhas", dois caminhos, "eu fiz minha parte", FOMO, future pace, 3 motivos com identidade boi → touro, a dor em P&B, CTA), modelado na Soda Horse 24 + Horse Jelly 23 |
+| `copy/VSL_SodaFil_17_FAQ.md` + `.docx` | FAQ pós-close (6 perguntas com cidade texana, cômico), modelado na Horse Jelly 24 |
 | `03_Relatorio_Detalhes_e_Adaptacao_Longhorn.md` | Fichas técnicas das 5 VSLs, dissecação da Soda Horse, bancos de personagens, superestruturas, analogias, números e swipe, arquitetura de oferta, mecanismos de outros nichos, mapa de adaptação Soda Horse → touro Longhorn / Texas, riscos, pendências |
 
 Materiais de origem: dissecações Jelly Fil, Max Vitalize (Horse Gelatin), Steel Power; análise de padrões C14; transcrição Soda Horse Peak (OT249, pitch 01:04:30). Power Up lida só via síntese C14.
