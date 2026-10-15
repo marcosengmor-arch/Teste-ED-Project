@@ -142,3 +142,50 @@ Label: designed as an oversized engraved rodeo champion belt buckle filling the 
 ```
 
 **Leitura:** a 6 é a mais crua e a mais ligada à emotional (marca, posse, calor); a 7 é a mais leve e a que mais usa o "Soda" do nome; a 8 é a de status e a mais "Texas" na cara. Para thumbnail, a 7 (neon "RISE") e a 6 (ferro em brasa) param o scroll por luz; a 8 vende no frasco.
+
+---
+
+## 7. Refino premium da Proposta 3 (gerada em 15/10/2026, em `referencias/embalagens/bull_soda_rise_v1_brasao_rancho.webp`)
+
+**O que a v1 acertou:** frasco transparente com gomas âmbar, couro escuro, brasão dourado com Longhorn e estrela, "BULL SODA" branco / "RISE" vermelho, "EST. TEXAS", hierarquia de leitura correta.
+
+**O que tira o premium (e o ajuste):**
+
+| Problema na v1 | Ajuste |
+|---|---|
+| Tampa de plástico vinho, brilho de PET | Tampa preta fosca de metal com anel dourado fino; frasco de vidro grosso com base pesada |
+| Couro impresso, sem relevo | Couro com relevo real (emboss/deboss), costura dourada em relevo |
+| Dourado chapado | Hot-foil dourado metálico que reflete luz; "RISE" em foil vermelho profundo com fio dourado |
+| Rótulo cheio: 3 ícones + banner + costura + brasão | Menos elementos, mais ar: ícones menores e mais finos ou removidos; brasão maior; linhas finas |
+| Ferraduras no banner | Trocar por estrelas do Texas (ferradura = cavalo = concorrente) |
+| Luva azul de nitrilo + laboratório claro | Luva preta de couro ou sem mãos; cena escura de estúdio, luz de garrafa de uísque |
+| Sem sinais de lote/edição | Selo de cera, "Small Batch", "Batch No. 001", "Texas Ranch Reserve" |
+
+### Refino A — Mesma cena, materiais premium (menor mudança)
+
+Mantém composição, mãos e laboratório. Só troca materiais: vidro, tampa de metal, relevo, foil, estrelas no lugar das ferraduras.
+
+```
+Vertical 9:16 product photography, same composition as a bottle held up by two hands in a laboratory, but upgraded to a luxury finish. Two hands in black leather gloves hold a heavy clear glass supplement bottle with a thick base, filled with glossy jewel-like amber-orange gummies; softly blurred dark-toned modern laboratory background, cool clinical light with a warm key light on the bottle.
+Cap: matte black metal with a thin brushed-gold ring at its base. Label: genuine dark brown full-grain leather with real embossed texture and raised gold stitching along the edges, applied like a premium patch. At the top, a large embossed gold-foil shield crest with a Texas Longhorn bull head with long horns and a small gold star below it, metallic foil catching the light; under it "EST. TEXAS" in small gold-foil spaced capitals. Product name debossed into the leather in two lines of bold condensed capitals: "BULL SODA" in bright white foil and "RISE" in deep red foil with a thin gold outline, slightly larger. A thin gold-foil rule and "PREMIUM RANCH FORMULA" in small gold-foil spaced capitals. A row of three small, thin-line gold-foil icons with labels: male symbol "MASCULINE*", lightning bolt "MAXIMUM POTENCY*", clock "DAILY ENERGY SUPPORT*". At the bottom, a gold-foil ribbon banner with a small Lone Star at each end reading "CHERRY COLA FLAVOR", and "30 GUMMIES · DIETARY SUPPLEMENT" in small white capitals. Sharp, realistic embossing and foil reflections, luxury packaging photography, no spelling errors, 8k.
+```
+
+### Refino B — Estúdio escuro, sem mãos (mudança média)
+
+Mesmo rótulo refinado, mas a cena vira fotografia de garrafa de uísque: pedra escura, luz lateral quente, reflexo. Rótulo com mais ar: ícones removidos, brasão maior, selo de cera.
+
+```
+Vertical 9:16 luxury product photography. A heavy clear glass supplement bottle with a thick base, filled with glossy jewel-like amber-orange gummies, standing on a dark black slate surface with a faint reflection; pitch-black background with a single warm side light and a soft gold rim light, like premium whisky packaging photography, a few flecks of dust in the light beam.
+Cap: matte black metal with a thin gold ring, and a small red wax seal with a gold Longhorn head pressed into it on the shoulder of the bottle. Label: dark brown full-grain leather with deep embossed texture and raised gold stitching, applied like a premium patch, with generous empty space. At the top, a large embossed gold-foil shield crest with a Texas Longhorn bull head with long horns and a small star beneath, catching the light. Under the crest, "EST. TEXAS" in small gold-foil spaced capitals. Product name in two lines of bold condensed capitals: "BULL SODA" in white foil and "RISE" in deep red foil with a thin gold outline. A thin gold rule and "PREMIUM RANCH FORMULA" in small gold spaced capitals. No icon row. At the bottom, a narrow gold-foil banner with a small Lone Star at each end reading "CHERRY COLA FLAVOR", and beneath it "30 GUMMIES · DIETARY SUPPLEMENT" in small white capitals. Realistic foil and leather, cinematic, no spelling errors, 8k.
+```
+
+### Refino C — Edição "Ranch Reserve" (maior mudança, mesma identidade)
+
+Vidro âmbar de boticário, tampa preta com topo de foil dourado, rótulo de couro com a marca do rancho queimada e lote numerado. Cena: sela de couro e madeira, luz quente. É a versão "garrafa de bourbon do Texas".
+
+```
+Vertical 9:16 luxury product photography. A dark amber apothecary-style glass supplement bottle with a thick base, the glossy amber-orange gummies faintly visible through the tinted glass, standing on a worn leather saddle on a dark wooden table; blurred dark ranch interior with warm lamp light in the background, soft golden light on the bottle.
+Cap: matte black with a gold-foil top embossed with a Longhorn head, and a thin gold ring. Label: dark brown full-grain leather patch with deep embossed texture, raised gold stitching and a thin gold-foil border. At the top, a large gold-foil shield crest with a Texas Longhorn bull head with long horns and a small star beneath; under it "EST. TEXAS" in small gold spaced capitals. Product name in two lines of bold condensed capitals: "BULL SODA" in white foil and "RISE" in deep red foil with a thin gold outline. Beneath, a thin gold rule, then "TEXAS RANCH RESERVE" in small gold spaced capitals, and under that "SMALL BATCH · BATCH NO. 001" in tiny gold capitals. Lower on the label, a small burned-in ranch brand mark, a letter "B" with Longhorn horns. At the bottom, a narrow gold-foil banner with a small Lone Star at each end reading "CHERRY COLA FLAVOR", and "30 GUMMIES · DIETARY SUPPLEMENT" in small white capitals. Realistic leather, foil and glass, warm cinematic lighting, no spelling errors, 8k.
+```
+
+**Ordem sugerida:** gerar A primeiro (mantém o que já foi aprovado), B para o frasco "herói" da oferta e do close, C só se a decisão for posicionar como edição de reserva.
