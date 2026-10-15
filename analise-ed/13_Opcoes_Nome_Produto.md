@@ -2,7 +2,9 @@
 
 **Versão:** v1 — 15/10/2026
 **Base:** 9 nomes validados no mercado de ED nos EUA (Alphaerec, Horse Jelly, Soda Horse Peak, Tropical Rise, Jellyfil, Men's Growth, AlphaGummy, Vapofil, Royal Gummy) + brief de oferta (`04`) + análise de padrões (`01`, padrão nº 3 "nome chiclete com origem embutida", 5/5).
-**Status atual no brief:** produto = SodaFil (fechado em 09/10), truque = Bull Soda Trick, pendência nº 2 = "SodaFil vs Texas Bull Soda vs Ranch Soda Peak (teste de thumbnail)". Este documento alimenta essa pendência.
+**DECISÃO (15/10/2026): produto = Bull Soda Rise.** Forma curta falada: "Bull Soda". Truque segue "Bull Soda Trick". Garantia: "The Bull Guarantee". SodaFil vira codinome interno dos arquivos. Ver seção 6.
+
+**Histórico:** produto = SodaFil (09/10), pendência nº 2 do brief = "SodaFil vs Texas Bull Soda vs Ranch Soda Peak". Este documento percorreu 30+ opções até a decisão.
 
 Legenda: `[OBS]` está nos nomes · `[INF]` inferência · `[CHECK]` verificar marca/domínio antes de usar.
 
@@ -205,3 +207,29 @@ Descartados nesta rodada: **Bull Soda Peak** e **Texas Bull Soda** (estrutura e 
 4. **Nome de boca segue "Bull Soda Trick"** em qualquer cenário; o produto compartilha uma palavra com ele (Bull, Soda ou Toro na primeira menção: "Toro. Spanish for bull.").
 
 **Fontes da checagem de colisão (15/10/2026):** HorseFil (press release 07/2026, norfolkdailynews.com; hackmd.io), Magnum Bull Gummies (filmfreeway.com), Black Bull Gummies, Iron Horn Gummies (trustpilot). Nenhum resultado para Torofil, BullFil, Longfil, AlkaFil, Lone Star Rise, Longhorn Rise, Longhorn Gummy.
+
+---
+
+## 6. Decisão final (15/10/2026): Bull Soda Rise
+
+| Função | Nome |
+|---|---|
+| Produto (frasco, checkout, garantia) | **Bull Soda Rise** |
+| Forma curta falada (VSL após a primeira menção, thumbnail) | **Bull Soda** |
+| Truque (nome de boca) | **Bull Soda Trick** |
+| Variação no rancho | Ranch Soda Trick (como já estava) |
+| Garantia | The Bull Guarantee |
+| Codinome interno dos arquivos | SodaFil (não muda nome de arquivo) |
+
+**Por que fechou assim:**
+- Pilha ingrediente + fonte + resultado, o padrão 5/5 do corpus. Nenhuma palavra do concorrente direto além de "Soda", e "Soda" é o ingrediente, não o diferencial dele.
+- Continuidade máxima com o truque: Bull Soda Trick → Bull Soda Rise. Quem busca o truque acha o produto. Soda Horse Peak fez exatamente isso com "truque do refrigerante para cavalos".
+- "Rise" é a palavra de resultado já provada (Tropical Rise) e diz ereção sem dizer.
+- Cadência 1-2-1 (Bull / So-da / Rise), 4 sílabas, junção "da-rise" suave. Degrada bem na fala: sobra "Bull Soda".
+- Sem marca de terceiro embutida (Arm & Hammer, Lone Star, Longhorn ficam fora do risco jurídico).
+
+**O que muda na copy:** nada escrito até aqui fala o nome do produto (a copy vai até o build-up 2). Nos blocos de produto, oferta, close e FAQ, o nome é "Bull Soda Rise" na primeira menção de cada bloco e "Bull Soda" nas seguintes. Regra do brief mantida: nunca escrever "baking soda trick" junto.
+
+**Pendência única:** `[CHECK]` USPTO classe 5 e domínio .com para "Bull Soda Rise" antes do frasco.
+
+**Finalistas que perderam (para registro):** Bull Hammer Rise / Texas Bull Hammer / Big Bull Hammer (risco Arm & Hammer e colisão Storm Hammer Gummies), Torofil (touro sem "bull", mas sem continuidade com o truque), Lone Star Rise (sem touro nem ingrediente), Bull Soda Peak (palavra do concorrente).

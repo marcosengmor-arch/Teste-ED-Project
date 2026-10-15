@@ -1,4 +1,4 @@
-***Pesquisa – SodaFil / Bull Soda Trick (ED · bicarbonato · touro Longhorn · Texas)***
+***Pesquisa – Bull Soda Rise / Bull Soda Trick (ED · bicarbonato · touro Longhorn · Texas) — codinome interno do projeto: SodaFil***
 
 Versão v2 (final para copy) · 08/10/2026 · Base: Soda Horse Peak (estrutura), Jelly Fil (pique de edição, briefing 05/06), Steel Power (lead de medo), decisões fechadas em conversa.
 Legenda: `[VALIDADO]` está em 2+ VSLs do corpus · `[NOVO]` decisão desta oferta · `[VERIFICAR]` fato externo não confirmado em fonte primária.
@@ -9,7 +9,7 @@ Legenda: `[VALIDADO]` está em 2+ VSLs do corpus · `[NOVO]` decisão desta ofer
 
 ## Contexto Geral da Oferta
 
-- **Produto:** **SodaFil** (nome fechado em 09/10/2026). Truque: **Bull Soda Trick**. Goma, 1 ao dia em jejum. Quatro compostos em sinergia: bicarbonato de sódio em preparo tamponado ("do jeito que o rancheiro mistura na ração"), colágeno hidrolisado do núcleo do chifre de touro reprodutor Longhorn (decisão de 14/10: chifre, não tendão; a única parte do Longhorn que nunca para de crescer), pycnogenol (casca de pinheiro marítimo francês), Tongkat Ali (extrato padronizado). Fabricado em laboratório independente no Texas, sem dono farmacêutico. Protocolo de 6 meses. `[VALIDADO]` fórmula de 4 verbos (Jelly Fil, Soda Horse); `[NOVO]` fonte bovina e geografia texana.
+- **Produto:** **Bull Soda Rise** (nome fechado em 15/10/2026; substitui SodaFil, que segue só como codinome interno dos arquivos). Forma curta falada: "Bull Soda". Truque: **Bull Soda Trick**. Goma, 1 ao dia em jejum. Quatro compostos em sinergia: bicarbonato de sódio em preparo tamponado ("do jeito que o rancheiro mistura na ração"), colágeno hidrolisado do núcleo do chifre de touro reprodutor Longhorn (decisão de 14/10: chifre, não tendão; a única parte do Longhorn que nunca para de crescer), pycnogenol (casca de pinheiro marítimo francês), Tongkat Ali (extrato padronizado). Fabricado em laboratório independente no Texas, sem dono farmacêutico. Protocolo de 6 meses. `[VALIDADO]` fórmula de 4 verbos (Jelly Fil, Soda Horse); `[NOVO]` fonte bovina e geografia texana.
 
 - **Promessa principal:** Uma colher do bicarbonato barato do Walmart, preparada do jeito que os rancheiros de Longhorn do Texas guardam há décadas, dissolve o "cimento" que está secando dentro do seu pênis há 30 anos. Ereção dura como pedra sob comando, sem Viagra, em 14 dias. E devolve os centímetros que o cimento roubou: 7 a 10 cm em 30 dias. `[VALIDADO]` promessa 14x Viagra / toalha / centímetros (Soda Horse).
 
@@ -79,7 +79,7 @@ Legenda: `[VALIDADO]` está em 2+ VSLs do corpus · `[NOVO]` decisão desta ofer
 | Função | Nome | Justificativa |
 |---|---|---|
 | Truque (nome de boca na VSL, repetido ao longo da copy) | **Bull Soda Trick** | 3 sílabas. "Bull" = Tyson + Longhorn na mesma palavra. "Soda" mantém a linhagem Soda Horse e a pista de receita caseira sem usar a string queimada "baking soda trick". Eco de Red Bull (energia, potência). Tradução literal: "truque do refrigerante do touro"; o bicarbonato é revelado na primeira frase da lead. |
-| Produto (frasco, checkout, garantia) | **SodaFil** | Junta as duas linhagens validadas (Soda Horse + JellyFil). Sufixo "-fil" soa como sildenafil/tadalafil: registra como "da prateleira do Viagra" sem dizer. "Fill" é o verbo do mecanismo (a esponja volta a encher). |
+| Produto (frasco, checkout, garantia) | **Bull Soda Rise** (fechado 15/10/2026) | Pilha ingrediente + fonte + resultado, o padrão 5/5 do corpus, com nenhuma palavra do concorrente direto além de "Soda". Divide "Bull Soda" com o truque: quem ouviu o truque reconhece o produto na primeira sílaba, como Soda Horse Peak faz com "truque do refrigerante para cavalos". "Rise" é a palavra de resultado provada pelo Tropical Rise. Cadência 1-2-1 (Bull / So-da / Rise), 4 sílabas, junção "da-rise" suave. Degrada bem na fala: sobra "Bull Soda". Histórico: SodaFil (09/10) → rodada de 24+ opções em `13_Opcoes_Nome_Produto.md` → Bull Soda Rise. |
 | Hook / thumbnail (A/B) | Texas Bull Trick vs Bull Soda Trick | Texas Bull Trick esconde o ingrediente por completo e carrega identidade; Bull Soda Trick carrega receita. O CTR decide. |
 | Variação do nome na parte do rancho (tese PL10, MUS, build-up) | **Ranch Soda Trick** | O rancheiro e o veterinário chamam assim; o Huberman volta a "Bull Soda Trick" ao sair do rancho. Dá duas camadas ao mesmo truque: o nome do touro (promessa) e o nome do rancho (origem). |
 | Segredo dentro da tese | "the ranch powder" / "every rancher's barn" | Nome de boca. |
@@ -353,7 +353,7 @@ O briefing de edição da Jelly Fil (05) e a versão Longhorn (06) impõem regra
 ## Pendências e decisões em aberto
 
 1. Contrato de imagem de Julia Ann (define se a micro-lead sai com nome ou com persona anônima).
-2. Nome final: SodaFil vs Texas Bull Soda vs Ranch Soda Peak (teste de thumbnail).
+2. ~~Nome final: SodaFil vs Texas Bull Soda vs Ranch Soda Peak (teste de thumbnail).~~ **Resolvido em 15/10/2026: Bull Soda Rise** (ver `13_Opcoes_Nome_Produto.md`). Pendência restante: `[CHECK]` USPTO classe 5 e domínio .com para "Bull Soda Rise".
 3. A/B 1: micro-lead Julia Ann vs mulher do interior 35+.
 4. A/B 2: lead por Ideia 1 (touro) vs Ideia 2 (Arlington) vs Ideia 3 (Huberman confessa).
 5. Verificar antes de escrever: "chifre cresce a vida inteira" (não encontrei fonte primária; usar "chifres de 100+ polegadas" que está documentado); idade reprodutiva real de touros Longhorn; views dos TikToks listados.
