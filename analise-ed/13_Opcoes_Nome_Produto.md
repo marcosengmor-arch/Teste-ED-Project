@@ -116,6 +116,20 @@ Colisão = busca rápida (15/10/2026) por produto com o mesmo nome. "Limpo" = ne
 | 23 | **HammerFil** / **Hammer Gummy** | *Arm & Hammer* + fil/formato | "Hammer" = a caixa laranja na geladeira + "duro como martelo" + ferramenta de rancho. Vapofil fez isso com Vicks. | Church & Dwight. `[CHECK]` | Limpo |
 | 24 | **StudFil** | *stud* (touro reprodutor / homem viril) + fil | Fonte e promessa na mesma palavra. | Cru; mercado aceita (Horse Jelly), checkout talvez não. | Limpo |
 
+### F5b — Hammer + touro (rodada de 15/10/2026: bicarbonato e touro no mesmo nome)
+
+"Hammer" (Arm & Hammer) já entrega o bicarbonato sem a string queimada. O touro entra como palavra (Bull/Toro) ou como chifre (Horn). Colisão relevante descoberta: **Storm Hammer Gummies** já existe no mercado de ED (goma masculina, EUA/UK/CA/AU), então "Hammer + Gummies" sozinho já tem clone; a combinação com touro resolve isso.
+
+| # | Nome | Leitura | Por que funciona | Risco | Colisão |
+|---|---|---|---|---|---|
+| 25 | **Bull Hammer** (BullHammer) | fonte + ingrediente | O mais direto: touro + bicarbonato. Soa ferramenta/arma ("sledgehammer"), 3 sílabas, imagem pronta (touro e martelo) para rótulo e thumbnail. Divide "Bull" com o truque de boca. | Perde o sufixo Rx; "Bull" em thumb pode ler "bullshit" (menos que sozinho). | Limpo |
+| 26 | **Hammerhorn** | ingrediente + chifre | Palavra única, soa marca de verdade (Hammerhead, Longhorn). O chifre é a metáfora da tese (a única parte do Longhorn que nunca para de crescer), então o nome carrega bicarbonato + touro + promessa dimensional. | Touro implícito (horn), não explícito; "horn" embutido tem leitura "horny" fraca. | Limpo |
+| 27 | **Horn & Hammer** | paródia da caixa | Espelha a estrutura "Arm & Hammer" trocando o braço pelo chifre: o prospect vê a caixa laranja na cabeça na hora. O mais engraçado e o mais memorável. | O mais próximo da marca da Church & Dwight; risco jurídico acima dos outros. Ampersand é raro em nome de produto de VSL. `[CHECK]` | Limpo |
+| 28 | HammerBull | ingrediente + fonte | Eco de Red Bull (energia). | Lê como energético, não como produto de ED. | Limpo |
+| 29 | ToroHammer | fonte + ingrediente | Touro sem "bull". | Pouco fluido; mistura espanhol e inglês na mesma palavra. | Limpo |
+
+**Recomendação da rodada:** **Bull Hammer** como nome principal de teste (explícito, direto, imagem pronta), **Hammerhorn** como variante de marca (mais sofisticado, carrega a promessa), **Horn & Hammer** só se o jurídico liberar.
+
 ---
 
 ## 4. Nunca usar
