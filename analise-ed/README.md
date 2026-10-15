@@ -32,6 +32,7 @@
 | `copy/VSL_SodaFil_11_BuildUp_2.md` + `.docx` | Build-up parte 2 (os 37 de Fort Worth, Carol às 4 da manhã, Dale, os 14 laboratórios e "maintenance is the product", o diretor de P&D do Texas, o Mike sócio, o trial de 1.800), modelado na Soda Horse 19 |
 | `copy/VSL_SodaFil_12_Produto.md` + `.docx` | Apresentação do produto (Bull Soda Rise: o que é, 4 verbos, dose, como tomar, lista de "sem", "não importa" com o mecanismo por condição), modelada na Soda Horse 20 com o enxerto da Alpha Erec 19 |
 | `copy/VSL_SodaFil_13_Celebridades.md` + `.docx` | Celebridades e a esposa (Costner com o frasco, Stallone, Ford, Carol com o Dale), modelado na Soda Horse 21 sem as irmãs, com a especificidade da Alpha Erec |
+| `copy/VSL_SodaFil_14_Escassez.md` + `.docx` | Escassez (67 frascos, "o touro tem o próprio relógio"), protocolo de 6 meses e o endosso do Attia, modelado na Soda Horse 22 |
 | `03_Relatorio_Detalhes_e_Adaptacao_Longhorn.md` | Fichas técnicas das 5 VSLs, dissecação da Soda Horse, bancos de personagens, superestruturas, analogias, números e swipe, arquitetura de oferta, mecanismos de outros nichos, mapa de adaptação Soda Horse → touro Longhorn / Texas, riscos, pendências |
 
 Materiais de origem: dissecações Jelly Fil, Max Vitalize (Horse Gelatin), Steel Power; análise de padrões C14; transcrição Soda Horse Peak (OT249, pitch 01:04:30). Power Up lida só via síntese C14.
