@@ -153,7 +153,7 @@ Critério: dizer cinco vezes seguidas, rápido, sem tropeço. Soda Horse Peak = 
 | 2 | **Hammerhorn** | 3 | O mais fluente (escorrega como "Hammerhead"); soa marca de prateleira. Touro implícito. |
 | 3 | **Bull Hammer Rise** | 4 | Única pilha de três que não engasga ("mer-rise" liga suave). Limite do aceitável. |
 
-**Escolha de trabalho (não fechada):** nome = **Bull Hammer**; sublinha = **Rise**. Curto na boca, completo no frasco.
+**Escolha de trabalho (não fechada, revisão de 15/10/2026):** nome oficial = **Bull Hammer Rise** (frasco, checkout, garantia "The Bull Hammer Guarantee"); forma curta falada = **Bull Hammer** (thumbnail, nome de boca após a primeira menção). Por quê: estrutura ingrediente + fonte + resultado é padrão 5/5, não propriedade do concorrente, e nenhuma palavra coincide com Soda Horse Peak; o nome degrada bem na fala (sobra "Bull Hammer", como Soda Horse Peak vira "Soda Horse"); começa com a mesma palavra do truque (Bull Soda Trick), recall na primeira sílaba; "Rise" é a palavra de resultado já provada pelo Tropical Rise. Contra: meio passo mais longo que o ideal e três palavras ocupam mais espaço em thumbnail, resolvido com a forma curta.
 
 ---
 
