@@ -126,5 +126,5 @@ Dos 1703 originais, 642 são depoimento (Mike duas vezes, Lakiha, Jack, a esposa
 
 ## Dois pontos de consistência (não mexi, só aviso)
 
-- O bloco diz "reuni 47 homens" e depois "o último relatório dos 37": no original havia 37 na primeira menção e 47 na segunda; igualei para 47 no revisado porque 22 + 25 = 47. Confirme qual número vale.
+- O bloco diz "reuni 47 homens" e depois "o último relatório dos 37": no original a primeira menção é 47 e a segunda é 37; igualei para 47 no revisado porque 22 + 25 = 47. Confirme qual número vale.
 - O trial aparece com "3.000 homens"; nos blocos de oferta e escassez do repositório o número é 1.800. Vale alinhar antes de gravar.
