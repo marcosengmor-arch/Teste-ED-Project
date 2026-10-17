@@ -39,9 +39,11 @@ Já vi ele sem camisa aos 58 com mais músculo do que meus ouvintes têm aos 30.
 Era isso que eu pensava. Até 6h04 daquela manhã, três semanas depois de Arlington.
 
 Todo mundo viu ele ficar de pé por oito rounds na frente de 72 mil pessoas. Mas ninguém sabe o que estava acontecendo dentro do quarto dele. Eu sei. Porque sentei com os dois, com a câmera ligada. E o que a esposa dele me disse, sem uma gota de culpa na voz, foi isto:
+
 **[Esposa do Mike Tyson]**
 
 Eu subi pro nosso quarto com o peão de 30 anos que cuida dos touros dele. Porque cansei de gozar sozinha com um vibrador, de costas pro "homem mais temido da América", enquanto ele roncava com o pau morto dentro da cueca.
+
 **[Dr. Andrew Huberman]**
 
 Guarda essa frase. Daqui a alguns minutos ela vai fazer todo o sentido, e vai te assustar. Porque a mesma coisa que matou o pau do Mike Tyson está acontecendo dentro de você agora mesmo, enquanto você me escuta.
@@ -63,9 +65,11 @@ E a terceira, a mais suja: ninguém falava disso por um motivo. Um motivo que en
 Mas antes da ciência, você tem que ouvir isso da boca dele. E como eu sou cientista antes de tudo, fui atrás dos dois lados. O que ela me confessou depois, sobre o que o outro cara tinha e o marido dela não, foi isso que mudou tudo.
 
 ### Emotional Story
+
 **[Dr. Andrew Huberman]**
 
 Mike, vim o mais rápido que pude.
+
 **[Mike Tyson]**
 
 Você é médico, Andrew. Todo cara que senta na tua frente te conta a merda que nunca contou pra ninguém. Mas essa aqui? Eu nunca contei pra ninguém.
@@ -73,17 +77,21 @@ Você é médico, Andrew. Todo cara que senta na tua frente te conta a merda que
 Eu cheguei aos 58 sendo o Mike Tyson. Cinturão, dinheiro, mulheres, fama. E mesmo assim, três semanas depois da maior noite da minha vida, te liguei chorando pra contar que o meu pau não levantava há dois anos.
 
 Um homem não desaba de uma vez. Uns dois anos atrás, a minha mulher começou a virar as costas pra mim. E no começo era só um olhar.
+
 **[Dr. Andrew Huberman]**
 
 Me conta mais sobre isso, irmão.
+
 **[Mike Tyson]**
 
 Eu saía do banho de roupão aberto, e ela já virava pro outro lado, no celular. Eu deitava, e ela puxava o lençol até o ombro, bem calma, que nem se tivesse ensaiado. "Hoje não, Mike. Tô morta. Hoje não, Mike, tô com cólica."
 
 E cara, eu engolia, virava de lado e fingia que tava tudo certo, ouvindo a respiração dela ficar lenta até pegar no sono. Me sentindo um fracasso. Porque eu tive aquela mulher por 17 anos. Sabia o gosto da buceta dela de cor, o gemido baixo no pescoço antes de ela gozar, a pressão exata da mão dela no meu pau quando queria que eu segurasse mais. E agora eu sentia mais medo dela do que de qualquer adversário que já encarei num ringue.
+
 **[Dr. Andrew Huberman]**
 
 Medo de tentar.
+
 **[Mike Tyson]**
 
 Medo de tentar e falhar de novo, mano.
@@ -101,9 +109,11 @@ Ela ficou parada uns cinco segundos. Botou a mão em cima da minha e tirou o meu
 A frase mais castradora da minha vida. Pior que vaia. Pior que qualquer processo. Pior que dois divórcios. Porque mulher sendo carinhosa com o homem que ela parou de desejar? É a execução mais limpa que existe. Sem sangue. Você só tá morto.
 
 Mas eu não parei aí. O segundo médico falou: "Esquece Viagra, Mike. O segredo é TRT." Três meses e quinze mil dólares depois, meu fígado acendeu o alerta.
+
 **[Dr. Andrew Huberman]**
 
 Testosterona por cima de um tecido morto é como abastecer o carro com o tanque furado.
+
 **[Mike Tyson]**
 
 E a broxeira voltou mais forte. Agora nem o azulzinho levantava nada. Erva, veneno de sapo, não levantou porra nenhuma. Comecei a fugir da academia onde treinei a vida toda, porque não aguentava ficar pelado no vestiário do lado de um cara de 40 com o pau batendo na coxa. E nem era o pior.
@@ -113,9 +123,11 @@ E a broxeira voltou mais forte. Agora nem o azulzinho levantava nada. Erva, vene
 E no primeiro sábado, no churrasco, apareceu o Walker. Peão de 30 anos. Monta touro. Mão do tamanho de uma pá. Sentou na minha mesa, riu das minhas piadas, bebeu a minha cerveja. E sempre dava um jeito de ir consertar o chuveiro do nosso banheiro enquanto eu tomava soco na cara seis horas por dia. E a Lakiha ria de toda besteira dele, de um jeito que eu não ouvia há anos.
 
 Eu vi. Eu sou o Mike Tyson. Eu vejo tudo. E não fiz nada. Porque eu ia falar o quê? "Não ri"? Com o que eu tenho lá embaixo? Homem com pau morto não tem moral na própria casa. Papo reto.
+
 **[Dr. Andrew Huberman]**
 
 E isso é mais comum do que você pensa. 9 a cada 10 homens que atendo passaram por isso em algum momento.
+
 **[Mike Tyson]**
 
 Então você sabe. Mas a pior parte ainda tava por vir. Ela passou a "ver os touros" com o Walker toda tarde que eu tinha sparring. E no meio do camp, a Netflix me levou pra Nova York. Quatro dias de imprensa, Fallon, do lado do Jake Paul. E quando voltei? Casa diferente. Cheiro diferente. Ela escondendo o celular. Fria. E os olhos dela, mano. Os olhos entregavam. Parecia que eu tava num quarto de hotel e o hóspede era eu.
@@ -123,9 +135,11 @@ Então você sabe. Mas a pior parte ainda tava por vir. Ela passou a "ver os tou
 Foi aí que eu fiz a coisa mais patética que um homem pode fazer. Minha segurança instala micro câmeras em toda casa onde eu fico. E eu nunca tinha aberto aquele aplicativo. Até que uma tarde cortaram o treino mais cedo, eu tô na caminhonete, no estacionamento do ginásio, e abro. Eu tava procurando prova de traição. O que aquela câmera me deu foi muito pior. Eu assisti umas 20 vezes.
 
 O peão entra pela porta dos fundos da minha cozinha com um saquinho de pano. Mistura um pó branco num copo d'água na minha bancada. Bebe. E sobe pro meu quarto. Tranquilo. Como se a casa fosse dele.
+
 **[Dr. Andrew Huberman]**
 
 Espera. O desgraçado preparou um pó na sua bancada antes de subir?
+
 **[Mike Tyson]**
 
 Sim, mano. Eu nem sabia o que era aquele pó. Mas o pior não foi o que eu vi. Foi o que eu ouvi depois. Os gemidos da minha esposa descendo do quarto tão alto que dava pra ouvir na cozinha. Os mesmos gemidos que eu não consegui tirar dela em dois anos. Ele misturou o segredo dele na minha bancada e fodeu a minha esposa na minha cama tão alto que a câmera captou. E eu vi tudo sozinho, naquela caminhonete, com o celular tremendo na mão.
@@ -135,19 +149,23 @@ Sinceramente? Eu queria matar ele. Eu já fui preso, você sabe. Mas fiquei cala
 Três semanas depois, entrei naquele estádio com o vídeo na cabeça. 72 mil pessoas gritando o meu nome. Fiquei de pé 8 rounds. 8 rounds aos 58, mano. Mas nenhuma vitória ia resolver o meu verdadeiro problema. Por isso te liguei.
 
 Agora me diz, Andrew. Você tem o maior canal de saúde do mundo. O que aquele filho da puta colocou naquele copo? O que ele tinha que eu não tenho mais?
+
 **[Dr. Andrew Huberman]**
 
 Eu ainda não sei, Mike. Mas juro pra você que vou descobrir.
 
 Mas toda história tem dois lados, e faltava o dela. Fui atrás da Lakiha, e ela me deixou gravar um trecho. Presta atenção. Porque metade dos casamentos deste país acaba, e muitos não morrem numa briga. Morrem assim. Em silêncio. Dentro do quarto. Pode ser o seu.
+
 **[Esposa do Mike Tyson]**
 
 Vou ser sincera com você, Andrew. Eu amo aquele homem. De verdade. Mas amor não faz mulher gozar.
 
 Por dois anos, o que ficava entre as pernas do homem mais temido da América era carne morta. No meio da noite eu saía da cama e ia gozar sozinha no chuveiro, mordendo a toalha pra ele não me ouvir.
+
 **[Dr. Andrew Huberman]**
 
 Ele sabia?
+
 **[Esposa do Mike Tyson]**
 
 Ele fingia que não. Eu fingia que não. Meu Deus. Pro mundo ele era o Iron Mike. O homem mais perigoso do planeta. Mas naquele quarto ele era um homem com um pau morto, e eu era uma mulher fingindo que não ligava.
@@ -157,20 +175,25 @@ Aí aquele peão apareceu. E olha, eu não sei te explicar. Só sei que, desde o
 Ele me agarrando do jeito que o Mike não me agarrava mais. Aquela boca quente lá embaixo me levando ao céu. E quando menos esperava, ele me preencheu por completo com cada polegada, e me fez esguichar como eu não esguichava desde os 20.
 
 E não foi uma vez. Aquele peão me fodeu duro feito pedra por horas sem amolecer uma vez, do jeito que o Mike não fazia nem no auge dele. E eu voltei no dia seguinte. E no outro. Eu sabia o horário de sparring dele melhor que o treinador. Eu fiquei viciada no peão. Dentro da casa que o meu marido pagou.
+
 **[Dr. Andrew Huberman]**
 
 O que esse peão tinha que o Mike não tinha? Dinheiro? Fama?
+
 **[Esposa do Mike Tyson]**
 
 Não era o dinheiro. O Mike tinha mais. Também não era a fama. Ele é o Mike Tyson, pelo amor de Deus. Era a única coisa que o meu marido não conseguia mais me dar.
 
 E não é que ele parou de tentar. É como se alguma coisa dentro dele tivesse parado de funcionar. E eu cansei de fingir. Toda mulher cansa em algum momento.
+
 **[Dr. Andrew Huberman]**
 
 Vocês se divorciaram?
+
 **[Esposa do Mike Tyson]**
 
 Não, Andrew, mas eu deixei a cama.
+
 **[Dr. Andrew Huberman]**
 
 O peão por quem ela deixou a cama dormia a 200 metros da porta do Mike, com os touros. Guarda esse detalhe, porque naquele dia eu também não prestei atenção. Foi do mundo daqueles touros que ele tirou o segredo pra roubar a mulher do Mike Tyson sem levar um soco. E essa é a parte mais cruel: o segredo que podia ter salvado o Mike estava a 15 metros de onde ele treinava, oito semanas, toda manhã. E foi o de fora que enxergou.
@@ -182,6 +205,7 @@ E teve uma palavra dela que ficou martelando na minha cabeça. "Cada polegada." 
 Eu saí de Fort Worth com 2 perguntas cravadas na cabeça. A primeira: o que é essa coisa que mata o tecido de um homem por dentro, em silêncio, até travar a ereção e roubar o tamanho? E a segunda: o que aquele peão tirou daqueles touros que trouxe o dele de volta?
 
 ### Discovery Story
+
 **[Dr. Andrew Huberman]**
 
 Fui atrás dessas 2 respostas trancado no meu consultório por 6 meses. E o que eu achei me deu vontade de vomitar. Porque idade não explica o homem mais temido do planeta amolecer dentro da própria mulher por dois anos. Alguma coisa roubou isso dele, e de mais de 30 milhões de homens americanos exatamente como você.
@@ -197,9 +221,11 @@ A mesma coisa que você pulveriza no mato do quintal. Só que você não pulveri
 E o mais assustador: o glifosato não sai pela urina. Ele é lipossolúvel. Ele se acumula no tecido adiposo, incluindo, e especialmente, o tecido cavernoso do seu pênis.
 
 E a sua dureza não é a única coisa que esse veneno destrói. Cortou a fertilidade dos homens americanos pela metade em 40 anos. Human Reproduction Update: a contagem de espermatozoides dos homens ocidentais caiu mais de 50% desde 1973, e não parou de cair. Em 2024, uma clínica na França achou glifosato em 55% das amostras de sêmen que testou. E em 2025, o próprio Secretário de Saúde dos Estados Unidos, Robert F. Kennedy Jr., subiu ao púlpito da Casa Branca e chamou isso de crise existencial, apontando pros mesmos químicos da sua comida.
+
 **[Robert F. Kennedy Jr.]**
 
 Quando o meu tio era presidente, a taxa de fertilidade neste país era de 3,5%. Hoje é 1,6%. Estamos abaixo do nível de reposição agora mesmo. Isso é uma questão de segurança nacional. Hoje, o adolescente médio deste país tem 50% da contagem de espermatozoides, 50% da testosterona de um homem de 65 anos.
+
 **[Dr. Andrew Huberman]**
 
 Quando o próprio governo admite isso em público, pode ter certeza de que é muito pior. E foi seguindo esse rastro que eu encontrei a parte mais suja.
@@ -207,15 +233,19 @@ Quando o próprio governo admite isso em público, pode ter certeza de que é mu
 Em fevereiro de 2025, um documento interno da Bayer vazou num fórum de litígios. Carimbado "Memorando Interno Confidencial 04-Beta". Datado de 1998. Executivos da divisão de pesquisa discutindo, a portas fechadas, os efeitos do glifosato no tecido erétil de ratos de laboratório. Eles sabiam em 1998. E no rodapé: "Sem comunicação pública. Risco de litígio." Ficaram calados porque contar custaria bilhões. A Bayer já pagou 24 bilhões de dólares em três acordos pra encerrar processos sobre câncer. Imagina o que fariam pra encerrar um processo sobre disfunção erétil em massa.
 
 E não era só a Bayer. A FDA aprovou o glifosato contra a recomendação de 11 cientistas da própria agência. 7 foram demitidos nos 18 meses seguintes. Eu sentei com um deles. 22 anos revisando pesticidas na agência.
+
 **[Ex-Revisor da FDA]**
 
 Nós vimos, nos dados do próprio fabricante, o que o glifosato estava fazendo com o corpo dos homens. Eu escrevi, preto no branco, que não podia ser aprovado, e eles aprovaram mesmo assim. Dos 7 que colocaram a objeção por escrito, nenhum ainda estava lá 2 anos depois. Eu não deveria estar te contando isso.
+
 **[Dr. Andrew Huberman]**
 
 Então enquanto a Bayer envenenava a sua comida de um lado, a Big Pharma vendia o antídoto do outro. A Pfizer fatura 8,7 bilhões de dólares por ano com o Viagra e os genéricos licenciados. Cialis e Levitra juntos, mais 4 bilhões. Disfunção erétil, mais TRT, mais cirurgia peniana: 32 bilhões de dólares por ano nos Estados Unidos. Esse é o tamanho da indústria que precisa que o seu pau continue não funcionando. Nenhum deles cura nada. Porque um homem curado é um cliente que desaparece. Pra eles, você nunca foi paciente. Você é uma assinatura mensal.
+
 **[Ex-Executivo da Farmacêutica]**
 
 Internamente, a gente sabia que o Viagra mascara o problema. Ele não cura. Todo paciente que entra na pílula azul fica nela de 6 a 14 anos. O paciente médio rende uns 19 mil dólares ao longo da vida. A cura mata o ciclo. A manutenção é o produto.
+
 **[Dr. Andrew Huberman]**
 
 Quando mandei o que tinha encontrado pra um laboratório independente testar, três semanas depois recebi uma ligação. 47 milhões de dólares pela fórmula, num pagamento único, pra engavetar sob NDA permanente. Eu disse não. Desde então, este vídeo foi derrubado 14 vezes em 4 plataformas. Se é tudo mentira, por que tanto esforço pra te impedir de ver?
