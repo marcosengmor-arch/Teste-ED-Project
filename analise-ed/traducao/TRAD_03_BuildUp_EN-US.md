@@ -118,7 +118,7 @@ In August, I got the first spreadsheet. 94% measurable functional reversal. 97% 
 
 [Depoimento 04]
 
-In just 5 days on the protocol, my dick got 2.3 inches bigger. I made my wife come three times in a row, nonstop. She squirted on the 3rd, first time in 17 years of marriage.
+I did the stamp test too. Day 1, the ring woke up whole. Day 3, it was stretching. Day 5, I found it torn on the sheet. In just 5 days on the protocol, my dick got 2.3 inches bigger. I made my wife come three times in a row, nonstop. She squirted on the 3rd, first time in 17 years of marriage.
 
 [Dr. Andrew Huberman]
 
