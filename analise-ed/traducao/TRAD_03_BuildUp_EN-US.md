@@ -68,17 +68,17 @@ And Jack recorded the test I ask all 47 to do. The postage stamp test. A strip o
 
 [Depoimento 01 - Vídeo caseiro]
 
-Day 1. Whole. Six years like this.
+Day 1. Whole.
 
 Day 3. It's stretching. Something moved.
 
 Day 5. Look at that. Almost tearing.
 
-Day 10. Torn. Mary's laughing back there.
+Day 7. It tore.
 
 [Dr. Andrew Huberman]
 
-55 years old, 6 years dead, 10 days on the powder. And here's the video one of their wives sent me, desperate.
+55 years old, 6 years dead, 7 days on the powder. And here's the video one of their wives sent me, desperate.
 
 [Depoimento 02]
 
