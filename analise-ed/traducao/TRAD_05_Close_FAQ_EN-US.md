@@ -30,15 +30,15 @@ You're wondering if there's a catch. There isn't. Imagine three months from now.
 
 A rock hard erection every night, poking her back until she wakes up and rides you without you even asking. The energy of your 40s back, your body responding at the gym, and when you come… you come, your stream tripling.
 
-And your woman, the one who'd been turning her back on you for 5 years, who'd already given up on you, soaking her panties again just from hearing the shower turn off, because she knows you're gonna walk out of that bathroom rock hard and fuck her until she can't take it anymore.
+And your woman, the one who'd been turning her back on you for 6 years, who'd already given up on you, soaking her panties again just from hearing the shower turn off, because she knows you're gonna walk out of that bathroom rock hard and fuck her until she can't take it anymore.
 
 You're gonna fuck all night without going soft. You're gonna make her squirt, make her beg you to stop, and the next day, she's the one who comes looking for you asking for more.
 
 She'll look at you with that desire from the beginning, and with a new fear: losing you to another woman. That's what's on the other side of this decision, one click away, and while you scroll down the page, I'm gonna give you 3 reasons to click before you close.
 
-The first is logical. You watched this far. You saw the science, the glyphosate, the equipment in Lexington. You saw Mike, the trial of 3,000 men, the 94% reversal, every number I gave you, every face I showed you has a name. Make the only choice a smart man would make in the face of this much proof.
+The first is logical. You watched this far. You saw the science, the glyphosate, the equipment in Austin. You saw Mike, the trial of 3,000 men, the 94% reversal, every number I gave you, every face I showed you has a name. Make the only choice a smart man would make in the face of this much proof.
 
-The second is mechanical. The 6-bottle kit dissolves all the cement and locks in the result so it doesn't come back. It's not the 3-bottle kit, it's not the 1-bottle kit, it's the 6-bottle kit, because the protocol is 6 months.
+The second is mechanical. The 6-bottle kit dissolves all the cement and locks in the result so it doesn't come back. It's not the 3-bottle kit, it's not the 2-bottle kit, it's the 6-bottle kit, because the protocol is 6 months.
 
 The time it takes to dissolve 30 years of plaque, rebuild the whole sponge, shield it against glyphosate and seal it in place. And reactivate the testosterone. 3 months bring results, but the cement starts again, and you're back on this page in 90 days, paying shipping and a higher price, if there's still stock.
 
@@ -56,7 +56,7 @@ Hello? Still there? Alright. I know you may still have a question or two, so I'm
 
 Travis, from Phoenix, asked: "I started Bull Soda Rise three days ago and I don't know if I'm going crazy, but I'm waking up pitching a tent, and my penis is clearly rock hard. My underwear can barely hold the weight. Is this normal? Isn't the effect happening too fast?"
 
-Frank, you're not crazy. This is completely normal.
+Travis, you're not crazy. This is completely normal.
 
 The cement that was blocking the tissue in your penis is being dissolved by the Longhorn collagen, and your body is making up for the lost growth. And you're not alone. Over 76% of men report increased firmness in the first few days.
 

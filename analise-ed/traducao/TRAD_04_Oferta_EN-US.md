@@ -168,7 +168,7 @@ Watch your morning wood say hi to you again. Feel your dick get rock hard whenev
 
 If that doesn't happen, if for any reason you don't get rigid erections back in the first 4 weeks, if you don't feel an insatiable sexual desire for your wife…
 
-If you don't satisfy your wife every night with intense, wild sex, or even if you don't like the color of the bottle, I refund every cent of your money, and you can keep all the remaining gummies and bottles.
+If you don't satisfy your wife every night with intense, wild sex, or even if you don't like the color of the bottle, I refund every cent of your money, and you can keep all the remaining gummies and bottles. That's The Bull Guarantee.
 
 Just send an email to my support team within 60 days of purchase, and you get your refund instantly. No questions, no hard feelings, zero risk.
 
