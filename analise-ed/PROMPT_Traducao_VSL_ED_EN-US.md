@@ -219,8 +219,8 @@ Mantêm o impacto recriando o efeito em inglês coloquial, não palavra por pala
 | marido | husband |
 | peão | ranch hand (nunca cowboy, nunca "pawn") |
 | capataz | foreman |
-| rancheiro / criador | rancher / breeder |
-| fazendeiro | rancher (no Texas) |
+| rancheiro / criador | rancher / breeder (só quando o PT disser "rancheiro" ou "criador") |
+| fazendeiro | farmer (sempre; nunca rancher) |
 | moleque (o peão, com desprezo) | that kid / that boy |
 | macho (outro homem) | another man ("perfume de outro macho" → "another man's cologne") |
 | astro pornô / ator pornô | porn star / porn actor |
@@ -265,7 +265,7 @@ Mantêm o impacto recriando o efeito em inglês coloquial, não palavra por pala
 | "Terra de Longhorn" | Longhorn country |
 | bicarbonato (de sódio) | baking soda (nunca "sodium bicarbonate" fora de rótulo) |
 | pó / pó branco | powder / white powder |
-| preparar (o pó) | fix (it) — "the way the ranchers fix it" |
+| preparar (o pó) | fix (it) — "the way the farmers fix it" (se o PT disser "fazendeiros") |
 | colher / colher medidora | spoon / measuring spoon |
 | copo d'água | glass of water |
 | arrotar | burp |
@@ -300,7 +300,7 @@ Mantêm o impacto recriando o efeito em inglês coloquial, não palavra por pala
 - **Dr. Andrew Huberman (narrador):** registro de podcast, direto, com contrações e conectores ("Look", "Here's the thing", "Now pay attention", "Stay with me"). Cru sem ser gíria: diz dick, fuck, go soft, mas não diz bro. Quando cita estudo, o termo médico; quando volta a falar com o avatar, a palavra do avatar na frase seguinte. Nunca soa acadêmico.
 - **Mike Tyson:** voz dele. "mano" → bro ou man; "papo reto" → real talk; "cara" → man; permitido dupla negativa ("ain't nobody", "didn't do nothing") onde o PT é bem informal; "Deus" → God damn permitido; frases curtas, repetição de ênfase ("8 rounds. 8 rounds at 58, man."). Palavrão livre.
 - **Lakiha (Esposa do Mike Tyson):** contida e direta, sem gíria de rua. "Senhor." → "Lord." · "Vou ser sincera com você" → "I'm gonna be honest with you" · "aquele moleque / aquele peão" → "that boy / that ranch hand" · explícita no que descreve (squirt, sit on my face, drool, on my knees), mas com no máximo um palavrão por fala. Dignidade na voz, sem suavizar o sexo.
-- **Atrizes pornô (Sydney, Julia Ann, Cory Chase):** primeira pessoa, verbo cru, descrição em sequência (on all fours, pounded my pussy, came three times, flipped me over, fucked my ass). "cara" → guy; "velho" → old man; "fazendeiro" → rancher. Cock permitido aqui além de dick. Podem usar "babe", "honey" quando o PT usar "querido".
+- **Atrizes pornô (Sydney, Julia Ann, Cory Chase):** primeira pessoa, verbo cru, descrição em sequência (on all fours, pounded my pussy, came three times, flipped me over, fucked my ass). "cara" → guy; "velho" → old man; "fazendeiro" → farmer. Cock permitido aqui além de dick. Podem usar "babe", "honey" quando o PT usar "querido".
 - **Depoimentos de homem comum (Jack, Depoimento 01–04, Uber, churrasco):** fala de gente comum, sem vocabulário de narrador: "I used it at work", "my boss", "my wife", "fucked her for 40 minutes". Nada de "mechanism", "tissue", "plaque" na boca deles.
 - **Depoimentos de mulher comum (Diane, a esposa das 4 da manhã, as irmãs):** mesma regra, em voz feminina comum e explícita conforme o PT ("he fucked me so hard I can't feel my legs").
 - **Celebridades (Costner, Stallone, Ford, Arnold, Van Damme):** voz de homem público de 65–85, direto, cru moderado ("my dick works like it did in 1995"), sem gíria jovem.
