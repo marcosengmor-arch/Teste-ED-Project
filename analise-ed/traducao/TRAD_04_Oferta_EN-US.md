@@ -12,9 +12,7 @@ With the cement dissolved, blood flow in your dick goes up 20 times, giving you 
 
 With the collagen rebuilt, desire climbs right away and your dick gets wider and thicker every day. Without the glyphosate and with the receptors switched back on, more testosterone, more control over ejaculation, and the energy and confidence you had when you were young.
 
-Bottom line: your partner with shaking legs every night, with multiple orgasms for the first time in her life, addicted to you, screaming your name and begging on her knees for one more round, because you just gave her a porn-star orgasm. With one cola-cherry gummy a day.
-
-This formula is for the man who wants to make any woman come like crazy, soak the sheets and cry with pleasure while she screams your name and begs on her knees for one more round, because you just gave her a porn-star orgasm she's never felt before.
+Bottom line, this formula is for the man who wants to make any woman come like crazy, soak the sheets and cry with pleasure while she screams your name and begs on her knees for one more round, because you just gave her a porn-star orgasm she's never felt before, with just one cola-cherry gummy a day.
 
 And the best part: with consistent use, you grow your penis by at least 3 inches in a few weeks. Bigger, with popping veins, length and thickness that leave any woman submissive and obsessed with you.
 
@@ -170,7 +168,7 @@ Watch your morning wood say hi to you again. Feel your dick get rock hard whenev
 
 If that doesn't happen, if for any reason you don't get rigid erections back in the first 4 weeks, if you don't feel an insatiable sexual desire for your wife…
 
-If you don't satisfy your wife every night with intense, wild sex, or even if you don't like the color of the bottle, I refund every cent of your money, and you can keep all the remaining pills and bottles.
+If you don't satisfy your wife every night with intense, wild sex, or even if you don't like the color of the bottle, I refund every cent of your money, and you can keep all the remaining gummies and bottles.
 
 Just send an email to my support team within 60 days of purchase, and you get your refund instantly. No questions, no hard feelings, zero risk.
 
