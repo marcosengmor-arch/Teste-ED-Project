@@ -104,9 +104,9 @@ He eats twice what you do. And doesn't cement. It's not genetics. If a body eats
 
 Let me explain why, because this is where it gets serious.
 
-An elite breeding bull is worth 20, 30 million dollars, and every cent sits in one thing: him staying hard and mounting cow after cow, season after season, even old. Unlike the horse, whose semen they collect on a padded dummy, by a vet in gloves. He never mounts.
+An elite breeding bull is worth $20, $30 million, and every cent sits in one thing: him staying hard and mounting cow after cow, season after season, even old. Unlike the horse, whose semen they collect on a padded dummy, by a vet in gloves. He never mounts.
 
-The only animal that fucks old like young is the Longhorn. A single breeding costs 100,000 to 200,000 dollars. One of these Longhorns brings in over 20 million dollars a year just by staying hard.
+The only animal that fucks old like young is the Longhorn. A single breeding costs $100,000 to $200,000. One of these Longhorns brings in over $20 million a year just by staying hard.
 
 That's why they're the most watched animals in Texas. Each one with a file, a history and blood, tissue and semen tests kept for decades.
 
@@ -116,7 +116,7 @@ That's why the owners of the most expensive Longhorns on the planet keep a secre
 
 It's not my rumor. I sat with a vet who spent 18 years inside these ranches and he confirmed it. And the most suspicious thing?
 
-This powder doesn't show up on any label. It's not in the official feed, or in the vet's instructions. It's passed hand to hand, because whoever owns a 30-million-dollar animal doesn't hand the secret to a competitor.
+This powder doesn't show up on any label. It's not in the official feed, or in the vet's instructions. It's passed hand to hand, because whoever owns a $30 million animal doesn't hand the secret to a competitor.
 
 That's the white powder Mike Tyson's ranch hand fixed in the kitchen before going upstairs. The same one that keeps the Longhorn hard at 18, and the same one that dissolves the cement medicine swore for 30 years was impossible.
 

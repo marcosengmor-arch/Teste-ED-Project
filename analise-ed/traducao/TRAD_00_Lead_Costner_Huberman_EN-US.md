@@ -14,7 +14,7 @@ Eat one spoonful of this baking soda mix every morning, the one Longhorn bull br
 
 This trick, when it's fixed right, is up to 14 times more potent than a whole blue pill, and you can do it at home, if you follow exactly what I teach you. It won't take more than 10 seconds.
 
-You'll need baking soda and three other ingredients that cost less than two dollars, all available at Walgreens.
+You'll need baking soda and three other ingredients that cost less than $2, all available at Walgreens.
 
 Mix them the way I show you, and you'll never again feel that shame when a hot girl takes her clothes off and you're standing there, with a small, soft dick in your hand, praying for it to react.
 
@@ -76,7 +76,7 @@ And whoever dumps this in your food every single day has a name, has an address 
 
 And here's the part that's gonna blow your mind.
 
-The only living creature that escapes this flesh-eating toxin, even eating twice as much of it every day, is the Longhorn bull. A 30-million-dollar breeding bull mounts and breeds 4 cows a week at 18 years old, the equivalent of a 75-year-old man with a dick that won't go down.
+The only living creature that escapes this flesh-eating toxin, even eating twice as much of it every day, is the Longhorn bull. A $30 million breeding bull mounts and breeds 4 cows a week at 18 years old, the equivalent of a 75-year-old man with a dick that won't go down.
 
 Why? Because of a cheap powder, under a dollar, that the ranchers keep under lock and key. The same bull baking soda trick I'm putting in your hands today.
 

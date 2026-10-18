@@ -42,7 +42,7 @@ I went up to our bedroom with the 30-year-old ranch hand who takes care of his b
 
 Hold on to that line. In a few minutes it'll make perfect sense, and it'll scare you. Because the same thing that killed Mike Tyson's dick is happening inside you right now, as you listen to me.
 
-When Mike called, I did something crazy. I flew to Texas the same day. Canceled 14 recorded episodes. Gave back a 2-million-dollar sponsorship check, and my producer still gives me dirty looks. Six months without recording a show. My team thought I'd lost it. My wife thought I had someone else.
+When Mike called, I did something crazy. I flew to Texas the same day. Canceled 14 recorded episodes. Gave back a $2 million sponsorship check, and my producer still gives me dirty looks. Six months without recording a show. My team thought I'd lost it. My wife thought I had someone else.
 
 Why? Because what he told me on that ranch wasn't a patient complaint. It was the confession of a man at rock bottom.
 
@@ -106,7 +106,7 @@ And my dick there, limp in her hand. Soft. Warm from the drug that got in my blo
 
 The most castrating sentence of my life. Worse than boos. Worse than any lawsuit. Worse than two divorces. Because a woman being tender with the man she stopped wanting? That's the cleanest execution there is. No blood. You're just dead.
 
-But I didn't stop there. The second doctor said: "Forget Viagra, Mike. The secret is TRT." Three months and fifteen thousand dollars later, my liver lit up the warning.
+But I didn't stop there. The second doctor said: "Forget Viagra, Mike. The secret is TRT." Three months and fifteen grand later, my liver lit up the warning.
 
 [Dr. Andrew Huberman]
 
@@ -250,7 +250,7 @@ When the government itself admits this in public, you can be sure it's much wors
 
 In February 2025, an internal Bayer document leaked on a litigation forum. Stamped "Confidential Internal Memo 04-Beta." Dated 1998. Research division executives discussing, behind closed doors, the effects of glyphosate on the erectile tissue of lab rats. They knew in 1998.
 
-And in the footer: "No public communication. Litigation risk." They stayed quiet because telling would cost billions. Bayer has already paid 24 billion dollars in three settlements to close cancer lawsuits. Imagine what they'd do to close a lawsuit over mass erectile dysfunction.
+And in the footer: "No public communication. Litigation risk." They stayed quiet because telling would cost billions. Bayer has already paid $24 billion in three settlements to close cancer lawsuits. Imagine what they'd do to close a lawsuit over mass erectile dysfunction.
 
 And it wasn't just Bayer. The FDA approved glyphosate against the recommendation of 11 of its own scientists. 7 were fired in the next 18 months. I sat down with one of them. 22 years reviewing pesticides at the agency.
 
@@ -260,25 +260,25 @@ We saw, in the manufacturer's own data, what glyphosate was doing to men's bodie
 
 [Dr. Andrew Huberman]
 
-So while Bayer poisoned your food on one side, Big Pharma sold the antidote on the other. Pfizer makes 8.7 billion dollars a year on Viagra and the licensed generics. Cialis and Levitra together, another 4 billion. Erectile dysfunction, plus TRT, plus penile surgery: 32 billion dollars a year in the United States.
+So while Bayer poisoned your food on one side, Big Pharma sold the antidote on the other. Pfizer makes $8.7 billion a year on Viagra and the licensed generics. Cialis and Levitra together, another $4 billion. Erectile dysfunction, plus TRT, plus penile surgery: $32 billion a year in the United States.
 
 That's the size of the industry that needs your dick to stay broken. None of them cure anything. Because a cured man is a customer who disappears. To them, you were never a patient. You're a monthly subscription.
 
 [Ex-Executivo da Farmacêutica]
 
-Internally, we knew Viagra masks the problem. It doesn't cure. Every patient who goes on the blue pill stays on it 6 to 14 years. The average patient brings in some 19 thousand dollars over his lifetime. The cure kills the cycle. Maintenance is the product.
+Internally, we knew Viagra masks the problem. It doesn't cure. Every patient who goes on the blue pill stays on it 6 to 14 years. The average patient brings in some $19,000 over his lifetime. The cure kills the cycle. Maintenance is the product.
 
 [Dr. Andrew Huberman]
 
-When I sent what I'd found to an independent lab to test, three weeks later I got a call. 47 million dollars for the formula, one payment, to shelve it under a permanent NDA. I said no. Since then, this video has been taken down 14 times on 4 platforms.
+When I sent what I'd found to an independent lab to test, three weeks later I got a call. $47 million for the formula, one payment, to shelve it under a permanent NDA. I said no. Since then, this video has been taken down 14 times on 4 platforms.
 
 If it's all a lie, why so much effort to keep you from seeing it? But one piece was still missing. That white powder on Mike's sink.
 
 I tracked it, and the trail led to a world I didn't even know existed. Fort Worth. Longhorn country. You've heard it your whole life: "everything's bigger in Texas." It's not the trucks or the steaks. It's the Longhorn bulls, with horns over 100 inches tip to tip.
 
-An elite breeding bull of this breed is worth 20, 30 million dollars. And all that value sits in one thing: potency. Getting hard, mounting and breeding cows, season after season, at 15, at 18 years old, the equivalent of a 75-year-old man. A Longhorn that loses that is worth nothing.
+An elite breeding bull of this breed is worth $20, $30 million. And all that value sits in one thing: potency. Getting hard, mounting and breeding cows, season after season, at 15, at 18 years old, the equivalent of a 75-year-old man. A Longhorn that loses that is worth nothing.
 
-That's why ranchers have always kept one thing off every label, every feed sack, every vet manual. A cheap powder. Under a dollar. That keeps a 30-million-dollar animal hard and breeding several cows a day at 18 like he was 3.
+That's why ranchers have always kept one thing off every label, every feed sack, every vet manual. A cheap powder. Under a dollar. That keeps a $30 million animal hard and breeding several cows a day at 18 like he was 3.
 
 It became the most protected secret in that world. Whoever has it tells nobody. That was the powder on Mike's sink. The ranch hand wasn't more man than him. He just had the antidote. And then the last piece fell into place.
 

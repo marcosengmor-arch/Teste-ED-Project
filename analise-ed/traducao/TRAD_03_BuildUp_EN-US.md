@@ -84,7 +84,7 @@ This one here. That man in the pictures is her husband. Today, she sneaks out of
 
 When the last report from the 47 came in, I had to choose. Close the clinic and treat 1,000 patients a month till I died, or spread this to as many men as possible. I chose the second. And the worst nightmare of my career began.
 
-I knocked on 14 labs. 7 refused on the spot, because a cured man is a customer who disappears. The other 7 wanted 1,500 dollars a month per patient, with an argument I'll never forget: "If we're gonna lose the customer forever, we take all the profit on the first sale." I rejected every one to their face.
+I knocked on 14 labs. 7 refused on the spot, because a cured man is a customer who disappears. The other 7 wanted $1,500 a month per patient, with an argument I'll never forget: "If we're gonna lose the customer forever, we take all the profit on the first sale." I rejected every one to their face.
 
 Until David Hartman, Director of R&D at Meridian Labs, called me. Independent lab in New Jersey, no pharmaceutical owner. I brought everything: the buried studies, Mike's MRIs, the 1998 Bayer memo.
 

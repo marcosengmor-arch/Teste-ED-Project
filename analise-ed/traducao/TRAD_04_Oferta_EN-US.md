@@ -20,7 +20,7 @@ It doesn't matter who you are. Doesn't matter if you have diabetes, high blood p
 
 Because Mike had 60% cement at 60 years old. It worked. The 47 volunteers were 44 to 76. It worked. The 3,000 men in the trial ran from 35 to 70. It's worked in 94% of them so far.
 
-No drug company in the world will offer you this while Viagra pulls in 32 billion dollars a year, because a cured man doesn't pay a monthly subscription. Bull Soda Rise doesn't cover up the symptom. It attacks the toxic plaque at the source.
+No drug company in the world will offer you this while Viagra pulls in $32 billion a year, because a cured man doesn't pay a monthly subscription. Bull Soda Rise doesn't cover up the symptom. It attacks the toxic plaque at the source.
 
 Four substances, calibrated in 12 rounds of testing in Austin, each at the exact dose. Less, and your stomach acid destroys it before it gets there. More, and it doesn't break the cement.
 
@@ -106,9 +106,9 @@ That's why I put together this special offer for you to grab now. Here's how it 
 
 No predatory pharmaceutical pricing. Charge what it costs to make, period.
 
-That's the only reason Bull Soda Rise won't cost you the 500 dollars a month a drug company would charge for something that actually cured. Not 400, not 300. The price of one bottle is 147 dollars. But, because you watched this far, it gets much better.
+That's the only reason Bull Soda Rise won't cost you the $500 a month a drug company would charge for something that actually cured. Not 400, not 300. The price of one bottle is $147. But, because you watched this far, it gets much better.
 
-If you choose the 6-bottle kit now, the complete protocol, you pay for only 3. You take the other 3 free. 6 months of treatment for 294 dollars. That's $49 a bottle, a 90% discount off the 500 dollars thousands of men were willing to pay per bottle.
+If you choose the 6-bottle kit now, the complete protocol, you pay for only 3. You take the other 3 free. 6 months of treatment for $294. That's $49 a bottle, a 90% discount off the $500 thousands of men were willing to pay per bottle.
 
 And why is the 6-bottle kit the right choice? Because, besides costing less, it gives your body exactly the time it needs to dissolve all the cement, rebuild the whole sponge and lock in the result for good. You take 1 gummy in the morning for 6 months and never need to come back to this page.
 
