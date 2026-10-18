@@ -64,6 +64,18 @@ She said: "Jack, I'd already forgotten what your dick felt like inside me." I fu
 
 [Dr. Andrew Huberman]
 
+And Jack did something I asked all 47 to do: he recorded at home, on his phone, during the process. Here's the video. Look at the ring.
+
+[Depoimento 01 - Vídeo caseiro]
+
+Day 1. The doc told me to tape a strip of stamps around my dick before bed. If it gets up during the night, the ring tears. Morning. Whole. Six years like this.
+
+Day 3. Woke up at 5. Look. Torn right down the middle. Mary's laughing in the background.
+
+[Dr. Andrew Huberman]
+
+The postage stamp test. Urologists used it before there were scans. If the ring wakes up whole, nothing happened during the night. If it tears, your dick got up on its own, with no pill and no hand. The body doesn't know how to lie in its sleep. Day 1, whole. Day 3, torn. A 55-year-old man, 6 years dead, 72 hours on the powder.
+
 And here's the video one of their wives sent me, desperate.
 
 [Depoimento 02]
