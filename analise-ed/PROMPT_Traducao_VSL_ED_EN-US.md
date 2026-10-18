@@ -57,6 +57,20 @@ O artifact EN-US espelha a estrutura do PT enviado: mesmas tags na mesma posiç�
 ### 4.1 Gíria: regra por personagem, não regra geral
 Diferente das VSLs de memória e diabetes, aqui **gíria jovem é permitida quando é a voz do personagem** (seção 9). "Mano" na boca do Mike é bro ou man. Na boca do Huberman não existe. A regra é: cada personagem fala como ele fala; nenhum personagem fala como TikToker.
 
+### 4.2 Carga igual, nunca pra baixo (cenas de sexo, orgasmo, palavrão)
+A palavra forte em português sai com a **mesma carga** em inglês. Uma tradução gramaticalmente certa que perde a força é tradução errada. O inglês tem palavra crua pra tudo que o PT tem; use.
+
+- **Orgasmo e gozo.** "Gozei três vezes" → "I came three times", nunca "I climaxed" / "I reached orgasm" / "I finished". "Ela gozou gritando" → "she came screaming". "Gozou na minha boca" → "came in my mouth". "Encheu ela de porra" → "filled her with cum". "Esguichou na cama" → "squirted all over the bed". Verbo cru, ação, corpo.
+- **Sexo.** "Me fodeu até eu não aguentar" → "fucked me until I couldn't take it", nunca "made love to me until I was exhausted". "Socou com força" → "pounded me hard" / "slammed into me". "Meteu até o fim" → "shoved it all the way in". "Arrombou" → "wrecked" / "destroyed". "Quebrou a cama" → "broke the bed".
+- **Pau.** "Pau duro feito pedra" → "rock hard dick". "Pau batendo na coxa" → "dick slapping against his thigh". "Veia pulando" → "veins popping". Nunca "erection" na cena, só no laudo.
+- **Humilhação e vergonha.** "Pau morto" → "dead dick". "Broxou na frente dela" → "went limp right in front of her". "Mole que nem macarrão cozido" → "soft as a wet noodle". "Virou de costas pra ele" → "turned her back on him". A vergonha do avatar tem que doer igual.
+- **Palavrão.** "Porra" (interjeição) → "fuck" / "goddamn"; "caralho" → "fuck" / "holy shit"; "puta que pariu" → "holy fucking shit" / "son of a bitch"; "do caralho" (positivo) → "fucking amazing" / "one hell of a". "Filho da puta" → "son of a bitch" / "motherfucker" conforme a raiva.
+
+**Frases mortas (proibidas em cena sexual, mesmo que a gramática aceite):**
+climaxed · reached orgasm · finished · was satisfied · pleasured her · made love · were intimate · had relations · got physical · his manhood · his member · her womanhood · her flower · her center · down there · lady parts · performed well · performance in bed · bedroom problems · couldn't perform · intimate moment · adult activities · engaged in intercourse · ejaculated (fora de laudo) · aroused state · erect (fora de laudo).
+
+**Teste da carga:** leia a frase em inglês em voz alta como se fosse um homem de 55 anos contando pro amigo. Se soou como laudo médico, legenda de filme ou texto de banco, está pra baixo. Reescreva com a palavra crua até a carga bater com o PT. Pra cima também não: "transar" não vira "fuck her brains out" se o PT não disse isso.
+
 ## 5. NICHO: FIXO EM ED
 
 Não há detecção de nicho. Toda copy que entrar neste prompt é de disfunção erétil, aumento e desempenho sexual masculino, com universo de rancho de touros Longhorn no Texas. Aplique a seção 8 inteira, sempre. Se a copy misturar prova de fertilidade, testosterona ou próstata, são sub-temas do mesmo nicho, não nichos à parte.
@@ -321,8 +335,9 @@ Nicho: ED (fixo) · Entrega: só EN-US
 🔧 TERMOS ADAPTADOS (idioma exigiu)
 - [PT] → [EN] — motivo (médico / idiomatismo / falso amigo / unidade / instituição / pontuação)
 
-🔞 TERMOS CHULOS E SEXUAIS (tradução literal confirmada)
+🔞 TERMOS CHULOS E SEXUAIS (tradução literal confirmada, mesma carga)
 - [PT] → [EN] — uma linha por termo que apareceu pela primeira vez nesta rodada
+- confirmação: "nenhuma frase morta da seção 4.2 na copy"
 
 🔒 MANTIDOS SEM TRADUÇÃO
 - [nome / marca / termo já em inglês / frase-âncora] — motivo
@@ -350,6 +365,7 @@ Inglês falado corre mais curto que português. A tradução fiel deve sair **8 
 - [ ] Mesmo número de parágrafos e mesma ordem do original?
 - [ ] Nenhum eufemismo (manhood, member, intimacy, lovemaking, private parts)?
 - [ ] Todo termo chulo e sexual traduzido literal (dick, pussy, fuck, come, squirt, ride, suck, ass)?
+- [ ] Cada cena de sexo, orgasmo e palavrão com a mesma carga do PT, nunca pra baixo (seção 4.2)? Nenhuma frase morta (climaxed, finished, made love, manhood, performed)?
 - [ ] Termos médicos só onde o PT usa termo médico; "the sponge" no resto?
 - [ ] Frases-âncora idênticas às da seção 6 em toda ocorrência?
 - [ ] Voz de cada personagem conforme a seção 9 (Mike com bro/man, Huberman sem gíria, Lakiha com no máximo um palavrão por fala)?
