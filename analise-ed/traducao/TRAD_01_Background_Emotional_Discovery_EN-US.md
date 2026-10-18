@@ -282,7 +282,7 @@ That's why ranchers have always kept one thing off every label, every feed sack,
 
 It became the most protected secret in that world. Whoever has it tells nobody. That was the powder on Mike's sink. The ranch hand wasn't more man than him. He just had the antidote. And then the last piece fell into place.
 
-Pay attention. Glyphosate is in your food. But it's in the bull's food too. The Longhorn eats 33 pounds of grass and feed soaked in the same Roundup, every single day, way more than you'll eat in your life. He should be the most impotent animal on Earth. It's the opposite.
+Pay attention. Glyphosate is in your food. But it's in the bull's food too. The Longhorn eats 30 pounds of grass and feed soaked in the same Roundup, every single day, way more than you'll eat in your life. He should be the most impotent animal on Earth. It's the opposite.
 
 He breeds several cows at 18 with the same strength he had at 3. The Longhorn bull doesn't have erectile dysfunction. He escapes. Why? Hold on to that question, because the answer is exactly what brings your hard dick back.
 

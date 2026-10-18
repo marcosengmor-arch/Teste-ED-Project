@@ -116,7 +116,7 @@ Viagra, Cialis, Levitra, TRT, Metformin etc. ficam. "Pílula azul" / "azulzinho"
 Forma oficial em inglês. Secretário de Saúde dos Estados Unidos → U.S. Secretary of Health and Human Services. Universidade de Medicina de Stanford → Stanford School of Medicine. Universidade da Califórnia → University of California. Clínica de LA → LA clinic.
 
 ### 7.5 Unidades, números e horas
-Polegadas e dólares ficam como estão. **Quilos sempre viram libras** (15 quilos → 33 pounds; 1 kg = 2,2 lb, arredondar para inteiro). Metros viram yards ou feet (200 metros → 200 yards; 15 metros → 50 feet). Minutos, horas e dias ficam. Decimais: 5,63 → 5.63; 8,46 → 8.46; 3,5 polegadas → 3.5 inches. Milhares: 3.000 → 3,000; 1.000 → 1,000. Horas: 6h04 → 6:04 a.m.; 4 da manhã → 4 in the morning / 4 a.m.; 7 da manhã → 7 a.m. Datas: 14 de janeiro → January 14th. "Bilhões" → billion. Moeda: $ fica $.
+Polegadas e dólares ficam como estão. **Quilos sempre viram libras, em número redondo** (15 quilos → 30 pounds, nunca 33; 1 kg ≈ 2 lb na fala, arredondar para a dezena mais próxima). Na ração do touro é sempre "30 pounds". Metros viram yards ou feet (200 metros → 200 yards; 15 metros → 50 feet). Minutos, horas e dias ficam. Decimais: 5,63 → 5.63; 8,46 → 8.46; 3,5 polegadas → 3.5 inches. Milhares: 3.000 → 3,000; 1.000 → 1,000. Horas: 6h04 → 6:04 a.m.; 4 da manhã → 4 in the morning / 4 a.m.; 7 da manhã → 7 a.m. Datas: 14 de janeiro → January 14th. "Bilhões" → billion. Moeda: $ fica $.
 
 ### 7.6 Pontuação
 Aspas duplas retas ou curvas. Travessão: PT abusa; em EN prefira ponto ou vírgula quando o travessão pesar, sem eliminar o ritmo. Reticências iguais. Frases de uma palavra ("Dobrou.", "Ponto.", "Nunca.") ficam de uma palavra.
