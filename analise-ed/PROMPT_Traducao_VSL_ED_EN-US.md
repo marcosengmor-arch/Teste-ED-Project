@@ -1,4 +1,4 @@
-# PROMPT — TRADUÇÃO DE VSL DE ED (PT-BR → EN-US NATIVO) · v2 genérico, 31/10/2026
+# PROMPT — TRADUÇÃO DE VSL DE ED (PT-BR → EN-US NATIVO) · v2.1 genérico, 03/11/2026
 
 > Base: prompt "TRADUÇÃO DE VSL AI" (memória / diabetes / emagrecimento), reescrito para o nicho de disfunção erétil, aumento e desempenho sexual masculino. **v2: vale para qualquer VSL de ED.** Nome de produto, nome do truque/ritual, universo (touro, bode, cavalo...), personagens e frases-âncora são variáveis declaradas na seção 0. Toda menção a uma VSL específica neste prompt (Bull Soda Rise / touro Longhorn / Mike Tyson; Goat Honey Ritual / bode espanhol / Al Pacino) é **exemplo de referência**, nunca regra.
 
@@ -89,6 +89,15 @@ A palavra forte em português sai com a **mesma carga** em inglês. Uma traduç�
 climaxed · reached orgasm · finished · was satisfied · pleasured her · made love · were intimate · had relations · got physical · his manhood · his member · her womanhood · her flower · her center · down there · lady parts · performed well · performance in bed · bedroom problems · couldn't perform · intimate moment · adult activities · engaged in intercourse · ejaculated (fora de laudo) · aroused state · erect (fora de laudo).
 
 **Teste da carga:** leia a frase em inglês em voz alta como se fosse um homem de 55 anos contando pro amigo. Se soou como laudo médico, legenda de filme ou texto de banco, está pra baixo. Reescreva com a palavra crua até a carga bater com o PT. Pra cima também não: "transar" não vira "fuck her brains out" se o PT não disse isso.
+
+### 4.3 "Dick" x "cock": regra fixa (vale pra toda VSL)
+O PT usa "pau" pra tudo; o inglês tem duas palavras com funções diferentes. A escolha é **pela função da frase**, não só pela personagem:
+
+- **dick** é a palavra do homem comum falando do próprio pau: conversa, vestiário, desabafo, o problema ("my dick won't get hard", "a soft dick", "your dick got locked up at 15"). Padrão para narrador médico, confessor, homens comuns, esposas e mulheres comuns, celebridades e institucionais.
+- **cock** é a palavra de cena: atriz pornô (ou modelo/namorada na mesma voz) descrevendo pau em ação, tamanho, grossura, dentro dela, no set ("an 8-inch cock", "their cocks were so thick I drooled", "Just thick cock, full of veins", "pressing that cock against my ass").
+- **Atriz falando com o espectador sobre o problema dele continua com dick** ("If your dick isn't what it used to be", "small dick runs in the family", "say goodbye to a soft dick"): ali ela imita a voz dele.
+- **Nunca cock** na boca do narrador médico, do confessor, de homem comum ou de esposa comum (soa forçado). Exceção: o PT dessas vozes variar o registro de propósito.
+- Meta de referência: nas leads de atriz, a maioria das descrições de cena sai com cock; no corpo da VSL (expert, confessor, tese, oferta), quase tudo dick. Na VSL IronPulseX ficaram ~15 "cock" concentrados nas leads e nas falas de atriz.
 
 ## 5. NICHO: FIXO EM ED
 
@@ -197,7 +206,7 @@ Mantêm o impacto recriando o efeito em inglês coloquial, não palavra por pala
 ### 8.1 O corpo e o problema
 | PT-BR | EN-US |
 |---|---|
-| pau | dick (sempre; "cock" só se o PT variar o registro ou em boca de atriz pornô) |
+| pau | dick ou cock pela regra 4.3 (dick = voz do homem e do problema; cock = atriz descrevendo pau em cena) |
 | pênis (frase de estudo) | penis |
 | pau mole / pau morto | soft dick / limp dick / dead dick (literal ao PT) |
 | broxar / broxeira / brochar | go soft / go limp; "a broxeira voltou" → "the limpness came back" ou "I couldn't get it up again" |
@@ -392,7 +401,7 @@ A regra é por **tipo de personagem**. Os nomes entre parênteses são os exempl
 - **Narrador médico (ex.: Dr. Andrew Huberman, Dr. Mark Hyman):** registro de podcast, direto, com contrações e conectores ("Look", "Here's the thing", "Now pay attention", "Stay with me"). Cru sem ser gíria: diz dick, fuck, go soft, mas não diz bro. Quando cita estudo, o termo médico; quando volta a falar com o avatar, a palavra do avatar na frase seguinte. Nunca soa acadêmico. Palavrão permitido quando o PT o traz ("filhos da puta" → "sons of bitches"; "fiquei puto" → "I was pissed").
 - **Confessor celebridade (ex.: Mike Tyson, Al Pacino):** voz dele. Se o PT dá gíria de rua (Tyson: "mano" → bro/man, "papo reto" → real talk, dupla negativa permitida), vai gíria de rua. Se o PT dá voz de homem velho e culto (Pacino: "Puta que pariu, Mark", "Que se dane", "miserável"), vai palavrão de homem de 86 sem gíria jovem ("Holy shit, Mark", "Screw it", "the son of a bitch"). Frases curtas, repetição de ênfase ("8 rounds. 8 rounds at 58, man." / "Dead dick. At 84."). Palavrão livre.
 - **Parceira do confessor (ex.: Lakiha, Noor):** contida e direta, sem gíria de rua. "Senhor." → "Lord." · "Meu Deus" → "My God" · "Vou ser sincera com você" → "I'm gonna be honest with you" · "aquele moleque / aquele peão / o personal" → "that boy / that ranch hand / the trainer" · explícita no que descreve (squirt, sit on my face, drool, on my knees, legs shaking), mas com no máximo um palavrão por fala. Dignidade na voz, sem suavizar o sexo.
-- **Atrizes pornô e apresentadoras da lead (ex.: Sydney Sweeney, Julia Ann, Cory Chase, Abella Danger, Kendra Lust, Brandi Love, Lily Phillips, Violet Myers):** primeira pessoa, verbo cru, descrição em sequência (on all fours, pounded my pussy, came three times, flipped me over, fucked my ass). "cara" → guy; "velho" → old man; "fazendeiro" → farmer; "marmanjo" → grown man. Cock permitido aqui além de dick. Podem usar "babe", "honey" quando o PT usar "querido". "Que se fodam" → "Fuck them."
+- **Atrizes pornô e apresentadoras da lead (ex.: Sydney Sweeney, Julia Ann, Cory Chase, Abella Danger, Kendra Lust, Brandi Love, Lily Phillips, Violet Myers):** primeira pessoa, verbo cru, descrição em sequência (on all fours, pounded my pussy, came three times, flipped me over, fucked my ass). "cara" → guy; "velho" → old man; "fazendeiro" → farmer; "marmanjo" → grown man. **cock nas descrições de cena e dick quando falam do problema do espectador (regra 4.3).** Podem usar "babe", "honey" quando o PT usar "querido". "Que se fodam" → "Fuck them."
 - **Depoimentos de homem comum (ex.: Jack, Brandon, Depoimento 01–06, Uber, churrasco, Cara Normal):** fala de gente comum, sem vocabulário de narrador: "I used it at work", "my boss", "my wife", "fucked her for 40 minutes". Nada de "mechanism", "tissue", "plaque" na boca deles.
 - **Depoimentos de mulher comum (ex.: Diane, a esposa das 4 da manhã, as irmãs, Mulher Normal, a namorada nova):** mesma regra, em voz feminina comum e explícita conforme o PT ("he fucked me so hard I can't feel my legs").
 - **Celebridades de apoio (ex.: Costner, Stallone, Ford, Arnold, Van Damme, Clooney):** voz de homem público de 60–85, direto, cru moderado ("my dick works like it did in 1995"), sem gíria jovem.
@@ -439,7 +448,7 @@ Nicho: ED (fixo) · VSL: [PRODUTO] / [TRUQUE] · Entrega: só EN-US
 Typo óbvio no PT: traduza pelo sentido na Parte 1 e liste na Parte 2. Ambiguidade sexual (ex.: "pegar" como "agarrar" ou "foder"): escolha a leitura mais crua se o contexto for sexual, e sinalize a alternativa no relatório. Tag de personagem que não bate com a fala (ex.: tag [David Hartman] numa fala apresentada como Dr. Raymond Kessler): traduza a fala, mantenha a tag como está e sinalize.
 
 ## 12. CONSISTÊNCIA ENTRE RODADAS
-Mesmo glossário, mesma voz por personagem, mesmas frases-âncora, mesmo nome de produto e de truque/ritual, mesmos títulos de bônus e garantia, mesmo identificador no artifact. Mudança pedida pelo usuário vale daquele ponto em diante, com oferta de atualizar as rodadas anteriores. **Em especial:** a escolha entre "dick" e "cock" por personagem, e entre "giving it up to" e "fucking" para "dando pra alguém", é feita na primeira rodada e nunca muda. Em VSL nova, as escolhas recomeçam do zero: nada da VSL anterior é carregado além do que está neste prompt.
+Mesmo glossário, mesma voz por personagem, mesmas frases-âncora, mesmo nome de produto e de truque/ritual, mesmos títulos de bônus e garantia, mesmo identificador no artifact. Mudança pedida pelo usuário vale daquele ponto em diante, com oferta de atualizar as rodadas anteriores. **Em especial:** "dick" x "cock" segue a regra fixa 4.3 em todas as rodadas; a escolha entre "giving it up to" e "fucking" para "dando pra alguém" é feita na primeira rodada e nunca muda. Em VSL nova, as escolhas recomeçam do zero: nada da VSL anterior é carregado além do que está neste prompt.
 
 ## 13. CONTROLE DE TAMANHO
 Inglês falado corre mais curto que português. A tradução fiel deve sair **8 a 12% menor em palavras** que o PT. Se sair igual ou maior, há enrolação: revise conectores, "that", "in order to", "the fact that", "is going to", e dobras de adjetivo. Se sair mais de 15% menor, algo foi cortado: confira frase a frase. Reporte os dois números na Parte 2.
@@ -451,6 +460,7 @@ Inglês falado corre mais curto que português. A tradução fiel deve sair **8 
 - [ ] Mesmo número de parágrafos e mesma ordem do original?
 - [ ] Nenhum eufemismo (manhood, member, intimacy, lovemaking, private parts)?
 - [ ] Todo termo chulo e sexual traduzido literal (dick, pussy, fuck, come, squirt, ride, suck, ass)?
+- [ ] "dick" x "cock" pela regra 4.3 (cock nas descrições de cena das atrizes; dick na voz do homem, do expert e no problema do espectador)?
 - [ ] Cada cena de sexo, orgasmo e palavrão com a mesma carga do PT, nunca pra baixo (seção 4.2)? Nenhuma frase morta (climaxed, finished, made love, manhood, performed)?
 - [ ] Palavras de poder (Jesus Christ, My God, beg for mercy, screw it, fuck them, corrupt) na mesma posição e carga do PT?
 - [ ] Termos médicos só onde o PT usa termo médico; "the sponge" no resto?
