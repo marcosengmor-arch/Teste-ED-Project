@@ -1,0 +1,1548 @@
+{
+ "titulo": "GUIA DE VSL — GOAT HONEY RITUAL (Loom do Marcos) — Transcrição com minutagens + Sumário + Prints",
+ "fonte": "Fonte: Loom 'Guia de VSL do GOAT HONEY RITUAL' (47:32, gravação de tela 1920x1028). Transcrição em português (AssemblyAI). Fala única do Marcos, sem marcação de personagens. Nomes normalizados onde o ASR errou: Mark Hyman (ASR: Raimann/Raimundo/Heimann), Soda Horse (ASR: Soda Ross/Rosa/Roça), Dr. Attia (ASR: Atcha), Al Pacino (ASR: Alpatino/Palpatine), baking soda, b-rolls, Pycnogenol. 'Aeropulse', 'Secom', 'Gerardo', 'Corey/Brandi/Kendra/Juliana/Noor/Core' mantidos como ouvidos.",
+ "nota_prints": "Minutagens: cada parágrafo começa com [m:ss] do momento em que a fala acontece; cada trecho (x.y) traz o intervalo x → y. Prints: frames da tela do Loom nos momentos em que uma referência visual é mostrada, nomeados bNN_descricao_HH-MM-SS.jpg na pasta frames/.",
+ "frames_dir": "VSL-Pipeline-LOOM-MARCOS/frames",
+ "img_width_in": 4.5,
+ "sumario": [
+  {
+   "bloco": "ABERTURA",
+   "inicio": "0:02",
+   "fim": "1:21",
+   "descricao": "Conceito da VSL (GOAT HONEY RITUAL). Proposta: bode espanhol (chifres acentuados), mecanismo do cimento (já usado na oferta do touro), mecanismo da solução e bloco de oferta mais fortes; mistura baking soda + mel como visual central de tudo (takes, estoques, mistura cremosa na tigela)."
+  },
+  {
+   "bloco": "AVATAR PRINCIPAL",
+   "inicio": "1:22",
+   "fim": "3:02",
+   "descricao": "Mark Hyman (expert central). Vídeo de referência do Hyman gerado em IA; cenário como o Dr. Attia na Soda Horse (consultório com estátua ao fundo), ele no microfone e mais distante; editor deve mandar confirmar a geração antes de fazer a VSL inteira."
+  },
+  {
+   "bloco": "PERSONAGENS DA WEBSÉRIE",
+   "inicio": "3:02",
+   "fim": "5:07",
+   "descricao": "Al Pacino (emotion) e Noor (esposa, 28). Al Pacino gerado no sofá da casa dele olhando para o Hyman (frame de entrevista); Hyman gerado no mesmo sofá com outra roupa; Noor (28 anos, referência visual) entrevistada em outra sala conversando com o Hyman."
+  },
+  {
+   "bloco": "LEAD 01",
+   "inicio": "5:08",
+   "fim": "13:31",
+   "descricao": "Cozinha + receita (Core/Kendra/Juliana). Referência exata (ela na cozinha com os ingredientes); 3 tentativas de geração (rosto igual sem nada com ingredientes → olhando para frente → pior caso com roupa); ações da micro-lead validada: jogar baking soda, mel, misturar, segurar a colher, colocar de lado; Kendra e Juliana em pé na cerca do curral (não repetir a pegada do Texas), passar a mistura na boca do cara, marcar por cima da calça, celular com DMs no Instagram, antes/depois com régua (6 → 9 polegadas), zoom na marcação."
+  },
+  {
+   "bloco": "LEAD 02",
+   "inicio": "13:32",
+   "fim": "17:56",
+   "descricao": "Poltrona, Tucker Carlson, Fox Breaking News, Corey e a live do ônibus. Cara mais velho na poltrona com ela (trocar a roupa, rosto exato, ele de cueca); Tucker Carlson em podcast; apresentador de jornal com banner 'Breaking News Alert' da Fox; não é a Brandi, é a Corey na mesma cozinha com os ingredientes; take com olho aberto; mockup de live do ônibus (estilo mockup de Instagram/TikTok das VSLs de emagrecimento); repete as ações da receita da lead 1."
+  },
+  {
+   "bloco": "LEAD 03",
+   "inicio": "17:56",
+   "fim": "18:47",
+   "descricao": "Hyman no podcast + depoimentos. Hyman no podcast; depoimento do George Clooney gerado na cozinha fazendo a receita; cara normal sentado com a mulher dormindo e tigela de vidro na cabeceira; depoimento de mulher normal (nome no doc, buscar b-rolls no Google); volta para o Hyman e fecha."
+  },
+  {
+   "bloco": "PADRÃO DE QUALIDADE DA LEAD",
+   "inicio": "18:48",
+   "fim": "22:54",
+   "descricao": "exemplo da Soda Horse validada. 30 segundos de uma lead validada: efeitos sonoros, transições, trilha (beats), geração de atores muito real, receita mastigável (gente comendo a mistura), blur ao fundo, estilo de lettering, legenda exata, b-rolls do rancho com bode espanhol (receita na comida do bode); tudo muito chamativo visualmente, inclusive depoimentos."
+  },
+  {
+   "bloco": "BACKGROUND",
+   "inicio": "22:55",
+   "fim": "27:15",
+   "descricao": "Autoridade do Hyman. Trilha para cima/empolgante; estoques de universidade, podcast, Hyman com famosos; tags laranja = referências de b-rolls de edição, tags verdes = referências visuais exatas; vídeos do Dr. Mark Hyman sobre testosterona/força/treino em casa, longevidade e antienvelhecimento; conexão com famosos (Harrison, George Clooney, Al Pacino); sempre mostrar mel (mais avermelhado) + baking soda juntos; depoimento 1, outro cara e Joe Rogan olhando para a câmera; comentários no doc compartilhados com o editor."
+  },
+  {
+   "bloco": "BACKGROUND",
+   "inicio": "27:15",
+   "fim": "31:02",
+   "descricao": "História do Al Pacino. Confissão de um homem (Pacino à direita, Hyman à esquerda na casa); cenas da história com a Noor (olhando o relógio, roupa dela descrita); b-rolls de testosterona/pâncreas; estoques do Oscar, 2 Emmys e 2 Tonys; ele triste na rua; mistura baking soda + mel; fundo do poço com o personal trainer (ela chegando em casa); receita na bancada (tigela de vidro, come e sobe a escada — 'look how calm the bastard is'); câmera da escada; roupa trocada; manchetes reais do divórcio; ela com as malas; fazenda de bode."
+  },
+  {
+   "bloco": "INVESTIGAÇÃO E PROVAS",
+   "inicio": "31:03",
+   "fim": "33:16",
+   "descricao": "Glifosato, jornais e o bode espanhol. Preto e branco com letras branco/vermelho nas situações constrangedoras; pesquisador de jaleco; Roundup e listas de glifosato bem provados; trecho do Robert F. Kennedy; material vazado; jornais sempre atuais (The Wall Street Journal), revistas, rosto borrado; bode espanhol de chifre comprido; Sandeep Gupta com certificação e bodes ao fundo; estoques de ração e variedade do bode (trocar o cavalo pelo bode)."
+  },
+  {
+   "bloco": "MECANISMO DO PROBLEMA",
+   "inicio": "33:17",
+   "fim": "35:40",
+   "descricao": "Market test (Mark Hyman). Seguir à risca as referências: jornais e revistas sobre colágeno 3, corpo cavernoso por dentro, microscópio, banners, post-its; cimento dentro da esponja (versão do Secom ficou mais forte que a Soda Horse); estoques de carne/comida com glifosato; esponja esquerda x direita; prova dos 60% de cimento; revistas dos casos do México e da Alemanha; b-roll de cimento com glifosato altíssimo; Viagra, testosterona e TRT."
+  },
+  {
+   "bloco": "MECANISMO DA SOLUÇÃO",
+   "inicio": "35:40",
+   "fim": "37:31",
+   "descricao": "Gupta na fazenda, mel, chifre e óxido nítrico. Revelação do Gupta na fazenda de bodes falando para a câmera ('pensa comigo'); estoques de cavalo adaptados para bode; mel; planta de cárie/cariína; chifre e colágeno; exame dia 1 x dia 30; trocar 'Lexicon/Longhorn Pilot' por 'Hill Country Pilot' (voluntário 22); outros ingredientes; medidor de óxido nítrico (primeira medição rosa claro, toma Pycnogenol, segunda medição vermelho escuro)."
+  },
+  {
+   "bloco": "PRODUTO",
+   "inicio": "37:31",
+   "fim": "39:09",
+   "descricao": "Ligação do Al Pacino, Gerardo no quarto e o scan do Hyman. Al Pacino 'por ligação' (estoque de ligação + voz); Gerardo no quarto de frente para a câmera (depoimento); prova = exame/scan do Mark Hyman; geração da mulher (nome no doc) se gravando com o celular ou pau de selfie; b-rolls congruentes (parecidos com Al Pacino: não moreno, não tatuado); prova do bode no lugar do cavalo."
+  },
+  {
+   "bloco": "DEPOIMENTOS",
+   "inicio": "39:09",
+   "fim": "42:12",
+   "descricao": "Vídeo caseiro, teste da tira e Dr. Raymond (Caldwell Biosciences). Depoimento 1 caseiro com o mesmo cara do vídeo 1 deitado; teste da tira/elástico (dia 1 solto, dia 5 apertando, dia 7 estourou); depoimento 2 com avatar e roupa idênticos; depoimentos sempre com b-rolls em quadradinhos dividindo a tela; Dr. Raymond com logo da Caldwell Biosciences no bolso; estoques de credibilidade/estudos; cara falando no centro com nome e idade ('vou tentar o truque do mel e do bode'), cara mais velho, vídeo passando embaixo."
+  },
+  {
+   "bloco": "BIG OFFER",
+   "inicio": "42:12",
+   "fim": "44:26",
+   "descricao": "Frasco, laboratório, celebridades com potes e abertura do Al Pacino. Começa com ele segurando o frasco para a câmera (histórias da indústria/fábrica); muitos b-rolls; laboratório com potes de Aeropulse; Dr. Oz com pote na mão; atriz exata com 2 potes; Mick Blue com pote; 6 potes na mesa do Harrison; Van Damme com pote; cara velho e ela; doutora com pote; 6 potes focados; grade de homens com pote; DMs enviadas ao Mark; abertura com Al Pacino anunciando promoção na casa dele com os potes na mesa (olhando para a câmera, estilo Elon); b-rolls da viagem/iate."
+  },
+  {
+   "bloco": "MOCKUPS, BÔNUS E PREÇO",
+   "inicio": "44:28",
+   "fim": "45:44",
+   "descricao": "Mockups com qualidade maior (os atuais parecem CD); John segurando o pote; bônus com referência e estilo base universais; duas mulheres revezando na copy; Hyman com paciente no laboratório; mockups dos bônus com preço: R$3.997, 'não mais de R$3.757'."
+  },
+  {
+   "bloco": "CLOSE",
+   "inicio": "45:44",
+   "fim": "46:38",
+   "descricao": "Depoimento final, Al Pacino fora de casa e Hyman. Depoimento final; close-up do Al Pacino direto para a câmera em outro cômodo/fora de casa (jardim, mesa com os frascos); Hyman com o último depoimento; vídeos de b-rolls nas cenas; cerca de 3 potes de Aeropulse na mesa com ela falando."
+  },
+  {
+   "bloco": "FAQ",
+   "inicio": "46:38",
+   "fim": "47:30",
+   "descricao": "Pop-up de mensagem no Instagram. Partes em negrito como pop-up/mockup de Instagram no rodapé (foto de perfil do cara mandando mensagem para o Hyman: 'olha essa mensagem que eu recebi'); ele responde em seguida de frente no podcast; encerramento ('qualquer dúvida me chamem e bora para cima')."
+  }
+ ],
+ "blocos": [
+  {
+   "n": 1,
+   "titulo": "ABERTURA — Conceito da VSL (GOAT HONEY RITUAL)",
+   "inicio": "0:02",
+   "fim": "1:21",
+   "mini": [
+    {
+     "inicio": "0:02",
+     "fim": "0:56",
+     "prints": [
+      {
+       "ts": "0:20",
+       "legenda": "Google Doc 'Copy VSL 8D — Goat Honey Ritual', seção Lead 01: referência visual da atriz na cozinha com baking soda e mel na bancada",
+       "arquivo": "b01_doc_lead01_referencia_cozinha_ingredientes_00-00-20.jpg"
+      },
+      {
+       "ts": "0:56",
+       "legenda": "Lead 01: mesma referência (mistura cremosa na tigela, pote de mel e baking soda) — 'visual central de toda a VSL'",
+       "arquivo": "b01_doc_lead01_mistura_tigela_00-00-56.jpg"
+      }
+     ],
+     "paras": [
+      {
+       "ts": "0:02",
+       "texto": "Bora lá, basicamente essa proposta da VSL é basicamente focar muito em goat, né, que é basicamente o body. Só que não é qualquer body, é o body espanhol. Tem uma diferença que ele tem basicamente uns chifres mais acentuados ali. Então a ideia seria basicamente ter o mecanismo que a gente já roda ali que é o mecanismo do cimento, que já foi feito, por exemplo, na oferta do touro."
+      },
+      {
+       "ts": "0:34",
+       "texto": "Só que a questão do mecanismo da solução é um pouco diferente, o bloco de oferta é um pouco mais forte. E a ideia principal também é a mudança de ingredientes, combinando os ingredientes, que seria o quê? Seria basicamente o baking soda com mel, né? Então, como vocês podem ver aqui, tem basicamente o baking soda com mel e a mistura ali na tigela."
+      }
+     ]
+    },
+    {
+     "inicio": "0:56",
+     "fim": "1:21",
+     "prints": [
+      {
+       "ts": "1:00",
+       "legenda": "Lead 01: pacote de baking soda, mel e mistura cremosa — 'tudo que forem fazer de mistura, estoque, vídeo e takes é isso'",
+       "arquivo": "b01_doc_lead01_ingredientes_chaves_takes_00-01-00.jpg"
+      }
+     ],
+     "paras": [
+      {
+       "ts": "0:56",
+       "texto": "Então esse é o visual central de toda a oferta, de toda a VSL. Então, por exemplo, tudo que vocês forem fazer de mistura, de estoque, de vídeo, de takes ali, é basicamente focado em pacote de baking soda, mel, e essa mistura aqui meio cremosa ali e tal. Então, por exemplo, para tudo que vocês forem fazer vai ser isso. Então vai ser basicamente chaves."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "AVATAR PRINCIPAL — Mark Hyman (expert central)",
+   "inicio": "1:22",
+   "fim": "3:02",
+   "mini": [
+    {
+     "inicio": "1:22",
+     "fim": "2:13",
+     "prints": [
+      {
+       "ts": "1:40",
+       "legenda": "Seção Background Story: Mark Hyman gerado em IA (referência verde) + referência vermelha 'apenas referência, não usar essa imagem' com quadros ao fundo",
+       "arquivo": "b02_doc_background_story_mark_hyman_gerado_00-01-40.jpg"
+      },
+      {
+       "ts": "2:13",
+       "legenda": "Vídeo da VSL Soda Horse aberto no Drive: Dr. Attia no microfone com estátua e estante ao fundo (cenário a replicar para o Hyman)",
+       "arquivo": "b02_soda_horse_dr_attia_consultorio_00-02-13.jpg"
+      }
+     ],
+     "paras": [
+      {
+       "ts": "1:22",
+       "texto": "O avatar principal da VSL vai ser o Hyman, né? Eu vou passar ali explicando ali as leads depois, mas falando sobre os centros, né, da VSL, seria o Hyman, Mark Hyman. Ele, eu basicamente peguei esse vídeo aqui dele nesse ângulo para utilizar, só que eu gerei aqui na IA. Obviamente ficou muito ruim, mas como se tivesse uns quadros ali atrás, sabe?"
+      },
+      {
+       "ts": "1:49",
+       "texto": "Se vocês forem pegar a VSL do Soda Horse, o Dr. Attia, ele tá atrás. Deixa eu só ver se eu consigo carregar aqui rapidinho para mostrar para vocês. Mas o Dr. Attia, ele tem basicamente várias coisas ali atrás, sabe? Tipo, tem uma estátua, tem um negócio como se tivesse no consultório dele, sabe?"
+      }
+     ]
+    },
+    {
+     "inicio": "2:13",
+     "fim": "3:02",
+     "prints": [
+      {
+       "ts": "2:40",
+       "legenda": "Background Story: referência do Hyman com lettering 'You're Eating Yourself' e take dele falando ao microfone",
+       "arquivo": "b02_doc_hyman_youre_eating_yourself_00-02-40.jpg"
+      }
+     ],
+     "paras": [
+      {
+       "ts": "2:13",
+       "texto": "Então, tipo, a ideia seria manter isso. Para essa VSL. Não, não ele sentado ali e tal, mas ele no microfone, né, como se tivesse basicamente com uma sala ali trabalhada atrás dele, né, pegando ele um pouco mais distante ali também. Então seria, seria basicamente isso aí para geração do avatar."
+      },
+      {
+       "ts": "2:36",
+       "texto": "Não usar essa imagem, tá? Pega esse vídeo aqui, vê ali os takes dele e tal, e faz a geração por aqui. Me confirma antes, eu peço para o editor me confirmar antes, a pessoa que vai gerar, né, no caso o editor que vai gerar, para ver como é que ficou, para ver se eu mando refazer ou não, para só para ver se ficou legal antes de gerar toda a VSL com esse cara."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "PERSONAGENS DA WEBSÉRIE — Al Pacino (emotion) e Noor (esposa, 28)",
+   "inicio": "3:02",
+   "fim": "5:07",
+   "mini": [
+    {
+     "inicio": "3:02",
+     "fim": "4:16",
+     "prints": [
+      {
+       "ts": "3:20",
+       "legenda": "Al Pacino sentado no sofá (fundo de estúdio) — referência para gerar na casa dele olhando para o Hyman",
+       "arquivo": "b03_doc_al_pacino_sofa_estudio_00-03-20.jpg"
+      },
+      {
+       "ts": "4:00",
+       "legenda": "Hyman com outra roupa no sofá e Al Pacino: os dois no mesmo sofá, frame de entrevista",
+       "arquivo": "b03_doc_hyman_e_pacino_sofa_conversa_00-04-00.jpg"
+      }
+     ],
+     "paras": [
+      {
+       "ts": "3:02",
+       "texto": "Beleza, então o seguinte, o expert central da VSL é esse, no cenário central é esse. Outra parada é o cara da emotion vai ser o Al Pacino. Então a gente tem um Al Pacino aqui sentado no sofá com essa roupa. Então só que aqui é um estúdio, certo? O background aqui é um estúdio."
+      },
+      {
+       "ts": "3:25",
+       "texto": "Então a gente vai fazer o seguinte, eu peço que vocês peguem essa foto em alta qualidade, gere ele no sofá da casa dele sentado e obviamente com esse olhar aqui, né, olhando para o, como se eu o X tivesse ali no mesmo ambiente que ele ali conversando com ele, sacou? Então a gente vai fazer essa parada aqui."
+      },
+      {
+       "ts": "3:47",
+       "texto": "O Hyman também tem que ser gerado nessa, nesse ângulo, como se tivesse dentro da casa conversando com ele aqui, né? Então você percebe que ele foi gerado com outra roupa no sofá ali, enquanto como se fosse uma conversa caseira, né, os dois conversando ali. E a mesma coisa Al Pacino. Então os dois vão estar no mesmo local Na mesma, na mesma casa, no mesmo sofá ali, só que um olhando para o outro, conversando ali e tal, nesse frame de entrevista, como se fosse de entrevista."
+      }
+     ]
+    },
+    {
+     "inicio": "4:17",
+     "fim": "5:07",
+     "prints": [
+      {
+       "ts": "4:17",
+       "legenda": "Referência de conversa caseira no sofá (dois personagens frente a frente) + comentário do Marcos na lateral",
+       "arquivo": "b03_doc_casal_sofa_conversa_caseira_00-04-17.jpg"
+      },
+      {
+       "ts": "4:40",
+       "legenda": "Noor (esposa do Al Pacino, 28 anos): referência visual ao lado de mulher loira — entrevistada em outra sala",
+       "arquivo": "b03_doc_noor_esposa_pacino_28_00-04-40.jpg"
+      }
+     ],
+     "paras": [
+      {
+       "ts": "4:17",
+       "texto": "Bom, aqui eu coloquei a mulher do Al Pacino, que é basicamente a Noor, que ela tem 28. Vai ter a parte que ele vai entrevistar ela, então vai ser a mesma coisa, só que em outra sala, obviamente, porque não é a mesma casa. Outra sala e como se ela tivesse aqui. Então atenção, ela é uma menina de 28, então tipo, ela não é uma mulher mais velha."
+      },
+      {
+       "ts": "4:42",
+       "texto": "Então usem essa referência, inclusive visual aqui, para fazer isso, tá? E fazer a geração dela ali conversando também com o Mark Hyman, tá? Que vai estar do lado ali conversando com ela. Então essas vão ser as duas principais gerações ali, né, para as partes principais da websérie. Voltando agora para a lead, que é onde eu vou focar mais, porque basicamente tem o maior trabalho."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "titulo": "LEAD 01 — Cozinha + receita (Core/Kendra/Juliana)",
+   "inicio": "5:08",
+   "fim": "13:31",
+   "mini": [
+    {
+     "inicio": "5:08",
+     "fim": "6:00",
+     "prints": [
+      {
+       "ts": "5:08",
+       "legenda": "Lead 01 — referência exata: atriz de lingerie vermelha na cozinha com os ingredientes na frente",
+       "arquivo": "b04_doc_lead01_inicio_referencia_exata_00-05-08.jpg"
+      },
+      {
+       "ts": "5:40",
+       "legenda": "Lead 01: prints 1, 2 e 3 (duas atrizes, pote de mel e baking soda) — tentativas de geração do mesmo rosto",
+       "arquivo": "b04_doc_lead01_prints_1_2_3_kendra_juliana_00-05-40.jpg"
+      }
+     ],
+     "paras": [
+      {
+       "ts": "5:08",
+       "texto": "A lead basicamente vai necessitar de algumas gerações, assim como a gente tava fazendo antes, né? Bom, para lead 1 eu coloquei aqui a referência exata que vai ser usada. Então tipo, vai ser ela aqui com essa roupa na cozinha ali e tal, e esses ingredientes bem aqui na frente. Certo, aqui vem a questão que eu tava falando com o Derek."
+      },
+      {
+       "ts": "5:34",
+       "texto": "Eu tirei basicamente o print 1, o print 2 e o print 3. Se a gente conseguir fazer o mesmo rosto sem nada aqui e com esses ingredientes aqui, vai ser o melhor dos casos para a lead inteira, sacou? Então para essa parte dela falando seria perfeito. Se a gente conseguir fazer isso aqui, que é o mais top nível, com esses ingredientes, com o rosto aparecendo, com tudo, tudo isso aqui visual, vai ser ótimo."
+      }
+     ]
+    },
+    {
+     "inicio": "6:00",
+     "fim": "7:09",
+     "prints": [
+      {
+       "ts": "6:20",
+       "legenda": "Comentário do Marcos no doc: 'primeiramente gerar rosto igual com ingredientes na bancada falando'",
+       "arquivo": "b04_doc_lead01_comentario_primeiramente_gerar_rosto_00-06-20.jpg"
+      },
+      {
+       "ts": "7:00",
+       "legenda": "Ordem das tentativas: sem nada com ingredientes → olhando para frente → pior caso com roupa",
+       "arquivo": "b04_doc_lead01_tres_tentativas_de_geracao_00-07-00.jpg"
+      }
+     ],
+     "paras": [
+      {
+       "ts": "6:00",
+       "texto": "E aí não é para fazer uma com outra, com outra, com outra. É para fazer, é para fazer a primeira tentativa com essa aqui, certo? Até coloca aqui, ó: primeiramente gerar rosto igual com ingredientes na bancada falando. Então, tipo, primeiramente seria gerar e tal."
+      },
+      {
+       "ts": "6:23",
+       "texto": "Deu certo. Faz para parte dela toda. Então, tipo, essa daqui vai ser basicamente a primeira tentativa de vocês para geração, certo? Então, tipo, vai ser basicamente isso. Se não der certo, tentam fazer aqui, né, obviamente olhando para frente e tal, com os ingredientes aqui. Se não der certo, a gente vem para o pior dos casos, que seria assim, né, com roupa já."
+      },
+      {
+       "ts": "6:47",
+       "texto": "Então, com os ingredientes ali, então a gente vai tentar de trás para frente. No caso, seria os frames de geração ali. Se vocês quiserem essa imagem com qualidade, também me falem que eu consigo puxar para vocês aí. Beleza. Agora, sobre as ações que vão ter, né, porque essa que é a questão, é não é só gerar e ela não vai ficar só parada ali, ela vai fazer algumas coisas."
+      }
+     ]
+    },
+    {
+     "inicio": "7:10",
+     "fim": "8:04",
+     "prints": [
+      {
+       "ts": "7:40",
+       "legenda": "Micro-lead validada: atriz jogando baking soda na vasilha (ação 1 durante a fala)",
+       "arquivo": "b04_doc_lead01_acoes_baking_soda_tigela_00-07-40.jpg"
+      },
+      {
+       "ts": "8:04",
+       "legenda": "Ações seguintes: joga o mel, mistura, segura a colher e coloca de lado (mesmo rosto, mesma cena) + comentário",
+       "arquivo": "b04_doc_lead01_acoes_mel_misturar_colher_00-08-04.jpg"
+      }
+     ],
+     "paras": [
+      {
+       "ts": "7:10",
+       "texto": "Aqui a gente tem uma micro-lead que validou para caralho aqui dentro, que é basicamente Core falando, fazendo a receita, né. Então ela pega ali, tem uns ingredientes na bancada que nem eu mostrei para vocês. Primeira ação, primeira ação basicamente é jogando o baking soda dentro da vasilha aqui, porque esse toque tá cobrindo ali, mas é pegando baking soda, jogando em cima da vasilha ali."
+      },
+      {
+       "ts": "7:34",
+       "texto": "Depois ela pega e joga o mel assim. Olha só como o rosto fica igual, a cena fica igual. E depois mistura, e depois segura a colher, e depois coloca de lado. Então tipo, tem essas cenas durante a fala, certo? São as ações durante a fala. Eu especifiquei aqui tudinho. Então se a gente conseguir fazer novamente com isso daqui, né, nesse frame, com esse mesmo rosto e assim, sem nada, a gente consegue o melhor dos casos."
+      }
+     ]
+    },
+    {
+     "inicio": "8:04",
+     "fim": "9:20",
+     "prints": [
+      {
+       "ts": "8:40",
+       "legenda": "Take de referência da atriz bebendo (gerar nesse cenário com essa roupa) + comentário lateral",
+       "arquivo": "b04_doc_lead01_take_referencia_para_gerar_00-08-40.jpg"
+      },
+      {
+       "ts": "9:20",
+       "legenda": "Avatar da lead 1 (Kendra, biquíni roxo) e referência das duas em pé na cerca do curral com chapéu",
+       "arquivo": "b04_doc_lead01_kendra_biquini_roxo_cerca_curral_00-09-20.jpg"
+      }
+     ],
+     "paras": [
+      {
+       "ts": "8:04",
+       "texto": "Então assim como eu falei com o Derek, a gente vai tentar fazer assim e vai ver se é possível. Se não for possível, tenta fazer assim e gerar as ações durante a parte que ela fala. Se não der certo, a gente faz assim. Entendeu? Que vai ser basicamente um pouco mais, né, tal, cobrindo tal. Mas acredito que em uma dessas três passe, certo? Então são essas ações que vai ter durante esse bloco que ela tiver falando."
+      },
+      {
+       "ts": "8:29",
+       "texto": "Então eu tô simplesmente aqui nomeando tudinho, explicando como é que vai ser, certo? Então tipo, vai ser aqui, você vai fazer tal ação aqui, e eu tô colocando aqui o take como referência para gerar, só que nesse cenário aqui com essa trecha. Então basicamente seria isso. Aqui a gente vem, que inclusive eu acabei não colocando, mas eu vou colocar aqui para vocês quem é, né, esse avatar aqui."
+      },
+      {
+       "ts": "8:53",
+       "texto": "Só pegar aqui rapidão para colocar ao vivo. Aí seria basicamente aqui, ó, deixa eu colocar aqui do lado. Será daqui, só vocês darem um Googlezinho ali também para puxar. Mais e mais e tal. E aí eu coloquei na referência, né? Então vai ter tipo basicamente ela e a Edilene também."
+      }
+     ]
+    },
+    {
+     "inicio": "9:20",
+     "fim": "10:18",
+     "prints": [
+      {
+       "ts": "10:00",
+       "legenda": "As duas lado a lado (esquerda = Kendra fala, direita = Juliana acompanha) com tigela e ingredientes",
+       "arquivo": "b04_doc_lead01_duas_atrizes_lado_a_lado_cerca_00-10-00.jpg"
+      }
+     ],
+     "paras": [
+      {
+       "ts": "9:20",
+       "texto": "Vou pegar aqui, acabei não separando, mas aí eu já faço agora aqui. Pronto, já vou colocar aqui também. Então basicamente vai ser as duas ali. Então vai ser basicamente essas duas como se tivesse aqui, ó, como se tivesse esse mesmo frame, né?"
+      },
+      {
+       "ts": "9:51",
+       "texto": "Tipo, essa aqui fica na esquerda, essa daqui fica na direita. Essa pegada aqui foi do Texas, eu não quero repetir isso. Então até para ter uma congruência diferente ali, mas eu coloquei em pé na cerca do curral. Tá, obviamente as roupas vai ficar meio que a caráter, né, tipo vai ter esse chapéu e tal, só que vai ser diferente desse. Então a gente não vai recriar a imagem, mas deixar parecido e tal com essas imagens mais visuais."
+      }
+     ]
+    },
+    {
+     "inicio": "10:19",
+     "fim": "11:40",
+     "prints": [
+      {
+       "ts": "10:40",
+       "legenda": "Referência ampliada da Kendra (biquíni roxo) para geração",
+       "arquivo": "b04_doc_lead01_kendra_referencia_ampliada_00-10-40.jpg"
+      },
+      {
+       "ts": "11:20",
+       "legenda": "Cena: ela passa a mistura na boca do cara mais velho; depois marca por cima da calça (zoom)",
+       "arquivo": "b04_doc_lead01_cara_velho_pao_mistura_boca_00-11-20.jpg"
+      },
+      {
+       "ts": "11:40",
+       "legenda": "Kendra pega o celular e mostra os DMs dos caras no Instagram enviando vídeos",
+       "arquivo": "b04_doc_lead01_celular_dm_instagram_00-11-40.jpg"
+      }
+     ],
+     "paras": [
+      {
+       "ts": "10:19",
+       "texto": "A ideia é fazer sem nada também, sem nada, tipo só alguma coisa cobrindo ali, mas daí é fazer sem nada. Deixa eu pegar aqui. Só um minuto. E aí basicamente a gente tem as duas aqui, né? Até trocar aqui, ficar mais parecido."
+      },
+      {
+       "ts": "10:42",
+       "texto": "Então você basicamente, essa que vai falar aqui vai ser a Kendra, então ela vai falar e a outra vai só acompanhar. Então tipo, tem essa, tem isso daqui que ela vai ficar um ali e tal com a tigela Tá, aí ela vai, aí a primeira, né, a da esquerda aqui vem, pega a mistura e passa na boca do cara. Mesma coisa, o cara velho com o pão e tal. E aí a Kendra lá do cara, tá, fim da frase."
+      },
+      {
+       "ts": "11:08",
+       "texto": "Aí ela pega e tal por cima, por cima da calça ali e fala que olha só como tá, entendeu? Aí tipo fica marcando ali, o cara fica ali do lado dela, né, tal. Só que com o cara do lado dela ali, ó, coloquei a referência, né. Da primeira aqui, que seria essa aqui, com o cara ali do lado, pá, e os ingredientes na frente. Aí ela vem e fala, pá, aí aqui já tem outra cena, a da esquerda em pé na cerca ao lado da direita, com os ingredientes na bancada, e ao fundo o cara num feno."
+      }
+     ]
+    },
+    {
+     "inicio": "11:40",
+     "fim": "12:37",
+     "prints": [
+      {
+       "ts": "12:20",
+       "legenda": "Estoques dela com o marido: antes/depois com régua (cara comum, 6 → 9 polegadas) e atrizes impressionadas",
+       "arquivo": "b04_doc_lead01_antes_depois_regua_6_para_9_00-12-20.jpg"
+      }
+     ],
+     "paras": [
+      {
+       "ts": "11:40",
+       "texto": "Então basicamente vai pegar essas duas aqui, né, que vai ser as duas, e o cara ali atrás, como se tivesse um feno, e o cara lá atrás. Sabe, algo que a gente já chegou a fazer na websérie do Touro ali. Aí ela pega aqui o celular, né, que a Kendra, a Kendra é da esquerda, ela pega o celular, mostra ali, tá, o ADM dos caras ali no Instagram enviando vídeos."
+      },
+      {
+       "ts": "12:06",
+       "texto": "Aí aqui a gente tem estoques dela com o marido, né, então tem uns takes ali, então pega essas cenas visuais também, colocar estoques de antes e depois com o cara medindo na régua. Que é um cara comum, é um cara comum, normal guy, que antes tinha 6 íntimas e agora já vai ter 9 íntimas. Então tipo, tem essa, esse antes e depois, deixar isso visualmente provado aqui de estoque de outras atrizes e tal pegando lá nele impressionadas e tal."
+      }
+     ]
+    },
+    {
+     "inicio": "12:37",
+     "fim": "13:31",
+     "prints": [
+      {
+       "ts": "13:00",
+       "legenda": "Segunda atriz (Juliana, direita) passa a falar com os ingredientes; a outra ao fundo com o cara",
+       "arquivo": "b04_doc_lead01_segunda_fala_juliana_00-13-00.jpg"
+      }
+     ],
+     "paras": [
+      {
+       "ts": "12:37",
+       "texto": "Então fazer um estoque assim, todas elas conhecidas, então tipo fazendo esse essa amostragem. E aqui entra a segunda, aqui a segunda já fala, né? Então tipo, agora não vai ser mais ela falando, vai ser a segunda, a da direita no caso, que vai ser essa aqui, ó. Ela vai falar, então vai ser a Juliana aqui com os ingredientes aqui."
+      },
+      {
+       "ts": "13:06",
+       "texto": "Aí tá, ela vem e fala isso, aí a outra vai e fala E aqui ao fundo vai ser o, a outra já vai estar lá atrás com o cara passando em cima e tal, passando só, passando só a mão ali e tal. Então tipo em cima disso aqui. E aí ela vem e continua falando, né, da esquerda até o final ali."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "titulo": "LEAD 02 — Poltrona, Tucker Carlson, Fox Breaking News, Corey e a live do ônibus",
+   "inicio": "13:32",
+   "fim": "17:56",
+   "mini": [
+    {
+     "inicio": "13:32",
+     "fim": "14:30",
+     "prints": [
+      {
+       "ts": "13:32",
+       "legenda": "Lead 02: cara mais velho na poltrona com ela (trocar a roupa pela referência ao lado, ele de cueca)",
+       "arquivo": "b05_doc_lead02_inicio_cara_velho_poltrona_00-13-32.jpg"
+      },
+      {
+       "ts": "14:20",
+       "legenda": "Lead 02: Tucker Carlson em podcast + referência da atriz na mesma cena",
+       "arquivo": "b05_doc_lead02_tucker_carlson_podcast_00-14-20.jpg"
+      }
+     ],
+     "paras": [
+      {
+       "ts": "13:32",
+       "texto": "E aí vem, falei para dar um zoom aqui na, quando ela fala que tá marcando ali. Então seria basicamente esse jogo de cenas e movimentos aí para essa lead 1, beleza? Na lead 2 a gente tem algo parecido, só que menos ações. Então a gente é mais de boa nisso. A primeira cena é a seguinte: tem, eu coloquei aqui um cara mais velho e a poltrona e tal com ela aqui, só que eu vou trocar essa roupa, eu vou colocar essa roupa aqui."
+      },
+      {
+       "ts": "14:05",
+       "texto": "Certo? Então tipo, não quero, eu quero exatamente assim, exatamente o rosto exatamente assim, certo? Aqui em cima do cara. E eu falei para tirar, para ele não tá com essa parada aqui, né? Tá só de cueca ali. E aí beleza. Aí mesma cena, mano, é recriar essa cena com ela aqui, com essa roupa aqui, aqui logicamente isso falando ali e tal, e o cara aqui com a carinha ali encostado e tal."
+      }
+     ]
+    },
+    {
+     "inicio": "14:30",
+     "fim": "15:21",
+     "prints": [
+      {
+       "ts": "15:00",
+       "legenda": "Apresentador de jornal (Fox) — colocar banner 'Breaking News Alert' embaixo",
+       "arquivo": "b05_doc_lead02_apresentador_fox_breaking_news_00-15-00.jpg"
+      }
+     ],
+     "paras": [
+      {
+       "ts": "14:30",
+       "texto": "Beleza. É isso aí, exatamente. Aqui eu coloquei o Tucker Carlson para dar um podcastzinho ali, pá. Aqui coloquei ela aqui, que vai ser exatamente assim, vai só deixar falando. Aqui eu coloquei referência do apresentador do jornal, que vai ser o— esqueci o nome desse cara aqui, mano, mas tá aqui o link. Então tipo, você consegue pegar a take dele ali, e é bom colocar tipo um banner ali embaixo, tá ligado?"
+      },
+      {
+       "ts": "14:57",
+       "texto": "Tipo Breaking News, Breaking News Alert, tipo separado assim, deixar claro que é da Fox. E aqui, aqui só para trocar, que eu esqueci de arrumar aqui, mas não vai ser a Brandi, vai ser a Corey. O que que eu fiz aqui seria basicamente isso aqui, ó, só subir para cá."
+      }
+     ]
+    },
+    {
+     "inicio": "15:21",
+     "fim": "16:13",
+     "prints": [
+      {
+       "ts": "15:40",
+       "legenda": "Não é a Brandi, é a Corey: mesma cozinha e ingredientes, trocando a roupa dela",
+       "arquivo": "b05_doc_lead02_corey_cozinha_ingredientes_00-15-40.jpg"
+      }
+     ],
+     "paras": [
+      {
+       "ts": "15:21",
+       "texto": "Pronto, então a gente vai ter essa mesma referência visual Certo? Com os ingredientes na bancada, com essa cozinha, só que trocando a roupa dela para essa. Simplesmente isso. Então a gente vai gerar a copy com essa referência visual e fazendo básica, e com essa, com esses ingredientes aqui, certo? E aí vem a parada aqui, vai repetir a mesma ação da lead 1 lá embaixo, tá?"
+      },
+      {
+       "ts": "15:48",
+       "texto": "Aqui nesse bloco ela basicamente vai ficar falando ali e tal. Então ela vai estar só falando ali. Então tipo, vai só falar para os ingredientes ali em cima. Depois vem mais um take dela com olho aberto ali e tal, nesse exato frame, né? E aqui, mano, é colocar como se fosse uma live, né, do ônibus."
+      }
+     ]
+    },
+    {
+     "inicio": "16:14",
+     "fim": "17:06",
+     "prints": [
+      {
+       "ts": "16:20",
+       "legenda": "Referência exata para a live do ônibus (câmera apoiada) — fazer mockup de live estilo Instagram/TikTok",
+       "arquivo": "b05_doc_lead02_atriz_live_onibus_mockup_00-16-20.jpg"
+      },
+      {
+       "ts": "17:06",
+       "legenda": "Marcos apaga a segunda referência e deixa só a da live do ônibus 'para não causar confusão'",
+       "arquivo": "b05_doc_lead02_live_onibus_referencia_unica_00-17-06.jpg"
+      }
+     ],
+     "paras": [
+      {
+       "ts": "16:14",
+       "texto": "Então tipo, deixar tipo como se tivesse no PC, sabe? Como se fosse um mockupzinho ali e tivesse rolando a live. Em tempo real. Sabe aquelas, aquelas, aqueles vídeos do emagrecimento, sabe, que tem, que é basicamente o cara ali, a mulher ali fazendo a receitinha e o negócio, os comentários subindo, os negócios lá, tipo aquele mockup do Instagram."
+      },
+      {
+       "ts": "16:44",
+       "texto": "E também tem um mockup que eles fizeram do TikTok, tipo o cara fazendo a receita ali, aí tem lá like, comentário, compartilhar, a descrição, várias pessoas reagindo, pessoa Enfim, tipo aquilo, só que fazer uma live do ônibus. Então tipo fazer como se fosse lá dentro, tá ligado? Aqui mesmo, como se tivesse câmera apoiada e tal, pegando aqui e lá falando, certo?"
+      }
+     ]
+    },
+    {
+     "inicio": "17:06",
+     "fim": "17:56",
+     "prints": [
+      {
+       "ts": "17:40",
+       "legenda": "Fim da lead 2: repete as ações da receita da lead 1 (baking soda, mel, mexer, colher de lado)",
+       "arquivo": "b05_doc_lead02_acoes_receita_repetidas_00-17-40.jpg"
+      }
+     ],
+     "paras": [
+      {
+       "ts": "17:06",
+       "texto": "Aí eu coloquei basicamente isso daqui como outra referência visual, mas eu quero exatamente essa, beleza? Exatamente. Eu vou até apagar essa aqui, deixar só essa para não causar confusão. E aí ela fala isso daqui durante essa live, beleza? Então eu coloquei aqui o mockup. Beleza. Aí aqui a gente vem para as mesmas ações da lead 1 que eu falei para vocês, que a gente tem aqui a lead 1."
+      },
+      {
+       "ts": "17:30",
+       "texto": "Aqui que tem dlead 1, sei, essas ações, né? Então aqui ela fala assim como nesse bloco, só com os ingredientes, só que ela vai começar a fazer as ações, né? Então vai começar a botar o baking soda, coloca o mel, mexe Pega a mistura com a colher e coloca de lado ali na mesa, né? O resto da cópia ali como se tivesse aqui, né?"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "titulo": "LEAD 03 — Hyman no podcast + depoimentos",
+   "inicio": "17:56",
+   "fim": "18:47",
+   "mini": [
+    {
+     "inicio": "17:56",
+     "fim": "18:47",
+     "prints": [
+      {
+       "ts": "18:08",
+       "legenda": "Lead 03: Hyman no podcast; depoimento do George Clooney gerado na cozinha fazendo a receita",
+       "arquivo": "b06_doc_lead03_hyman_podcast_george_clooney_00-18-08.jpg"
+      },
+      {
+       "ts": "18:40",
+       "legenda": "Depoimento de mulher normal (nome no doc) — buscar b-rolls no Google; volta para o Hyman e fecha",
+       "arquivo": "b06_doc_lead03_depoimento_mulher_normal_00-18-40.jpg"
+      }
+     ],
+     "paras": [
+      {
+       "ts": "17:56",
+       "texto": "Obviamente só ficou a colher de lado ali e tal, assim. Então seria basicamente isso aí para a lead 2. Para a lead 3 é mais tranquila. A lead 3 é o Hyman no podcast, tá? E aí basicamente eu quero que vocês sigam com isso. Aqui tem um depoimento do George Clooney. Eu falei para gerar ele na cozinha da casa fazendo a receita, então tipo um negócio muito orgânico."
+      },
+      {
+       "ts": "18:22",
+       "texto": "Aqui é um depoimento de um cara normal, gera ele sentado com a mulher dormindo do lado, né, o beijo só de tigela de vidro na cabeceira da cama, falando, né, dando depoimento dele ali e tal. E aqui depoimento de uma mulher normal, já coloquei aqui exatamente quem é, tá aqui o nome dela. Então tipo pesquisar vídeos e tal e colocar como B-rolls aqui nessa, nesse bloco também vale, só dá um Googlezinho que vocês acham ali de boa."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "titulo": "PADRÃO DE QUALIDADE DA LEAD — exemplo da Soda Horse validada",
+   "inicio": "18:48",
+   "fim": "22:54",
+   "mini": [
+    {
+     "inicio": "18:48",
+     "fim": "20:01",
+     "prints": [
+      {
+       "ts": "19:20",
+       "legenda": "Exemplo de lead validada (Soda Horse): Dr. Attia 'A spoonful of Baking Soda' — atenção a efeitos sonoros, transições e trilha",
+       "arquivo": "b07_soda_horse_lead_validada_spoonful_baking_soda_00-19-20.jpg"
+      }
+     ],
+     "paras": [
+      {
+       "ts": "18:48",
+       "texto": "E aí volta para o Hyman e fecha, fechou? Basicamente isso aí para lead 3. Então para as leads seria isso. E outra coisa, pessoal, que eu vou falar para vocês, acredito que isso é muito importante. Eu não quero deixar de ser, sabe, ficar pedindo refação para vocês em cima de algo que é básico."
+      },
+      {
+       "ts": "19:12",
+       "texto": "Beleza? E geralmente é meio chato de ficar refazendo. Então vou mostrar pra vocês aqui rapidinho o começo de uma lead pra vocês pegarem o feeling de uma lead validada ali, certo? De como é que ela é. Então dê uma olhada, eu vou deixar só 30 segundos aqui só pra vocês verem rapidinho como é que é. Presta atenção nos efeitos sonoros, transições, trilha."
+      },
+      {
+       "ts": "19:36",
+       "texto": "Então tipo, é isso que eu peço, cara. A lead, o começo da VSL, ela precisa ser muito impactante. Tanto em cenas quanto visual quanto sonoro quanto trilha, entendeu? Tudo isso. E sempre as trilhas são uns beats mais, mais, pô, me esqueci agora o nome, então tipo deixando bem, bem uma parada meio diferente, sabe?"
+      }
+     ]
+    },
+    {
+     "inicio": "20:01",
+     "fim": "21:00",
+     "prints": [
+      {
+       "ts": "20:20",
+       "legenda": "Soda Horse: b-roll do cara de roupão com a caixa de soda ('soda from Walmart') — geração de atores muito real",
+       "arquivo": "b07_soda_horse_broll_roupao_soda_walmart_00-20-20.jpg"
+      },
+      {
+       "ts": "21:00",
+       "legenda": "Soda Horse: copo com a mistura ('take it once in the morning') — receita mastigável, gente comendo a mistura",
+       "arquivo": "b07_soda_horse_copo_mistura_take_it_once_00-21-00.jpg"
+      }
+     ],
+     "paras": [
+      {
+       "ts": "20:01",
+       "texto": "Então tipo, vou colocar para vocês verem como é isso. A geração dos atores é muito real. Então vocês percebem que os ingredientes estão aqui, tem o ator ali realmente real, tipo, não é uma parada que parece desenho, sabe? A mulher ali. Então tipo, tem muito disso assim dentro dessa, dessa, dessa linha de validade."
+      },
+      {
+       "ts": "20:26",
+       "texto": "E outra coisa, essa foi a soda rosa validada aqui dentro da empresa. E aí o que acontece, a gente vai fazer essa receita mastigável. Então os cara vão estar comendo, vai estar pegando assim, vai estar comendo a mistura. É isso que eu quero para essa minha série sempre. Efeito sonoro, tem um blur ali atrás, uma parada estranha, sabe?"
+      }
+     ]
+    },
+    {
+     "inicio": "21:00",
+     "fim": "21:52",
+     "prints": [
+      {
+       "ts": "21:40",
+       "legenda": "Soda Horse: b-roll do rancho (receita na ração do cavalo) — fazer igual com o bode espanhol no curral",
+       "arquivo": "b07_soda_horse_broll_rancho_cavalo_racao_00-21-40.jpg"
+      }
+     ],
+     "paras": [
+      {
+       "ts": "21:00",
+       "texto": "Vou deixar o efeito muito massa. Letters, eu quero também tipo para essa VSL colocando esses estilos de lettering aqui. Efeito sonoro muito realçado, então tipo em todas as cenas, transições, sabe, tipo ter isso. A legenda eu quero exatamente essa aqui, é exatamente essa."
+      },
+      {
+       "ts": "21:27",
+       "texto": "Efeito sonoro também fazendo esses b-rolls dentro do rancho ali e tal. Como a gente vai usar o bode espanhol, então tipo geralmente são currais ali e tal que tem esses bodes. Então tipo dá uma pesquisada ali para ver como é, e eu coloquei algumas referências também ali. Mas é gerar isso na narração, colocando essa receita na comida do bode, bode comendo, enfim, faz essas gerações também."
+      }
+     ]
+    },
+    {
+     "inicio": "22:16",
+     "fim": "22:54",
+     "prints": [
+      {
+       "ts": "22:16",
+       "legenda": "Soda Horse: estilo de lettering e legenda a replicar ('bulge in your pants')",
+       "arquivo": "b07_soda_horse_lettering_bulge_in_your_pants_00-22-16.jpg"
+      },
+      {
+       "ts": "22:40",
+       "legenda": "Soda Horse: estoque de atriz com lettering ('he stays rock hard all night') — variedade visual chamativa",
+       "arquivo": "b07_soda_horse_atriz_he_stays_rock_hard_00-22-40.jpg"
+      }
+     ],
+     "paras": [
+      {
+       "ts": "22:16",
+       "texto": "Tudo é muito, muito chamativo visualmente, tá ligado? Então, tipo, Procurem estoques assim, procurem letterings assim, procurem efeitos sonoros assim, sabe? Tipo, a gente consegue ter uma variedade, sacou? Então, tipo, depoimentos também, por exemplo. Beleza, aí tá sobre, sobre isso."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "titulo": "BACKGROUND — Autoridade do Hyman",
+   "inicio": "22:55",
+   "fim": "27:15",
+   "mini": [
+    {
+     "inicio": "22:55",
+     "fim": "24:07",
+     "prints": [
+      {
+       "ts": "22:55",
+       "legenda": "Início do background da Soda Horse ('you need to know who I am') — trilha para cima, mais empolgante",
+       "arquivo": "b08_soda_horse_background_you_need_to_know_who_i_am_00-22-55.jpg"
+      },
+      {
+       "ts": "23:40",
+       "legenda": "Soda Horse: lettering 'LIKE THEY DID AT 25' sobre b-roll — efeito sonoro em toda letra",
+       "arquivo": "b08_soda_horse_lettering_like_they_did_at_25_00-23-40.jpg"
+      },
+      {
+       "ts": "23:54",
+       "legenda": "Soda Horse: preto e branco com lettering vermelho 'ROTTING INSIDE' (situações constrangedoras)",
+       "arquivo": "b08_soda_horse_lettering_rotting_inside_pb_00-23-54.jpg"
+      }
+     ],
+     "paras": [
+      {
+       "ts": "22:55",
+       "texto": "E sobre background também, já acompanhando, eu vou mostrar também para vocês depois de 10 segundos ali como é que é um início de background e como é que eu quero para essa VSL. A trilha, primeiramente, a trilha para cima, trilha mais empolgante, sacou? Sacou?"
+      },
+      {
+       "ts": "23:28",
+       "texto": "Então, tipo, tem estoques da universidade, tem estoques do podcast, tem estoques dele com os caras famosos. Então, tipo, é exatamente isso, passar o máximo de autoridade para o Hyman. Efeito sonoro sempre em letra, chamativo. Então beleza, aí sobre, sobre background é exatamente onde eu quero entrar, que é exatamente o que eu vou mostrar para vocês aqui."
+      }
+     ]
+    },
+    {
+     "inicio": "24:08",
+     "fim": "24:58",
+     "prints": [
+      {
+       "ts": "24:20",
+       "legenda": "Doc: estoques de autoridade (Stanford, Hyman com Al Pacino) — tags laranja = b-rolls de edição, verdes = referências exatas",
+       "arquivo": "b08_doc_background_stanford_pacino_hyman_00-24-20.jpg"
+      }
+     ],
+     "paras": [
+      {
+       "ts": "24:08",
+       "texto": "Que seria exatamente o que eu coloquei aqui, beleza? Eu descrevi exatamente isso, colocar estoques de autoridade ali em palanques, coisa de Stanford, no caso é o que eu falei ali. Coloquei alguns B-rolls. Todas essas tags laranjas aqui são referências visuais de B-rolls de edição, certo, que eu quero ali. E essas aqui em verde são referências visuais exatas."
+      },
+      {
+       "ts": "24:33",
+       "texto": "Então eu quero basicamente as mesmas, o mais próximo da referência que a gente tá utilizando, visual de edição ali que eu coloco. E as exatas são exatamente essas, sacou? Então, tipo, aqui eu vou até colocar outros estoques ali do Hyman, sabe? Porque o Dr. Mark Hyman, ele tem vários vídeos que ele fala sobre testosterona, sobre força muscular e tudo mais."
+      }
+     ]
+    },
+    {
+     "inicio": "24:59",
+     "fim": "25:54",
+     "prints": [
+      {
+       "ts": "25:14",
+       "legenda": "Busca no Google: vídeos do Mark Hyman treinando em casa / Instagram ('Choose your hard') — autoridade de quem cuida da saúde",
+       "arquivo": "b08_google_mark_hyman_treinos_instagram_00-25-14.jpg"
+      },
+      {
+       "ts": "25:54",
+       "legenda": "Depoimento com referência do Joe Rogan olhando para a câmera + outros depoimentos com link",
+       "arquivo": "b08_doc_background_joe_rogan_depoimento_00-25-54.jpg"
+      }
+     ],
+     "paras": [
+      {
+       "ts": "24:59",
+       "texto": "Então, e colocar isso visualmente é bem forte. Sabe, para usar. Tem vários vídeos dele ali usando, fazendo isso. Por exemplo, aqui, ó, eu vou colocar ali no— vou separar ali uma coisa, mas vocês podem pegar aqui basicamente ele fazendo esses treinos aqui em casa ali e tal, para trazer autoridade mesmo de, pô, que o cara que treina, o cara que cuida da saúde ali e tal."
+      },
+      {
+       "ts": "25:30",
+       "texto": "Então trazer essa força aí mais maior para o Hyman, tá? Pegar muito essa questão da vitalidade dele, de longevidade. Ele é um expert em antidade, antienvelhecimento. Então tipo trazer isso também é bem forte. E aí também essa conexão com famosos, né?"
+      }
+     ]
+    },
+    {
+     "inicio": "25:54",
+     "fim": "26:48",
+     "prints": [
+      {
+       "ts": "26:40",
+       "legenda": "Referência de lettering 'FOR THE GUY NEXT DOOR' e comentários do Marcos (estoques de fama, filme)",
+       "arquivo": "b08_doc_background_for_the_guy_next_door_00-26-40.jpg"
+      }
+     ],
+     "paras": [
+      {
+       "ts": "25:54",
+       "texto": "Então aqui fazer, por exemplo, com Harrison, fazer com George Clooney, fazer com, enfim, esses caras mais famosos ali, né, que obviamente com Al Pacino. Então é isso. E aí, obviamente, sempre quando eu falar de ritual do mel do bode, fazer esses estoques de mel curioso, um mel mais tornado, né, mais próximo ali do, um pouco do vermelho, junto com o baking soda."
+      },
+      {
+       "ts": "26:23",
+       "texto": "Então, tipo, não fazer sozinho, fazer essa congruência dos dois, da mistura, entendeu? É sempre importante falar isso. Aqui eu coloquei exatamente depoimento 1, tá aqui o link desse cara, esse outro cara, e aqui o Joe Rogan falando. Eu pedi para ele fazer, para fazer diretamente olhando para câmera, beleza? Então, cara, basicamente isso. Vocês vão ver vários comentários meus aqui, eu não vou passar para não ficar muito longo."
+      }
+     ]
+    },
+    {
+     "inicio": "26:50",
+     "fim": "27:15",
+     "prints": [
+      {
+       "ts": "27:11",
+       "legenda": "Comentários do Marcos compartilhados com o editor ao lado da referência 'FOR THE GUY NEXT DOOR'",
+       "arquivo": "b08_doc_background_comentarios_for_the_guy_next_door_00-27-11.jpg"
+      }
+     ],
+     "paras": [
+      {
+       "ts": "26:50",
+       "texto": "Mas tem muitos depoimentos meus, comentários meus aqui, tipo colocar estoques de fama dele e tal, do filme. Acompanhem sempre aqui, eu vou deixar para ele compartilhar com o editor. Então vocês vão ver ali basicamente, compartilhar com o editor. Então vocês vão ver basicamente esses comentários e vão fazer com base nisso."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "titulo": "BACKGROUND — História do Al Pacino",
+   "inicio": "27:15",
+   "fim": "31:02",
+   "mini": [
+    {
+     "inicio": "27:15",
+     "fim": "28:27",
+     "prints": [
+      {
+       "ts": "27:40",
+       "legenda": "Confissão de um homem: Pacino à direita e Hyman à esquerda na casa dele (frame de entrevista)",
+       "arquivo": "b09_doc_pacino_hyman_casa_confissao_00-27-40.jpg"
+      },
+      {
+       "ts": "28:00",
+       "legenda": "Cenas da história com a Noor (olhando o relógio); descrição de como gerar a roupa dela + comentários",
+       "arquivo": "b09_doc_pacino_noor_relogio_roupa_00-28-00.jpg"
+      },
+      {
+       "ts": "28:20",
+       "legenda": "Estoques do Al Pacino ganhando Oscar, Emmy e Tony; depois ele triste na rua",
+       "arquivo": "b09_doc_pacino_oscar_emmy_tony_00-28-20.jpg"
+      }
+     ],
+     "paras": [
+      {
+       "ts": "27:15",
+       "texto": "Eu coloquei muitas referências visuais no laranja aqui de como gerar para esses momentos. Então, tipo, aqui por exemplo ele falando da confissão de um homem e tal, e aí parece que ele aqui— aí basicamente a gente vai fazer que nem eu falei lá, fazer ele do lado direito, né, aqui e tal, e o cara do lado esquerdo na casa dele, assim como eu falei para vocês."
+      },
+      {
+       "ts": "27:39",
+       "texto": "Referências visuais das situações acontecendo enquanto ele vai falando da história lá do background. Gerar ele aqui com a Noor, aqui também olhando para o relógio. Vocês percebem que tem basicamente muito, muito estoque para gerar em cima disso. Aqui eu falei de como deve gerar a roupa dela, então tipo como fazer isso nesse exato momento ali e tal, como é que ela vai ficar aqui."
+      },
+      {
+       "ts": "28:05",
+       "texto": "Então tipo tá muito descrito, eu não vou passar para não ficar muito longo aqui, mas aqui tem muitos b-rolls. Eu peço que vocês usem exatamente o mais próximo possível dessa qualidade de b-rolls ali para edição. Tanto de testosterona, que por exemplo aqui, ó, o pâncreas, sabe? Aí aqui tem estoques dele do Oscar. Ele ganhou basicamente um Oscar, 2 Emmys e 2 Tonys."
+      }
+     ]
+    },
+    {
+     "inicio": "28:27",
+     "fim": "29:22",
+     "prints": [
+      {
+       "ts": "29:00",
+       "legenda": "Câmera na bancada: baking soda, pote de mel e tigela de vidro; ele mistura, come e sobe a escada ('look how calm the bastard is')",
+       "arquivo": "b09_doc_pacino_receita_bancada_escada_00-29-00.jpg"
+      }
+     ],
+     "paras": [
+      {
+       "ts": "28:27",
+       "texto": "Então tipo, coloca esses 3, ele ganhando Oscar, ele ganhando Emmy, ele ganhando Tony, sabe? Ou gera essa parada se não tiver, mas provavelmente deve ter algum vídeo antigo dele ali. Então tipo, colocando aqui, e ele depois triste ali na rua e tudo mais. Aí que eu falei para colocar os estoques de baking soda com mel, a mistura. Aí entre o fundo do poço, que é com o personal trainer, né? Então, tipo, eu falei aqui para gerar ela chegando em casa com o pessoal ali e tal, e ele olhando ali e tal, é uma cena visual."
+      },
+      {
+       "ts": "28:55",
+       "texto": "Coloquei outras cenas visuais de outra websérie que a gente já tem ali também como referência. Aqui a geração da câmera, né, tipo pegando ele fazendo a receita ali na bancada. Aqui eu vou fazer, eu falei para fazer na mesma câmera em ângulo, sabe, com só que com baking soda na bancada com pote de mel. E a tigela de vidro no meio. Então ele pega, coloca as coisas lá, mistura, come e vai em direção às escadas e sobe as escadas."
+      }
+     ]
+    },
+    {
+     "inicio": "29:22",
+     "fim": "30:11",
+     "prints": [
+      {
+       "ts": "30:00",
+       "legenda": "Mesma câmera com a roupa trocada / outro cara (menção visual provada)",
+       "arquivo": "b09_doc_pacino_roupa_trocada_mesma_camera_00-30-00.jpg"
+      }
+     ],
+     "paras": [
+      {
+       "ts": "29:22",
+       "texto": "Aí eu coloquei basicamente aqui nessa parte quando ele fala, what the fuck is this? Look how calm the bastard is. Então tipo, ele fala assim, olha que calmo esse filho da puta tá fazendo isso, né? Tipo, ele tá, olha a calma dele. Então eu coloquei aqui nessa mesma cena, nessa mesma cam, pegar ele subindo pelas escadas ali, passando bem devagarinho e tal, meio que feliz, de boa, sem preocupação."
+      },
+      {
+       "ts": "29:45",
+       "texto": "Eu tinha falado com outro editor na outra copy que eu fiz de uma câmera um pouco mais próxima da escada pegando isso. Então se der para fazer com essa câmera, vai ficar mil vezes melhor ainda. Eu acho que já foi feito, então só replicar essa parada aqui. O que eu falei, né, vai ter esses estoques aqui. Eu falei pedir para gerar a roupa trocada, tipo, não a mesma câmera, a mesma coisa, só que trocando a pessoa, trocando basicamente a cena, a roupa no caso."
+      }
+     ]
+    },
+    {
+     "inicio": "30:12",
+     "fim": "31:02",
+     "prints": [
+      {
+       "ts": "30:40",
+       "legenda": "Manchete real do divórcio (Pacino e Noor) e ela saindo com as malas",
+       "arquivo": "b09_doc_pacino_manchete_divorcio_malas_00-30-40.jpg"
+      },
+      {
+       "ts": "31:00",
+       "legenda": "Fazenda de bode (no lugar da de cavalo) e lettering preto e branco 'IT WAS THE SEX'",
+       "arquivo": "b09_doc_fazenda_bode_hill_country_pb_00-31-00.jpg"
+      }
+     ],
+     "paras": [
+      {
+       "ts": "30:12",
+       "texto": "Né, e a cam pegando isso. E aqui também a mesma coisa, só que com um cara lá. Então tipo fazendo essa menção visual mais provada ali. Aqui repete, né, aqui basicamente pega, aqui ele tem basicamente a notícia do divórcio e tal. E aqui basicamente pegar uma manchete real, né, deles dois ali e tal, com a manchete provando isso. É uma coisa que já tem na internet, isso já aconteceu, então só Só ir atrás ali."
+      },
+      {
+       "ts": "30:39",
+       "texto": "Então, tipo, de boa. Tem várias manchetes sobre isso, reais ali, reais, reais. E aqui tem basicamente ela ali com as malas indo embora. Aí aqui eu falei para fazer fazenda de bode em Hill Country. Então, tipo, basicamente pegaram uma fazenda ali de cavalo e tal. Aí eu falei para fazer uma fazenda de bode, tá, mostrar isso daí. Aqui são estoques."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "titulo": "INVESTIGAÇÃO E PROVAS — Glifosato, jornais e o bode espanhol",
+   "inicio": "31:03",
+   "fim": "33:16",
+   "mini": [
+    {
+     "inicio": "31:03",
+     "fim": "32:01",
+     "prints": [
+      {
+       "ts": "31:20",
+       "legenda": "Referências: pesquisador de jaleco, galão de Roundup, listas de glifosato — 'deixar muito bem provado'",
+       "arquivo": "b10_doc_roundup_glifosato_jaleco_00-31-20.jpg"
+      },
+      {
+       "ts": "31:40",
+       "legenda": "Trecho do Robert F. Kennedy + material vazado",
+       "arquivo": "b10_doc_robert_f_kennedy_trecho_00-31-40.jpg"
+      },
+      {
+       "ts": "32:00",
+       "legenda": "Jornais atuais (The Wall Street Journal, revistas) e WSJ borrado — 'não é da década de 70, é de hoje'",
+       "arquivo": "b10_doc_jornais_wall_street_journal_atuais_00-32-00.jpg"
+      }
+     ],
+     "paras": [
+      {
+       "ts": "31:03",
+       "texto": "Sempre quando ele fala de né, de situações constrangedoras, frustrantes ali, ele usa preto e branco, né, preto e branco com letras branco e vermelho. Então tipo, vamos buscar isso também. Aqui referência do cara ali tipo fazendo as pesquisas com jaleco. Aqui por exemplo referência visual de Roundup, de listas ali de glifosato, deixar isso muito bem provado."
+      },
+      {
+       "ts": "31:29",
+       "texto": "Então tipo, o que eu peço muito é que vocês acompanhem acompanhe muito, né, o que eu vou falando ali, colocando isso bem provado, tipo, visualmente, para pessoa entender e compreender aquilo ali. Coloquei aqui, tem um trecho do Robert, do Robert F. Kennedy, tem aqui estoques do material vazado, tem jornais postando com manchetes ali e tal."
+      }
+     ]
+    },
+    {
+     "inicio": "32:01",
+     "fim": "32:51",
+     "prints": [
+      {
+       "ts": "32:40",
+       "legenda": "Bode espanhol de chifre comprido; Sandeep Gupta com certificação e bodes ao fundo",
+       "arquivo": "b10_doc_bode_espanhol_chifre_gupta_00-32-40.jpg"
+      }
+     ],
+     "paras": [
+      {
+       "ts": "32:01",
+       "texto": "Eu peço muito para fazer jornais, se for fazer jornal, faz jornal atual. Se não for jornal atual como esses dois, nessas duas qualidades aqui, não é da década de 70 nem da de 50, é de hoje em dia. Por exemplo, aqui o The Wall Street, então a gente tem um dos maiores jornais, né? Fazer revista também, como eu vou falar mais embaixo aqui, e já o WSJ borrado aqui também, que eu coloquei uma referência só."
+      },
+      {
+       "ts": "32:29",
+       "texto": "Vocês vão pegar outro cara ali e tal, borrar o rosto. Aí, cara, tem muitas referências aqui na parte do bode espanhol. Exatamente esse cara aqui, ó, esse bode com o chifre mais entornado, mais comprido. Aqui a gente vai fazer meio que alguns toques ali do— ele vai falar do Gupta aqui, né? Então tipo, eu vou falar do que o Gupta foi atrás daquilo ali e tal. Sandeep Gupta."
+      }
+     ]
+    },
+    {
+     "inicio": "32:51",
+     "fim": "33:16",
+     "prints": [
+      {
+       "ts": "33:00",
+       "legenda": "Estoques de variedade/ração do bode (adaptar os do cavalo)",
+       "arquivo": "b10_doc_bode_racao_estoques_variedade_00-33-00.jpg"
+      }
+     ],
+     "paras": [
+      {
+       "ts": "32:51",
+       "texto": "E aqui fazer o Sandeep Gupta com certificação aqui, mano, sabe, nesse cenário e tal. Só que com um bode ali atrás, esses bodes aqui, sacou? Aqui tem os estoques de variedade do cavalo, né? Fazer esses estoques com o bode, com esse tipo de bode aqui, a ração dos bodes. Então tipo fazer essas gerações aí a respeito. Market test eu não vou me prender muito não para mostrar."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "titulo": "MECANISMO DO PROBLEMA — Market test (Mark Hyman)",
+   "inicio": "33:17",
+   "fim": "35:40",
+   "mini": [
+    {
+     "inicio": "33:17",
+     "fim": "34:20",
+     "prints": [
+      {
+       "ts": "33:17",
+       "legenda": "Seção Marketing Thesis (Mark Hyman): referências de edição a seguir à risca",
+       "arquivo": "b11_doc_marketing_thesis_hyman_00-33-17.jpg"
+      },
+      {
+       "ts": "33:40",
+       "legenda": "Cimento dentro da esponja / colágeno 3: microscópio e corpo cavernoso por dentro (versão do Secom)",
+       "arquivo": "b11_doc_cimento_esponja_colageno_3_00-33-40.jpg"
+      },
+      {
+       "ts": "34:20",
+       "legenda": "Estoques de carne e comida com glifosato, banners e post-its",
+       "arquivo": "b11_doc_carne_glifosato_post_its_00-34-20.jpg"
+      }
+     ],
+     "paras": [
+      {
+       "ts": "33:17",
+       "texto": "É basicamente o Mark Hyman falando. Eu já coloquei várias referências de edição aqui. Eu peço que sigam à risca tudo isso. Então, jornais, revistas provando questão do colágeno 3, a visão do corpo cavernoso por dentro, imagem de microscópico, banners ali, post-its, efeitos do cimento dentro das coisas."
+      },
+      {
+       "ts": "33:42",
+       "texto": "Inclusive, dessa última oferta que o que o Secom fez ali ficou muito maior do que essas aqui. Então tipo, eu peço que— vou até trocar isso daqui, eu vou deixar arrumado aqui para vocês, mas eu vou trocar ao final. Eu vou trocar agora aqui, vou dar só um pause aqui rapidão. Então voltando para mostrar para vocês aqui, eu coloquei alguns estoques de cimento que o Secom chegou a fazer ali, que cara, acho que dá para usar muito forte ali esse cimento por dentro da esponja, né, tipo mostrar a esponja cimentada ali, tipo Ficou muito melhor do que a gente já tinha na Soda Horse ali, então ficou bem mais forte."
+      }
+     ]
+    },
+    {
+     "inicio": "34:21",
+     "fim": "35:14",
+     "prints": [
+      {
+       "ts": "34:40",
+       "legenda": "Revistas dos casos do México e da Alemanha; prova dos 60% de cimento",
+       "arquivo": "b11_doc_revistas_mexico_alemanha_60_cimento_00-34-40.jpg"
+      }
+     ],
+     "paras": [
+      {
+       "ts": "34:21",
+       "texto": "Aqui tem basicamente vários estoques de carne, alimentação, post-its, banners ali sobre comida cheia de glifosato. Aqui explica exatamente esse cimento por dentro, esponja esquerda e direita ali. Aqui o estoque provando que tem 60% de cimento ali dentro. Aqui revistas falando dos casos do México e da Alemanha. Aqui basicamente uma referência também, assim como eu mostrei para vocês lá, tipo do cimento, né, provando ali do cimento."
+      },
+      {
+       "ts": "34:52",
+       "texto": "Eu acho interessante de fazer esse tipo de essa referência. Vou até colocar aqui, ó, essa referência de novo aqui, porque é muito forte de cimento por dentro ali e tal. Aí tem basicamente aqui algumas cenas mais visuais. Do cimento, né, lá dentro. Então vou colocar ali como referência também."
+      }
+     ]
+    },
+    {
+     "inicio": "35:16",
+     "fim": "35:40",
+     "prints": [
+      {
+       "ts": "35:20",
+       "legenda": "B-roll de cimento com glifosato altíssimo + Viagra, testosterona e TRT",
+       "arquivo": "b11_doc_broll_cimento_glifosato_altissimo_00-35-20.jpg"
+      },
+      {
+       "ts": "35:40",
+       "legenda": "Sandeep Gupta na fazenda falando para a câmera ('pensa comigo') com o bode espanhol",
+       "arquivo": "b11_doc_gupta_fazenda_bode_revelacao_00-35-40.jpg"
+      }
+     ],
+     "paras": [
+      {
+       "ts": "35:16",
+       "texto": "Na verdade, vou pegar outro aqui. Então aqui, ó, por exemplo, coloquei esse B-roll de cimento aqui, né, tipo aqui glifosato e tal, altíssimo, né. Eu acho massa isso daqui para trazer mais prova, provando o cimento lá por dentro, dentro da foto do cara ali, alguns estoques de Viagra, testosterona, TRT explicando e tal."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "titulo": "MECANISMO DA SOLUÇÃO — Gupta na fazenda, mel, chifre e óxido nítrico",
+   "inicio": "35:40",
+   "fim": "37:31",
+   "mini": [
+    {
+     "inicio": "35:40",
+     "fim": "36:39",
+     "prints": [
+      {
+       "ts": "36:20",
+       "legenda": "Mel, planta de cárie/cariína, chifre e colágeno — cenas visuais de alta qualidade",
+       "arquivo": "b12_doc_mel_planta_chifre_colageno_00-36-20.jpg"
+      },
+      {
+       "ts": "36:39",
+       "legenda": "Exame dia 1 x dia 30 do paciente; trocar 'Lexicon/Longhorn Pilot' por 'Hill Country Pilot' (voluntário 22)",
+       "arquivo": "b12_doc_exame_dia1_dia30_hill_country_00-36-39.jpg"
+      }
+     ],
+     "paras": [
+      {
+       "ts": "35:40",
+       "texto": "Aqui vai entrar o Gupta, tá? Inclusive tem uma revelação importantíssima que é do Gupta na fazenda, acabei esquecendo de falar no início ali. Então, que nem eu falei, estoques dele aqui com esses bodes aqui ali atrás na fazenda, e ele vai ficar ali de frente falando com a câmera, né? Então, tipo aqui, ó, Pensa comigo, aí vai meio que falar ali, sabe, sobre os bodes e tal."
+      },
+      {
+       "ts": "36:09",
+       "texto": "E aí tem uns estoques ali que eu coloquei de cavalo, só que fazer referência um pouco para o bode, certo? E aí eu coloquei alguns estoques ali interessantes para— aqui a gente vai mudar, vai ser o mel, né? Aqui tem a planta de cárie e cariína. Que eu falo. Então, tipo, isso aí é basicamente algumas referências aqui, o chifre fazendo a questão do colágeno, algumas cenas visuais que eu quero exatamente assim, de qualidade assim para cima, tá?"
+      }
+     ]
+    },
+    {
+     "inicio": "36:39",
+     "fim": "37:31",
+     "prints": [
+      {
+       "ts": "37:20",
+       "legenda": "Medidor de óxido nítrico: primeira medição rosa claro, toma Pycnogenol, segunda vermelho escuro",
+       "arquivo": "b12_doc_medidor_oxido_nitrico_00-37-20.jpg"
+      }
+     ],
+     "paras": [
+      {
+       "ts": "36:39",
+       "texto": "Então, tipo, aqui basicamente um exame dia 1 e dia 30 do paciente. Aqui eu falei aqui para trocar de Lexicon para Longhorn, só que no caso vai ser Hill Country. Então vai ser um estudo de Hill Country."
+      },
+      {
+       "ts": "37:01",
+       "texto": "Então aqui, ó, voluntário 22, Longhorn Pilot, é Lexicon Pilot, trocar para Hill Country Pilot, tá? Um estudo de Hill Country. Aqui outros ingredientes. Aqui a gente tem um marcador de uma coisa minha, uma sofisticação minha, eu coloquei que é o medidor de óxido nítrico. Que aí vai mostrar o que é o óxido nítrico. Aqui vai ser, o cara vai fazer a primeira medição, vai dar rosa claro, vai tomar o Pycnogenol ali, e aí vai medir de novo, vai dar um vermelho escuro para provar ali para pessoa."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "titulo": "PRODUTO — Ligação do Al Pacino, Gerardo no quarto e o scan do Hyman",
+   "inicio": "37:31",
+   "fim": "39:09",
+   "mini": [
+    {
+     "inicio": "37:31",
+     "fim": "38:44",
+     "prints": [
+      {
+       "ts": "37:40",
+       "legenda": "Al Pacino 'por ligação' (estoque + voz) e Gerardo no quarto de frente para a câmera",
+       "arquivo": "b13_doc_pacino_ligacao_gerardo_quarto_00-37-40.jpg"
+      },
+      {
+       "ts": "38:20",
+       "legenda": "Prova = scan/exame do Mark Hyman; geração da mulher se gravando com o celular",
+       "arquivo": "b13_doc_scan_hyman_mulher_celular_00-38-20.jpg"
+      }
+     ],
+     "paras": [
+      {
+       "ts": "37:31",
+       "texto": "No product vai ser basicamente a mesma coisa, né, o marketing ali e tal. Aqui vai ser o Al Pacino falando por ligação. Então tipo, não vai ser o Al Pacino literalmente falando por ligação, mas vai ter o estoque de ligação e a voz dele ali e tal. Falando, né, como coloquei aqui, ó, nessa cena aqui do corte, né."
+      },
+      {
+       "ts": "37:55",
+       "texto": "Aqui, Gerardo no quarto dele de frente para câmera falando. Então, tipo, aí já muda, né. Antes que era na sala, vai ser no quarto aqui. Ele falando direto para câmera, é como se ele tivesse dando depoimento ali. Aqui vem a questão da prova que é o scan, o exame de scan do Mark Hyman."
+      },
+      {
+       "ts": "38:20",
+       "texto": "A gente tem basicamente essa geração fazer aqui também, que é dessa mulher aqui. Tá aqui o nome, tá aqui basicamente os B-rolls que eu quero também. Vocês vão achar muito, mano, é só colocar no Google e colocar vídeo e tal, e vocês vão achar, tipo assim, para usar B-roll. Obviamente sempre os vídeos mais congruentes possíveis, porque é basicamente com Al Pacino, então tipo Tem que ter a congruência ali."
+      }
+     ]
+    },
+    {
+     "inicio": "38:44",
+     "fim": "39:09",
+     "prints": [
+      {
+       "ts": "39:00",
+       "legenda": "B-rolls congruentes com o Al Pacino (não moreno, não tatuado); prova do bode no lugar do cavalo",
+       "arquivo": "b13_doc_broll_congruente_prova_bode_00-39-00.jpg"
+      }
+     ],
+     "paras": [
+      {
+       "ts": "38:44",
+       "texto": "O cara não pode ser moreno, não pode ser tatuado, não pode ser, enfim, tem que ter uma aparência um pouco mais parecida ali. Então fazer ela basicamente como se tivesse pegando o celular assim e olhando, sabe, tipo pegando e se gravando ali e tal, com celular na mão. Se der para gerar e ficar massa, fechou. Se não der, a gente gera assim direto, como se tivesse um pau de selfie aqui, sei lá, alguma coisa. A prova aqui do cavalo que eu falei, que não vai ser cavalo, vai ser esse body."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "titulo": "DEPOIMENTOS — Vídeo caseiro, teste da tira e Dr. Raymond (Caldwell Biosciences)",
+   "inicio": "39:09",
+   "fim": "42:12",
+   "mini": [
+    {
+     "inicio": "39:09",
+     "fim": "39:59",
+     "prints": [
+      {
+       "ts": "39:20",
+       "legenda": "Depoimento 1 caseiro: mesmo cara do vídeo 1 no lugar do que está deitado",
+       "arquivo": "b14_doc_depoimento1_caseiro_mesmo_cara_00-39-20.jpg"
+      },
+      {
+       "ts": "40:00",
+       "legenda": "Teste da tira/elástico: dia 1 solto, dia 5 apertando, dia 7 estourou",
+       "arquivo": "b14_doc_teste_da_tira_dia1_dia5_dia7_00-40-00.jpg"
+      }
+     ],
+     "paras": [
+      {
+       "ts": "39:09",
+       "texto": "Então vai ter que fazer gerações aqui. Depoimentos, eu já coloquei ali o link, já coloquei o cara, já coloquei basicamente isso aqui. O que é esse vídeo caseiro, mano? Que eu coloquei referência, tá? Vocês vão pegar aqui, ó, esse mesmo cara do vídeo 1, depoimento 1, depoimento 1 caseiro. Esse é o mesmo cara. Pegar esse cara no lugar desse cara que tá deitado aqui, fazer esse cara lá. E aqui vai ter esse, nesses quadradinhos, né, vai ter basicamente, porra, porque é foda de ver aqui, mano."
+      },
+      {
+       "ts": "39:37",
+       "texto": "Deixa eu aumentar aqui. Vocês vão ter o teste da tira, né, que é o teste do elástico ali. Basicamente é fazer o dia 1, tá lá o elástico lá nele ali, só que não tem porra nenhuma, sabe, tá lá solto. Dia 5 já tá apertando, dia 7 estourou, já não tem mais nada, tá ligado. Então tipo fazer essa geração aí, que é basicamente a tira do teste da tira ali e tal."
+      }
+     ]
+    },
+    {
+     "inicio": "40:01",
+     "fim": "41:15",
+     "prints": [
+      {
+       "ts": "40:40",
+       "legenda": "Depoimento 2: avatar exato com a mesma roupa; b-rolls em quadradinhos dividindo a tela",
+       "arquivo": "b14_doc_depoimento2_avatar_roupa_identica_00-40-40.jpg"
+      },
+      {
+       "ts": "41:15",
+       "legenda": "Dr. Raymond com logo da Caldwell Biosciences no bolso + estoques de credibilidade",
+       "arquivo": "b14_doc_dr_raymond_caldwell_biosciences_00-41-15.jpg"
+      }
+     ],
+     "paras": [
+      {
+       "ts": "40:01",
+       "texto": "Aqui eu coloquei o depoimento 2, tá aqui exatamente o avatar que vai ser usado, exatamente o avatar. Se fazer parecido, beleza, mas é importante estar com essa roupa aqui. Até colocar aqui também para fazer idêntica, mesma roupa, sabe? E os estoques iguais."
+      },
+      {
+       "ts": "40:27",
+       "texto": "Então, tipo, deixar os estoques também, tipo, muito congruentes ali. Beleza. Aqui o depoimento. E aí, mano, os depoimentos eu gosto sempre de falar para não deixar só o cara falando ali, mas colocar uns B-rolls, sabe? Tipo, meio que dividir a tela com os B-rolls, colocar uns quadradinhos aqui, uns B-rolls ali e tal, tipo, meio que simulando que seria ele, sacou?"
+      },
+      {
+       "ts": "40:49",
+       "texto": "Então, tipo, deixar isso muito explícito. Aqui vai ser esse cara, o Dr. Raymond. Então, tipo, colocar ali o nome do laboratório que eu falo aqui, ó, que é o Caldwell Biosciences, no bolso dele ali, colocar ali a logo e tal para falar. Aqui tem alguns estoques de credibilidade, estudos. Aqui mais um cara. Aqui eu quero exatamente isso, o cara falando ali no centro, tá?"
+      }
+     ]
+    },
+    {
+     "inicio": "41:15",
+     "fim": "42:12",
+     "prints": [
+      {
+       "ts": "41:58",
+       "legenda": "Cara falando no centro com nome e idade ('vou tentar o truque do mel e do bode'), vídeo passando embaixo",
+       "arquivo": "b14_doc_cara_no_centro_nome_idade_00-41-58.jpg"
+      }
+     ],
+     "paras": [
+      {
+       "ts": "41:15",
+       "texto": "Pode pegar um cara assim, o cara parecido. Eu não peguei exatamente o cara que vai ser aqui, mas pegar o cara Pode pegar exatamente isso, pegar um vídeo parecido com o cara ali e tal, com o nome e a idade dele ali, que nem foi aqui, que nem nessa referência visual. Esse cara aqui é muito novo, eu deixaria um cara um pouco mais velho. E eles falam essa frase: eu vou tentar o truque da gama e do bode ali e tal."
+      },
+      {
+       "ts": "41:38",
+       "texto": "E aí tem ele basicamente aqui com o vídeo passando lá embaixo. Se vocês tiverem dúvida nisso, me chamem que eu falo para vocês ali. E aqui basicamente isso, o cara falando lá em cima E é como se ele tivesse aqui embaixo, tá ligado? É o cara falando aí, aqui é como se tivesse gravado. Então seria basicamente isso aí. No Big Offer, para fechar rapidão para vocês aí, eu quero que comece nesse bloco aqui quando eu tô segurando o frasco, mostrando para câmera ali, histórias dele ali na indústria, na fábrica e tal."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "titulo": "BIG OFFER — Frasco, laboratório, celebridades com potes e abertura do Al Pacino",
+   "inicio": "42:12",
+   "fim": "44:26",
+   "mini": [
+    {
+     "inicio": "42:12",
+     "fim": "43:11",
+     "prints": [
+      {
+       "ts": "42:20",
+       "legenda": "Big Offer: ele segurando o frasco para a câmera; laboratório com potes de Aeropulse",
+       "arquivo": "b15_doc_big_offer_frasco_laboratorio_aeropulse_00-42-20.jpg"
+      },
+      {
+       "ts": "42:40",
+       "legenda": "Dr. Oz com pote na mão; atriz exata com 2 potes ao lado",
+       "arquivo": "b15_doc_dr_oz_pote_atriz_exata_00-42-40.jpg"
+      },
+      {
+       "ts": "43:00",
+       "legenda": "Mick Blue gerado com pote na mão mostrando para a tela",
+       "arquivo": "b15_doc_mick_blue_pote_00-43-00.jpg"
+      }
+     ],
+     "paras": [
+      {
+       "ts": "42:12",
+       "texto": "Aqui tem várias visualizações, então gerem muitos B-rolls. Imagens, vídeos chamativos, no caso ali. Aqui eu coloquei para deixar tudo isso visualmente bacana ali, como se tivesse dentro do laboratório ali, só que com os potes de Aeropulse. Aqui o Dr. Oz com um pote na mão, que nem referência aqui, só que com um pote na mão do Aeropulse. Aqui eu coloquei atriz exata para usar exatamente assim, só que com um pote ali do lado, sacou?"
+      },
+      {
+       "ts": "42:40",
+       "texto": "2 potes, não sei quantos potes dá para colocar ali. Então fazer essa geração, pegar vídeos reais dela ali para colocar como B-rolls. Aqui eu coloquei o Mick Blue, então tipo colocar também obviamente ele falando ali, tipo gerar ele ali com um pote na mão, tipo mostrando para tela e tal. Aqui colocar 6 potes na mesa do Harrison e aqui o O Van Damme também com um pote ali falando."
+      }
+     ]
+    },
+    {
+     "inicio": "43:12",
+     "fim": "44:26",
+     "prints": [
+      {
+       "ts": "43:20",
+       "legenda": "6 potes na mesa do Harrison; Van Damme com pote; doutora com pote",
+       "arquivo": "b15_doc_harrison_6_potes_van_damme_00-43-20.jpg"
+      },
+      {
+       "ts": "43:40",
+       "legenda": "Grade de homens com pote na mão e DMs enviadas ao Mark",
+       "arquivo": "b15_doc_grade_homens_pote_dms_mark_00-43-40.jpg"
+      },
+      {
+       "ts": "44:00",
+       "legenda": "Abertura com Al Pacino anunciando promoção na casa dele com os potes na mesa (olhando para a câmera)",
+       "arquivo": "b15_doc_pacino_promocao_casa_potes_mesa_00-44-00.jpg"
+      }
+     ],
+     "paras": [
+      {
+       "ts": "43:12",
+       "texto": "Aqui também a mesma coisa, coloquei até parecido aqui exatamente como para gerar, é colocar estoques do cara ali velho, colocar estoques dela também ali em relação com ele. Aqui coloquei a doutora para gerar com um pote na mão, coloquei alguns B-rolls visuais de 6 potes focados, 6 potes colocando os vídeos mais chamativos. Aqui uma grade de homens com um pote na mão."
+      },
+      {
+       "ts": "43:35",
+       "texto": "Que nem aqui. Aqui os comentários que os caras colocam no ADM, enviam para DM do Mark, né? Então tipo, fazer essa parada também. Aqui eu coloquei as cenas exatamente como deve ser ali e tal, a geração. Aqui vai ser uma abertura, do nada vai aparecer o cara falando na tela. Então que vai ser o apotinho, ele vai abrir com uma promoção ali. Então tipo, ele vai falar de uma promoção."
+      },
+      {
+       "ts": "43:58",
+       "texto": "E aí eu falei para gerar ele na casa dele com os potes na mesa como referência, tipo aqui de frente para mesa, pá, com os potes aqui, e ele olhando para câmera que nem um Elon que eu tô fazendo aqui, só que falando para câmera, sabe, e trocando cenário, só que a casa dele, cenário da casa dele. Aí eu coloquei alguns B-rolls aqui da viagem e tal, exatamente como deve seguir o vídeo assim também. Então tipo utilizar aqui, vai ser o cara que deu depoimento ali no iate e tal, é mais estoques assim."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "titulo": "MOCKUPS, BÔNUS E PREÇO",
+   "inicio": "44:28",
+   "fim": "45:44",
+   "mini": [
+    {
+     "inicio": "44:28",
+     "fim": "45:19",
+     "prints": [
+      {
+       "ts": "44:28",
+       "legenda": "Mockups de referência ('parece um CD') — fazer com qualidade maior; John segurando o pote",
+       "arquivo": "b16_doc_mockups_ruins_parece_cd_00-44-28.jpg"
+      },
+      {
+       "ts": "45:00",
+       "legenda": "Bônus (Ultimate Guide, 7 posições, mapa de prazer): referência e estilo base universais",
+       "arquivo": "b16_doc_bonus_ultimate_guide_mockups_00-45-00.jpg"
+      }
+     ],
+     "paras": [
+      {
+       "ts": "44:28",
+       "texto": "Bom, que mais? Aí ele vem aqui, fecha, pá. Aí depois vem o Hyman Cara, eu coloquei esses mockups como referência. Eu quero mockups melhores, sacou? Mockups melhores. Então tipo, tá muito zoado esse mockup aqui, tipo, porra, parece um CD. Então eu quero que faça com uma qualidade maior, gere com uma qualidade maior. Coloquei aqui o John para fazer, coloquei alguns vídeos dele aqui segurando também o pote na mão, né?"
+      },
+      {
+       "ts": "44:55",
+       "texto": "Então Aqui eu coloquei outros como referência também, vamos fazer um mockup melhor. Aqui o bônus, né, explicando ali como deve ser gerado. Aqui tem alguns que eu já usei na outra versão ali, que eu acho bom, mas a gente pode trocar, deixar tudo universal para ficar tudo condizente, porque isso daqui é de um jeito, isso daqui tá de outro, fica tudo bagunçado."
+      }
+     ]
+    },
+    {
+     "inicio": "45:19",
+     "fim": "45:44",
+     "prints": [
+      {
+       "ts": "45:40",
+       "legenda": "Mockups dos bônus com preço: stack '$3777' — R$3.997, não mais de R$3.757",
+       "arquivo": "b16_doc_preco_3777_bonus_stack_00-45-40.jpg"
+      }
+     ],
+     "paras": [
+      {
+       "ts": "45:19",
+       "texto": "A gente monta uma referência base, né, para todos, e um estilo base para todos, e faz ali Aqui vai ser basicamente essas duas aqui falando nessa cópia aqui, tipo, pode revezar, uma fala, outra fala, enfim. E os estoques ali, aqui estoque do Hyman com o paciente no laboratório. Aqui vai basicamente fazer, pegar os mockups dos bônus, colocar ali, colocar o preço."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "titulo": "CLOSE — Depoimento final, Al Pacino fora de casa e Hyman",
+   "inicio": "45:44",
+   "fim": "46:38",
+   "mini": [
+    {
+     "inicio": "45:44",
+     "fim": "46:38",
+     "prints": [
+      {
+       "ts": "46:00",
+       "legenda": "Seção Close & FAQ: close-up do Al Pacino direto para a câmera fora de casa, com os frascos na mesa",
+       "arquivo": "b17_doc_close_faq_al_pacino_00-46-00.jpg"
+      },
+      {
+       "ts": "46:20",
+       "legenda": "Hyman com o último depoimento; atriz com cerca de 3 potes de Aeropulse na mesa",
+       "arquivo": "b17_doc_close_hyman_ultimo_depoimento_atriz_00-46-20.jpg"
+      }
+     ],
+     "paras": [
+      {
+       "ts": "45:44",
+       "texto": "Esse preço ele tá em R$3.997, não mais de R$3.757. Aqui o depoimento final. E aí no close-up vai ser o Al Pacino falando diretamente para câmera em outro cômodo já, tá? Então tipo, sei lá, fora da casa, no gramado, no jardim, sabe? Fora da casa, sentado numa mesa ali e tal, com a porra dos frascos ali na mesa também, falando direto para câmera."
+      },
+      {
+       "ts": "46:15",
+       "texto": "Então Aí vem o Hyman, que vem o último depoimento, né? E aí basicamente vocês vão ter também aqui, esqueci o nome, mas eu vou colocar aqui também. Aí vocês podem pegar vídeos também, a mesma parada, vídeos de b-rolls, colocar também nas cenas para deixar isso massa. E colocar os potes ali de Aeropulse, eu acho que não vai dar 6 aqui, acho que dá uns 3."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "titulo": "FAQ — Pop-up de mensagem no Instagram",
+   "inicio": "46:38",
+   "fim": "47:30",
+   "mini": [
+    {
+     "inicio": "46:38",
+     "fim": "47:30",
+     "prints": [
+      {
+       "ts": "47:00",
+       "legenda": "FAQ: partes em negrito viram pop-up/mockup de Instagram no rodapé (foto do cara mandando mensagem para o Hyman)",
+       "arquivo": "b18_doc_faq_partes_em_negrito_popup_instagram_00-47-00.jpg"
+      },
+      {
+       "ts": "47:20",
+       "legenda": "Hyman responde em seguida de frente no podcast — encerramento do guia",
+       "arquivo": "b18_doc_faq_resposta_podcast_fim_00-47-20.jpg"
+      }
+     ],
+     "paras": [
+      {
+       "ts": "46:38",
+       "texto": "Colocar os potes ali e tal, e ela falando simples, mano. E aí vem, finaliza. E o FAQ, para fechar, o FAQ é essas partes em negrito, é como se tivessem um mockup, um pop-up na pequena tela, tipo de pequena tela assim aparecendo no rodapé do vídeo com a imagem do cara, a foto, a foto do cara ali no perfil, como se fosse um mockup de Instagram do cara mandando mensagem para o cara, tipo mandando mensagem para o Hyman."
+      },
+      {
+       "ts": "47:05",
+       "texto": "Então tipo, ah, olha, olha essa mensagem que eu recebi, aí tá aqui, ó, tipo, aí tem lá a mensagem do mesmo mockup, mesmo padrão, mesma, mesmo layout ali do Instagram, com a foto do cara, mensagenzinha do cara ali e tal, mandando para ele perguntando, tá ligado? E aí ele responde em seguida, de frente para o podcast ali e tal. É isso, mano, eu acredito que seja isso. Qualquer dúvida podem me chamar aí e bora para cima!"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
