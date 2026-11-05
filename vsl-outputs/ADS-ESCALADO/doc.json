@@ -1,0 +1,654 @@
+{
+ "titulo": "ADS ESCALADO (3 anúncios) — Transcrição EN + Tradução PT-BR + Prints",
+ "fonte": "Fonte: AD ESCALADO NOVO.mp4, AD ESCALADO NOVO 02.mp4 e AD ESCALADO NOVO 03.mp4 (404x718, ~2:04 cada). Transcrição: AssemblyAI (speaker labels). Tradução fiel: nomes, valores em dólares e referências mantidos como falados. Expert identificado pelas imagens como Joe Dispenza (o lettering do AD 02 nomeia 'JOE DISPENZA'); apresentador de TV no AD 01 identificado pela imagem.",
+ "nota_prints": "Minutagens: cada fala traz o [m:ss] em que começa. Prints: um frame de cada cena/b-roll do anúncio, com legenda descrevendo a imagem e o texto da legenda queimada no vídeo, nomeados adNN_descricao_HH-MM-SS.jpg na pasta frames/.",
+ "falantes": [
+  "ÂNCORA DE TV (abertura)",
+  "JOE DISPENZA (expert)",
+  "ENTREVISTADOR (podcast)"
+ ],
+ "blocos": [
+  {
+   "n": 1,
+   "titulo": "AD 01 — AD ESCALADO NOVO (2:03)",
+   "inicio": "0:00",
+   "fim": "2:02",
+   "falas": [
+    {
+     "falante": "ÂNCORA DE TV (abertura)",
+     "ts": "0:00",
+     "en": "Guys, did you see this banned video clip? Gates crashed this neuroscientist's interview right after he started talking more than he should have about the secret third eye activation protocol.",
+     "pt": "Pessoal, vocês viram este clipe de vídeo banido? Gates invadiu a entrevista deste neurocientista logo depois que ele começou a falar mais do que deveria sobre o protocolo secreto de ativação do terceiro olho."
+    },
+    {
+     "falante": "JOE DISPENZA (expert)",
+     "ts": "0:09",
+     "en": "Today, I'm going to spit in this billionaire's face and reveal all the threats I've been receiving ever since I leaked the 15-second ancient ritual that he and powerful people in a circle used to activate the third eye in seconds.",
+     "pt": "Hoje eu vou cuspir na cara desse bilionário e revelar todas as ameaças que venho recebendo desde que vazei o ritual ancestral de 15 segundos que ele e pessoas poderosas, num círculo fechado, usavam para ativar o terceiro olho em segundos."
+    },
+    {
+     "falante": "ENTREVISTADOR (podcast)",
+     "ts": "0:22",
+     "en": "What ritual is that?",
+     "pt": "Que ritual é esse?"
+    },
+    {
+     "falante": "JOE DISPENZA (expert)",
+     "ts": "0:23",
+     "en": "This ritual is in sacred Jewish manuscripts that are more than 3,000 years old. It activates the third eye, which science calls the pineal gland. And this man discovered that it could awaken almost supernatural abilities. Things like accelerated manifestation, aggressive intuition, instant healing, and even clairvoyance.",
+     "pt": "Esse ritual está em manuscritos judaicos sagrados com mais de 3.000 anos. Ele ativa o terceiro olho, que a ciência chama de glândula pineal. E esse homem descobriu que ele podia despertar habilidades quase sobrenaturais. Coisas como manifestação acelerada, intuição agressiva, cura instantânea e até clarividência."
+    },
+    {
+     "falante": "ENTREVISTADOR (podcast)",
+     "ts": "0:43",
+     "en": "And how did this billionaire get access to this?",
+     "pt": "E como esse bilionário teve acesso a isso?"
+    },
+    {
+     "falante": "JOE DISPENZA (expert)",
+     "ts": "0:46",
+     "en": "This ritual has been passed from hand to hand in closed circles for decades. The Rockefellers, the Rothschilds, tycoons and billionaires, they all use this same ritual religiously every day before going to sleep. I discovered this by accident on a trip to Israel, and a rabbi taught me every step of this ritual. It was with him that I achieved fame, wealth, and, um, I helped, uh, more than 77,000 people unlock this inner eye. When this started going viral, I started being followed, insulted, threatened, and I even lost my social media accounts. The elite doesn't want more awakened people. That's why they try to silence me. But enough is enough. I'm putting a short video on the Learn More button below showing how any man or woman can activate their third eye in 15 seconds with this ritual. This presentation is available for free for the next 2 hours only. Just click the button below and see what you're really capable of. This video reached more than 900,000 people in the last week, but it was taken down 5 times after the elite pressured video platforms to make it disappear. If you're watching this video, it's because your third eye is closed, and the way the richest people in the universe open it is by doing this 15-second ancient ritual that I'm going to teach in this video. So click the Learn More button below now and learn how to activate your third eye now.",
+     "pt": "Esse ritual foi passado de mão em mão em círculos fechados por décadas. Os Rockefeller, os Rothschild, magnatas e bilionários, todos usam esse mesmo ritual religiosamente, todo dia antes de dormir. Eu descobri isso por acaso numa viagem a Israel, e um rabino me ensinou cada passo desse ritual. Foi com ele que eu alcancei fama, riqueza e, hum, ajudei, é, mais de 77.000 pessoas a destravar esse olho interior. Quando isso começou a viralizar, comecei a ser seguido, insultado, ameaçado, e até perdi minhas contas nas redes sociais. A elite não quer mais pessoas despertas. É por isso que tentam me silenciar. Mas chega. Estou colocando um vídeo curto no botão Saiba Mais abaixo mostrando como qualquer homem ou mulher pode ativar o terceiro olho em 15 segundos com esse ritual. Esta apresentação está disponível de graça só pelas próximas 2 horas. Basta clicar no botão abaixo e ver do que você é realmente capaz. Este vídeo alcançou mais de 900.000 pessoas na última semana, mas foi derrubado 5 vezes depois que a elite pressionou as plataformas de vídeo para fazê-lo desaparecer. Se você está assistindo a este vídeo, é porque o seu terceiro olho está fechado, e o jeito que as pessoas mais ricas do universo o abrem é fazendo esse ritual ancestral de 15 segundos que vou ensinar neste vídeo. Então clique no botão Saiba Mais abaixo agora e aprenda a ativar o seu terceiro olho agora."
+    }
+   ],
+   "prints": [
+    {
+     "ts": "0:00",
+     "legenda": "Âncora de TV (David Muir) sobre clipe de Bill Gates em entrevista; legenda 'guys did you'",
+     "arquivo": "ad01_ancora_tv_gates_clipe_banido_00-00-00.jpg",
+     "src": "VSL-Pipeline-AD01/cand/00000.jpg"
+    },
+    {
+     "ts": "0:05",
+     "legenda": "Clipe: Bill Gates entrando no set e se aproximando do neurocientista sentado; legenda 'started talking'",
+     "arquivo": "ad01_gates_invade_entrevista_00-00-05.jpg",
+     "src": "VSL-Pipeline-AD01/cand/00005.jpg"
+    },
+    {
+     "ts": "0:09",
+     "legenda": "Joe Dispenza em podcast (microfone, planta ao fundo), efeito de glitch colorido; legenda 'today I'm gonna'",
+     "arquivo": "ad01_dispenza_today_im_gonna_00-00-09.jpg",
+     "src": "VSL-Pipeline-AD01/cand/00009.jpg"
+    },
+    {
+     "ts": "0:15",
+     "legenda": "Dispenza no palco de camisa azul apontando para a testa, com frasco na mão; legenda 'the 15 second'",
+     "arquivo": "ad01_dispenza_palco_frasco_camisa_azul_00-00-15.jpg",
+     "src": "VSL-Pipeline-AD01/cand/00015.jpg"
+    },
+    {
+     "ts": "0:22",
+     "legenda": "Entrevistador jovem de jaqueta preta no podcast; legenda 'in seconds what'",
+     "arquivo": "ad01_entrevistador_what_ritual_00-00-22.jpg",
+     "src": "VSL-Pipeline-AD01/cand/00022.jpg"
+    },
+    {
+     "ts": "0:25",
+     "legenda": "Livro antigo com Estrela de Davi e escrita em hebraico; legenda 'Jewish manuscripts that'",
+     "arquivo": "ad01_manuscrito_judaico_estrela_de_davi_00-00-25.jpg",
+     "src": "VSL-Pipeline-AD01/cand/00025.jpg"
+    },
+    {
+     "ts": "0:28",
+     "legenda": "Mesmo livro mostrando o olho dentro do triângulo; legenda 'it activates the'",
+     "arquivo": "ad01_manuscrito_olho_que_tudo_ve_00-00-28.jpg",
+     "src": "VSL-Pipeline-AD01/cand/00028.jpg"
+    },
+    {
+     "ts": "0:30",
+     "legenda": "Modelo de cérebro em argila sendo apontado com caneta; legenda 'which science calls'",
+     "arquivo": "ad01_cerebro_argila_pineal_caneta_00-00-30.jpg",
+     "src": "VSL-Pipeline-AD01/cand/00030.jpg"
+    },
+    {
+     "ts": "0:37",
+     "legenda": "Homem meditando com olho/portal roxo acima da cabeça; legenda 'things like accelerated'",
+     "arquivo": "ad01_homem_meditando_olho_roxo_00-00-37.jpg",
+     "src": "VSL-Pipeline-AD01/cand/00037.jpg"
+    },
+    {
+     "ts": "0:41",
+     "legenda": "Rosto com efeito holográfico roxo; legenda 'instant healing and'",
+     "arquivo": "ad01_rosto_glitch_instant_healing_00-00-41.jpg",
+     "src": "VSL-Pipeline-AD01/cand/00041.jpg"
+    },
+    {
+     "ts": "0:44",
+     "legenda": "Entrevistador; legenda 'and how did'",
+     "arquivo": "ad01_entrevistador_how_did_billionaire_00-00-44.jpg",
+     "src": "VSL-Pipeline-AD01/cand/00044.jpg"
+    },
+    {
+     "ts": "0:51",
+     "legenda": "Foto antiga em preto e branco (Rockefeller); legenda 'for decades'",
+     "arquivo": "ad01_rockefeller_pb_00-00-51.jpg",
+     "src": "VSL-Pipeline-AD01/cand/00051.jpg"
+    },
+    {
+     "ts": "0:53",
+     "legenda": "Baile de máscaras (Rothschild); legenda 'Rothschilds'",
+     "arquivo": "ad01_baile_mascaras_rothschild_00-00-53.jpg",
+     "src": "VSL-Pipeline-AD01/cand/00053.jpg"
+    },
+    {
+     "ts": "0:55",
+     "legenda": "Mesa de jantar surrealista com taças e lábios; legenda 'they all use'",
+     "arquivo": "ad01_mesa_taca_labios_they_all_use_00-00-55.jpg",
+     "src": "VSL-Pipeline-AD01/cand/00055.jpg"
+    },
+    {
+     "ts": "0:58",
+     "legenda": "Mulher com gaiola na cabeça no baile; legenda 'religiously'",
+     "arquivo": "ad01_mulher_gaiola_cabeca_religiously_00-00-58.jpg",
+     "src": "VSL-Pipeline-AD01/cand/00058.jpg"
+    },
+    {
+     "ts": "1:03",
+     "legenda": "Rabino de barba branca e chapéu apontando para a testa; legenda 'and a rabbi'",
+     "arquivo": "ad01_rabino_apontando_testa_00-01-03.jpg",
+     "src": "VSL-Pipeline-AD01/cand/00063.jpg"
+    },
+    {
+     "ts": "1:11",
+     "legenda": "Homem com os dedos na testa (depoimento); legenda 'more than 77,000'",
+     "arquivo": "ad01_homem_arabe_gesto_testa_77000_00-01-11.jpg",
+     "src": "VSL-Pipeline-AD01/cand/00071.jpg"
+    },
+    {
+     "ts": "1:13",
+     "legenda": "Mulher com a mão na testa; legenda 'when this started'",
+     "arquivo": "ad01_mulher_gesto_testa_when_this_started_00-01-13.jpg",
+     "src": "VSL-Pipeline-AD01/cand/00073.jpg"
+    },
+    {
+     "ts": "1:20",
+     "legenda": "Jantar de elite em preto e branco (homens de terno); legenda 'the elite doesn't'",
+     "arquivo": "ad01_elite_jantar_the_elite_doesnt_00-01-20.jpg",
+     "src": "VSL-Pipeline-AD01/cand/00080.jpg"
+    },
+    {
+     "ts": "1:26",
+     "legenda": "Dispenza de camisa preta na cozinha pingando frasco na mão, seta amarela; legenda 'the learn more'",
+     "arquivo": "ad01_dispenza_cozinha_frasco_mao_00-01-26.jpg",
+     "src": "VSL-Pipeline-AD01/cand/00086.jpg"
+    },
+    {
+     "ts": "1:30",
+     "legenda": "Dispenza com os dedos na testa (ritual); legenda 'in 15'",
+     "arquivo": "ad01_dispenza_dedos_na_testa_15_seconds_00-01-30.jpg",
+     "src": "VSL-Pipeline-AD01/cand/00090.jpg"
+    },
+    {
+     "ts": "1:33",
+     "legenda": "Dispenza no podcast; legenda 'available for free'",
+     "arquivo": "ad01_dispenza_available_for_free_00-01-33.jpg",
+     "src": "VSL-Pipeline-AD01/cand/00093.jpg"
+    },
+    {
+     "ts": "1:39",
+     "legenda": "Homem com os dedos na testa; legenda 'more than 900,000'",
+     "arquivo": "ad01_homem_negro_dedos_na_testa_900000_00-01-39.jpg",
+     "src": "VSL-Pipeline-AD01/cand/00099.jpg"
+    },
+    {
+     "ts": "1:42",
+     "legenda": "Tela 'Video unavailable — This content isn't available'; legenda 'taken down five'",
+     "arquivo": "ad01_video_unavailable_taken_down_00-01-42.jpg",
+     "src": "VSL-Pipeline-AD01/cand/00102.jpg"
+    },
+    {
+     "ts": "1:49",
+     "legenda": "Dispenza gesticulando; legenda 'third eye is'",
+     "arquivo": "ad01_dispenza_third_eye_closed_00-01-49.jpg",
+     "src": "VSL-Pipeline-AD01/cand/00109.jpg"
+    },
+    {
+     "ts": "1:59",
+     "legenda": "Dispenza com seta amarela para baixo; legenda 'learn more button'",
+     "arquivo": "ad01_dispenza_learn_more_button_seta_00-01-59.jpg",
+     "src": "VSL-Pipeline-AD01/cand/00119.jpg"
+    },
+    {
+     "ts": "2:02",
+     "legenda": "Último frame: 'third eye now' com seta",
+     "arquivo": "ad01_dispenza_third_eye_now_final_00-02-02.jpg",
+     "src": "VSL-Pipeline-AD01/cand/00122.jpg"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "AD 02 — AD ESCALADO NOVO 02 (2:04)",
+   "inicio": "0:00",
+   "fim": "2:03",
+   "falas": [
+    {
+     "falante": "JOE DISPENZA (expert)",
+     "ts": "0:00",
+     "en": "Most people still don't know this, but they all need to decalcify their pineal gland quickly. Because if your pineal gland isn't calcified, my friend, you have no idea what you're capable of. It's time for every American to awaken their third eye. While the Vatican tries to silence me, I'm going to show for the last time this biblical trick with the fingers that awakens this brain structure in just a few seconds.",
+     "pt": "A maioria das pessoas ainda não sabe disso, mas todas precisam descalcificar a glândula pineal rapidamente. Porque, se a sua glândula pineal não estiver calcificada, meu amigo, você não tem ideia do que é capaz. É hora de todo americano despertar o terceiro olho. Enquanto o Vaticano tenta me silenciar, vou mostrar pela última vez esse truque bíblico com os dedos que desperta essa estrutura do cérebro em poucos segundos."
+    },
+    {
+     "falante": "ENTREVISTADOR (podcast)",
+     "ts": "0:19",
+     "en": "Why has this never been made public?",
+     "pt": "Por que isso nunca foi tornado público?"
+    },
+    {
+     "falante": "JOE DISPENZA (expert)",
+     "ts": "0:22",
+     "en": "This ritual is described in sacred manuscripts that are more than 3,000 years old. It awakens this gland which scientists call the pineal, and ancient civilizations called the third eye. The Vatican has hidden this all this time while building a 4-meter statue to symbolize this gland.",
+     "pt": "Esse ritual está descrito em manuscritos sagrados com mais de 3.000 anos. Ele desperta essa glândula, que os cientistas chamam de pineal e as civilizações antigas chamavam de terceiro olho. O Vaticano escondeu isso todo esse tempo, enquanto construía uma estátua de 4 metros para simbolizar essa glândula."
+    },
+    {
+     "falante": "ENTREVISTADOR (podcast)",
+     "ts": "0:38",
+     "en": "I've never heard about this at school or on television.",
+     "pt": "Nunca ouvi falar disso na escola nem na televisão."
+    },
+    {
+     "falante": "JOE DISPENZA (expert)",
+     "ts": "0:40",
+     "en": "And isn't it too much of a coincidence that the gland responsible for the strongest spiritual abilities is the one you were never taught to awaken? If you close your eyes and see only darkness, it's because your inner eye is closed and locked. When it is open, impossible things become possible, and a healing intuition, manifestation, and law of attraction energy begins to take over you automatically. Only 1% of people have this inner eye open. They are the ones who control the banks, the media, the economy, and most of us.",
+     "pt": "E não é coincidência demais que a glândula responsável pelas habilidades espirituais mais fortes seja justamente a que nunca te ensinaram a despertar? Se você fecha os olhos e só vê escuridão, é porque o seu olho interior está fechado e trancado. Quando ele está aberto, coisas impossíveis se tornam possíveis, e uma energia de cura, intuição, manifestação e lei da atração começa a tomar conta de você automaticamente. Só 1% das pessoas tem esse olho interior aberto. São elas que controlam os bancos, a mídia, a economia e a maioria de nós."
+    },
+    {
+     "falante": "ENTREVISTADOR (podcast)",
+     "ts": "1:09",
+     "en": "And how do you activate this eye?",
+     "pt": "E como se ativa esse olho?"
+    },
+    {
+     "falante": "JOE DISPENZA (expert)",
+     "ts": "1:10",
+     "en": "All you have to do is perform this biblical trick with your fingers, and your third eye will open right in the center of your skull. This was leaked in the Vatican Secret Archives exhibition in 2019. More than 77,000 people have already awakened with it after I released a video showing every step of this trick. This short video is available through the Learn More button below. I charge $97 for each viewing, but now, after thousands of people donated part of the unexpected amounts of money they received after activating their third eye with this trick, I'm making this video free for the next 2 hours. Video platforms have deleted this content more than 5 times in the last week under an order linked to the Vatican, claiming unauthorized knowledge. And the next removal could be permanent. That's why I advise you to stop whatever you're doing and click the Learn More button below now to watch this video before it disappears. They don't want you to discover it, but it only takes 15 seconds for your third eye to awaken.",
+     "pt": "Tudo o que você precisa fazer é executar esse truque bíblico com os dedos, e o seu terceiro olho vai se abrir bem no centro do seu crânio. Isso vazou na exposição dos Arquivos Secretos do Vaticano em 2019. Mais de 77.000 pessoas já despertaram com ele depois que eu lancei um vídeo mostrando cada passo desse truque. Esse vídeo curto está disponível pelo botão Saiba Mais abaixo. Eu cobro $97 por cada visualização, mas agora, depois que milhares de pessoas doaram parte das quantias inesperadas de dinheiro que receberam após ativar o terceiro olho com esse truque, estou liberando esse vídeo de graça pelas próximas 2 horas. As plataformas de vídeo apagaram esse conteúdo mais de 5 vezes na última semana por uma ordem ligada ao Vaticano, alegando conhecimento não autorizado. E a próxima remoção pode ser permanente. Por isso aconselho você a parar o que estiver fazendo e clicar no botão Saiba Mais abaixo agora para assistir a esse vídeo antes que ele desapareça. Eles não querem que você descubra, mas bastam 15 segundos para o seu terceiro olho despertar."
+    }
+   ],
+   "prints": [
+    {
+     "ts": "0:00",
+     "legenda": "Abertura: lettering vermelho 'JOE DISPENZA REVEALED THE FASTEST WAY TO OPEN THE THIRD EYE' sobre b-roll (homem com modelo de cérebro) e Dispenza embaixo",
+     "arquivo": "ad02_lettering_joe_dispenza_revealed_fastest_way_00-00-00.jpg",
+     "src": "VSL-Pipeline-AD02/cand/00000.jpg"
+    },
+    {
+     "ts": "0:02",
+     "legenda": "B-roll de corte anatômico do cérebro com o lettering; legenda 'need to decalcify'",
+     "arquivo": "ad02_broll_corte_cerebro_decalcify_00-00-02.jpg",
+     "src": "VSL-Pipeline-AD02/cand/00002.jpg"
+    },
+    {
+     "ts": "0:05",
+     "legenda": "Cérebro azul com ponto de luz (pineal); legenda 'pineal gland isn't'",
+     "arquivo": "ad02_broll_cerebro_azul_pineal_brilhando_00-00-05.jpg",
+     "src": "VSL-Pipeline-AD02/cand/00005.jpg"
+    },
+    {
+     "ts": "0:07",
+     "legenda": "Mulher com as mãos sobre cristais; legenda 'have no idea'",
+     "arquivo": "ad02_broll_mulher_cristais_have_no_idea_00-00-07.jpg",
+     "src": "VSL-Pipeline-AD02/cand/00007.jpg"
+    },
+    {
+     "ts": "0:09",
+     "legenda": "Joe Dispenza de camisa preta no podcast (fundo laranja); legenda 'it's time for'",
+     "arquivo": "ad02_dispenza_podcast_its_time_for_00-00-09.jpg",
+     "src": "VSL-Pipeline-AD02/cand/00009.jpg"
+    },
+    {
+     "ts": "0:12",
+     "legenda": "Vista aérea do Vaticano / Praça de São Pedro; legenda 'while the Vatican'",
+     "arquivo": "ad02_vaticano_vista_aerea_00-00-12.jpg",
+     "src": "VSL-Pipeline-AD02/cand/00012.jpg"
+    },
+    {
+     "ts": "0:17",
+     "legenda": "Cérebro em raio-x sobre fundo preto; legenda 'that awakens this'",
+     "arquivo": "ad02_cerebro_raio_x_biblical_trick_00-00-17.jpg",
+     "src": "VSL-Pipeline-AD02/cand/00017.jpg"
+    },
+    {
+     "ts": "0:20",
+     "legenda": "Entrevistador jovem (microfone 'F'); legenda 'why has this'",
+     "arquivo": "ad02_entrevistador_why_has_this_00-00-20.jpg",
+     "src": "VSL-Pipeline-AD02/cand/00020.jpg"
+    },
+    {
+     "ts": "0:24",
+     "legenda": "Manuscrito antigo com estrela sobreposto ao Dispenza; legenda 'described in sacred'",
+     "arquivo": "ad02_manuscrito_antigo_sobreposto_00-00-24.jpg",
+     "src": "VSL-Pipeline-AD02/cand/00024.jpg"
+    },
+    {
+     "ts": "0:27",
+     "legenda": "Corte anatômico do cérebro com a pineal destacada; legenda 'it awakens this'",
+     "arquivo": "ad02_corte_cerebro_pineal_destacada_00-00-27.jpg",
+     "src": "VSL-Pipeline-AD02/cand/00027.jpg"
+    },
+    {
+     "ts": "0:30",
+     "legenda": "Glândula pineal (formato de pinha) com vasos; legenda 'call the pineal'",
+     "arquivo": "ad02_pinha_pineal_vasos_00-00-30.jpg",
+     "src": "VSL-Pipeline-AD02/cand/00030.jpg"
+    },
+    {
+     "ts": "0:35",
+     "legenda": "Estátua da pinha (Fontana della Pigna) no Vaticano; legenda 'while building a'",
+     "arquivo": "ad02_estatua_pinha_vaticano_4_metros_00-00-35.jpg",
+     "src": "VSL-Pipeline-AD02/cand/00035.jpg"
+    },
+    {
+     "ts": "0:38",
+     "legenda": "Entrevistador; legenda 'gland'",
+     "arquivo": "ad02_entrevistador_never_heard_00-00-38.jpg",
+     "src": "VSL-Pipeline-AD02/cand/00038.jpg"
+    },
+    {
+     "ts": "0:41",
+     "legenda": "Dispenza; legenda 'and isn't it'",
+     "arquivo": "ad02_dispenza_isnt_it_a_coincidence_00-00-41.jpg",
+     "src": "VSL-Pipeline-AD02/cand/00041.jpg"
+    },
+    {
+     "ts": "0:52",
+     "legenda": "Rosto escuro com olho de luz roxa na testa; legenda 'it's because your'",
+     "arquivo": "ad02_olho_roxo_testa_closed_and_locked_00-00-52.jpg",
+     "src": "VSL-Pipeline-AD02/cand/00052.jpg"
+    },
+    {
+     "ts": "0:57",
+     "legenda": "Mulher meditando numa pedra diante da cachoeira; legenda 'healing'",
+     "arquivo": "ad02_mulher_meditando_cachoeira_00-00-57.jpg",
+     "src": "VSL-Pipeline-AD02/cand/00057.jpg"
+    },
+    {
+     "ts": "1:06",
+     "legenda": "Prédios de vidro e pessoas na rua; legenda 'ones who control'",
+     "arquivo": "ad02_predios_vidro_banks_media_00-01-06.jpg",
+     "src": "VSL-Pipeline-AD02/cand/00066.jpg"
+    },
+    {
+     "ts": "1:10",
+     "legenda": "Entrevistador; legenda 'do you activate'",
+     "arquivo": "ad02_entrevistador_how_do_you_activate_00-01-10.jpg",
+     "src": "VSL-Pipeline-AD02/cand/00070.jpg"
+    },
+    {
+     "ts": "1:11",
+     "legenda": "Mulher com a mão na testa (truque dos dedos); legenda 'all you have'",
+     "arquivo": "ad02_mulher_mao_na_testa_perform_this_00-01-11.jpg",
+     "src": "VSL-Pipeline-AD02/cand/00071.jpg"
+    },
+    {
+     "ts": "1:15",
+     "legenda": "Homem careca com dois dedos na testa; legenda 'eye will open'",
+     "arquivo": "ad02_homem_careca_dedos_na_testa_00-01-15.jpg",
+     "src": "VSL-Pipeline-AD02/cand/00075.jpg"
+    },
+    {
+     "ts": "1:17",
+     "legenda": "Estantes dos Arquivos Secretos do Vaticano; legenda 'this was leaked'",
+     "arquivo": "ad02_arquivos_secretos_vaticano_estantes_00-01-17.jpg",
+     "src": "VSL-Pipeline-AD02/cand/00077.jpg"
+    },
+    {
+     "ts": "1:22",
+     "legenda": "Dispenza; legenda 'more than 77,000'",
+     "arquivo": "ad02_dispenza_more_than_77000_00-01-22.jpg",
+     "src": "VSL-Pipeline-AD02/cand/00082.jpg"
+    },
+    {
+     "ts": "1:26",
+     "legenda": "Dispenza no palco de camisa azul com frasco, dedo na testa; legenda 'a video'",
+     "arquivo": "ad02_dispenza_palco_frasco_camisa_azul_00-01-26.jpg",
+     "src": "VSL-Pipeline-AD02/cand/00086.jpg"
+    },
+    {
+     "ts": "1:31",
+     "legenda": "Dispenza com seta amarela; legenda 'I charge $97'",
+     "arquivo": "ad02_dispenza_learn_more_seta_i_charge_97_00-01-31.jpg",
+     "src": "VSL-Pipeline-AD02/cand/00091.jpg"
+    },
+    {
+     "ts": "1:40",
+     "legenda": "Dispenza com seta; legenda 'video free for'",
+     "arquivo": "ad02_dispenza_free_for_two_hours_00-01-40.jpg",
+     "src": "VSL-Pipeline-AD02/cand/00100.jpg"
+    },
+    {
+     "ts": "1:47",
+     "legenda": "Estátua da pinha; legenda 'under an order'",
+     "arquivo": "ad02_estatua_pinha_under_an_order_00-01-47.jpg",
+     "src": "VSL-Pipeline-AD02/cand/00107.jpg"
+    },
+    {
+     "ts": "1:55",
+     "legenda": "Dispenza com seta; legenda 'and click the'",
+     "arquivo": "ad02_dispenza_click_the_learn_more_00-01-55.jpg",
+     "src": "VSL-Pipeline-AD02/cand/00115.jpg"
+    },
+    {
+     "ts": "2:03",
+     "legenda": "Último frame: 'eye to awaken' com seta",
+     "arquivo": "ad02_dispenza_eye_to_awaken_final_00-02-03.jpg",
+     "src": "VSL-Pipeline-AD02/cand/00123.jpg"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "AD 03 — AD ESCALADO NOVO 03 (2:04)",
+   "inicio": "0:00",
+   "fim": "2:03",
+   "falas": [
+    {
+     "falante": "JOE DISPENZA (expert)",
+     "ts": "0:00",
+     "en": "This biblical trick recently leaked from the Vatican Secret Archives, and it is capable of opening anyone's third eye in up to 2 minutes. It's time for every American to awaken their third eye. While the Vatican tries to silence me, I'm going to show for the last time this biblical trick with the fingers that awakens this brain structure in just a few seconds.",
+     "pt": "Esse truque bíblico vazou recentemente dos Arquivos Secretos do Vaticano, e ele é capaz de abrir o terceiro olho de qualquer pessoa em até 2 minutos. É hora de todo americano despertar o terceiro olho. Enquanto o Vaticano tenta me silenciar, vou mostrar pela última vez esse truque bíblico com os dedos que desperta essa estrutura do cérebro em poucos segundos."
+    },
+    {
+     "falante": "ENTREVISTADOR (podcast)",
+     "ts": "0:19",
+     "en": "Why has this never been made public?",
+     "pt": "Por que isso nunca foi tornado público?"
+    },
+    {
+     "falante": "JOE DISPENZA (expert)",
+     "ts": "0:21",
+     "en": "This ritual is described in sacred manuscripts that are more than 3,000 years old. It awakens this gland which scientists call the pineal, and ancient civilizations called the third eye. The Vatican has hidden this all this time while building a 4-meter statue to symbolize this gland.",
+     "pt": "Esse ritual está descrito em manuscritos sagrados com mais de 3.000 anos. Ele desperta essa glândula, que os cientistas chamam de pineal e as civilizações antigas chamavam de terceiro olho. O Vaticano escondeu isso todo esse tempo, enquanto construía uma estátua de 4 metros para simbolizar essa glândula."
+    },
+    {
+     "falante": "ENTREVISTADOR (podcast)",
+     "ts": "0:37",
+     "en": "I've never heard about this at school or on television.",
+     "pt": "Nunca ouvi falar disso na escola nem na televisão."
+    },
+    {
+     "falante": "JOE DISPENZA (expert)",
+     "ts": "0:40",
+     "en": "And isn't it too much of a coincidence that the gland responsible for the strongest spiritual abilities is the one you were never taught to awaken? If you close your eyes and see only darkness, it's because your inner eye is closed and locked. When it is open, impossible things become possible, and a healing intuition, manifestation, and law of attraction energy begins to take over you automatically. Only 1% of people have this inner eye open. They are the ones who control the banks, the media, the economy, and most of us.",
+     "pt": "E não é coincidência demais que a glândula responsável pelas habilidades espirituais mais fortes seja justamente a que nunca te ensinaram a despertar? Se você fecha os olhos e só vê escuridão, é porque o seu olho interior está fechado e trancado. Quando ele está aberto, coisas impossíveis se tornam possíveis, e uma energia de cura, intuição, manifestação e lei da atração começa a tomar conta de você automaticamente. Só 1% das pessoas tem esse olho interior aberto. São elas que controlam os bancos, a mídia, a economia e a maioria de nós."
+    },
+    {
+     "falante": "ENTREVISTADOR (podcast)",
+     "ts": "1:08",
+     "en": "And how do you activate this eye?",
+     "pt": "E como se ativa esse olho?"
+    },
+    {
+     "falante": "JOE DISPENZA (expert)",
+     "ts": "1:10",
+     "en": "All you have to do is perform this biblical trick with your fingers, and your third eye will open right in the center of your skull. This was leaked in the Vatican Secret Archives exhibition in 2019. More than 77,000 people have already awakened with it after I released a video showing every step of this trick. This short video is available through the Learn More button below. I charge $97 for each viewing, but now after thousands people donated part of the unexpected amounts of money they received after activating their third eye with this trick, I'm making this video free for the next 2 hours. Video platforms have deleted this content more than 5 times in the last week under an order linked to the Vatican, claiming unauthorized knowledge. And the next removal could be permanent. That's why I advise you to stop whatever you're doing and click the Learn More button below now to watch this video before it disappears. They don't want you to discover it, but it only takes 15 seconds for your third eye to awaken.",
+     "pt": "Tudo o que você precisa fazer é executar esse truque bíblico com os dedos, e o seu terceiro olho vai se abrir bem no centro do seu crânio. Isso vazou na exposição dos Arquivos Secretos do Vaticano em 2019. Mais de 77.000 pessoas já despertaram com ele depois que eu lancei um vídeo mostrando cada passo desse truque. Esse vídeo curto está disponível pelo botão Saiba Mais abaixo. Eu cobro $97 por cada visualização, mas agora, depois que milhares de pessoas doaram parte das quantias inesperadas de dinheiro que receberam após ativar o terceiro olho com esse truque, estou liberando esse vídeo de graça pelas próximas 2 horas. As plataformas de vídeo apagaram esse conteúdo mais de 5 vezes na última semana por uma ordem ligada ao Vaticano, alegando conhecimento não autorizado. E a próxima remoção pode ser permanente. Por isso aconselho você a parar o que estiver fazendo e clicar no botão Saiba Mais abaixo agora para assistir a esse vídeo antes que ele desapareça. Eles não querem que você descubra, mas bastam 15 segundos para o seu terceiro olho despertar."
+    }
+   ],
+   "prints": [
+    {
+     "ts": "0:00",
+     "legenda": "Abertura: rabino fazendo triângulo com os dedos sobre b-roll de relevo com barras de ouro; Dispenza à direita; legenda 'this biblical trick'",
+     "arquivo": "ad03_rabino_triangulo_dedos_vaticano_relevo_00-00-00.jpg",
+     "src": "VSL-Pipeline-AD03/cand/00000.jpg"
+    },
+    {
+     "ts": "0:03",
+     "legenda": "Relevo esculpido com barras de ouro (Arquivos); legenda 'archives'",
+     "arquivo": "ad03_relevo_ouro_archives_00-00-03.jpg",
+     "src": "VSL-Pipeline-AD03/cand/00003.jpg"
+    },
+    {
+     "ts": "0:05",
+     "legenda": "Olho cósmico gigante (terceiro olho); legenda 'capable of opening'",
+     "arquivo": "ad03_olho_cosmico_gigante_00-00-05.jpg",
+     "src": "VSL-Pipeline-AD03/cand/00005.jpg"
+    },
+    {
+     "ts": "0:09",
+     "legenda": "Joe Dispenza no podcast; legenda 'every American to'",
+     "arquivo": "ad03_dispenza_podcast_every_american_00-00-09.jpg",
+     "src": "VSL-Pipeline-AD03/cand/00009.jpg"
+    },
+    {
+     "ts": "0:11",
+     "legenda": "Vista aérea do Vaticano com zoom; legenda 'while the Vatican'",
+     "arquivo": "ad03_vaticano_vista_aerea_zoom_00-00-11.jpg",
+     "src": "VSL-Pipeline-AD03/cand/00011.jpg"
+    },
+    {
+     "ts": "0:16",
+     "legenda": "Cérebro em raio-x; legenda 'with the fingers'",
+     "arquivo": "ad03_cerebro_raio_x_with_the_fingers_00-00-16.jpg",
+     "src": "VSL-Pipeline-AD03/cand/00016.jpg"
+    },
+    {
+     "ts": "0:20",
+     "legenda": "Entrevistador (microfone 'F'); legenda 'why has this'",
+     "arquivo": "ad03_entrevistador_why_has_this_00-00-20.jpg",
+     "src": "VSL-Pipeline-AD03/cand/00020.jpg"
+    },
+    {
+     "ts": "0:23",
+     "legenda": "Manuscrito antigo com Estrela de Davi; legenda 'described in sacred'",
+     "arquivo": "ad03_manuscrito_antigo_estrela_00-00-23.jpg",
+     "src": "VSL-Pipeline-AD03/cand/00023.jpg"
+    },
+    {
+     "ts": "0:27",
+     "legenda": "Corte anatômico do cérebro com a pineal; legenda 'it awakens this'",
+     "arquivo": "ad03_corte_cerebro_pineal_00-00-27.jpg",
+     "src": "VSL-Pipeline-AD03/cand/00027.jpg"
+    },
+    {
+     "ts": "0:31",
+     "legenda": "Glândula pineal (pinha) com vasos; legenda 'and ancient civilizations'",
+     "arquivo": "ad03_pinha_pineal_vasos_00-00-31.jpg",
+     "src": "VSL-Pipeline-AD03/cand/00031.jpg"
+    },
+    {
+     "ts": "0:35",
+     "legenda": "Estátua da pinha no Vaticano; legenda 'while building a'",
+     "arquivo": "ad03_estatua_pinha_vaticano_00-00-35.jpg",
+     "src": "VSL-Pipeline-AD03/cand/00035.jpg"
+    },
+    {
+     "ts": "0:38",
+     "legenda": "Entrevistador; legenda 'I've never heard'",
+     "arquivo": "ad03_entrevistador_never_heard_00-00-38.jpg",
+     "src": "VSL-Pipeline-AD03/cand/00038.jpg"
+    },
+    {
+     "ts": "0:42",
+     "legenda": "Dispenza; legenda 'a coincidence that'",
+     "arquivo": "ad03_dispenza_coincidence_00-00-42.jpg",
+     "src": "VSL-Pipeline-AD03/cand/00042.jpg"
+    },
+    {
+     "ts": "0:52",
+     "legenda": "Rosto escuro com olho de luz na testa; legenda 'inner eye is'",
+     "arquivo": "ad03_olho_roxo_testa_inner_eye_00-00-52.jpg",
+     "src": "VSL-Pipeline-AD03/cand/00052.jpg"
+    },
+    {
+     "ts": "0:57",
+     "legenda": "Mulher meditando diante da cachoeira; legenda 'intuition manifestation'",
+     "arquivo": "ad03_mulher_meditando_cachoeira_00-00-57.jpg",
+     "src": "VSL-Pipeline-AD03/cand/00057.jpg"
+    },
+    {
+     "ts": "1:06",
+     "legenda": "Prédios de vidro; legenda 'the banks'",
+     "arquivo": "ad03_predios_vidro_the_banks_00-01-06.jpg",
+     "src": "VSL-Pipeline-AD03/cand/00066.jpg"
+    },
+    {
+     "ts": "1:10",
+     "legenda": "Entrevistador; legenda 'this eye'",
+     "arquivo": "ad03_entrevistador_this_eye_00-01-10.jpg",
+     "src": "VSL-Pipeline-AD03/cand/00070.jpg"
+    },
+    {
+     "ts": "1:12",
+     "legenda": "Mulher com a mão na testa; legenda 'perform this biblical'",
+     "arquivo": "ad03_mulher_mao_na_testa_perform_00-01-12.jpg",
+     "src": "VSL-Pipeline-AD03/cand/00072.jpg"
+    },
+    {
+     "ts": "1:15",
+     "legenda": "Homem careca com dois dedos na testa; legenda 'right in the'",
+     "arquivo": "ad03_homem_careca_dedos_testa_right_in_the_00-01-15.jpg",
+     "src": "VSL-Pipeline-AD03/cand/00075.jpg"
+    },
+    {
+     "ts": "1:18",
+     "legenda": "Estantes dos Arquivos Secretos do Vaticano; legenda 'in the Vatican'",
+     "arquivo": "ad03_arquivos_vaticano_estantes_00-01-18.jpg",
+     "src": "VSL-Pipeline-AD03/cand/00078.jpg"
+    },
+    {
+     "ts": "1:22",
+     "legenda": "Dispenza; legenda 'more than 77,000'",
+     "arquivo": "ad03_dispenza_more_than_77000_00-01-22.jpg",
+     "src": "VSL-Pipeline-AD03/cand/00082.jpg"
+    },
+    {
+     "ts": "1:26",
+     "legenda": "Dispenza no palco de camisa azul com frasco; legenda 'showing every step'",
+     "arquivo": "ad03_dispenza_palco_frasco_showing_every_step_00-01-26.jpg",
+     "src": "VSL-Pipeline-AD03/cand/00086.jpg"
+    },
+    {
+     "ts": "1:31",
+     "legenda": "Dispenza com seta amarela; legenda 'I charge $97'",
+     "arquivo": "ad03_dispenza_i_charge_97_seta_00-01-31.jpg",
+     "src": "VSL-Pipeline-AD03/cand/00091.jpg"
+    },
+    {
+     "ts": "1:40",
+     "legenda": "Dispenza com seta; legenda 'video free for'",
+     "arquivo": "ad03_dispenza_video_free_for_00-01-40.jpg",
+     "src": "VSL-Pipeline-AD03/cand/00100.jpg"
+    },
+    {
+     "ts": "1:46",
+     "legenda": "Estátua da pinha; legenda 'under an order'",
+     "arquivo": "ad03_estatua_pinha_under_an_order_00-01-46.jpg",
+     "src": "VSL-Pipeline-AD03/cand/00106.jpg"
+    },
+    {
+     "ts": "1:55",
+     "legenda": "Dispenza com seta; legenda 'learn more button'",
+     "arquivo": "ad03_dispenza_learn_more_button_seta_00-01-55.jpg",
+     "src": "VSL-Pipeline-AD03/cand/00115.jpg"
+    },
+    {
+     "ts": "2:02",
+     "legenda": "Último frame: 'for your third' com seta",
+     "arquivo": "ad03_dispenza_for_your_third_final_00-02-02.jpg",
+     "src": "VSL-Pipeline-AD03/cand/00122.jpg"
+    }
+   ]
+  }
+ ]
+}
