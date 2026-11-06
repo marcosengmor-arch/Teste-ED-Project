@@ -7,7 +7,7 @@ from docx.enum.section import WD_ORIENT
 from docx.enum.text import WD_ALIGN_PARAGRAPH
 from docx.shared import Inches, Pt, RGBColor
 d=json.load(open(sys.argv[1])); out=sys.argv[2]
-fdir=Path('VSL-Pipeline-ADS/frames')
+fdir=Path(sys.argv[1]).parent/'frames'
 NAVY,GRAY=RGBColor(0x1F,0x3A,0x93),RGBColor(0x88,0x88,0x88)
 doc=Document(); sec=doc.sections[0]; sec.orientation=WD_ORIENT.LANDSCAPE
 sec.page_width,sec.page_height=Inches(11),Inches(8.5); sec.left_margin=sec.right_margin=Inches(0.8); sec.top_margin=sec.bottom_margin=Inches(0.7)

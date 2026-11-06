@@ -1,0 +1,3140 @@
+{
+  "id": "ebae87eb-f3d7-4ab3-9d9d-f28586dd7949",
+  "language_model": "assemblyai_default",
+  "acoustic_model": "assemblyai_default",
+  "language_code": "en_us",
+  "speech_understanding": null,
+  "translated_texts": null,
+  "status": "completed",
+  "audio_url": "https://drive.usercontent.google.com/download?id=1u84VKOmGp4DDl2cQYSAD4VyJUlsWreLC&export=download&confirm=t",
+  "text": "Pope Francis must be turning in his grave now that the current Pope has revealed this miraculous prayer. See the news. The current Pope says he is tired of hiding this from the people and that the time has come for everyone to learn the only prayer with miraculous power that is being concealed by the highest hierarchies of the Vatican. After revealing the sacred words, he was escorted away by security as if he had committed a crime. And the most incredible part is that after 72 hours, people were already reporting that they were unexpectedly blessed after repeating the prayer exactly the way the Pope teaches it. I will leave a short excerpt here. Jesus sacrificed himself for you, and yet you continue rejecting the gifts he offered you. But today, I bring your last opportunity. A healing prayer made only of sounds which we have had to hide for many years. I will leave the full broadcast video below. You will hear the 60-second divine sound taken from the Bible, capable of releasing unstoppable healing and prosperity into your life. Ignore this and you will close this door forever. This is your last chance to build a true connection with the Lord. Click the button below right now before it's too late.",
+  "words": [
+    {
+      "text": "Pope",
+      "start": 184,
+      "end": 272,
+      "confidence": 0.9997031,
+      "speaker": "A"
+    },
+    {
+      "text": "Francis",
+      "start": 272,
+      "end": 770,
+      "confidence": 0.9999931,
+      "speaker": "A"
+    },
+    {
+      "text": "must",
+      "start": 770,
+      "end": 994,
+      "confidence": 0.99994445,
+      "speaker": "A"
+    },
+    {
+      "text": "be",
+      "start": 994,
+      "end": 1155,
+      "confidence": 0.99996305,
+      "speaker": "A"
+    },
+    {
+      "text": "turning",
+      "start": 1155,
+      "end": 1604,
+      "confidence": 0.99997497,
+      "speaker": "A"
+    },
+    {
+      "text": "in",
+      "start": 1636,
+      "end": 1716,
+      "confidence": 0.9999249,
+      "speaker": "A"
+    },
+    {
+      "text": "his",
+      "start": 1716,
+      "end": 1845,
+      "confidence": 0.9999701,
+      "speaker": "A"
+    },
+    {
+      "text": "grave",
+      "start": 1941,
+      "end": 2326,
+      "confidence": 0.99999106,
+      "speaker": "A"
+    },
+    {
+      "text": "now",
+      "start": 2438,
+      "end": 2550,
+      "confidence": 0.9649969,
+      "speaker": "A"
+    },
+    {
+      "text": "that",
+      "start": 2663,
+      "end": 2775,
+      "confidence": 0.9998375,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 2823,
+      "end": 2919,
+      "confidence": 0.9999082,
+      "speaker": "A"
+    },
+    {
+      "text": "current",
+      "start": 2919,
+      "end": 3304,
+      "confidence": 0.99986947,
+      "speaker": "A"
+    },
+    {
+      "text": "Pope",
+      "start": 3304,
+      "end": 3625,
+      "confidence": 0.8520751,
+      "speaker": "A"
+    },
+    {
+      "text": "has",
+      "start": 3946,
+      "end": 4010,
+      "confidence": 0.9996389,
+      "speaker": "A"
+    },
+    {
+      "text": "revealed",
+      "start": 4123,
+      "end": 4604,
+      "confidence": 0.9998969,
+      "speaker": "A"
+    },
+    {
+      "text": "this",
+      "start": 4604,
+      "end": 4877,
+      "confidence": 0.9992945,
+      "speaker": "A"
+    },
+    {
+      "text": "miraculous",
+      "start": 4909,
+      "end": 5727,
+      "confidence": 0.9994679,
+      "speaker": "A"
+    },
+    {
+      "text": "prayer.",
+      "start": 5727,
+      "end": 6208,
+      "confidence": 0.98280096,
+      "speaker": "A"
+    },
+    {
+      "text": "See",
+      "start": 6449,
+      "end": 6690,
+      "confidence": 0.99224275,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 6690,
+      "end": 6786,
+      "confidence": 0.99929476,
+      "speaker": "A"
+    },
+    {
+      "text": "news.",
+      "start": 6786,
+      "end": 7139,
+      "confidence": 0.9835714,
+      "speaker": "A"
+    },
+    {
+      "text": "The",
+      "start": 7877,
+      "end": 7941,
+      "confidence": 0.99903095,
+      "speaker": "B"
+    },
+    {
+      "text": "current",
+      "start": 7973,
+      "end": 8294,
+      "confidence": 0.9999261,
+      "speaker": "B"
+    },
+    {
+      "text": "Pope",
+      "start": 8294,
+      "end": 8551,
+      "confidence": 0.9999229,
+      "speaker": "B"
+    },
+    {
+      "text": "says",
+      "start": 8551,
+      "end": 8823,
+      "confidence": 0.9995198,
+      "speaker": "B"
+    },
+    {
+      "text": "he",
+      "start": 8920,
+      "end": 9080,
+      "confidence": 0.9935148,
+      "speaker": "B"
+    },
+    {
+      "text": "is",
+      "start": 9080,
+      "end": 9144,
+      "confidence": 0.9962774,
+      "speaker": "B"
+    },
+    {
+      "text": "tired",
+      "start": 9241,
+      "end": 9594,
+      "confidence": 0.99997115,
+      "speaker": "B"
+    },
+    {
+      "text": "of",
+      "start": 9594,
+      "end": 9722,
+      "confidence": 0.9999944,
+      "speaker": "B"
+    },
+    {
+      "text": "hiding",
+      "start": 9722,
+      "end": 10027,
+      "confidence": 0.99999,
+      "speaker": "B"
+    },
+    {
+      "text": "this",
+      "start": 10059,
+      "end": 10187,
+      "confidence": 0.9998801,
+      "speaker": "B"
+    },
+    {
+      "text": "from",
+      "start": 10283,
+      "end": 10396,
+      "confidence": 0.9999571,
+      "speaker": "B"
+    },
+    {
+      "text": "the",
+      "start": 10460,
+      "end": 10540,
+      "confidence": 0.999818,
+      "speaker": "B"
+    },
+    {
+      "text": "people",
+      "start": 10540,
+      "end": 11005,
+      "confidence": 0.9998956,
+      "speaker": "B"
+    },
+    {
+      "text": "and",
+      "start": 11326,
+      "end": 11406,
+      "confidence": 0.556878,
+      "speaker": "B"
+    },
+    {
+      "text": "that",
+      "start": 11406,
+      "end": 11503,
+      "confidence": 0.9999206,
+      "speaker": "B"
+    },
+    {
+      "text": "the",
+      "start": 11503,
+      "end": 11583,
+      "confidence": 0.9999149,
+      "speaker": "B"
+    },
+    {
+      "text": "time",
+      "start": 11583,
+      "end": 11872,
+      "confidence": 0.99998593,
+      "speaker": "B"
+    },
+    {
+      "text": "has",
+      "start": 11904,
+      "end": 12032,
+      "confidence": 0.99989176,
+      "speaker": "B"
+    },
+    {
+      "text": "come",
+      "start": 12064,
+      "end": 12193,
+      "confidence": 0.99995136,
+      "speaker": "B"
+    },
+    {
+      "text": "for",
+      "start": 12305,
+      "end": 12433,
+      "confidence": 0.99998593,
+      "speaker": "B"
+    },
+    {
+      "text": "everyone",
+      "start": 12610,
+      "end": 12995,
+      "confidence": 0.9999672,
+      "speaker": "B"
+    },
+    {
+      "text": "to",
+      "start": 13027,
+      "end": 13123,
+      "confidence": 0.99998665,
+      "speaker": "B"
+    },
+    {
+      "text": "learn",
+      "start": 13187,
+      "end": 13380,
+      "confidence": 0.99993634,
+      "speaker": "B"
+    },
+    {
+      "text": "the",
+      "start": 13428,
+      "end": 13588,
+      "confidence": 0.99987674,
+      "speaker": "B"
+    },
+    {
+      "text": "only",
+      "start": 13733,
+      "end": 13957,
+      "confidence": 0.9998412,
+      "speaker": "B"
+    },
+    {
+      "text": "prayer",
+      "start": 13989,
+      "end": 14262,
+      "confidence": 0.99986017,
+      "speaker": "B"
+    },
+    {
+      "text": "with",
+      "start": 14471,
+      "end": 14679,
+      "confidence": 0.997413,
+      "speaker": "B"
+    },
+    {
+      "text": "miraculous",
+      "start": 14695,
+      "end": 15353,
+      "confidence": 0.99993455,
+      "speaker": "B"
+    },
+    {
+      "text": "power",
+      "start": 15353,
+      "end": 15786,
+      "confidence": 0.9999752,
+      "speaker": "B"
+    },
+    {
+      "text": "that",
+      "start": 16075,
+      "end": 16187,
+      "confidence": 0.9988445,
+      "speaker": "B"
+    },
+    {
+      "text": "is",
+      "start": 16236,
+      "end": 16284,
+      "confidence": 0.99927825,
+      "speaker": "B"
+    },
+    {
+      "text": "being",
+      "start": 16380,
+      "end": 16524,
+      "confidence": 0.99995315,
+      "speaker": "B"
+    },
+    {
+      "text": "concealed",
+      "start": 16621,
+      "end": 17198,
+      "confidence": 0.99998,
+      "speaker": "B"
+    },
+    {
+      "text": "by",
+      "start": 17198,
+      "end": 17359,
+      "confidence": 0.99997234,
+      "speaker": "B"
+    },
+    {
+      "text": "the",
+      "start": 17359,
+      "end": 17503,
+      "confidence": 0.99999094,
+      "speaker": "B"
+    },
+    {
+      "text": "highest",
+      "start": 17503,
+      "end": 17984,
+      "confidence": 0.9999244,
+      "speaker": "B"
+    },
+    {
+      "text": "hierarchies",
+      "start": 17984,
+      "end": 18690,
+      "confidence": 0.9999236,
+      "speaker": "B"
+    },
+    {
+      "text": "of",
+      "start": 18947,
+      "end": 19043,
+      "confidence": 0.99989045,
+      "speaker": "B"
+    },
+    {
+      "text": "the",
+      "start": 19043,
+      "end": 19123,
+      "confidence": 0.9999502,
+      "speaker": "B"
+    },
+    {
+      "text": "Vatican.",
+      "start": 19123,
+      "end": 19573,
+      "confidence": 0.99949193,
+      "speaker": "B"
+    },
+    {
+      "text": "After",
+      "start": 19926,
+      "end": 20118,
+      "confidence": 0.99774146,
+      "speaker": "B"
+    },
+    {
+      "text": "revealing",
+      "start": 20150,
+      "end": 20535,
+      "confidence": 0.9999589,
+      "speaker": "B"
+    },
+    {
+      "text": "the",
+      "start": 20567,
+      "end": 20647,
+      "confidence": 0.9998658,
+      "speaker": "B"
+    },
+    {
+      "text": "sacred",
+      "start": 20647,
+      "end": 21113,
+      "confidence": 0.99936706,
+      "speaker": "B"
+    },
+    {
+      "text": "words,",
+      "start": 21113,
+      "end": 21450,
+      "confidence": 0.9999626,
+      "speaker": "B"
+    },
+    {
+      "text": "he",
+      "start": 21690,
+      "end": 21803,
+      "confidence": 0.99972755,
+      "speaker": "B"
+    },
+    {
+      "text": "was",
+      "start": 21835,
+      "end": 21947,
+      "confidence": 0.99997854,
+      "speaker": "B"
+    },
+    {
+      "text": "escorted",
+      "start": 22091,
+      "end": 22573,
+      "confidence": 0.99998486,
+      "speaker": "B"
+    },
+    {
+      "text": "away",
+      "start": 22573,
+      "end": 22813,
+      "confidence": 0.9999825,
+      "speaker": "B"
+    },
+    {
+      "text": "by",
+      "start": 22813,
+      "end": 22990,
+      "confidence": 0.9999732,
+      "speaker": "B"
+    },
+    {
+      "text": "security",
+      "start": 22990,
+      "end": 23664,
+      "confidence": 0.99995077,
+      "speaker": "B"
+    },
+    {
+      "text": "as",
+      "start": 23760,
+      "end": 23824,
+      "confidence": 0.9654409,
+      "speaker": "B"
+    },
+    {
+      "text": "if",
+      "start": 23920,
+      "end": 24081,
+      "confidence": 0.9999684,
+      "speaker": "B"
+    },
+    {
+      "text": "he",
+      "start": 24081,
+      "end": 24241,
+      "confidence": 0.9999578,
+      "speaker": "B"
+    },
+    {
+      "text": "had",
+      "start": 24241,
+      "end": 24402,
+      "confidence": 0.99982977,
+      "speaker": "B"
+    },
+    {
+      "text": "committed",
+      "start": 24402,
+      "end": 24867,
+      "confidence": 0.9999629,
+      "speaker": "B"
+    },
+    {
+      "text": "a",
+      "start": 24979,
+      "end": 25124,
+      "confidence": 0.9999167,
+      "speaker": "B"
+    },
+    {
+      "text": "crime.",
+      "start": 25124,
+      "end": 25589,
+      "confidence": 0.9849065,
+      "speaker": "B"
+    },
+    {
+      "text": "And",
+      "start": 25854,
+      "end": 25878,
+      "confidence": 0.9553663,
+      "speaker": "B"
+    },
+    {
+      "text": "the",
+      "start": 25878,
+      "end": 25942,
+      "confidence": 0.9995697,
+      "speaker": "B"
+    },
+    {
+      "text": "most",
+      "start": 25942,
+      "end": 26247,
+      "confidence": 0.999946,
+      "speaker": "B"
+    },
+    {
+      "text": "incredible",
+      "start": 26247,
+      "end": 26728,
+      "confidence": 0.9999653,
+      "speaker": "B"
+    },
+    {
+      "text": "part",
+      "start": 26809,
+      "end": 27130,
+      "confidence": 0.99990046,
+      "speaker": "B"
+    },
+    {
+      "text": "is",
+      "start": 27146,
+      "end": 27194,
+      "confidence": 0.99960476,
+      "speaker": "B"
+    },
+    {
+      "text": "that",
+      "start": 27226,
+      "end": 27338,
+      "confidence": 0.9998672,
+      "speaker": "B"
+    },
+    {
+      "text": "after",
+      "start": 27451,
+      "end": 27707,
+      "confidence": 0.98298407,
+      "speaker": "B"
+    },
+    {
+      "text": "72",
+      "start": 27707,
+      "end": 28494,
+      "confidence": 0.9999925,
+      "speaker": "B"
+    },
+    {
+      "text": "hours,",
+      "start": 28654,
+      "end": 28959,
+      "confidence": 0.99987864,
+      "speaker": "B"
+    },
+    {
+      "text": "people",
+      "start": 29296,
+      "end": 29617,
+      "confidence": 0.99986494,
+      "speaker": "B"
+    },
+    {
+      "text": "were",
+      "start": 29617,
+      "end": 29778,
+      "confidence": 0.9999521,
+      "speaker": "B"
+    },
+    {
+      "text": "already",
+      "start": 29858,
+      "end": 30356,
+      "confidence": 0.99996555,
+      "speaker": "B"
+    },
+    {
+      "text": "reporting",
+      "start": 30420,
+      "end": 30885,
+      "confidence": 0.99993515,
+      "speaker": "B"
+    },
+    {
+      "text": "that",
+      "start": 30982,
+      "end": 31078,
+      "confidence": 0.99981385,
+      "speaker": "B"
+    },
+    {
+      "text": "they",
+      "start": 31078,
+      "end": 31206,
+      "confidence": 0.99988246,
+      "speaker": "B"
+    },
+    {
+      "text": "were",
+      "start": 31222,
+      "end": 31431,
+      "confidence": 0.99993694,
+      "speaker": "B"
+    },
+    {
+      "text": "unexpectedly",
+      "start": 31479,
+      "end": 32330,
+      "confidence": 0.9999665,
+      "speaker": "B"
+    },
+    {
+      "text": "blessed",
+      "start": 32442,
+      "end": 32972,
+      "confidence": 0.9999424,
+      "speaker": "B"
+    },
+    {
+      "text": "after",
+      "start": 33309,
+      "end": 33566,
+      "confidence": 0.9895371,
+      "speaker": "B"
+    },
+    {
+      "text": "repeating",
+      "start": 33566,
+      "end": 33983,
+      "confidence": 0.9999695,
+      "speaker": "B"
+    },
+    {
+      "text": "the",
+      "start": 34031,
+      "end": 34127,
+      "confidence": 0.9997032,
+      "speaker": "B"
+    },
+    {
+      "text": "prayer",
+      "start": 34127,
+      "end": 34480,
+      "confidence": 0.9999691,
+      "speaker": "B"
+    },
+    {
+      "text": "exactly",
+      "start": 34513,
+      "end": 35219,
+      "confidence": 0.9990522,
+      "speaker": "B"
+    },
+    {
+      "text": "the",
+      "start": 35235,
+      "end": 35283,
+      "confidence": 0.9999169,
+      "speaker": "B"
+    },
+    {
+      "text": "way",
+      "start": 35331,
+      "end": 35492,
+      "confidence": 0.9999248,
+      "speaker": "B"
+    },
+    {
+      "text": "the",
+      "start": 35556,
+      "end": 35652,
+      "confidence": 0.9995621,
+      "speaker": "B"
+    },
+    {
+      "text": "Pope",
+      "start": 35652,
+      "end": 35909,
+      "confidence": 0.9911084,
+      "speaker": "B"
+    },
+    {
+      "text": "teaches",
+      "start": 35973,
+      "end": 36342,
+      "confidence": 0.9999815,
+      "speaker": "B"
+    },
+    {
+      "text": "it.",
+      "start": 36374,
+      "end": 36503,
+      "confidence": 0.9994791,
+      "speaker": "B"
+    },
+    {
+      "text": "I",
+      "start": 36760,
+      "end": 36824,
+      "confidence": 0.9950388,
+      "speaker": "B"
+    },
+    {
+      "text": "will",
+      "start": 36840,
+      "end": 36936,
+      "confidence": 0.9959061,
+      "speaker": "B"
+    },
+    {
+      "text": "leave",
+      "start": 36936,
+      "end": 37032,
+      "confidence": 0.9999474,
+      "speaker": "B"
+    },
+    {
+      "text": "a",
+      "start": 37032,
+      "end": 37097,
+      "confidence": 0.99987876,
+      "speaker": "B"
+    },
+    {
+      "text": "short",
+      "start": 37097,
+      "end": 37402,
+      "confidence": 0.9999318,
+      "speaker": "B"
+    },
+    {
+      "text": "excerpt",
+      "start": 37482,
+      "end": 37883,
+      "confidence": 0.9997173,
+      "speaker": "B"
+    },
+    {
+      "text": "here.",
+      "start": 37883,
+      "end": 38060,
+      "confidence": 0.99890196,
+      "speaker": "B"
+    },
+    {
+      "text": "Jesus",
+      "start": 38300,
+      "end": 38718,
+      "confidence": 0.999273,
+      "speaker": "C"
+    },
+    {
+      "text": "sacrificed",
+      "start": 38718,
+      "end": 39488,
+      "confidence": 0.9999547,
+      "speaker": "C"
+    },
+    {
+      "text": "himself",
+      "start": 39488,
+      "end": 40002,
+      "confidence": 0.9884694,
+      "speaker": "C"
+    },
+    {
+      "text": "for",
+      "start": 40066,
+      "end": 40210,
+      "confidence": 0.99998,
+      "speaker": "C"
+    },
+    {
+      "text": "you,",
+      "start": 40210,
+      "end": 40323,
+      "confidence": 0.9978857,
+      "speaker": "C"
+    },
+    {
+      "text": "and",
+      "start": 40788,
+      "end": 40852,
+      "confidence": 0.99984455,
+      "speaker": "C"
+    },
+    {
+      "text": "yet",
+      "start": 40933,
+      "end": 41189,
+      "confidence": 0.99997723,
+      "speaker": "C"
+    },
+    {
+      "text": "you",
+      "start": 41189,
+      "end": 41350,
+      "confidence": 0.99566674,
+      "speaker": "C"
+    },
+    {
+      "text": "continue",
+      "start": 41350,
+      "end": 41960,
+      "confidence": 0.99989617,
+      "speaker": "C"
+    },
+    {
+      "text": "rejecting",
+      "start": 41976,
+      "end": 42521,
+      "confidence": 0.99991596,
+      "speaker": "C"
+    },
+    {
+      "text": "the",
+      "start": 42634,
+      "end": 42714,
+      "confidence": 0.99995255,
+      "speaker": "C"
+    },
+    {
+      "text": "gifts",
+      "start": 42778,
+      "end": 43115,
+      "confidence": 0.9999275,
+      "speaker": "C"
+    },
+    {
+      "text": "he",
+      "start": 43115,
+      "end": 43260,
+      "confidence": 0.9984718,
+      "speaker": "C"
+    },
+    {
+      "text": "offered",
+      "start": 43340,
+      "end": 43677,
+      "confidence": 0.999915,
+      "speaker": "C"
+    },
+    {
+      "text": "you.",
+      "start": 43677,
+      "end": 43838,
+      "confidence": 0.99972034,
+      "speaker": "C"
+    },
+    {
+      "text": "But",
+      "start": 44239,
+      "end": 44335,
+      "confidence": 0.99855727,
+      "speaker": "C"
+    },
+    {
+      "text": "today,",
+      "start": 44399,
+      "end": 44640,
+      "confidence": 0.82962626,
+      "speaker": "C"
+    },
+    {
+      "text": "I",
+      "start": 45202,
+      "end": 45250,
+      "confidence": 0.9995523,
+      "speaker": "C"
+    },
+    {
+      "text": "bring",
+      "start": 45362,
+      "end": 45555,
+      "confidence": 0.99992204,
+      "speaker": "C"
+    },
+    {
+      "text": "your",
+      "start": 45603,
+      "end": 45715,
+      "confidence": 0.9894609,
+      "speaker": "C"
+    },
+    {
+      "text": "last",
+      "start": 45764,
+      "end": 46101,
+      "confidence": 0.99997294,
+      "speaker": "C"
+    },
+    {
+      "text": "opportunity.",
+      "start": 46165,
+      "end": 46935,
+      "confidence": 0.88145185,
+      "speaker": "C"
+    },
+    {
+      "text": "A",
+      "start": 47272,
+      "end": 47288,
+      "confidence": 0.9990007,
+      "speaker": "C"
+    },
+    {
+      "text": "healing",
+      "start": 47369,
+      "end": 47658,
+      "confidence": 0.99991584,
+      "speaker": "C"
+    },
+    {
+      "text": "prayer",
+      "start": 47770,
+      "end": 48075,
+      "confidence": 0.99997723,
+      "speaker": "C"
+    },
+    {
+      "text": "made",
+      "start": 48075,
+      "end": 48316,
+      "confidence": 0.9993943,
+      "speaker": "C"
+    },
+    {
+      "text": "only",
+      "start": 48316,
+      "end": 48572,
+      "confidence": 0.9999007,
+      "speaker": "C"
+    },
+    {
+      "text": "of",
+      "start": 48572,
+      "end": 48653,
+      "confidence": 0.9999237,
+      "speaker": "C"
+    },
+    {
+      "text": "sounds",
+      "start": 48653,
+      "end": 49182,
+      "confidence": 0.99979705,
+      "speaker": "C"
+    },
+    {
+      "text": "which",
+      "start": 49279,
+      "end": 49439,
+      "confidence": 0.81448853,
+      "speaker": "C"
+    },
+    {
+      "text": "we",
+      "start": 49455,
+      "end": 49600,
+      "confidence": 0.99983823,
+      "speaker": "C"
+    },
+    {
+      "text": "have",
+      "start": 49600,
+      "end": 49760,
+      "confidence": 0.9993338,
+      "speaker": "C"
+    },
+    {
+      "text": "had",
+      "start": 49760,
+      "end": 49904,
+      "confidence": 0.99982435,
+      "speaker": "C"
+    },
+    {
+      "text": "to",
+      "start": 50017,
+      "end": 50097,
+      "confidence": 0.99986994,
+      "speaker": "C"
+    },
+    {
+      "text": "hide",
+      "start": 50161,
+      "end": 50466,
+      "confidence": 0.99990916,
+      "speaker": "C"
+    },
+    {
+      "text": "for",
+      "start": 50563,
+      "end": 50643,
+      "confidence": 0.9995908,
+      "speaker": "C"
+    },
+    {
+      "text": "many",
+      "start": 50643,
+      "end": 50948,
+      "confidence": 0.99963915,
+      "speaker": "C"
+    },
+    {
+      "text": "years.",
+      "start": 50980,
+      "end": 51349,
+      "confidence": 0.9911886,
+      "speaker": "C"
+    },
+    {
+      "text": "I",
+      "start": 51790,
+      "end": 51814,
+      "confidence": 0.980168,
+      "speaker": "B"
+    },
+    {
+      "text": "will",
+      "start": 51846,
+      "end": 51927,
+      "confidence": 0.9980217,
+      "speaker": "B"
+    },
+    {
+      "text": "leave",
+      "start": 51927,
+      "end": 52071,
+      "confidence": 0.9999162,
+      "speaker": "B"
+    },
+    {
+      "text": "the",
+      "start": 52103,
+      "end": 52264,
+      "confidence": 0.9993494,
+      "speaker": "B"
+    },
+    {
+      "text": "full",
+      "start": 52328,
+      "end": 52472,
+      "confidence": 0.99993575,
+      "speaker": "B"
+    },
+    {
+      "text": "broadcast",
+      "start": 52504,
+      "end": 53130,
+      "confidence": 0.99972814,
+      "speaker": "B"
+    },
+    {
+      "text": "video",
+      "start": 53130,
+      "end": 53387,
+      "confidence": 0.99977666,
+      "speaker": "B"
+    },
+    {
+      "text": "below.",
+      "start": 53451,
+      "end": 53740,
+      "confidence": 0.99796796,
+      "speaker": "B"
+    },
+    {
+      "text": "You",
+      "start": 54093,
+      "end": 54157,
+      "confidence": 0.9746986,
+      "speaker": "B"
+    },
+    {
+      "text": "will",
+      "start": 54254,
+      "end": 54334,
+      "confidence": 0.9994646,
+      "speaker": "B"
+    },
+    {
+      "text": "hear",
+      "start": 54414,
+      "end": 54591,
+      "confidence": 0.9999299,
+      "speaker": "B"
+    },
+    {
+      "text": "the",
+      "start": 54671,
+      "end": 54767,
+      "confidence": 0.9943732,
+      "speaker": "B"
+    },
+    {
+      "text": "60-second",
+      "start": 54767,
+      "end": 55874,
+      "confidence": 0.99881774,
+      "speaker": "B"
+    },
+    {
+      "text": "divine",
+      "start": 55874,
+      "end": 56179,
+      "confidence": 0.94394726,
+      "speaker": "B"
+    },
+    {
+      "text": "sound",
+      "start": 56259,
+      "end": 56596,
+      "confidence": 0.9997396,
+      "speaker": "B"
+    },
+    {
+      "text": "taken",
+      "start": 56596,
+      "end": 56917,
+      "confidence": 0.9901405,
+      "speaker": "B"
+    },
+    {
+      "text": "from",
+      "start": 56917,
+      "end": 57046,
+      "confidence": 0.9997056,
+      "speaker": "B"
+    },
+    {
+      "text": "the",
+      "start": 57078,
+      "end": 57158,
+      "confidence": 0.9998565,
+      "speaker": "B"
+    },
+    {
+      "text": "Bible,",
+      "start": 57158,
+      "end": 57624,
+      "confidence": 0.7854559,
+      "speaker": "B"
+    },
+    {
+      "text": "capable",
+      "start": 57784,
+      "end": 58169,
+      "confidence": 0.9913291,
+      "speaker": "B"
+    },
+    {
+      "text": "of",
+      "start": 58265,
+      "end": 58362,
+      "confidence": 0.9997565,
+      "speaker": "B"
+    },
+    {
+      "text": "releasing",
+      "start": 58362,
+      "end": 58811,
+      "confidence": 0.9999081,
+      "speaker": "B"
+    },
+    {
+      "text": "unstoppable",
+      "start": 58923,
+      "end": 59597,
+      "confidence": 0.9973911,
+      "speaker": "B"
+    },
+    {
+      "text": "healing",
+      "start": 59645,
+      "end": 60095,
+      "confidence": 0.9995078,
+      "speaker": "B"
+    },
+    {
+      "text": "and",
+      "start": 60111,
+      "end": 60191,
+      "confidence": 0.9918229,
+      "speaker": "B"
+    },
+    {
+      "text": "prosperity",
+      "start": 60207,
+      "end": 60929,
+      "confidence": 0.9999254,
+      "speaker": "B"
+    },
+    {
+      "text": "into",
+      "start": 61090,
+      "end": 61266,
+      "confidence": 0.99593985,
+      "speaker": "B"
+    },
+    {
+      "text": "your",
+      "start": 61395,
+      "end": 61523,
+      "confidence": 0.9993895,
+      "speaker": "B"
+    },
+    {
+      "text": "life.",
+      "start": 61635,
+      "end": 61844,
+      "confidence": 0.99785477,
+      "speaker": "B"
+    },
+    {
+      "text": "Ignore",
+      "start": 62197,
+      "end": 62406,
+      "confidence": 0.99698263,
+      "speaker": "B"
+    },
+    {
+      "text": "this",
+      "start": 62518,
+      "end": 62662,
+      "confidence": 0.99989843,
+      "speaker": "B"
+    },
+    {
+      "text": "and",
+      "start": 63096,
+      "end": 63256,
+      "confidence": 0.5976562,
+      "speaker": "B"
+    },
+    {
+      "text": "you",
+      "start": 63256,
+      "end": 63352,
+      "confidence": 0.99965465,
+      "speaker": "B"
+    },
+    {
+      "text": "will",
+      "start": 63417,
+      "end": 63529,
+      "confidence": 0.9992872,
+      "speaker": "B"
+    },
+    {
+      "text": "close",
+      "start": 63641,
+      "end": 63866,
+      "confidence": 0.99924743,
+      "speaker": "B"
+    },
+    {
+      "text": "this",
+      "start": 63978,
+      "end": 64091,
+      "confidence": 0.99858,
+      "speaker": "B"
+    },
+    {
+      "text": "door",
+      "start": 64139,
+      "end": 64331,
+      "confidence": 0.9977108,
+      "speaker": "B"
+    },
+    {
+      "text": "forever.",
+      "start": 64379,
+      "end": 64861,
+      "confidence": 0.9941166,
+      "speaker": "B"
+    },
+    {
+      "text": "This",
+      "start": 65182,
+      "end": 65406,
+      "confidence": 0.5875775,
+      "speaker": "B"
+    },
+    {
+      "text": "is",
+      "start": 65406,
+      "end": 65471,
+      "confidence": 0.99964094,
+      "speaker": "B"
+    },
+    {
+      "text": "your",
+      "start": 65487,
+      "end": 65599,
+      "confidence": 0.99974424,
+      "speaker": "B"
+    },
+    {
+      "text": "last",
+      "start": 65727,
+      "end": 66064,
+      "confidence": 0.9994659,
+      "speaker": "B"
+    },
+    {
+      "text": "chance",
+      "start": 66064,
+      "end": 66385,
+      "confidence": 0.99937576,
+      "speaker": "B"
+    },
+    {
+      "text": "to",
+      "start": 66385,
+      "end": 66482,
+      "confidence": 0.9971505,
+      "speaker": "B"
+    },
+    {
+      "text": "build",
+      "start": 66530,
+      "end": 66706,
+      "confidence": 0.9980521,
+      "speaker": "B"
+    },
+    {
+      "text": "a",
+      "start": 66706,
+      "end": 66722,
+      "confidence": 0.99903834,
+      "speaker": "B"
+    },
+    {
+      "text": "true",
+      "start": 66786,
+      "end": 67091,
+      "confidence": 0.9994098,
+      "speaker": "B"
+    },
+    {
+      "text": "connection",
+      "start": 67091,
+      "end": 67509,
+      "confidence": 0.9986181,
+      "speaker": "B"
+    },
+    {
+      "text": "with",
+      "start": 67509,
+      "end": 67669,
+      "confidence": 0.997389,
+      "speaker": "B"
+    },
+    {
+      "text": "the",
+      "start": 67669,
+      "end": 67814,
+      "confidence": 0.9997354,
+      "speaker": "B"
+    },
+    {
+      "text": "Lord.",
+      "start": 67814,
+      "end": 68070,
+      "confidence": 0.9986385,
+      "speaker": "B"
+    },
+    {
+      "text": "Click",
+      "start": 68295,
+      "end": 68552,
+      "confidence": 0.97174555,
+      "speaker": "B"
+    },
+    {
+      "text": "the",
+      "start": 68552,
+      "end": 68616,
+      "confidence": 0.9998242,
+      "speaker": "B"
+    },
+    {
+      "text": "button",
+      "start": 68632,
+      "end": 68953,
+      "confidence": 0.9999242,
+      "speaker": "B"
+    },
+    {
+      "text": "below",
+      "start": 68953,
+      "end": 69161,
+      "confidence": 0.99969065,
+      "speaker": "B"
+    },
+    {
+      "text": "right",
+      "start": 69418,
+      "end": 69659,
+      "confidence": 0.9861065,
+      "speaker": "B"
+    },
+    {
+      "text": "now",
+      "start": 69659,
+      "end": 69787,
+      "confidence": 0.99975747,
+      "speaker": "B"
+    },
+    {
+      "text": "before",
+      "start": 70221,
+      "end": 70477,
+      "confidence": 0.9286963,
+      "speaker": "B"
+    },
+    {
+      "text": "it's",
+      "start": 70477,
+      "end": 70638,
+      "confidence": 0.9999267,
+      "speaker": "B"
+    },
+    {
+      "text": "too",
+      "start": 70638,
+      "end": 70863,
+      "confidence": 0.9993932,
+      "speaker": "B"
+    },
+    {
+      "text": "late.",
+      "start": 70863,
+      "end": 70991,
+      "confidence": 0.96883327,
+      "speaker": "B"
+    }
+  ],
+  "utterances": [
+    {
+      "speaker": "A",
+      "text": "Pope Francis must be turning in his grave now that the current Pope has revealed this miraculous prayer. See the news.",
+      "confidence": 0.98931617,
+      "start": 96,
+      "end": 7139,
+      "words": [
+        {
+          "text": "Pope",
+          "start": 184,
+          "end": 272,
+          "confidence": 0.9997031,
+          "speaker": "A"
+        },
+        {
+          "text": "Francis",
+          "start": 272,
+          "end": 770,
+          "confidence": 0.9999931,
+          "speaker": "A"
+        },
+        {
+          "text": "must",
+          "start": 770,
+          "end": 994,
+          "confidence": 0.99994445,
+          "speaker": "A"
+        },
+        {
+          "text": "be",
+          "start": 994,
+          "end": 1155,
+          "confidence": 0.99996305,
+          "speaker": "A"
+        },
+        {
+          "text": "turning",
+          "start": 1155,
+          "end": 1604,
+          "confidence": 0.99997497,
+          "speaker": "A"
+        },
+        {
+          "text": "in",
+          "start": 1636,
+          "end": 1716,
+          "confidence": 0.9999249,
+          "speaker": "A"
+        },
+        {
+          "text": "his",
+          "start": 1716,
+          "end": 1845,
+          "confidence": 0.9999701,
+          "speaker": "A"
+        },
+        {
+          "text": "grave",
+          "start": 1941,
+          "end": 2326,
+          "confidence": 0.99999106,
+          "speaker": "A"
+        },
+        {
+          "text": "now",
+          "start": 2438,
+          "end": 2550,
+          "confidence": 0.9649969,
+          "speaker": "A"
+        },
+        {
+          "text": "that",
+          "start": 2663,
+          "end": 2775,
+          "confidence": 0.9998375,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 2823,
+          "end": 2919,
+          "confidence": 0.9999082,
+          "speaker": "A"
+        },
+        {
+          "text": "current",
+          "start": 2919,
+          "end": 3304,
+          "confidence": 0.99986947,
+          "speaker": "A"
+        },
+        {
+          "text": "Pope",
+          "start": 3304,
+          "end": 3625,
+          "confidence": 0.8520751,
+          "speaker": "A"
+        },
+        {
+          "text": "has",
+          "start": 3946,
+          "end": 4010,
+          "confidence": 0.9996389,
+          "speaker": "A"
+        },
+        {
+          "text": "revealed",
+          "start": 4123,
+          "end": 4604,
+          "confidence": 0.9998969,
+          "speaker": "A"
+        },
+        {
+          "text": "this",
+          "start": 4604,
+          "end": 4877,
+          "confidence": 0.9992945,
+          "speaker": "A"
+        },
+        {
+          "text": "miraculous",
+          "start": 4909,
+          "end": 5727,
+          "confidence": 0.9994679,
+          "speaker": "A"
+        },
+        {
+          "text": "prayer.",
+          "start": 5727,
+          "end": 6208,
+          "confidence": 0.98280096,
+          "speaker": "A"
+        },
+        {
+          "text": "See",
+          "start": 6449,
+          "end": 6690,
+          "confidence": 0.99224275,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 6690,
+          "end": 6786,
+          "confidence": 0.99929476,
+          "speaker": "A"
+        },
+        {
+          "text": "news.",
+          "start": 6786,
+          "end": 7139,
+          "confidence": 0.9835714,
+          "speaker": "A"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "text": "The current Pope says he is tired of hiding this from the people and that the time has come for everyone to learn the only prayer with miraculous power that is being concealed by the highest hierarchies of the Vatican. After revealing the sacred words, he was escorted away by security as if he had committed a crime. And the most incredible part is that after 72 hours, people were already reporting that they were unexpectedly blessed after repeating the prayer exactly the way the Pope teaches it. I will leave a short excerpt here.",
+      "confidence": 0.99317074,
+      "start": 7139,
+      "end": 38060,
+      "words": [
+        {
+          "text": "The",
+          "start": 7877,
+          "end": 7941,
+          "confidence": 0.99903095,
+          "speaker": "B"
+        },
+        {
+          "text": "current",
+          "start": 7973,
+          "end": 8294,
+          "confidence": 0.9999261,
+          "speaker": "B"
+        },
+        {
+          "text": "Pope",
+          "start": 8294,
+          "end": 8551,
+          "confidence": 0.9999229,
+          "speaker": "B"
+        },
+        {
+          "text": "says",
+          "start": 8551,
+          "end": 8823,
+          "confidence": 0.9995198,
+          "speaker": "B"
+        },
+        {
+          "text": "he",
+          "start": 8920,
+          "end": 9080,
+          "confidence": 0.9935148,
+          "speaker": "B"
+        },
+        {
+          "text": "is",
+          "start": 9080,
+          "end": 9144,
+          "confidence": 0.9962774,
+          "speaker": "B"
+        },
+        {
+          "text": "tired",
+          "start": 9241,
+          "end": 9594,
+          "confidence": 0.99997115,
+          "speaker": "B"
+        },
+        {
+          "text": "of",
+          "start": 9594,
+          "end": 9722,
+          "confidence": 0.9999944,
+          "speaker": "B"
+        },
+        {
+          "text": "hiding",
+          "start": 9722,
+          "end": 10027,
+          "confidence": 0.99999,
+          "speaker": "B"
+        },
+        {
+          "text": "this",
+          "start": 10059,
+          "end": 10187,
+          "confidence": 0.9998801,
+          "speaker": "B"
+        },
+        {
+          "text": "from",
+          "start": 10283,
+          "end": 10396,
+          "confidence": 0.9999571,
+          "speaker": "B"
+        },
+        {
+          "text": "the",
+          "start": 10460,
+          "end": 10540,
+          "confidence": 0.999818,
+          "speaker": "B"
+        },
+        {
+          "text": "people",
+          "start": 10540,
+          "end": 11005,
+          "confidence": 0.9998956,
+          "speaker": "B"
+        },
+        {
+          "text": "and",
+          "start": 11326,
+          "end": 11406,
+          "confidence": 0.556878,
+          "speaker": "B"
+        },
+        {
+          "text": "that",
+          "start": 11406,
+          "end": 11503,
+          "confidence": 0.9999206,
+          "speaker": "B"
+        },
+        {
+          "text": "the",
+          "start": 11503,
+          "end": 11583,
+          "confidence": 0.9999149,
+          "speaker": "B"
+        },
+        {
+          "text": "time",
+          "start": 11583,
+          "end": 11872,
+          "confidence": 0.99998593,
+          "speaker": "B"
+        },
+        {
+          "text": "has",
+          "start": 11904,
+          "end": 12032,
+          "confidence": 0.99989176,
+          "speaker": "B"
+        },
+        {
+          "text": "come",
+          "start": 12064,
+          "end": 12193,
+          "confidence": 0.99995136,
+          "speaker": "B"
+        },
+        {
+          "text": "for",
+          "start": 12305,
+          "end": 12433,
+          "confidence": 0.99998593,
+          "speaker": "B"
+        },
+        {
+          "text": "everyone",
+          "start": 12610,
+          "end": 12995,
+          "confidence": 0.9999672,
+          "speaker": "B"
+        },
+        {
+          "text": "to",
+          "start": 13027,
+          "end": 13123,
+          "confidence": 0.99998665,
+          "speaker": "B"
+        },
+        {
+          "text": "learn",
+          "start": 13187,
+          "end": 13380,
+          "confidence": 0.99993634,
+          "speaker": "B"
+        },
+        {
+          "text": "the",
+          "start": 13428,
+          "end": 13588,
+          "confidence": 0.99987674,
+          "speaker": "B"
+        },
+        {
+          "text": "only",
+          "start": 13733,
+          "end": 13957,
+          "confidence": 0.9998412,
+          "speaker": "B"
+        },
+        {
+          "text": "prayer",
+          "start": 13989,
+          "end": 14262,
+          "confidence": 0.99986017,
+          "speaker": "B"
+        },
+        {
+          "text": "with",
+          "start": 14471,
+          "end": 14679,
+          "confidence": 0.997413,
+          "speaker": "B"
+        },
+        {
+          "text": "miraculous",
+          "start": 14695,
+          "end": 15353,
+          "confidence": 0.99993455,
+          "speaker": "B"
+        },
+        {
+          "text": "power",
+          "start": 15353,
+          "end": 15786,
+          "confidence": 0.9999752,
+          "speaker": "B"
+        },
+        {
+          "text": "that",
+          "start": 16075,
+          "end": 16187,
+          "confidence": 0.9988445,
+          "speaker": "B"
+        },
+        {
+          "text": "is",
+          "start": 16236,
+          "end": 16284,
+          "confidence": 0.99927825,
+          "speaker": "B"
+        },
+        {
+          "text": "being",
+          "start": 16380,
+          "end": 16524,
+          "confidence": 0.99995315,
+          "speaker": "B"
+        },
+        {
+          "text": "concealed",
+          "start": 16621,
+          "end": 17198,
+          "confidence": 0.99998,
+          "speaker": "B"
+        },
+        {
+          "text": "by",
+          "start": 17198,
+          "end": 17359,
+          "confidence": 0.99997234,
+          "speaker": "B"
+        },
+        {
+          "text": "the",
+          "start": 17359,
+          "end": 17503,
+          "confidence": 0.99999094,
+          "speaker": "B"
+        },
+        {
+          "text": "highest",
+          "start": 17503,
+          "end": 17984,
+          "confidence": 0.9999244,
+          "speaker": "B"
+        },
+        {
+          "text": "hierarchies",
+          "start": 17984,
+          "end": 18690,
+          "confidence": 0.9999236,
+          "speaker": "B"
+        },
+        {
+          "text": "of",
+          "start": 18947,
+          "end": 19043,
+          "confidence": 0.99989045,
+          "speaker": "B"
+        },
+        {
+          "text": "the",
+          "start": 19043,
+          "end": 19123,
+          "confidence": 0.9999502,
+          "speaker": "B"
+        },
+        {
+          "text": "Vatican.",
+          "start": 19123,
+          "end": 19573,
+          "confidence": 0.99949193,
+          "speaker": "B"
+        },
+        {
+          "text": "After",
+          "start": 19926,
+          "end": 20118,
+          "confidence": 0.99774146,
+          "speaker": "B"
+        },
+        {
+          "text": "revealing",
+          "start": 20150,
+          "end": 20535,
+          "confidence": 0.9999589,
+          "speaker": "B"
+        },
+        {
+          "text": "the",
+          "start": 20567,
+          "end": 20647,
+          "confidence": 0.9998658,
+          "speaker": "B"
+        },
+        {
+          "text": "sacred",
+          "start": 20647,
+          "end": 21113,
+          "confidence": 0.99936706,
+          "speaker": "B"
+        },
+        {
+          "text": "words,",
+          "start": 21113,
+          "end": 21450,
+          "confidence": 0.9999626,
+          "speaker": "B"
+        },
+        {
+          "text": "he",
+          "start": 21690,
+          "end": 21803,
+          "confidence": 0.99972755,
+          "speaker": "B"
+        },
+        {
+          "text": "was",
+          "start": 21835,
+          "end": 21947,
+          "confidence": 0.99997854,
+          "speaker": "B"
+        },
+        {
+          "text": "escorted",
+          "start": 22091,
+          "end": 22573,
+          "confidence": 0.99998486,
+          "speaker": "B"
+        },
+        {
+          "text": "away",
+          "start": 22573,
+          "end": 22813,
+          "confidence": 0.9999825,
+          "speaker": "B"
+        },
+        {
+          "text": "by",
+          "start": 22813,
+          "end": 22990,
+          "confidence": 0.9999732,
+          "speaker": "B"
+        },
+        {
+          "text": "security",
+          "start": 22990,
+          "end": 23664,
+          "confidence": 0.99995077,
+          "speaker": "B"
+        },
+        {
+          "text": "as",
+          "start": 23760,
+          "end": 23824,
+          "confidence": 0.9654409,
+          "speaker": "B"
+        },
+        {
+          "text": "if",
+          "start": 23920,
+          "end": 24081,
+          "confidence": 0.9999684,
+          "speaker": "B"
+        },
+        {
+          "text": "he",
+          "start": 24081,
+          "end": 24241,
+          "confidence": 0.9999578,
+          "speaker": "B"
+        },
+        {
+          "text": "had",
+          "start": 24241,
+          "end": 24402,
+          "confidence": 0.99982977,
+          "speaker": "B"
+        },
+        {
+          "text": "committed",
+          "start": 24402,
+          "end": 24867,
+          "confidence": 0.9999629,
+          "speaker": "B"
+        },
+        {
+          "text": "a",
+          "start": 24979,
+          "end": 25124,
+          "confidence": 0.9999167,
+          "speaker": "B"
+        },
+        {
+          "text": "crime.",
+          "start": 25124,
+          "end": 25589,
+          "confidence": 0.9849065,
+          "speaker": "B"
+        },
+        {
+          "text": "And",
+          "start": 25854,
+          "end": 25878,
+          "confidence": 0.9553663,
+          "speaker": "B"
+        },
+        {
+          "text": "the",
+          "start": 25878,
+          "end": 25942,
+          "confidence": 0.9995697,
+          "speaker": "B"
+        },
+        {
+          "text": "most",
+          "start": 25942,
+          "end": 26247,
+          "confidence": 0.999946,
+          "speaker": "B"
+        },
+        {
+          "text": "incredible",
+          "start": 26247,
+          "end": 26728,
+          "confidence": 0.9999653,
+          "speaker": "B"
+        },
+        {
+          "text": "part",
+          "start": 26809,
+          "end": 27130,
+          "confidence": 0.99990046,
+          "speaker": "B"
+        },
+        {
+          "text": "is",
+          "start": 27146,
+          "end": 27194,
+          "confidence": 0.99960476,
+          "speaker": "B"
+        },
+        {
+          "text": "that",
+          "start": 27226,
+          "end": 27338,
+          "confidence": 0.9998672,
+          "speaker": "B"
+        },
+        {
+          "text": "after",
+          "start": 27451,
+          "end": 27707,
+          "confidence": 0.98298407,
+          "speaker": "B"
+        },
+        {
+          "text": "72",
+          "start": 27707,
+          "end": 28494,
+          "confidence": 0.9999925,
+          "speaker": "B"
+        },
+        {
+          "text": "hours,",
+          "start": 28654,
+          "end": 28959,
+          "confidence": 0.99987864,
+          "speaker": "B"
+        },
+        {
+          "text": "people",
+          "start": 29296,
+          "end": 29617,
+          "confidence": 0.99986494,
+          "speaker": "B"
+        },
+        {
+          "text": "were",
+          "start": 29617,
+          "end": 29778,
+          "confidence": 0.9999521,
+          "speaker": "B"
+        },
+        {
+          "text": "already",
+          "start": 29858,
+          "end": 30356,
+          "confidence": 0.99996555,
+          "speaker": "B"
+        },
+        {
+          "text": "reporting",
+          "start": 30420,
+          "end": 30885,
+          "confidence": 0.99993515,
+          "speaker": "B"
+        },
+        {
+          "text": "that",
+          "start": 30982,
+          "end": 31078,
+          "confidence": 0.99981385,
+          "speaker": "B"
+        },
+        {
+          "text": "they",
+          "start": 31078,
+          "end": 31206,
+          "confidence": 0.99988246,
+          "speaker": "B"
+        },
+        {
+          "text": "were",
+          "start": 31222,
+          "end": 31431,
+          "confidence": 0.99993694,
+          "speaker": "B"
+        },
+        {
+          "text": "unexpectedly",
+          "start": 31479,
+          "end": 32330,
+          "confidence": 0.9999665,
+          "speaker": "B"
+        },
+        {
+          "text": "blessed",
+          "start": 32442,
+          "end": 32972,
+          "confidence": 0.9999424,
+          "speaker": "B"
+        },
+        {
+          "text": "after",
+          "start": 33309,
+          "end": 33566,
+          "confidence": 0.9895371,
+          "speaker": "B"
+        },
+        {
+          "text": "repeating",
+          "start": 33566,
+          "end": 33983,
+          "confidence": 0.9999695,
+          "speaker": "B"
+        },
+        {
+          "text": "the",
+          "start": 34031,
+          "end": 34127,
+          "confidence": 0.9997032,
+          "speaker": "B"
+        },
+        {
+          "text": "prayer",
+          "start": 34127,
+          "end": 34480,
+          "confidence": 0.9999691,
+          "speaker": "B"
+        },
+        {
+          "text": "exactly",
+          "start": 34513,
+          "end": 35219,
+          "confidence": 0.9990522,
+          "speaker": "B"
+        },
+        {
+          "text": "the",
+          "start": 35235,
+          "end": 35283,
+          "confidence": 0.9999169,
+          "speaker": "B"
+        },
+        {
+          "text": "way",
+          "start": 35331,
+          "end": 35492,
+          "confidence": 0.9999248,
+          "speaker": "B"
+        },
+        {
+          "text": "the",
+          "start": 35556,
+          "end": 35652,
+          "confidence": 0.9995621,
+          "speaker": "B"
+        },
+        {
+          "text": "Pope",
+          "start": 35652,
+          "end": 35909,
+          "confidence": 0.9911084,
+          "speaker": "B"
+        },
+        {
+          "text": "teaches",
+          "start": 35973,
+          "end": 36342,
+          "confidence": 0.9999815,
+          "speaker": "B"
+        },
+        {
+          "text": "it.",
+          "start": 36374,
+          "end": 36503,
+          "confidence": 0.9994791,
+          "speaker": "B"
+        },
+        {
+          "text": "I",
+          "start": 36760,
+          "end": 36824,
+          "confidence": 0.9950388,
+          "speaker": "B"
+        },
+        {
+          "text": "will",
+          "start": 36840,
+          "end": 36936,
+          "confidence": 0.9959061,
+          "speaker": "B"
+        },
+        {
+          "text": "leave",
+          "start": 36936,
+          "end": 37032,
+          "confidence": 0.9999474,
+          "speaker": "B"
+        },
+        {
+          "text": "a",
+          "start": 37032,
+          "end": 37097,
+          "confidence": 0.99987876,
+          "speaker": "B"
+        },
+        {
+          "text": "short",
+          "start": 37097,
+          "end": 37402,
+          "confidence": 0.9999318,
+          "speaker": "B"
+        },
+        {
+          "text": "excerpt",
+          "start": 37482,
+          "end": 37883,
+          "confidence": 0.9997173,
+          "speaker": "B"
+        },
+        {
+          "text": "here.",
+          "start": 37883,
+          "end": 38060,
+          "confidence": 0.99890196,
+          "speaker": "B"
+        }
+      ]
+    },
+    {
+      "speaker": "C",
+      "text": "Jesus sacrificed himself for you, and yet you continue rejecting the gifts he offered you. But today, I bring your last opportunity. A healing prayer made only of sounds which we have had to hide for many years.",
+      "confidence": 0.9866004,
+      "start": 38060,
+      "end": 51349,
+      "words": [
+        {
+          "text": "Jesus",
+          "start": 38300,
+          "end": 38718,
+          "confidence": 0.999273,
+          "speaker": "C"
+        },
+        {
+          "text": "sacrificed",
+          "start": 38718,
+          "end": 39488,
+          "confidence": 0.9999547,
+          "speaker": "C"
+        },
+        {
+          "text": "himself",
+          "start": 39488,
+          "end": 40002,
+          "confidence": 0.9884694,
+          "speaker": "C"
+        },
+        {
+          "text": "for",
+          "start": 40066,
+          "end": 40210,
+          "confidence": 0.99998,
+          "speaker": "C"
+        },
+        {
+          "text": "you,",
+          "start": 40210,
+          "end": 40323,
+          "confidence": 0.9978857,
+          "speaker": "C"
+        },
+        {
+          "text": "and",
+          "start": 40788,
+          "end": 40852,
+          "confidence": 0.99984455,
+          "speaker": "C"
+        },
+        {
+          "text": "yet",
+          "start": 40933,
+          "end": 41189,
+          "confidence": 0.99997723,
+          "speaker": "C"
+        },
+        {
+          "text": "you",
+          "start": 41189,
+          "end": 41350,
+          "confidence": 0.99566674,
+          "speaker": "C"
+        },
+        {
+          "text": "continue",
+          "start": 41350,
+          "end": 41960,
+          "confidence": 0.99989617,
+          "speaker": "C"
+        },
+        {
+          "text": "rejecting",
+          "start": 41976,
+          "end": 42521,
+          "confidence": 0.99991596,
+          "speaker": "C"
+        },
+        {
+          "text": "the",
+          "start": 42634,
+          "end": 42714,
+          "confidence": 0.99995255,
+          "speaker": "C"
+        },
+        {
+          "text": "gifts",
+          "start": 42778,
+          "end": 43115,
+          "confidence": 0.9999275,
+          "speaker": "C"
+        },
+        {
+          "text": "he",
+          "start": 43115,
+          "end": 43260,
+          "confidence": 0.9984718,
+          "speaker": "C"
+        },
+        {
+          "text": "offered",
+          "start": 43340,
+          "end": 43677,
+          "confidence": 0.999915,
+          "speaker": "C"
+        },
+        {
+          "text": "you.",
+          "start": 43677,
+          "end": 43838,
+          "confidence": 0.99972034,
+          "speaker": "C"
+        },
+        {
+          "text": "But",
+          "start": 44239,
+          "end": 44335,
+          "confidence": 0.99855727,
+          "speaker": "C"
+        },
+        {
+          "text": "today,",
+          "start": 44399,
+          "end": 44640,
+          "confidence": 0.82962626,
+          "speaker": "C"
+        },
+        {
+          "text": "I",
+          "start": 45202,
+          "end": 45250,
+          "confidence": 0.9995523,
+          "speaker": "C"
+        },
+        {
+          "text": "bring",
+          "start": 45362,
+          "end": 45555,
+          "confidence": 0.99992204,
+          "speaker": "C"
+        },
+        {
+          "text": "your",
+          "start": 45603,
+          "end": 45715,
+          "confidence": 0.9894609,
+          "speaker": "C"
+        },
+        {
+          "text": "last",
+          "start": 45764,
+          "end": 46101,
+          "confidence": 0.99997294,
+          "speaker": "C"
+        },
+        {
+          "text": "opportunity.",
+          "start": 46165,
+          "end": 46935,
+          "confidence": 0.88145185,
+          "speaker": "C"
+        },
+        {
+          "text": "A",
+          "start": 47272,
+          "end": 47288,
+          "confidence": 0.9990007,
+          "speaker": "C"
+        },
+        {
+          "text": "healing",
+          "start": 47369,
+          "end": 47658,
+          "confidence": 0.99991584,
+          "speaker": "C"
+        },
+        {
+          "text": "prayer",
+          "start": 47770,
+          "end": 48075,
+          "confidence": 0.99997723,
+          "speaker": "C"
+        },
+        {
+          "text": "made",
+          "start": 48075,
+          "end": 48316,
+          "confidence": 0.9993943,
+          "speaker": "C"
+        },
+        {
+          "text": "only",
+          "start": 48316,
+          "end": 48572,
+          "confidence": 0.9999007,
+          "speaker": "C"
+        },
+        {
+          "text": "of",
+          "start": 48572,
+          "end": 48653,
+          "confidence": 0.9999237,
+          "speaker": "C"
+        },
+        {
+          "text": "sounds",
+          "start": 48653,
+          "end": 49182,
+          "confidence": 0.99979705,
+          "speaker": "C"
+        },
+        {
+          "text": "which",
+          "start": 49279,
+          "end": 49439,
+          "confidence": 0.81448853,
+          "speaker": "C"
+        },
+        {
+          "text": "we",
+          "start": 49455,
+          "end": 49600,
+          "confidence": 0.99983823,
+          "speaker": "C"
+        },
+        {
+          "text": "have",
+          "start": 49600,
+          "end": 49760,
+          "confidence": 0.9993338,
+          "speaker": "C"
+        },
+        {
+          "text": "had",
+          "start": 49760,
+          "end": 49904,
+          "confidence": 0.99982435,
+          "speaker": "C"
+        },
+        {
+          "text": "to",
+          "start": 50017,
+          "end": 50097,
+          "confidence": 0.99986994,
+          "speaker": "C"
+        },
+        {
+          "text": "hide",
+          "start": 50161,
+          "end": 50466,
+          "confidence": 0.99990916,
+          "speaker": "C"
+        },
+        {
+          "text": "for",
+          "start": 50563,
+          "end": 50643,
+          "confidence": 0.9995908,
+          "speaker": "C"
+        },
+        {
+          "text": "many",
+          "start": 50643,
+          "end": 50948,
+          "confidence": 0.99963915,
+          "speaker": "C"
+        },
+        {
+          "text": "years.",
+          "start": 50980,
+          "end": 51349,
+          "confidence": 0.9911886,
+          "speaker": "C"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "text": "I will leave the full broadcast video below. You will hear the 60-second divine sound taken from the Bible, capable of releasing unstoppable healing and prosperity into your life. Ignore this and you will close this door forever. This is your last chance to build a true connection with the Lord. Click the button below right now before it's too late.",
+      "confidence": 0.97654825,
+      "start": 51766,
+      "end": 70991,
+      "words": [
+        {
+          "text": "I",
+          "start": 51790,
+          "end": 51814,
+          "confidence": 0.980168,
+          "speaker": "B"
+        },
+        {
+          "text": "will",
+          "start": 51846,
+          "end": 51927,
+          "confidence": 0.9980217,
+          "speaker": "B"
+        },
+        {
+          "text": "leave",
+          "start": 51927,
+          "end": 52071,
+          "confidence": 0.9999162,
+          "speaker": "B"
+        },
+        {
+          "text": "the",
+          "start": 52103,
+          "end": 52264,
+          "confidence": 0.9993494,
+          "speaker": "B"
+        },
+        {
+          "text": "full",
+          "start": 52328,
+          "end": 52472,
+          "confidence": 0.99993575,
+          "speaker": "B"
+        },
+        {
+          "text": "broadcast",
+          "start": 52504,
+          "end": 53130,
+          "confidence": 0.99972814,
+          "speaker": "B"
+        },
+        {
+          "text": "video",
+          "start": 53130,
+          "end": 53387,
+          "confidence": 0.99977666,
+          "speaker": "B"
+        },
+        {
+          "text": "below.",
+          "start": 53451,
+          "end": 53740,
+          "confidence": 0.99796796,
+          "speaker": "B"
+        },
+        {
+          "text": "You",
+          "start": 54093,
+          "end": 54157,
+          "confidence": 0.9746986,
+          "speaker": "B"
+        },
+        {
+          "text": "will",
+          "start": 54254,
+          "end": 54334,
+          "confidence": 0.9994646,
+          "speaker": "B"
+        },
+        {
+          "text": "hear",
+          "start": 54414,
+          "end": 54591,
+          "confidence": 0.9999299,
+          "speaker": "B"
+        },
+        {
+          "text": "the",
+          "start": 54671,
+          "end": 54767,
+          "confidence": 0.9943732,
+          "speaker": "B"
+        },
+        {
+          "text": "60-second",
+          "start": 54767,
+          "end": 55874,
+          "confidence": 0.99881774,
+          "speaker": "B"
+        },
+        {
+          "text": "divine",
+          "start": 55874,
+          "end": 56179,
+          "confidence": 0.94394726,
+          "speaker": "B"
+        },
+        {
+          "text": "sound",
+          "start": 56259,
+          "end": 56596,
+          "confidence": 0.9997396,
+          "speaker": "B"
+        },
+        {
+          "text": "taken",
+          "start": 56596,
+          "end": 56917,
+          "confidence": 0.9901405,
+          "speaker": "B"
+        },
+        {
+          "text": "from",
+          "start": 56917,
+          "end": 57046,
+          "confidence": 0.9997056,
+          "speaker": "B"
+        },
+        {
+          "text": "the",
+          "start": 57078,
+          "end": 57158,
+          "confidence": 0.9998565,
+          "speaker": "B"
+        },
+        {
+          "text": "Bible,",
+          "start": 57158,
+          "end": 57624,
+          "confidence": 0.7854559,
+          "speaker": "B"
+        },
+        {
+          "text": "capable",
+          "start": 57784,
+          "end": 58169,
+          "confidence": 0.9913291,
+          "speaker": "B"
+        },
+        {
+          "text": "of",
+          "start": 58265,
+          "end": 58362,
+          "confidence": 0.9997565,
+          "speaker": "B"
+        },
+        {
+          "text": "releasing",
+          "start": 58362,
+          "end": 58811,
+          "confidence": 0.9999081,
+          "speaker": "B"
+        },
+        {
+          "text": "unstoppable",
+          "start": 58923,
+          "end": 59597,
+          "confidence": 0.9973911,
+          "speaker": "B"
+        },
+        {
+          "text": "healing",
+          "start": 59645,
+          "end": 60095,
+          "confidence": 0.9995078,
+          "speaker": "B"
+        },
+        {
+          "text": "and",
+          "start": 60111,
+          "end": 60191,
+          "confidence": 0.9918229,
+          "speaker": "B"
+        },
+        {
+          "text": "prosperity",
+          "start": 60207,
+          "end": 60929,
+          "confidence": 0.9999254,
+          "speaker": "B"
+        },
+        {
+          "text": "into",
+          "start": 61090,
+          "end": 61266,
+          "confidence": 0.99593985,
+          "speaker": "B"
+        },
+        {
+          "text": "your",
+          "start": 61395,
+          "end": 61523,
+          "confidence": 0.9993895,
+          "speaker": "B"
+        },
+        {
+          "text": "life.",
+          "start": 61635,
+          "end": 61844,
+          "confidence": 0.99785477,
+          "speaker": "B"
+        },
+        {
+          "text": "Ignore",
+          "start": 62197,
+          "end": 62406,
+          "confidence": 0.99698263,
+          "speaker": "B"
+        },
+        {
+          "text": "this",
+          "start": 62518,
+          "end": 62662,
+          "confidence": 0.99989843,
+          "speaker": "B"
+        },
+        {
+          "text": "and",
+          "start": 63096,
+          "end": 63256,
+          "confidence": 0.5976562,
+          "speaker": "B"
+        },
+        {
+          "text": "you",
+          "start": 63256,
+          "end": 63352,
+          "confidence": 0.99965465,
+          "speaker": "B"
+        },
+        {
+          "text": "will",
+          "start": 63417,
+          "end": 63529,
+          "confidence": 0.9992872,
+          "speaker": "B"
+        },
+        {
+          "text": "close",
+          "start": 63641,
+          "end": 63866,
+          "confidence": 0.99924743,
+          "speaker": "B"
+        },
+        {
+          "text": "this",
+          "start": 63978,
+          "end": 64091,
+          "confidence": 0.99858,
+          "speaker": "B"
+        },
+        {
+          "text": "door",
+          "start": 64139,
+          "end": 64331,
+          "confidence": 0.9977108,
+          "speaker": "B"
+        },
+        {
+          "text": "forever.",
+          "start": 64379,
+          "end": 64861,
+          "confidence": 0.9941166,
+          "speaker": "B"
+        },
+        {
+          "text": "This",
+          "start": 65182,
+          "end": 65406,
+          "confidence": 0.5875775,
+          "speaker": "B"
+        },
+        {
+          "text": "is",
+          "start": 65406,
+          "end": 65471,
+          "confidence": 0.99964094,
+          "speaker": "B"
+        },
+        {
+          "text": "your",
+          "start": 65487,
+          "end": 65599,
+          "confidence": 0.99974424,
+          "speaker": "B"
+        },
+        {
+          "text": "last",
+          "start": 65727,
+          "end": 66064,
+          "confidence": 0.9994659,
+          "speaker": "B"
+        },
+        {
+          "text": "chance",
+          "start": 66064,
+          "end": 66385,
+          "confidence": 0.99937576,
+          "speaker": "B"
+        },
+        {
+          "text": "to",
+          "start": 66385,
+          "end": 66482,
+          "confidence": 0.9971505,
+          "speaker": "B"
+        },
+        {
+          "text": "build",
+          "start": 66530,
+          "end": 66706,
+          "confidence": 0.9980521,
+          "speaker": "B"
+        },
+        {
+          "text": "a",
+          "start": 66706,
+          "end": 66722,
+          "confidence": 0.99903834,
+          "speaker": "B"
+        },
+        {
+          "text": "true",
+          "start": 66786,
+          "end": 67091,
+          "confidence": 0.9994098,
+          "speaker": "B"
+        },
+        {
+          "text": "connection",
+          "start": 67091,
+          "end": 67509,
+          "confidence": 0.9986181,
+          "speaker": "B"
+        },
+        {
+          "text": "with",
+          "start": 67509,
+          "end": 67669,
+          "confidence": 0.997389,
+          "speaker": "B"
+        },
+        {
+          "text": "the",
+          "start": 67669,
+          "end": 67814,
+          "confidence": 0.9997354,
+          "speaker": "B"
+        },
+        {
+          "text": "Lord.",
+          "start": 67814,
+          "end": 68070,
+          "confidence": 0.9986385,
+          "speaker": "B"
+        },
+        {
+          "text": "Click",
+          "start": 68295,
+          "end": 68552,
+          "confidence": 0.97174555,
+          "speaker": "B"
+        },
+        {
+          "text": "the",
+          "start": 68552,
+          "end": 68616,
+          "confidence": 0.9998242,
+          "speaker": "B"
+        },
+        {
+          "text": "button",
+          "start": 68632,
+          "end": 68953,
+          "confidence": 0.9999242,
+          "speaker": "B"
+        },
+        {
+          "text": "below",
+          "start": 68953,
+          "end": 69161,
+          "confidence": 0.99969065,
+          "speaker": "B"
+        },
+        {
+          "text": "right",
+          "start": 69418,
+          "end": 69659,
+          "confidence": 0.9861065,
+          "speaker": "B"
+        },
+        {
+          "text": "now",
+          "start": 69659,
+          "end": 69787,
+          "confidence": 0.99975747,
+          "speaker": "B"
+        },
+        {
+          "text": "before",
+          "start": 70221,
+          "end": 70477,
+          "confidence": 0.9286963,
+          "speaker": "B"
+        },
+        {
+          "text": "it's",
+          "start": 70477,
+          "end": 70638,
+          "confidence": 0.9999267,
+          "speaker": "B"
+        },
+        {
+          "text": "too",
+          "start": 70638,
+          "end": 70863,
+          "confidence": 0.9993932,
+          "speaker": "B"
+        },
+        {
+          "text": "late.",
+          "start": 70863,
+          "end": 70991,
+          "confidence": 0.96883327,
+          "speaker": "B"
+        }
+      ]
+    }
+  ],
+  "confidence": 0.9873702,
+  "audio_duration": 81,
+  "punctuate": true,
+  "format_text": true,
+  "dual_channel": false,
+  "webhook_url": null,
+  "webhook_status_code": null,
+  "webhook_auth": false,
+  "webhook_auth_header_name": null,
+  "speed_boost": false,
+  "auto_highlights_result": null,
+  "auto_highlights": false,
+  "audio_start_from": null,
+  "audio_end_at": null,
+  "word_boost": [],
+  "boost_param": null,
+  "prompt": null,
+  "keyterms_prompt": [],
+  "filter_profanity": false,
+  "redact_pii": false,
+  "redact_pii_audio": false,
+  "redact_pii_audio_quality": null,
+  "redact_pii_audio_options": null,
+  "redact_pii_policies": null,
+  "redact_pii_sub": null,
+  "redact_static_entities": null,
+  "speaker_labels": true,
+  "speaker_options": {
+    "min_speakers_expected": null,
+    "max_speakers_expected": null,
+    "advanced_speaker_segmentation": true
+  },
+  "content_safety": false,
+  "iab_categories": false,
+  "content_safety_labels": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "iab_categories_result": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "language_detection": false,
+  "language_detection_options": null,
+  "language_detection_results": null,
+  "language_confidence_threshold": null,
+  "language_confidence": null,
+  "custom_spelling": null,
+  "throttled": false,
+  "auto_chapters": false,
+  "summarization": false,
+  "summary_type": null,
+  "summary_model": null,
+  "custom_topics": false,
+  "topics": [],
+  "speech_threshold": null,
+  "speech_model": null,
+  "speech_models": [
+    "universal-3-5-pro",
+    "universal-2"
+  ],
+  "speech_model_used": "universal-3-5-pro",
+  "temperature": null,
+  "remove_audio_tags": "all",
+  "chapters": null,
+  "disfluencies": false,
+  "entity_detection": false,
+  "sentiment_analysis": false,
+  "sentiment_analysis_results": null,
+  "entities": null,
+  "speakers_expected": null,
+  "summary": null,
+  "custom_topics_results": null,
+  "is_deleted": null,
+  "multichannel": null,
+  "project_id": 1431881,
+  "token_id": 1443892
+}
