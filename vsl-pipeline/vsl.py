@@ -144,7 +144,8 @@ def cmd_transcribe(a):
         audio_url = up.json()["upload_url"]
     j = requests.post(f"{AAI}/transcript", headers=h, timeout=60, json={
         "audio_url": audio_url, "language_code": a.lang,
-        "speaker_labels": True, "punctuate": True, "format_text": True})
+        "speaker_labels": True, "punctuate": True, "format_text": True,
+        **({"audio_end_at": a.end_ms} if a.end_ms else {})})
     j.raise_for_status()
     tid = j.json()["id"]
     print(f"Job {tid} enviado. Aguardando...")
@@ -459,6 +460,7 @@ def main():
     s = sub.add_parser("transcribe"); s.add_argument("--name", required=True)
     s.add_argument("--lang", default="en")
     s.add_argument("--audio-url", help="URL pública do áudio/vídeo em vez de upload")
+    s.add_argument("--end-ms", type=int, help="transcrever só até este ponto (ms), ex.: 146000 para 2:26")
     s.set_defaults(fn=cmd_transcribe)
     s = sub.add_parser("frames"); s.add_argument("video"); s.add_argument("--name", required=True)
     s.add_argument("--doc"); s.add_argument("--every", type=int, default=60)
