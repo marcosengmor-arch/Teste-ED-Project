@@ -1,0 +1,4457 @@
+{
+  "id": "cb493bf8-ebd4-4990-8797-1d8fa8aacd51",
+  "language_model": "assemblyai_default",
+  "acoustic_model": "assemblyai_default",
+  "language_code": "pt",
+  "speech_understanding": null,
+  "translated_texts": null,
+  "status": "completed",
+  "audio_url": "https://drive.usercontent.google.com/download?id=1q4WshPcEL7_rATwahQTzQY3Hg-vDYUpk&export=download&confirm=t",
+  "text": "Eu vou te ensinar a abrir o seu terceiro olho instantaneamente. Só faça isso se estiver preparado para ver a realidade realmente como ela é. Isto é especificamente para pessoas que estão prontas para despertar e acordarem definitivamente da ilusão. Você saberá que você está pronto se este vídeo for agradável para você. Se você sentir qualquer sinal de ansiedade ou desconforto, significa que você não está pronto para abrir o seu terceiro olho. Salva este vídeo para o momento que que você se sentir pronto para fazer este procedimento. Então vamos começar. Encontre um local tranquilo no qual você possa se deitar. Agora crie a intenção de você abrir o seu terceiro olho. A intenção é uma das formas mais potentes de você manipular o universo. Foque a sua atenção no seu chacra cardíaco, no seu coração, para que você possa liberar esta energia para o mundo e para que você também possa possa aproveitar desta energia. Agora você vai direcionar esta energia para o seu terceiro olho. Conforme você vai direcionando esta energia para o seu terceiro olho, você vai fechar os olhos e olhar para cima. Quando você olha para cima, você faz uma pressão na sua glândula pineal, e esta pressão faz movimentar o seu terceiro olho. Você vai ficar focado aí neste movimento da sua glândula pineal durante 10 respirações. E agora você vai imaginar um olho abrindo no centro da sua testa. Pratique este exercício sempre que acordar e antes de dormir. A prática deste exercício te trará uma conexão com a mente divina, intuição e verdades que chegarão aleatoriamente para você. Nada comparável ao que um professor possa vir ali ensinar. Você tem a sabedoria divina dentro de você. Que está pronta para despertar. Um ótimo despertar desejo para vocês, e chame o anjo da guarda de vocês para que possam auxiliar nesse processo.",
+  "words": [
+    {
+      "text": "Eu",
+      "start": 0,
+      "end": 480,
+      "confidence": 0.9878747,
+      "speaker": "A"
+    },
+    {
+      "text": "vou",
+      "start": 480,
+      "end": 700,
+      "confidence": 0.99998355,
+      "speaker": "A"
+    },
+    {
+      "text": "te",
+      "start": 700,
+      "end": 1000,
+      "confidence": 0.9999467,
+      "speaker": "A"
+    },
+    {
+      "text": "ensinar",
+      "start": 1000,
+      "end": 1360,
+      "confidence": 0.99999565,
+      "speaker": "A"
+    },
+    {
+      "text": "a",
+      "start": 1360,
+      "end": 2020,
+      "confidence": 0.9999827,
+      "speaker": "A"
+    },
+    {
+      "text": "abrir",
+      "start": 2020,
+      "end": 2120,
+      "confidence": 0.9999887,
+      "speaker": "A"
+    },
+    {
+      "text": "o",
+      "start": 2120,
+      "end": 2280,
+      "confidence": 0.9999733,
+      "speaker": "A"
+    },
+    {
+      "text": "seu",
+      "start": 2280,
+      "end": 2620,
+      "confidence": 0.9999443,
+      "speaker": "A"
+    },
+    {
+      "text": "terceiro",
+      "start": 2620,
+      "end": 3000,
+      "confidence": 0.99937844,
+      "speaker": "A"
+    },
+    {
+      "text": "olho",
+      "start": 3000,
+      "end": 3460,
+      "confidence": 0.99999666,
+      "speaker": "A"
+    },
+    {
+      "text": "instantaneamente.",
+      "start": 3460,
+      "end": 4360,
+      "confidence": 0.99959964,
+      "speaker": "A"
+    },
+    {
+      "text": "Só",
+      "start": 5040,
+      "end": 5120,
+      "confidence": 0.99994576,
+      "speaker": "A"
+    },
+    {
+      "text": "faça",
+      "start": 5120,
+      "end": 5420,
+      "confidence": 0.9999877,
+      "speaker": "A"
+    },
+    {
+      "text": "isso",
+      "start": 5420,
+      "end": 5820,
+      "confidence": 0.9999665,
+      "speaker": "A"
+    },
+    {
+      "text": "se",
+      "start": 5820,
+      "end": 6060,
+      "confidence": 0.99995863,
+      "speaker": "A"
+    },
+    {
+      "text": "estiver",
+      "start": 6060,
+      "end": 6760,
+      "confidence": 0.9999327,
+      "speaker": "A"
+    },
+    {
+      "text": "preparado",
+      "start": 6760,
+      "end": 7860,
+      "confidence": 0.9999827,
+      "speaker": "A"
+    },
+    {
+      "text": "para",
+      "start": 7860,
+      "end": 8119,
+      "confidence": 0.9998343,
+      "speaker": "A"
+    },
+    {
+      "text": "ver",
+      "start": 8119,
+      "end": 8340,
+      "confidence": 0.9999598,
+      "speaker": "A"
+    },
+    {
+      "text": "a",
+      "start": 8340,
+      "end": 8400,
+      "confidence": 0.9999825,
+      "speaker": "A"
+    },
+    {
+      "text": "realidade",
+      "start": 8400,
+      "end": 8940,
+      "confidence": 0.99998754,
+      "speaker": "A"
+    },
+    {
+      "text": "realmente",
+      "start": 8940,
+      "end": 9660,
+      "confidence": 0.9997657,
+      "speaker": "A"
+    },
+    {
+      "text": "como",
+      "start": 9660,
+      "end": 9960,
+      "confidence": 0.9999299,
+      "speaker": "A"
+    },
+    {
+      "text": "ela",
+      "start": 9960,
+      "end": 10200,
+      "confidence": 0.9999938,
+      "speaker": "A"
+    },
+    {
+      "text": "é.",
+      "start": 10200,
+      "end": 10600,
+      "confidence": 0.9980286,
+      "speaker": "A"
+    },
+    {
+      "text": "Isto",
+      "start": 10600,
+      "end": 10840,
+      "confidence": 0.99660397,
+      "speaker": "A"
+    },
+    {
+      "text": "é",
+      "start": 10840,
+      "end": 11160,
+      "confidence": 0.9999876,
+      "speaker": "A"
+    },
+    {
+      "text": "especificamente",
+      "start": 11160,
+      "end": 12160,
+      "confidence": 0.9998866,
+      "speaker": "A"
+    },
+    {
+      "text": "para",
+      "start": 12160,
+      "end": 12380,
+      "confidence": 0.9999387,
+      "speaker": "A"
+    },
+    {
+      "text": "pessoas",
+      "start": 12380,
+      "end": 12920,
+      "confidence": 0.9998553,
+      "speaker": "A"
+    },
+    {
+      "text": "que",
+      "start": 12920,
+      "end": 13080,
+      "confidence": 0.99998474,
+      "speaker": "A"
+    },
+    {
+      "text": "estão",
+      "start": 13080,
+      "end": 13380,
+      "confidence": 0.999959,
+      "speaker": "A"
+    },
+    {
+      "text": "prontas",
+      "start": 13380,
+      "end": 13860,
+      "confidence": 0.99999726,
+      "speaker": "A"
+    },
+    {
+      "text": "para",
+      "start": 13860,
+      "end": 14220,
+      "confidence": 0.99993825,
+      "speaker": "A"
+    },
+    {
+      "text": "despertar",
+      "start": 14220,
+      "end": 15260,
+      "confidence": 0.99983877,
+      "speaker": "A"
+    },
+    {
+      "text": "e",
+      "start": 15260,
+      "end": 15580,
+      "confidence": 0.99994516,
+      "speaker": "A"
+    },
+    {
+      "text": "acordarem",
+      "start": 15580,
+      "end": 16280,
+      "confidence": 0.9998607,
+      "speaker": "A"
+    },
+    {
+      "text": "definitivamente",
+      "start": 16280,
+      "end": 17260,
+      "confidence": 0.9999886,
+      "speaker": "A"
+    },
+    {
+      "text": "da",
+      "start": 17260,
+      "end": 17580,
+      "confidence": 0.9999465,
+      "speaker": "A"
+    },
+    {
+      "text": "ilusão.",
+      "start": 17580,
+      "end": 18220,
+      "confidence": 0.99994534,
+      "speaker": "A"
+    },
+    {
+      "text": "Você",
+      "start": 18220,
+      "end": 18480,
+      "confidence": 0.999671,
+      "speaker": "A"
+    },
+    {
+      "text": "saberá",
+      "start": 18480,
+      "end": 18860,
+      "confidence": 0.9999578,
+      "speaker": "A"
+    },
+    {
+      "text": "que",
+      "start": 18860,
+      "end": 18960,
+      "confidence": 0.99952877,
+      "speaker": "A"
+    },
+    {
+      "text": "você",
+      "start": 18960,
+      "end": 19200,
+      "confidence": 0.9992144,
+      "speaker": "A"
+    },
+    {
+      "text": "está",
+      "start": 19200,
+      "end": 19440,
+      "confidence": 0.999979,
+      "speaker": "A"
+    },
+    {
+      "text": "pronto",
+      "start": 19440,
+      "end": 19760,
+      "confidence": 0.99997246,
+      "speaker": "A"
+    },
+    {
+      "text": "se",
+      "start": 19760,
+      "end": 20020,
+      "confidence": 0.99981993,
+      "speaker": "A"
+    },
+    {
+      "text": "este",
+      "start": 20020,
+      "end": 20360,
+      "confidence": 0.9983821,
+      "speaker": "A"
+    },
+    {
+      "text": "vídeo",
+      "start": 20360,
+      "end": 20740,
+      "confidence": 0.99999547,
+      "speaker": "A"
+    },
+    {
+      "text": "for",
+      "start": 20740,
+      "end": 21100,
+      "confidence": 0.99993944,
+      "speaker": "A"
+    },
+    {
+      "text": "agradável",
+      "start": 21100,
+      "end": 21540,
+      "confidence": 0.9999955,
+      "speaker": "A"
+    },
+    {
+      "text": "para",
+      "start": 21540,
+      "end": 21720,
+      "confidence": 0.999548,
+      "speaker": "A"
+    },
+    {
+      "text": "você.",
+      "start": 21720,
+      "end": 22440,
+      "confidence": 0.99997246,
+      "speaker": "A"
+    },
+    {
+      "text": "Se",
+      "start": 22440,
+      "end": 22540,
+      "confidence": 0.9997633,
+      "speaker": "A"
+    },
+    {
+      "text": "você",
+      "start": 22540,
+      "end": 22820,
+      "confidence": 0.99993634,
+      "speaker": "A"
+    },
+    {
+      "text": "sentir",
+      "start": 22820,
+      "end": 23260,
+      "confidence": 0.9999924,
+      "speaker": "A"
+    },
+    {
+      "text": "qualquer",
+      "start": 23260,
+      "end": 23580,
+      "confidence": 0.99999833,
+      "speaker": "A"
+    },
+    {
+      "text": "sinal",
+      "start": 23580,
+      "end": 23840,
+      "confidence": 0.9999962,
+      "speaker": "A"
+    },
+    {
+      "text": "de",
+      "start": 23840,
+      "end": 24220,
+      "confidence": 0.9999944,
+      "speaker": "A"
+    },
+    {
+      "text": "ansiedade",
+      "start": 24220,
+      "end": 24700,
+      "confidence": 0.9999972,
+      "speaker": "A"
+    },
+    {
+      "text": "ou",
+      "start": 24700,
+      "end": 25260,
+      "confidence": 0.9999349,
+      "speaker": "A"
+    },
+    {
+      "text": "desconforto,",
+      "start": 25260,
+      "end": 26210,
+      "confidence": 0.9999924,
+      "speaker": "A"
+    },
+    {
+      "text": "significa",
+      "start": 26320,
+      "end": 26780,
+      "confidence": 0.9999143,
+      "speaker": "A"
+    },
+    {
+      "text": "que",
+      "start": 26780,
+      "end": 27100,
+      "confidence": 0.99998033,
+      "speaker": "A"
+    },
+    {
+      "text": "você",
+      "start": 27100,
+      "end": 27360,
+      "confidence": 0.99996245,
+      "speaker": "A"
+    },
+    {
+      "text": "não",
+      "start": 27360,
+      "end": 27520,
+      "confidence": 0.999861,
+      "speaker": "A"
+    },
+    {
+      "text": "está",
+      "start": 27520,
+      "end": 27760,
+      "confidence": 0.9999541,
+      "speaker": "A"
+    },
+    {
+      "text": "pronto",
+      "start": 27760,
+      "end": 28280,
+      "confidence": 0.99997246,
+      "speaker": "A"
+    },
+    {
+      "text": "para",
+      "start": 28280,
+      "end": 28700,
+      "confidence": 0.999684,
+      "speaker": "A"
+    },
+    {
+      "text": "abrir",
+      "start": 28700,
+      "end": 28960,
+      "confidence": 0.99987864,
+      "speaker": "A"
+    },
+    {
+      "text": "o",
+      "start": 28960,
+      "end": 29100,
+      "confidence": 0.9998149,
+      "speaker": "A"
+    },
+    {
+      "text": "seu",
+      "start": 29100,
+      "end": 29360,
+      "confidence": 0.99993265,
+      "speaker": "A"
+    },
+    {
+      "text": "terceiro",
+      "start": 29360,
+      "end": 29660,
+      "confidence": 0.9999316,
+      "speaker": "A"
+    },
+    {
+      "text": "olho.",
+      "start": 29660,
+      "end": 29940,
+      "confidence": 0.99981755,
+      "speaker": "A"
+    },
+    {
+      "text": "Salva",
+      "start": 29940,
+      "end": 29980,
+      "confidence": 0.9276182,
+      "speaker": "A"
+    },
+    {
+      "text": "este",
+      "start": 29980,
+      "end": 30000,
+      "confidence": 0.99656206,
+      "speaker": "A"
+    },
+    {
+      "text": "vídeo",
+      "start": 30000,
+      "end": 30020,
+      "confidence": 0.9997018,
+      "speaker": "A"
+    },
+    {
+      "text": "para",
+      "start": 30020,
+      "end": 30040,
+      "confidence": 0.98790234,
+      "speaker": "A"
+    },
+    {
+      "text": "o",
+      "start": 30040,
+      "end": 30060,
+      "confidence": 0.89052904,
+      "speaker": "A"
+    },
+    {
+      "text": "momento",
+      "start": 30060,
+      "end": 30080,
+      "confidence": 0.7462698,
+      "speaker": "A"
+    },
+    {
+      "text": "que",
+      "start": 30080,
+      "end": 30100,
+      "confidence": 0.5501517,
+      "speaker": "A"
+    },
+    {
+      "text": "que",
+      "start": 31900,
+      "end": 31932,
+      "confidence": 0.68594354,
+      "speaker": "A"
+    },
+    {
+      "text": "você",
+      "start": 31932,
+      "end": 32156,
+      "confidence": 0.9992582,
+      "speaker": "A"
+    },
+    {
+      "text": "se",
+      "start": 32156,
+      "end": 32236,
+      "confidence": 0.9998202,
+      "speaker": "A"
+    },
+    {
+      "text": "sentir",
+      "start": 32236,
+      "end": 32717,
+      "confidence": 0.99996614,
+      "speaker": "A"
+    },
+    {
+      "text": "pronto",
+      "start": 32717,
+      "end": 33230,
+      "confidence": 0.99972993,
+      "speaker": "A"
+    },
+    {
+      "text": "para",
+      "start": 33358,
+      "end": 33599,
+      "confidence": 0.9997762,
+      "speaker": "A"
+    },
+    {
+      "text": "fazer",
+      "start": 33599,
+      "end": 34096,
+      "confidence": 0.9999827,
+      "speaker": "A"
+    },
+    {
+      "text": "este",
+      "start": 34096,
+      "end": 34400,
+      "confidence": 0.9990656,
+      "speaker": "A"
+    },
+    {
+      "text": "procedimento.",
+      "start": 34400,
+      "end": 35234,
+      "confidence": 0.99983793,
+      "speaker": "A"
+    },
+    {
+      "text": "Então",
+      "start": 35779,
+      "end": 35971,
+      "confidence": 0.99978936,
+      "speaker": "A"
+    },
+    {
+      "text": "vamos",
+      "start": 36003,
+      "end": 36404,
+      "confidence": 0.9994085,
+      "speaker": "A"
+    },
+    {
+      "text": "começar.",
+      "start": 36404,
+      "end": 36933,
+      "confidence": 0.9995957,
+      "speaker": "A"
+    },
+    {
+      "text": "Encontre",
+      "start": 37382,
+      "end": 37847,
+      "confidence": 0.99852777,
+      "speaker": "A"
+    },
+    {
+      "text": "um",
+      "start": 37863,
+      "end": 37959,
+      "confidence": 0.9999908,
+      "speaker": "A"
+    },
+    {
+      "text": "local",
+      "start": 37959,
+      "end": 38408,
+      "confidence": 0.9999945,
+      "speaker": "A"
+    },
+    {
+      "text": "tranquilo",
+      "start": 38408,
+      "end": 38969,
+      "confidence": 0.9999989,
+      "speaker": "A"
+    },
+    {
+      "text": "no",
+      "start": 38969,
+      "end": 39081,
+      "confidence": 0.99996793,
+      "speaker": "A"
+    },
+    {
+      "text": "qual",
+      "start": 39129,
+      "end": 39305,
+      "confidence": 0.9999943,
+      "speaker": "A"
+    },
+    {
+      "text": "você",
+      "start": 39321,
+      "end": 39530,
+      "confidence": 0.99999475,
+      "speaker": "A"
+    },
+    {
+      "text": "possa",
+      "start": 39610,
+      "end": 39883,
+      "confidence": 0.9999986,
+      "speaker": "A"
+    },
+    {
+      "text": "se",
+      "start": 39931,
+      "end": 40091,
+      "confidence": 0.99999106,
+      "speaker": "A"
+    },
+    {
+      "text": "deitar.",
+      "start": 40091,
+      "end": 40700,
+      "confidence": 0.9999671,
+      "speaker": "A"
+    },
+    {
+      "text": "Agora",
+      "start": 41069,
+      "end": 41373,
+      "confidence": 0.9999832,
+      "speaker": "A"
+    },
+    {
+      "text": "crie",
+      "start": 41453,
+      "end": 41822,
+      "confidence": 0.9981043,
+      "speaker": "A"
+    },
+    {
+      "text": "a",
+      "start": 41950,
+      "end": 42111,
+      "confidence": 0.99999356,
+      "speaker": "A"
+    },
+    {
+      "text": "intenção",
+      "start": 42111,
+      "end": 42624,
+      "confidence": 0.9999946,
+      "speaker": "A"
+    },
+    {
+      "text": "de",
+      "start": 43137,
+      "end": 43217,
+      "confidence": 0.9999925,
+      "speaker": "A"
+    },
+    {
+      "text": "você",
+      "start": 43217,
+      "end": 43650,
+      "confidence": 0.9998673,
+      "speaker": "A"
+    },
+    {
+      "text": "abrir",
+      "start": 43714,
+      "end": 44195,
+      "confidence": 0.9999944,
+      "speaker": "A"
+    },
+    {
+      "text": "o",
+      "start": 44275,
+      "end": 44339,
+      "confidence": 0.99999535,
+      "speaker": "A"
+    },
+    {
+      "text": "seu",
+      "start": 44371,
+      "end": 44659,
+      "confidence": 0.99999285,
+      "speaker": "A"
+    },
+    {
+      "text": "terceiro",
+      "start": 44659,
+      "end": 45269,
+      "confidence": 0.99985176,
+      "speaker": "A"
+    },
+    {
+      "text": "olho.",
+      "start": 45557,
+      "end": 45910,
+      "confidence": 0.99999446,
+      "speaker": "A"
+    },
+    {
+      "text": "A",
+      "start": 46118,
+      "end": 46198,
+      "confidence": 0.99998546,
+      "speaker": "A"
+    },
+    {
+      "text": "intenção",
+      "start": 46198,
+      "end": 46775,
+      "confidence": 0.9999956,
+      "speaker": "A"
+    },
+    {
+      "text": "é",
+      "start": 47240,
+      "end": 47401,
+      "confidence": 0.99999356,
+      "speaker": "A"
+    },
+    {
+      "text": "uma",
+      "start": 47401,
+      "end": 47497,
+      "confidence": 0.99998724,
+      "speaker": "A"
+    },
+    {
+      "text": "das",
+      "start": 47497,
+      "end": 47705,
+      "confidence": 0.99999285,
+      "speaker": "A"
+    },
+    {
+      "text": "formas",
+      "start": 47705,
+      "end": 48186,
+      "confidence": 0.9999912,
+      "speaker": "A"
+    },
+    {
+      "text": "mais",
+      "start": 48186,
+      "end": 48507,
+      "confidence": 0.99999547,
+      "speaker": "A"
+    },
+    {
+      "text": "potentes",
+      "start": 48507,
+      "end": 49404,
+      "confidence": 0.99997234,
+      "speaker": "A"
+    },
+    {
+      "text": "de",
+      "start": 49629,
+      "end": 49709,
+      "confidence": 0.9999876,
+      "speaker": "A"
+    },
+    {
+      "text": "você",
+      "start": 49709,
+      "end": 50142,
+      "confidence": 0.99997973,
+      "speaker": "A"
+    },
+    {
+      "text": "manipular",
+      "start": 50350,
+      "end": 51216,
+      "confidence": 0.9999876,
+      "speaker": "A"
+    },
+    {
+      "text": "o",
+      "start": 51328,
+      "end": 51408,
+      "confidence": 0.9999938,
+      "speaker": "A"
+    },
+    {
+      "text": "universo.",
+      "start": 51408,
+      "end": 52162,
+      "confidence": 0.99997735,
+      "speaker": "A"
+    },
+    {
+      "text": "Foque",
+      "start": 52675,
+      "end": 53172,
+      "confidence": 0.99997103,
+      "speaker": "A"
+    },
+    {
+      "text": "a",
+      "start": 53172,
+      "end": 53236,
+      "confidence": 0.9999696,
+      "speaker": "A"
+    },
+    {
+      "text": "sua",
+      "start": 53236,
+      "end": 53636,
+      "confidence": 0.999985,
+      "speaker": "A"
+    },
+    {
+      "text": "atenção",
+      "start": 53733,
+      "end": 54310,
+      "confidence": 0.9999976,
+      "speaker": "A"
+    },
+    {
+      "text": "no",
+      "start": 54598,
+      "end": 54710,
+      "confidence": 0.9999864,
+      "speaker": "A"
+    },
+    {
+      "text": "seu",
+      "start": 54758,
+      "end": 54871,
+      "confidence": 0.99996245,
+      "speaker": "A"
+    },
+    {
+      "text": "chacra",
+      "start": 54871,
+      "end": 55400,
+      "confidence": 0.9418891,
+      "speaker": "A"
+    },
+    {
+      "text": "cardíaco,",
+      "start": 55640,
+      "end": 56410,
+      "confidence": 0.9999881,
+      "speaker": "A"
+    },
+    {
+      "text": "no",
+      "start": 56442,
+      "end": 56522,
+      "confidence": 0.9999765,
+      "speaker": "A"
+    },
+    {
+      "text": "seu",
+      "start": 56522,
+      "end": 56762,
+      "confidence": 0.9999938,
+      "speaker": "A"
+    },
+    {
+      "text": "coração,",
+      "start": 56762,
+      "end": 57355,
+      "confidence": 0.9999932,
+      "speaker": "A"
+    },
+    {
+      "text": "para",
+      "start": 57644,
+      "end": 57804,
+      "confidence": 0.9999559,
+      "speaker": "A"
+    },
+    {
+      "text": "que",
+      "start": 57836,
+      "end": 57916,
+      "confidence": 0.9999925,
+      "speaker": "A"
+    },
+    {
+      "text": "você",
+      "start": 57965,
+      "end": 58205,
+      "confidence": 0.99999106,
+      "speaker": "A"
+    },
+    {
+      "text": "possa",
+      "start": 58205,
+      "end": 58686,
+      "confidence": 0.99999785,
+      "speaker": "A"
+    },
+    {
+      "text": "liberar",
+      "start": 58686,
+      "end": 59423,
+      "confidence": 0.9999943,
+      "speaker": "A"
+    },
+    {
+      "text": "esta",
+      "start": 59423,
+      "end": 59888,
+      "confidence": 0.99363434,
+      "speaker": "A"
+    },
+    {
+      "text": "energia",
+      "start": 59984,
+      "end": 60658,
+      "confidence": 0.9999918,
+      "speaker": "A"
+    },
+    {
+      "text": "para",
+      "start": 60658,
+      "end": 61026,
+      "confidence": 0.99986434,
+      "speaker": "A"
+    },
+    {
+      "text": "o",
+      "start": 61026,
+      "end": 61090,
+      "confidence": 0.99996567,
+      "speaker": "A"
+    },
+    {
+      "text": "mundo",
+      "start": 61090,
+      "end": 61924,
+      "confidence": 0.999967,
+      "speaker": "A"
+    },
+    {
+      "text": "e",
+      "start": 62309,
+      "end": 62373,
+      "confidence": 0.9996165,
+      "speaker": "A"
+    },
+    {
+      "text": "para",
+      "start": 62373,
+      "end": 62613,
+      "confidence": 0.9998913,
+      "speaker": "A"
+    },
+    {
+      "text": "que",
+      "start": 62613,
+      "end": 62725,
+      "confidence": 0.9999361,
+      "speaker": "A"
+    },
+    {
+      "text": "você",
+      "start": 62725,
+      "end": 63094,
+      "confidence": 0.9999449,
+      "speaker": "A"
+    },
+    {
+      "text": "também",
+      "start": 63094,
+      "end": 63575,
+      "confidence": 0.9997273,
+      "speaker": "A"
+    },
+    {
+      "text": "possa",
+      "start": 63575,
+      "end": 63880,
+      "confidence": 0.93998766,
+      "speaker": "A"
+    },
+    {
+      "text": "possa",
+      "start": 63800,
+      "end": 64056,
+      "confidence": 0.6369364,
+      "speaker": "A"
+    },
+    {
+      "text": "aproveitar",
+      "start": 64232,
+      "end": 64938,
+      "confidence": 0.9998712,
+      "speaker": "A"
+    },
+    {
+      "text": "desta",
+      "start": 64938,
+      "end": 65419,
+      "confidence": 0.9934371,
+      "speaker": "A"
+    },
+    {
+      "text": "energia.",
+      "start": 65595,
+      "end": 66268,
+      "confidence": 0.9998971,
+      "speaker": "A"
+    },
+    {
+      "text": "Agora",
+      "start": 66957,
+      "end": 67502,
+      "confidence": 0.9996495,
+      "speaker": "A"
+    },
+    {
+      "text": "você",
+      "start": 67823,
+      "end": 68144,
+      "confidence": 0.9952814,
+      "speaker": "A"
+    },
+    {
+      "text": "vai",
+      "start": 68144,
+      "end": 68416,
+      "confidence": 0.9999932,
+      "speaker": "A"
+    },
+    {
+      "text": "direcionar",
+      "start": 68464,
+      "end": 69554,
+      "confidence": 0.9999819,
+      "speaker": "A"
+    },
+    {
+      "text": "esta",
+      "start": 69683,
+      "end": 70147,
+      "confidence": 0.99559695,
+      "speaker": "A"
+    },
+    {
+      "text": "energia",
+      "start": 70163,
+      "end": 70837,
+      "confidence": 0.999998,
+      "speaker": "A"
+    },
+    {
+      "text": "para",
+      "start": 70949,
+      "end": 71414,
+      "confidence": 0.9999752,
+      "speaker": "A"
+    },
+    {
+      "text": "o",
+      "start": 71414,
+      "end": 71462,
+      "confidence": 0.9999907,
+      "speaker": "A"
+    },
+    {
+      "text": "seu",
+      "start": 71462,
+      "end": 71783,
+      "confidence": 0.99999166,
+      "speaker": "A"
+    },
+    {
+      "text": "terceiro",
+      "start": 71911,
+      "end": 72392,
+      "confidence": 0.99975604,
+      "speaker": "A"
+    },
+    {
+      "text": "olho.",
+      "start": 72488,
+      "end": 73081,
+      "confidence": 0.999977,
+      "speaker": "A"
+    },
+    {
+      "text": "Conforme",
+      "start": 73674,
+      "end": 74363,
+      "confidence": 0.9998873,
+      "speaker": "A"
+    },
+    {
+      "text": "você",
+      "start": 74395,
+      "end": 74636,
+      "confidence": 0.99998474,
+      "speaker": "A"
+    },
+    {
+      "text": "vai",
+      "start": 74636,
+      "end": 74908,
+      "confidence": 0.99999475,
+      "speaker": "A"
+    },
+    {
+      "text": "direcionando",
+      "start": 74956,
+      "end": 75806,
+      "confidence": 0.99999636,
+      "speaker": "A"
+    },
+    {
+      "text": "esta",
+      "start": 76014,
+      "end": 76415,
+      "confidence": 0.9977482,
+      "speaker": "A"
+    },
+    {
+      "text": "energia",
+      "start": 76415,
+      "end": 76960,
+      "confidence": 0.999997,
+      "speaker": "A"
+    },
+    {
+      "text": "para",
+      "start": 77040,
+      "end": 77265,
+      "confidence": 0.9999844,
+      "speaker": "A"
+    },
+    {
+      "text": "o",
+      "start": 77265,
+      "end": 77281,
+      "confidence": 0.9999949,
+      "speaker": "A"
+    },
+    {
+      "text": "seu",
+      "start": 77281,
+      "end": 77521,
+      "confidence": 0.9999925,
+      "speaker": "A"
+    },
+    {
+      "text": "terceiro",
+      "start": 77601,
+      "end": 78018,
+      "confidence": 0.99999833,
+      "speaker": "A"
+    },
+    {
+      "text": "olho,",
+      "start": 78018,
+      "end": 78692,
+      "confidence": 0.999996,
+      "speaker": "A"
+    },
+    {
+      "text": "você",
+      "start": 78804,
+      "end": 79076,
+      "confidence": 0.999982,
+      "speaker": "A"
+    },
+    {
+      "text": "vai",
+      "start": 79076,
+      "end": 79285,
+      "confidence": 0.9999962,
+      "speaker": "A"
+    },
+    {
+      "text": "fechar",
+      "start": 79365,
+      "end": 79782,
+      "confidence": 0.9999974,
+      "speaker": "A"
+    },
+    {
+      "text": "os",
+      "start": 79782,
+      "end": 79942,
+      "confidence": 0.9999919,
+      "speaker": "A"
+    },
+    {
+      "text": "olhos",
+      "start": 79942,
+      "end": 80343,
+      "confidence": 0.9999967,
+      "speaker": "A"
+    },
+    {
+      "text": "e",
+      "start": 80583,
+      "end": 80599,
+      "confidence": 0.9999875,
+      "speaker": "A"
+    },
+    {
+      "text": "olhar",
+      "start": 80599,
+      "end": 81144,
+      "confidence": 0.9999951,
+      "speaker": "A"
+    },
+    {
+      "text": "para",
+      "start": 81369,
+      "end": 81561,
+      "confidence": 0.9996958,
+      "speaker": "A"
+    },
+    {
+      "text": "cima.",
+      "start": 81561,
+      "end": 81898,
+      "confidence": 0.9999901,
+      "speaker": "A"
+    },
+    {
+      "text": "Quando",
+      "start": 82731,
+      "end": 82972,
+      "confidence": 0.9985464,
+      "speaker": "A"
+    },
+    {
+      "text": "você",
+      "start": 82972,
+      "end": 83228,
+      "confidence": 0.9999957,
+      "speaker": "A"
+    },
+    {
+      "text": "olha",
+      "start": 83228,
+      "end": 83452,
+      "confidence": 0.99999696,
+      "speaker": "A"
+    },
+    {
+      "text": "para",
+      "start": 83533,
+      "end": 83741,
+      "confidence": 0.99969053,
+      "speaker": "A"
+    },
+    {
+      "text": "cima,",
+      "start": 83773,
+      "end": 83981,
+      "confidence": 0.9999948,
+      "speaker": "A"
+    },
+    {
+      "text": "você",
+      "start": 84014,
+      "end": 84414,
+      "confidence": 0.9999608,
+      "speaker": "A"
+    },
+    {
+      "text": "faz",
+      "start": 84414,
+      "end": 84559,
+      "confidence": 0.9999888,
+      "speaker": "A"
+    },
+    {
+      "text": "uma",
+      "start": 84671,
+      "end": 84783,
+      "confidence": 0.999977,
+      "speaker": "A"
+    },
+    {
+      "text": "pressão",
+      "start": 84895,
+      "end": 85408,
+      "confidence": 0.9999971,
+      "speaker": "A"
+    },
+    {
+      "text": "na",
+      "start": 85777,
+      "end": 85857,
+      "confidence": 0.9999808,
+      "speaker": "A"
+    },
+    {
+      "text": "sua",
+      "start": 85889,
+      "end": 86178,
+      "confidence": 0.9999862,
+      "speaker": "A"
+    },
+    {
+      "text": "glândula",
+      "start": 86178,
+      "end": 86658,
+      "confidence": 0.99986225,
+      "speaker": "A"
+    },
+    {
+      "text": "pineal,",
+      "start": 86658,
+      "end": 87107,
+      "confidence": 0.94092906,
+      "speaker": "A"
+    },
+    {
+      "text": "e",
+      "start": 87636,
+      "end": 87797,
+      "confidence": 0.99998796,
+      "speaker": "A"
+    },
+    {
+      "text": "esta",
+      "start": 87797,
+      "end": 88101,
+      "confidence": 0.9991441,
+      "speaker": "A"
+    },
+    {
+      "text": "pressão",
+      "start": 88101,
+      "end": 88614,
+      "confidence": 0.9999966,
+      "speaker": "A"
+    },
+    {
+      "text": "faz",
+      "start": 88983,
+      "end": 89432,
+      "confidence": 0.9998615,
+      "speaker": "A"
+    },
+    {
+      "text": "movimentar",
+      "start": 89544,
+      "end": 90522,
+      "confidence": 0.99999636,
+      "speaker": "A"
+    },
+    {
+      "text": "o",
+      "start": 90602,
+      "end": 90666,
+      "confidence": 0.9999924,
+      "speaker": "A"
+    },
+    {
+      "text": "seu",
+      "start": 90666,
+      "end": 90906,
+      "confidence": 0.99999475,
+      "speaker": "A"
+    },
+    {
+      "text": "terceiro",
+      "start": 90906,
+      "end": 91403,
+      "confidence": 0.9999967,
+      "speaker": "A"
+    },
+    {
+      "text": "olho.",
+      "start": 91403,
+      "end": 91676,
+      "confidence": 0.9999878,
+      "speaker": "A"
+    },
+    {
+      "text": "Você",
+      "start": 92349,
+      "end": 92590,
+      "confidence": 0.99975497,
+      "speaker": "A"
+    },
+    {
+      "text": "vai",
+      "start": 92590,
+      "end": 92750,
+      "confidence": 0.9999801,
+      "speaker": "A"
+    },
+    {
+      "text": "ficar",
+      "start": 92750,
+      "end": 93231,
+      "confidence": 0.9999896,
+      "speaker": "A"
+    },
+    {
+      "text": "focado",
+      "start": 93231,
+      "end": 93952,
+      "confidence": 0.9999653,
+      "speaker": "A"
+    },
+    {
+      "text": "aí",
+      "start": 94048,
+      "end": 94225,
+      "confidence": 0.99997085,
+      "speaker": "A"
+    },
+    {
+      "text": "neste",
+      "start": 94225,
+      "end": 94754,
+      "confidence": 0.9994863,
+      "speaker": "A"
+    },
+    {
+      "text": "movimento",
+      "start": 94754,
+      "end": 95427,
+      "confidence": 0.9999358,
+      "speaker": "A"
+    },
+    {
+      "text": "da",
+      "start": 95700,
+      "end": 95880,
+      "confidence": 0.92008793,
+      "speaker": "A"
+    },
+    {
+      "text": "sua",
+      "start": 95880,
+      "end": 96220,
+      "confidence": 0.99942243,
+      "speaker": "A"
+    },
+    {
+      "text": "glândula",
+      "start": 96220,
+      "end": 96540,
+      "confidence": 0.9994765,
+      "speaker": "A"
+    },
+    {
+      "text": "pineal",
+      "start": 96540,
+      "end": 97020,
+      "confidence": 0.9999398,
+      "speaker": "A"
+    },
+    {
+      "text": "durante",
+      "start": 97020,
+      "end": 97860,
+      "confidence": 0.9888476,
+      "speaker": "A"
+    },
+    {
+      "text": "10",
+      "start": 97860,
+      "end": 98440,
+      "confidence": 0.9999013,
+      "speaker": "A"
+    },
+    {
+      "text": "respirações.",
+      "start": 98440,
+      "end": 99640,
+      "confidence": 0.99958503,
+      "speaker": "A"
+    },
+    {
+      "text": "E",
+      "start": 100120,
+      "end": 100140,
+      "confidence": 0.9993668,
+      "speaker": "A"
+    },
+    {
+      "text": "agora",
+      "start": 100140,
+      "end": 100520,
+      "confidence": 0.99946123,
+      "speaker": "A"
+    },
+    {
+      "text": "você",
+      "start": 100520,
+      "end": 100800,
+      "confidence": 0.9940491,
+      "speaker": "A"
+    },
+    {
+      "text": "vai",
+      "start": 100800,
+      "end": 101180,
+      "confidence": 0.99988556,
+      "speaker": "A"
+    },
+    {
+      "text": "imaginar",
+      "start": 101180,
+      "end": 101840,
+      "confidence": 0.9999948,
+      "speaker": "A"
+    },
+    {
+      "text": "um",
+      "start": 101840,
+      "end": 102280,
+      "confidence": 0.99135816,
+      "speaker": "A"
+    },
+    {
+      "text": "olho",
+      "start": 102280,
+      "end": 102620,
+      "confidence": 0.9999863,
+      "speaker": "A"
+    },
+    {
+      "text": "abrindo",
+      "start": 102620,
+      "end": 103260,
+      "confidence": 0.99990237,
+      "speaker": "A"
+    },
+    {
+      "text": "no",
+      "start": 103260,
+      "end": 103600,
+      "confidence": 0.99965525,
+      "speaker": "A"
+    },
+    {
+      "text": "centro",
+      "start": 103600,
+      "end": 104080,
+      "confidence": 0.99994886,
+      "speaker": "A"
+    },
+    {
+      "text": "da",
+      "start": 104080,
+      "end": 104340,
+      "confidence": 0.99991596,
+      "speaker": "A"
+    },
+    {
+      "text": "sua",
+      "start": 104340,
+      "end": 104680,
+      "confidence": 0.99994886,
+      "speaker": "A"
+    },
+    {
+      "text": "testa.",
+      "start": 104680,
+      "end": 105630,
+      "confidence": 0.99952275,
+      "speaker": "A"
+    },
+    {
+      "text": "Pratique",
+      "start": 107140,
+      "end": 107300,
+      "confidence": 0.999529,
+      "speaker": "A"
+    },
+    {
+      "text": "este",
+      "start": 107300,
+      "end": 107960,
+      "confidence": 0.99230534,
+      "speaker": "A"
+    },
+    {
+      "text": "exercício",
+      "start": 107960,
+      "end": 108580,
+      "confidence": 0.9999933,
+      "speaker": "A"
+    },
+    {
+      "text": "sempre",
+      "start": 108580,
+      "end": 109060,
+      "confidence": 0.9998647,
+      "speaker": "A"
+    },
+    {
+      "text": "que",
+      "start": 109060,
+      "end": 109300,
+      "confidence": 0.99971515,
+      "speaker": "A"
+    },
+    {
+      "text": "acordar",
+      "start": 109300,
+      "end": 109960,
+      "confidence": 0.9999792,
+      "speaker": "A"
+    },
+    {
+      "text": "e",
+      "start": 109960,
+      "end": 110200,
+      "confidence": 0.9993851,
+      "speaker": "A"
+    },
+    {
+      "text": "antes",
+      "start": 110200,
+      "end": 110600,
+      "confidence": 0.9997743,
+      "speaker": "A"
+    },
+    {
+      "text": "de",
+      "start": 110600,
+      "end": 110860,
+      "confidence": 0.99999154,
+      "speaker": "A"
+    },
+    {
+      "text": "dormir.",
+      "start": 110860,
+      "end": 111880,
+      "confidence": 0.9993339,
+      "speaker": "A"
+    },
+    {
+      "text": "A",
+      "start": 111880,
+      "end": 112000,
+      "confidence": 0.99976534,
+      "speaker": "A"
+    },
+    {
+      "text": "prática",
+      "start": 112000,
+      "end": 112380,
+      "confidence": 0.99997526,
+      "speaker": "A"
+    },
+    {
+      "text": "deste",
+      "start": 112380,
+      "end": 112820,
+      "confidence": 0.99801886,
+      "speaker": "A"
+    },
+    {
+      "text": "exercício",
+      "start": 112820,
+      "end": 113380,
+      "confidence": 0.9999929,
+      "speaker": "A"
+    },
+    {
+      "text": "te",
+      "start": 113380,
+      "end": 113860,
+      "confidence": 0.9988875,
+      "speaker": "A"
+    },
+    {
+      "text": "trará",
+      "start": 113860,
+      "end": 113960,
+      "confidence": 0.9999533,
+      "speaker": "A"
+    },
+    {
+      "text": "uma",
+      "start": 113960,
+      "end": 114180,
+      "confidence": 0.9997706,
+      "speaker": "A"
+    },
+    {
+      "text": "conexão",
+      "start": 114180,
+      "end": 114640,
+      "confidence": 0.99999094,
+      "speaker": "A"
+    },
+    {
+      "text": "com",
+      "start": 114640,
+      "end": 114880,
+      "confidence": 0.9999689,
+      "speaker": "A"
+    },
+    {
+      "text": "a",
+      "start": 114880,
+      "end": 115080,
+      "confidence": 0.99996424,
+      "speaker": "A"
+    },
+    {
+      "text": "mente",
+      "start": 115080,
+      "end": 115160,
+      "confidence": 0.99659616,
+      "speaker": "A"
+    },
+    {
+      "text": "divina,",
+      "start": 115160,
+      "end": 116100,
+      "confidence": 0.99968946,
+      "speaker": "A"
+    },
+    {
+      "text": "intuição",
+      "start": 116100,
+      "end": 116440,
+      "confidence": 0.9998326,
+      "speaker": "A"
+    },
+    {
+      "text": "e",
+      "start": 116440,
+      "end": 116920,
+      "confidence": 0.99922323,
+      "speaker": "A"
+    },
+    {
+      "text": "verdades",
+      "start": 116920,
+      "end": 117480,
+      "confidence": 0.99986815,
+      "speaker": "A"
+    },
+    {
+      "text": "que",
+      "start": 117480,
+      "end": 117680,
+      "confidence": 0.9997942,
+      "speaker": "A"
+    },
+    {
+      "text": "chegarão",
+      "start": 117680,
+      "end": 118200,
+      "confidence": 0.99982023,
+      "speaker": "A"
+    },
+    {
+      "text": "aleatoriamente",
+      "start": 118200,
+      "end": 118920,
+      "confidence": 0.99999136,
+      "speaker": "A"
+    },
+    {
+      "text": "para",
+      "start": 118920,
+      "end": 119360,
+      "confidence": 0.8435679,
+      "speaker": "A"
+    },
+    {
+      "text": "você.",
+      "start": 119360,
+      "end": 120060,
+      "confidence": 0.9993402,
+      "speaker": "A"
+    },
+    {
+      "text": "Nada",
+      "start": 120060,
+      "end": 120260,
+      "confidence": 0.9996623,
+      "speaker": "A"
+    },
+    {
+      "text": "comparável",
+      "start": 120260,
+      "end": 121140,
+      "confidence": 0.9985259,
+      "speaker": "A"
+    },
+    {
+      "text": "ao",
+      "start": 121140,
+      "end": 121500,
+      "confidence": 0.99991405,
+      "speaker": "A"
+    },
+    {
+      "text": "que",
+      "start": 121500,
+      "end": 121720,
+      "confidence": 0.99995863,
+      "speaker": "A"
+    },
+    {
+      "text": "um",
+      "start": 121720,
+      "end": 121980,
+      "confidence": 0.99936837,
+      "speaker": "A"
+    },
+    {
+      "text": "professor",
+      "start": 121980,
+      "end": 122460,
+      "confidence": 0.99996066,
+      "speaker": "A"
+    },
+    {
+      "text": "possa",
+      "start": 122460,
+      "end": 122940,
+      "confidence": 0.99995434,
+      "speaker": "A"
+    },
+    {
+      "text": "vir",
+      "start": 122940,
+      "end": 123200,
+      "confidence": 0.9998708,
+      "speaker": "A"
+    },
+    {
+      "text": "ali",
+      "start": 123200,
+      "end": 123480,
+      "confidence": 0.9945807,
+      "speaker": "A"
+    },
+    {
+      "text": "ensinar.",
+      "start": 123480,
+      "end": 124160,
+      "confidence": 0.99783677,
+      "speaker": "A"
+    },
+    {
+      "text": "Você",
+      "start": 124160,
+      "end": 124540,
+      "confidence": 0.9998847,
+      "speaker": "A"
+    },
+    {
+      "text": "tem",
+      "start": 124540,
+      "end": 124880,
+      "confidence": 0.9999304,
+      "speaker": "A"
+    },
+    {
+      "text": "a",
+      "start": 124880,
+      "end": 125120,
+      "confidence": 0.99985445,
+      "speaker": "A"
+    },
+    {
+      "text": "sabedoria",
+      "start": 125120,
+      "end": 125460,
+      "confidence": 0.99988514,
+      "speaker": "A"
+    },
+    {
+      "text": "divina",
+      "start": 125460,
+      "end": 125680,
+      "confidence": 0.9999656,
+      "speaker": "A"
+    },
+    {
+      "text": "dentro",
+      "start": 125680,
+      "end": 125700,
+      "confidence": 0.9998373,
+      "speaker": "A"
+    },
+    {
+      "text": "de",
+      "start": 125700,
+      "end": 125720,
+      "confidence": 0.99919075,
+      "speaker": "A"
+    },
+    {
+      "text": "você.",
+      "start": 125720,
+      "end": 125740,
+      "confidence": 0.9886604,
+      "speaker": "A"
+    },
+    {
+      "text": "Que",
+      "start": 126916,
+      "end": 126964,
+      "confidence": 0.72775555,
+      "speaker": "A"
+    },
+    {
+      "text": "está",
+      "start": 127174,
+      "end": 127481,
+      "confidence": 0.99987066,
+      "speaker": "A"
+    },
+    {
+      "text": "pronta",
+      "start": 127481,
+      "end": 128045,
+      "confidence": 0.9999932,
+      "speaker": "A"
+    },
+    {
+      "text": "para",
+      "start": 128126,
+      "end": 128368,
+      "confidence": 0.99996424,
+      "speaker": "A"
+    },
+    {
+      "text": "despertar.",
+      "start": 128368,
+      "end": 129304,
+      "confidence": 0.99967074,
+      "speaker": "A"
+    },
+    {
+      "text": "Um",
+      "start": 129837,
+      "end": 130030,
+      "confidence": 0.9985753,
+      "speaker": "A"
+    },
+    {
+      "text": "ótimo",
+      "start": 130079,
+      "end": 130466,
+      "confidence": 0.99999434,
+      "speaker": "A"
+    },
+    {
+      "text": "despertar",
+      "start": 130466,
+      "end": 131080,
+      "confidence": 0.9999958,
+      "speaker": "A"
+    },
+    {
+      "text": "desejo",
+      "start": 131112,
+      "end": 131515,
+      "confidence": 0.99644446,
+      "speaker": "A"
+    },
+    {
+      "text": "para",
+      "start": 131515,
+      "end": 131628,
+      "confidence": 0.996276,
+      "speaker": "A"
+    },
+    {
+      "text": "vocês,",
+      "start": 131628,
+      "end": 132177,
+      "confidence": 0.8748586,
+      "speaker": "A"
+    },
+    {
+      "text": "e",
+      "start": 132580,
+      "end": 132597,
+      "confidence": 0.99993515,
+      "speaker": "A"
+    },
+    {
+      "text": "chame",
+      "start": 132597,
+      "end": 133129,
+      "confidence": 0.9531741,
+      "speaker": "A"
+    },
+    {
+      "text": "o",
+      "start": 133226,
+      "end": 133307,
+      "confidence": 0.99983346,
+      "speaker": "A"
+    },
+    {
+      "text": "anjo",
+      "start": 133307,
+      "end": 133694,
+      "confidence": 0.9998412,
+      "speaker": "A"
+    },
+    {
+      "text": "da",
+      "start": 133694,
+      "end": 133726,
+      "confidence": 0.9999449,
+      "speaker": "A"
+    },
+    {
+      "text": "guarda",
+      "start": 133726,
+      "end": 134178,
+      "confidence": 0.99999845,
+      "speaker": "A"
+    },
+    {
+      "text": "de",
+      "start": 134178,
+      "end": 134259,
+      "confidence": 0.9999194,
+      "speaker": "A"
+    },
+    {
+      "text": "vocês",
+      "start": 134259,
+      "end": 134743,
+      "confidence": 0.9999921,
+      "speaker": "A"
+    },
+    {
+      "text": "para",
+      "start": 134743,
+      "end": 134937,
+      "confidence": 0.9993469,
+      "speaker": "A"
+    },
+    {
+      "text": "que",
+      "start": 134937,
+      "end": 135066,
+      "confidence": 0.9999418,
+      "speaker": "A"
+    },
+    {
+      "text": "possam",
+      "start": 135066,
+      "end": 135502,
+      "confidence": 0.91807497,
+      "speaker": "A"
+    },
+    {
+      "text": "auxiliar",
+      "start": 135566,
+      "end": 136286,
+      "confidence": 0.999972,
+      "speaker": "A"
+    },
+    {
+      "text": "nesse",
+      "start": 136286,
+      "end": 136621,
+      "confidence": 0.9999177,
+      "speaker": "A"
+    },
+    {
+      "text": "processo.",
+      "start": 136621,
+      "end": 137134,
+      "confidence": 0.99972576,
+      "speaker": "A"
+    }
+  ],
+  "utterances": [
+    {
+      "speaker": "A",
+      "text": "Eu vou te ensinar a abrir o seu terceiro olho instantaneamente. Só faça isso se estiver preparado para ver a realidade realmente como ela é. Isto é especificamente para pessoas que estão prontas para despertar e acordarem definitivamente da ilusão. Você saberá que você está pronto se este vídeo for agradável para você. Se você sentir qualquer sinal de ansiedade ou desconforto, significa que você não está pronto para abrir o seu terceiro olho. Salva este vídeo para o momento que que você se sentir pronto para fazer este procedimento. Então vamos começar. Encontre um local tranquilo no qual você possa se deitar. Agora crie a intenção de você abrir o seu terceiro olho. A intenção é uma das formas mais potentes de você manipular o universo. Foque a sua atenção no seu chacra cardíaco, no seu coração, para que você possa liberar esta energia para o mundo e para que você também possa possa aproveitar desta energia. Agora você vai direcionar esta energia para o seu terceiro olho. Conforme você vai direcionando esta energia para o seu terceiro olho, você vai fechar os olhos e olhar para cima. Quando você olha para cima, você faz uma pressão na sua glândula pineal, e esta pressão faz movimentar o seu terceiro olho. Você vai ficar focado aí neste movimento da sua glândula pineal durante 10 respirações. E agora você vai imaginar um olho abrindo no centro da sua testa. Pratique este exercício sempre que acordar e antes de dormir. A prática deste exercício te trará uma conexão com a mente divina, intuição e verdades que chegarão aleatoriamente para você. Nada comparável ao que um professor possa vir ali ensinar. Você tem a sabedoria divina dentro de você. Que está pronta para despertar. Um ótimo despertar desejo para vocês, e chame o anjo da guarda de vocês para que possam auxiliar nesse processo.",
+      "confidence": 0.991426,
+      "start": 0,
+      "end": 137134,
+      "words": [
+        {
+          "text": "Eu",
+          "start": 0,
+          "end": 480,
+          "confidence": 0.9878747,
+          "speaker": "A"
+        },
+        {
+          "text": "vou",
+          "start": 480,
+          "end": 700,
+          "confidence": 0.99998355,
+          "speaker": "A"
+        },
+        {
+          "text": "te",
+          "start": 700,
+          "end": 1000,
+          "confidence": 0.9999467,
+          "speaker": "A"
+        },
+        {
+          "text": "ensinar",
+          "start": 1000,
+          "end": 1360,
+          "confidence": 0.99999565,
+          "speaker": "A"
+        },
+        {
+          "text": "a",
+          "start": 1360,
+          "end": 2020,
+          "confidence": 0.9999827,
+          "speaker": "A"
+        },
+        {
+          "text": "abrir",
+          "start": 2020,
+          "end": 2120,
+          "confidence": 0.9999887,
+          "speaker": "A"
+        },
+        {
+          "text": "o",
+          "start": 2120,
+          "end": 2280,
+          "confidence": 0.9999733,
+          "speaker": "A"
+        },
+        {
+          "text": "seu",
+          "start": 2280,
+          "end": 2620,
+          "confidence": 0.9999443,
+          "speaker": "A"
+        },
+        {
+          "text": "terceiro",
+          "start": 2620,
+          "end": 3000,
+          "confidence": 0.99937844,
+          "speaker": "A"
+        },
+        {
+          "text": "olho",
+          "start": 3000,
+          "end": 3460,
+          "confidence": 0.99999666,
+          "speaker": "A"
+        },
+        {
+          "text": "instantaneamente.",
+          "start": 3460,
+          "end": 4360,
+          "confidence": 0.99959964,
+          "speaker": "A"
+        },
+        {
+          "text": "Só",
+          "start": 5040,
+          "end": 5120,
+          "confidence": 0.99994576,
+          "speaker": "A"
+        },
+        {
+          "text": "faça",
+          "start": 5120,
+          "end": 5420,
+          "confidence": 0.9999877,
+          "speaker": "A"
+        },
+        {
+          "text": "isso",
+          "start": 5420,
+          "end": 5820,
+          "confidence": 0.9999665,
+          "speaker": "A"
+        },
+        {
+          "text": "se",
+          "start": 5820,
+          "end": 6060,
+          "confidence": 0.99995863,
+          "speaker": "A"
+        },
+        {
+          "text": "estiver",
+          "start": 6060,
+          "end": 6760,
+          "confidence": 0.9999327,
+          "speaker": "A"
+        },
+        {
+          "text": "preparado",
+          "start": 6760,
+          "end": 7860,
+          "confidence": 0.9999827,
+          "speaker": "A"
+        },
+        {
+          "text": "para",
+          "start": 7860,
+          "end": 8119,
+          "confidence": 0.9998343,
+          "speaker": "A"
+        },
+        {
+          "text": "ver",
+          "start": 8119,
+          "end": 8340,
+          "confidence": 0.9999598,
+          "speaker": "A"
+        },
+        {
+          "text": "a",
+          "start": 8340,
+          "end": 8400,
+          "confidence": 0.9999825,
+          "speaker": "A"
+        },
+        {
+          "text": "realidade",
+          "start": 8400,
+          "end": 8940,
+          "confidence": 0.99998754,
+          "speaker": "A"
+        },
+        {
+          "text": "realmente",
+          "start": 8940,
+          "end": 9660,
+          "confidence": 0.9997657,
+          "speaker": "A"
+        },
+        {
+          "text": "como",
+          "start": 9660,
+          "end": 9960,
+          "confidence": 0.9999299,
+          "speaker": "A"
+        },
+        {
+          "text": "ela",
+          "start": 9960,
+          "end": 10200,
+          "confidence": 0.9999938,
+          "speaker": "A"
+        },
+        {
+          "text": "é.",
+          "start": 10200,
+          "end": 10600,
+          "confidence": 0.9980286,
+          "speaker": "A"
+        },
+        {
+          "text": "Isto",
+          "start": 10600,
+          "end": 10840,
+          "confidence": 0.99660397,
+          "speaker": "A"
+        },
+        {
+          "text": "é",
+          "start": 10840,
+          "end": 11160,
+          "confidence": 0.9999876,
+          "speaker": "A"
+        },
+        {
+          "text": "especificamente",
+          "start": 11160,
+          "end": 12160,
+          "confidence": 0.9998866,
+          "speaker": "A"
+        },
+        {
+          "text": "para",
+          "start": 12160,
+          "end": 12380,
+          "confidence": 0.9999387,
+          "speaker": "A"
+        },
+        {
+          "text": "pessoas",
+          "start": 12380,
+          "end": 12920,
+          "confidence": 0.9998553,
+          "speaker": "A"
+        },
+        {
+          "text": "que",
+          "start": 12920,
+          "end": 13080,
+          "confidence": 0.99998474,
+          "speaker": "A"
+        },
+        {
+          "text": "estão",
+          "start": 13080,
+          "end": 13380,
+          "confidence": 0.999959,
+          "speaker": "A"
+        },
+        {
+          "text": "prontas",
+          "start": 13380,
+          "end": 13860,
+          "confidence": 0.99999726,
+          "speaker": "A"
+        },
+        {
+          "text": "para",
+          "start": 13860,
+          "end": 14220,
+          "confidence": 0.99993825,
+          "speaker": "A"
+        },
+        {
+          "text": "despertar",
+          "start": 14220,
+          "end": 15260,
+          "confidence": 0.99983877,
+          "speaker": "A"
+        },
+        {
+          "text": "e",
+          "start": 15260,
+          "end": 15580,
+          "confidence": 0.99994516,
+          "speaker": "A"
+        },
+        {
+          "text": "acordarem",
+          "start": 15580,
+          "end": 16280,
+          "confidence": 0.9998607,
+          "speaker": "A"
+        },
+        {
+          "text": "definitivamente",
+          "start": 16280,
+          "end": 17260,
+          "confidence": 0.9999886,
+          "speaker": "A"
+        },
+        {
+          "text": "da",
+          "start": 17260,
+          "end": 17580,
+          "confidence": 0.9999465,
+          "speaker": "A"
+        },
+        {
+          "text": "ilusão.",
+          "start": 17580,
+          "end": 18220,
+          "confidence": 0.99994534,
+          "speaker": "A"
+        },
+        {
+          "text": "Você",
+          "start": 18220,
+          "end": 18480,
+          "confidence": 0.999671,
+          "speaker": "A"
+        },
+        {
+          "text": "saberá",
+          "start": 18480,
+          "end": 18860,
+          "confidence": 0.9999578,
+          "speaker": "A"
+        },
+        {
+          "text": "que",
+          "start": 18860,
+          "end": 18960,
+          "confidence": 0.99952877,
+          "speaker": "A"
+        },
+        {
+          "text": "você",
+          "start": 18960,
+          "end": 19200,
+          "confidence": 0.9992144,
+          "speaker": "A"
+        },
+        {
+          "text": "está",
+          "start": 19200,
+          "end": 19440,
+          "confidence": 0.999979,
+          "speaker": "A"
+        },
+        {
+          "text": "pronto",
+          "start": 19440,
+          "end": 19760,
+          "confidence": 0.99997246,
+          "speaker": "A"
+        },
+        {
+          "text": "se",
+          "start": 19760,
+          "end": 20020,
+          "confidence": 0.99981993,
+          "speaker": "A"
+        },
+        {
+          "text": "este",
+          "start": 20020,
+          "end": 20360,
+          "confidence": 0.9983821,
+          "speaker": "A"
+        },
+        {
+          "text": "vídeo",
+          "start": 20360,
+          "end": 20740,
+          "confidence": 0.99999547,
+          "speaker": "A"
+        },
+        {
+          "text": "for",
+          "start": 20740,
+          "end": 21100,
+          "confidence": 0.99993944,
+          "speaker": "A"
+        },
+        {
+          "text": "agradável",
+          "start": 21100,
+          "end": 21540,
+          "confidence": 0.9999955,
+          "speaker": "A"
+        },
+        {
+          "text": "para",
+          "start": 21540,
+          "end": 21720,
+          "confidence": 0.999548,
+          "speaker": "A"
+        },
+        {
+          "text": "você.",
+          "start": 21720,
+          "end": 22440,
+          "confidence": 0.99997246,
+          "speaker": "A"
+        },
+        {
+          "text": "Se",
+          "start": 22440,
+          "end": 22540,
+          "confidence": 0.9997633,
+          "speaker": "A"
+        },
+        {
+          "text": "você",
+          "start": 22540,
+          "end": 22820,
+          "confidence": 0.99993634,
+          "speaker": "A"
+        },
+        {
+          "text": "sentir",
+          "start": 22820,
+          "end": 23260,
+          "confidence": 0.9999924,
+          "speaker": "A"
+        },
+        {
+          "text": "qualquer",
+          "start": 23260,
+          "end": 23580,
+          "confidence": 0.99999833,
+          "speaker": "A"
+        },
+        {
+          "text": "sinal",
+          "start": 23580,
+          "end": 23840,
+          "confidence": 0.9999962,
+          "speaker": "A"
+        },
+        {
+          "text": "de",
+          "start": 23840,
+          "end": 24220,
+          "confidence": 0.9999944,
+          "speaker": "A"
+        },
+        {
+          "text": "ansiedade",
+          "start": 24220,
+          "end": 24700,
+          "confidence": 0.9999972,
+          "speaker": "A"
+        },
+        {
+          "text": "ou",
+          "start": 24700,
+          "end": 25260,
+          "confidence": 0.9999349,
+          "speaker": "A"
+        },
+        {
+          "text": "desconforto,",
+          "start": 25260,
+          "end": 26210,
+          "confidence": 0.9999924,
+          "speaker": "A"
+        },
+        {
+          "text": "significa",
+          "start": 26320,
+          "end": 26780,
+          "confidence": 0.9999143,
+          "speaker": "A"
+        },
+        {
+          "text": "que",
+          "start": 26780,
+          "end": 27100,
+          "confidence": 0.99998033,
+          "speaker": "A"
+        },
+        {
+          "text": "você",
+          "start": 27100,
+          "end": 27360,
+          "confidence": 0.99996245,
+          "speaker": "A"
+        },
+        {
+          "text": "não",
+          "start": 27360,
+          "end": 27520,
+          "confidence": 0.999861,
+          "speaker": "A"
+        },
+        {
+          "text": "está",
+          "start": 27520,
+          "end": 27760,
+          "confidence": 0.9999541,
+          "speaker": "A"
+        },
+        {
+          "text": "pronto",
+          "start": 27760,
+          "end": 28280,
+          "confidence": 0.99997246,
+          "speaker": "A"
+        },
+        {
+          "text": "para",
+          "start": 28280,
+          "end": 28700,
+          "confidence": 0.999684,
+          "speaker": "A"
+        },
+        {
+          "text": "abrir",
+          "start": 28700,
+          "end": 28960,
+          "confidence": 0.99987864,
+          "speaker": "A"
+        },
+        {
+          "text": "o",
+          "start": 28960,
+          "end": 29100,
+          "confidence": 0.9998149,
+          "speaker": "A"
+        },
+        {
+          "text": "seu",
+          "start": 29100,
+          "end": 29360,
+          "confidence": 0.99993265,
+          "speaker": "A"
+        },
+        {
+          "text": "terceiro",
+          "start": 29360,
+          "end": 29660,
+          "confidence": 0.9999316,
+          "speaker": "A"
+        },
+        {
+          "text": "olho.",
+          "start": 29660,
+          "end": 29940,
+          "confidence": 0.99981755,
+          "speaker": "A"
+        },
+        {
+          "text": "Salva",
+          "start": 29940,
+          "end": 29980,
+          "confidence": 0.9276182,
+          "speaker": "A"
+        },
+        {
+          "text": "este",
+          "start": 29980,
+          "end": 30000,
+          "confidence": 0.99656206,
+          "speaker": "A"
+        },
+        {
+          "text": "vídeo",
+          "start": 30000,
+          "end": 30020,
+          "confidence": 0.9997018,
+          "speaker": "A"
+        },
+        {
+          "text": "para",
+          "start": 30020,
+          "end": 30040,
+          "confidence": 0.98790234,
+          "speaker": "A"
+        },
+        {
+          "text": "o",
+          "start": 30040,
+          "end": 30060,
+          "confidence": 0.89052904,
+          "speaker": "A"
+        },
+        {
+          "text": "momento",
+          "start": 30060,
+          "end": 30080,
+          "confidence": 0.7462698,
+          "speaker": "A"
+        },
+        {
+          "text": "que",
+          "start": 30080,
+          "end": 30100,
+          "confidence": 0.5501517,
+          "speaker": "A"
+        },
+        {
+          "text": "que",
+          "start": 31900,
+          "end": 31932,
+          "confidence": 0.68594354,
+          "speaker": "A"
+        },
+        {
+          "text": "você",
+          "start": 31932,
+          "end": 32156,
+          "confidence": 0.9992582,
+          "speaker": "A"
+        },
+        {
+          "text": "se",
+          "start": 32156,
+          "end": 32236,
+          "confidence": 0.9998202,
+          "speaker": "A"
+        },
+        {
+          "text": "sentir",
+          "start": 32236,
+          "end": 32717,
+          "confidence": 0.99996614,
+          "speaker": "A"
+        },
+        {
+          "text": "pronto",
+          "start": 32717,
+          "end": 33230,
+          "confidence": 0.99972993,
+          "speaker": "A"
+        },
+        {
+          "text": "para",
+          "start": 33358,
+          "end": 33599,
+          "confidence": 0.9997762,
+          "speaker": "A"
+        },
+        {
+          "text": "fazer",
+          "start": 33599,
+          "end": 34096,
+          "confidence": 0.9999827,
+          "speaker": "A"
+        },
+        {
+          "text": "este",
+          "start": 34096,
+          "end": 34400,
+          "confidence": 0.9990656,
+          "speaker": "A"
+        },
+        {
+          "text": "procedimento.",
+          "start": 34400,
+          "end": 35234,
+          "confidence": 0.99983793,
+          "speaker": "A"
+        },
+        {
+          "text": "Então",
+          "start": 35779,
+          "end": 35971,
+          "confidence": 0.99978936,
+          "speaker": "A"
+        },
+        {
+          "text": "vamos",
+          "start": 36003,
+          "end": 36404,
+          "confidence": 0.9994085,
+          "speaker": "A"
+        },
+        {
+          "text": "começar.",
+          "start": 36404,
+          "end": 36933,
+          "confidence": 0.9995957,
+          "speaker": "A"
+        },
+        {
+          "text": "Encontre",
+          "start": 37382,
+          "end": 37847,
+          "confidence": 0.99852777,
+          "speaker": "A"
+        },
+        {
+          "text": "um",
+          "start": 37863,
+          "end": 37959,
+          "confidence": 0.9999908,
+          "speaker": "A"
+        },
+        {
+          "text": "local",
+          "start": 37959,
+          "end": 38408,
+          "confidence": 0.9999945,
+          "speaker": "A"
+        },
+        {
+          "text": "tranquilo",
+          "start": 38408,
+          "end": 38969,
+          "confidence": 0.9999989,
+          "speaker": "A"
+        },
+        {
+          "text": "no",
+          "start": 38969,
+          "end": 39081,
+          "confidence": 0.99996793,
+          "speaker": "A"
+        },
+        {
+          "text": "qual",
+          "start": 39129,
+          "end": 39305,
+          "confidence": 0.9999943,
+          "speaker": "A"
+        },
+        {
+          "text": "você",
+          "start": 39321,
+          "end": 39530,
+          "confidence": 0.99999475,
+          "speaker": "A"
+        },
+        {
+          "text": "possa",
+          "start": 39610,
+          "end": 39883,
+          "confidence": 0.9999986,
+          "speaker": "A"
+        },
+        {
+          "text": "se",
+          "start": 39931,
+          "end": 40091,
+          "confidence": 0.99999106,
+          "speaker": "A"
+        },
+        {
+          "text": "deitar.",
+          "start": 40091,
+          "end": 40700,
+          "confidence": 0.9999671,
+          "speaker": "A"
+        },
+        {
+          "text": "Agora",
+          "start": 41069,
+          "end": 41373,
+          "confidence": 0.9999832,
+          "speaker": "A"
+        },
+        {
+          "text": "crie",
+          "start": 41453,
+          "end": 41822,
+          "confidence": 0.9981043,
+          "speaker": "A"
+        },
+        {
+          "text": "a",
+          "start": 41950,
+          "end": 42111,
+          "confidence": 0.99999356,
+          "speaker": "A"
+        },
+        {
+          "text": "intenção",
+          "start": 42111,
+          "end": 42624,
+          "confidence": 0.9999946,
+          "speaker": "A"
+        },
+        {
+          "text": "de",
+          "start": 43137,
+          "end": 43217,
+          "confidence": 0.9999925,
+          "speaker": "A"
+        },
+        {
+          "text": "você",
+          "start": 43217,
+          "end": 43650,
+          "confidence": 0.9998673,
+          "speaker": "A"
+        },
+        {
+          "text": "abrir",
+          "start": 43714,
+          "end": 44195,
+          "confidence": 0.9999944,
+          "speaker": "A"
+        },
+        {
+          "text": "o",
+          "start": 44275,
+          "end": 44339,
+          "confidence": 0.99999535,
+          "speaker": "A"
+        },
+        {
+          "text": "seu",
+          "start": 44371,
+          "end": 44659,
+          "confidence": 0.99999285,
+          "speaker": "A"
+        },
+        {
+          "text": "terceiro",
+          "start": 44659,
+          "end": 45269,
+          "confidence": 0.99985176,
+          "speaker": "A"
+        },
+        {
+          "text": "olho.",
+          "start": 45557,
+          "end": 45910,
+          "confidence": 0.99999446,
+          "speaker": "A"
+        },
+        {
+          "text": "A",
+          "start": 46118,
+          "end": 46198,
+          "confidence": 0.99998546,
+          "speaker": "A"
+        },
+        {
+          "text": "intenção",
+          "start": 46198,
+          "end": 46775,
+          "confidence": 0.9999956,
+          "speaker": "A"
+        },
+        {
+          "text": "é",
+          "start": 47240,
+          "end": 47401,
+          "confidence": 0.99999356,
+          "speaker": "A"
+        },
+        {
+          "text": "uma",
+          "start": 47401,
+          "end": 47497,
+          "confidence": 0.99998724,
+          "speaker": "A"
+        },
+        {
+          "text": "das",
+          "start": 47497,
+          "end": 47705,
+          "confidence": 0.99999285,
+          "speaker": "A"
+        },
+        {
+          "text": "formas",
+          "start": 47705,
+          "end": 48186,
+          "confidence": 0.9999912,
+          "speaker": "A"
+        },
+        {
+          "text": "mais",
+          "start": 48186,
+          "end": 48507,
+          "confidence": 0.99999547,
+          "speaker": "A"
+        },
+        {
+          "text": "potentes",
+          "start": 48507,
+          "end": 49404,
+          "confidence": 0.99997234,
+          "speaker": "A"
+        },
+        {
+          "text": "de",
+          "start": 49629,
+          "end": 49709,
+          "confidence": 0.9999876,
+          "speaker": "A"
+        },
+        {
+          "text": "você",
+          "start": 49709,
+          "end": 50142,
+          "confidence": 0.99997973,
+          "speaker": "A"
+        },
+        {
+          "text": "manipular",
+          "start": 50350,
+          "end": 51216,
+          "confidence": 0.9999876,
+          "speaker": "A"
+        },
+        {
+          "text": "o",
+          "start": 51328,
+          "end": 51408,
+          "confidence": 0.9999938,
+          "speaker": "A"
+        },
+        {
+          "text": "universo.",
+          "start": 51408,
+          "end": 52162,
+          "confidence": 0.99997735,
+          "speaker": "A"
+        },
+        {
+          "text": "Foque",
+          "start": 52675,
+          "end": 53172,
+          "confidence": 0.99997103,
+          "speaker": "A"
+        },
+        {
+          "text": "a",
+          "start": 53172,
+          "end": 53236,
+          "confidence": 0.9999696,
+          "speaker": "A"
+        },
+        {
+          "text": "sua",
+          "start": 53236,
+          "end": 53636,
+          "confidence": 0.999985,
+          "speaker": "A"
+        },
+        {
+          "text": "atenção",
+          "start": 53733,
+          "end": 54310,
+          "confidence": 0.9999976,
+          "speaker": "A"
+        },
+        {
+          "text": "no",
+          "start": 54598,
+          "end": 54710,
+          "confidence": 0.9999864,
+          "speaker": "A"
+        },
+        {
+          "text": "seu",
+          "start": 54758,
+          "end": 54871,
+          "confidence": 0.99996245,
+          "speaker": "A"
+        },
+        {
+          "text": "chacra",
+          "start": 54871,
+          "end": 55400,
+          "confidence": 0.9418891,
+          "speaker": "A"
+        },
+        {
+          "text": "cardíaco,",
+          "start": 55640,
+          "end": 56410,
+          "confidence": 0.9999881,
+          "speaker": "A"
+        },
+        {
+          "text": "no",
+          "start": 56442,
+          "end": 56522,
+          "confidence": 0.9999765,
+          "speaker": "A"
+        },
+        {
+          "text": "seu",
+          "start": 56522,
+          "end": 56762,
+          "confidence": 0.9999938,
+          "speaker": "A"
+        },
+        {
+          "text": "coração,",
+          "start": 56762,
+          "end": 57355,
+          "confidence": 0.9999932,
+          "speaker": "A"
+        },
+        {
+          "text": "para",
+          "start": 57644,
+          "end": 57804,
+          "confidence": 0.9999559,
+          "speaker": "A"
+        },
+        {
+          "text": "que",
+          "start": 57836,
+          "end": 57916,
+          "confidence": 0.9999925,
+          "speaker": "A"
+        },
+        {
+          "text": "você",
+          "start": 57965,
+          "end": 58205,
+          "confidence": 0.99999106,
+          "speaker": "A"
+        },
+        {
+          "text": "possa",
+          "start": 58205,
+          "end": 58686,
+          "confidence": 0.99999785,
+          "speaker": "A"
+        },
+        {
+          "text": "liberar",
+          "start": 58686,
+          "end": 59423,
+          "confidence": 0.9999943,
+          "speaker": "A"
+        },
+        {
+          "text": "esta",
+          "start": 59423,
+          "end": 59888,
+          "confidence": 0.99363434,
+          "speaker": "A"
+        },
+        {
+          "text": "energia",
+          "start": 59984,
+          "end": 60658,
+          "confidence": 0.9999918,
+          "speaker": "A"
+        },
+        {
+          "text": "para",
+          "start": 60658,
+          "end": 61026,
+          "confidence": 0.99986434,
+          "speaker": "A"
+        },
+        {
+          "text": "o",
+          "start": 61026,
+          "end": 61090,
+          "confidence": 0.99996567,
+          "speaker": "A"
+        },
+        {
+          "text": "mundo",
+          "start": 61090,
+          "end": 61924,
+          "confidence": 0.999967,
+          "speaker": "A"
+        },
+        {
+          "text": "e",
+          "start": 62309,
+          "end": 62373,
+          "confidence": 0.9996165,
+          "speaker": "A"
+        },
+        {
+          "text": "para",
+          "start": 62373,
+          "end": 62613,
+          "confidence": 0.9998913,
+          "speaker": "A"
+        },
+        {
+          "text": "que",
+          "start": 62613,
+          "end": 62725,
+          "confidence": 0.9999361,
+          "speaker": "A"
+        },
+        {
+          "text": "você",
+          "start": 62725,
+          "end": 63094,
+          "confidence": 0.9999449,
+          "speaker": "A"
+        },
+        {
+          "text": "também",
+          "start": 63094,
+          "end": 63575,
+          "confidence": 0.9997273,
+          "speaker": "A"
+        },
+        {
+          "text": "possa",
+          "start": 63575,
+          "end": 63880,
+          "confidence": 0.93998766,
+          "speaker": "A"
+        },
+        {
+          "text": "possa",
+          "start": 63800,
+          "end": 64056,
+          "confidence": 0.6369364,
+          "speaker": "A"
+        },
+        {
+          "text": "aproveitar",
+          "start": 64232,
+          "end": 64938,
+          "confidence": 0.9998712,
+          "speaker": "A"
+        },
+        {
+          "text": "desta",
+          "start": 64938,
+          "end": 65419,
+          "confidence": 0.9934371,
+          "speaker": "A"
+        },
+        {
+          "text": "energia.",
+          "start": 65595,
+          "end": 66268,
+          "confidence": 0.9998971,
+          "speaker": "A"
+        },
+        {
+          "text": "Agora",
+          "start": 66957,
+          "end": 67502,
+          "confidence": 0.9996495,
+          "speaker": "A"
+        },
+        {
+          "text": "você",
+          "start": 67823,
+          "end": 68144,
+          "confidence": 0.9952814,
+          "speaker": "A"
+        },
+        {
+          "text": "vai",
+          "start": 68144,
+          "end": 68416,
+          "confidence": 0.9999932,
+          "speaker": "A"
+        },
+        {
+          "text": "direcionar",
+          "start": 68464,
+          "end": 69554,
+          "confidence": 0.9999819,
+          "speaker": "A"
+        },
+        {
+          "text": "esta",
+          "start": 69683,
+          "end": 70147,
+          "confidence": 0.99559695,
+          "speaker": "A"
+        },
+        {
+          "text": "energia",
+          "start": 70163,
+          "end": 70837,
+          "confidence": 0.999998,
+          "speaker": "A"
+        },
+        {
+          "text": "para",
+          "start": 70949,
+          "end": 71414,
+          "confidence": 0.9999752,
+          "speaker": "A"
+        },
+        {
+          "text": "o",
+          "start": 71414,
+          "end": 71462,
+          "confidence": 0.9999907,
+          "speaker": "A"
+        },
+        {
+          "text": "seu",
+          "start": 71462,
+          "end": 71783,
+          "confidence": 0.99999166,
+          "speaker": "A"
+        },
+        {
+          "text": "terceiro",
+          "start": 71911,
+          "end": 72392,
+          "confidence": 0.99975604,
+          "speaker": "A"
+        },
+        {
+          "text": "olho.",
+          "start": 72488,
+          "end": 73081,
+          "confidence": 0.999977,
+          "speaker": "A"
+        },
+        {
+          "text": "Conforme",
+          "start": 73674,
+          "end": 74363,
+          "confidence": 0.9998873,
+          "speaker": "A"
+        },
+        {
+          "text": "você",
+          "start": 74395,
+          "end": 74636,
+          "confidence": 0.99998474,
+          "speaker": "A"
+        },
+        {
+          "text": "vai",
+          "start": 74636,
+          "end": 74908,
+          "confidence": 0.99999475,
+          "speaker": "A"
+        },
+        {
+          "text": "direcionando",
+          "start": 74956,
+          "end": 75806,
+          "confidence": 0.99999636,
+          "speaker": "A"
+        },
+        {
+          "text": "esta",
+          "start": 76014,
+          "end": 76415,
+          "confidence": 0.9977482,
+          "speaker": "A"
+        },
+        {
+          "text": "energia",
+          "start": 76415,
+          "end": 76960,
+          "confidence": 0.999997,
+          "speaker": "A"
+        },
+        {
+          "text": "para",
+          "start": 77040,
+          "end": 77265,
+          "confidence": 0.9999844,
+          "speaker": "A"
+        },
+        {
+          "text": "o",
+          "start": 77265,
+          "end": 77281,
+          "confidence": 0.9999949,
+          "speaker": "A"
+        },
+        {
+          "text": "seu",
+          "start": 77281,
+          "end": 77521,
+          "confidence": 0.9999925,
+          "speaker": "A"
+        },
+        {
+          "text": "terceiro",
+          "start": 77601,
+          "end": 78018,
+          "confidence": 0.99999833,
+          "speaker": "A"
+        },
+        {
+          "text": "olho,",
+          "start": 78018,
+          "end": 78692,
+          "confidence": 0.999996,
+          "speaker": "A"
+        },
+        {
+          "text": "você",
+          "start": 78804,
+          "end": 79076,
+          "confidence": 0.999982,
+          "speaker": "A"
+        },
+        {
+          "text": "vai",
+          "start": 79076,
+          "end": 79285,
+          "confidence": 0.9999962,
+          "speaker": "A"
+        },
+        {
+          "text": "fechar",
+          "start": 79365,
+          "end": 79782,
+          "confidence": 0.9999974,
+          "speaker": "A"
+        },
+        {
+          "text": "os",
+          "start": 79782,
+          "end": 79942,
+          "confidence": 0.9999919,
+          "speaker": "A"
+        },
+        {
+          "text": "olhos",
+          "start": 79942,
+          "end": 80343,
+          "confidence": 0.9999967,
+          "speaker": "A"
+        },
+        {
+          "text": "e",
+          "start": 80583,
+          "end": 80599,
+          "confidence": 0.9999875,
+          "speaker": "A"
+        },
+        {
+          "text": "olhar",
+          "start": 80599,
+          "end": 81144,
+          "confidence": 0.9999951,
+          "speaker": "A"
+        },
+        {
+          "text": "para",
+          "start": 81369,
+          "end": 81561,
+          "confidence": 0.9996958,
+          "speaker": "A"
+        },
+        {
+          "text": "cima.",
+          "start": 81561,
+          "end": 81898,
+          "confidence": 0.9999901,
+          "speaker": "A"
+        },
+        {
+          "text": "Quando",
+          "start": 82731,
+          "end": 82972,
+          "confidence": 0.9985464,
+          "speaker": "A"
+        },
+        {
+          "text": "você",
+          "start": 82972,
+          "end": 83228,
+          "confidence": 0.9999957,
+          "speaker": "A"
+        },
+        {
+          "text": "olha",
+          "start": 83228,
+          "end": 83452,
+          "confidence": 0.99999696,
+          "speaker": "A"
+        },
+        {
+          "text": "para",
+          "start": 83533,
+          "end": 83741,
+          "confidence": 0.99969053,
+          "speaker": "A"
+        },
+        {
+          "text": "cima,",
+          "start": 83773,
+          "end": 83981,
+          "confidence": 0.9999948,
+          "speaker": "A"
+        },
+        {
+          "text": "você",
+          "start": 84014,
+          "end": 84414,
+          "confidence": 0.9999608,
+          "speaker": "A"
+        },
+        {
+          "text": "faz",
+          "start": 84414,
+          "end": 84559,
+          "confidence": 0.9999888,
+          "speaker": "A"
+        },
+        {
+          "text": "uma",
+          "start": 84671,
+          "end": 84783,
+          "confidence": 0.999977,
+          "speaker": "A"
+        },
+        {
+          "text": "pressão",
+          "start": 84895,
+          "end": 85408,
+          "confidence": 0.9999971,
+          "speaker": "A"
+        },
+        {
+          "text": "na",
+          "start": 85777,
+          "end": 85857,
+          "confidence": 0.9999808,
+          "speaker": "A"
+        },
+        {
+          "text": "sua",
+          "start": 85889,
+          "end": 86178,
+          "confidence": 0.9999862,
+          "speaker": "A"
+        },
+        {
+          "text": "glândula",
+          "start": 86178,
+          "end": 86658,
+          "confidence": 0.99986225,
+          "speaker": "A"
+        },
+        {
+          "text": "pineal,",
+          "start": 86658,
+          "end": 87107,
+          "confidence": 0.94092906,
+          "speaker": "A"
+        },
+        {
+          "text": "e",
+          "start": 87636,
+          "end": 87797,
+          "confidence": 0.99998796,
+          "speaker": "A"
+        },
+        {
+          "text": "esta",
+          "start": 87797,
+          "end": 88101,
+          "confidence": 0.9991441,
+          "speaker": "A"
+        },
+        {
+          "text": "pressão",
+          "start": 88101,
+          "end": 88614,
+          "confidence": 0.9999966,
+          "speaker": "A"
+        },
+        {
+          "text": "faz",
+          "start": 88983,
+          "end": 89432,
+          "confidence": 0.9998615,
+          "speaker": "A"
+        },
+        {
+          "text": "movimentar",
+          "start": 89544,
+          "end": 90522,
+          "confidence": 0.99999636,
+          "speaker": "A"
+        },
+        {
+          "text": "o",
+          "start": 90602,
+          "end": 90666,
+          "confidence": 0.9999924,
+          "speaker": "A"
+        },
+        {
+          "text": "seu",
+          "start": 90666,
+          "end": 90906,
+          "confidence": 0.99999475,
+          "speaker": "A"
+        },
+        {
+          "text": "terceiro",
+          "start": 90906,
+          "end": 91403,
+          "confidence": 0.9999967,
+          "speaker": "A"
+        },
+        {
+          "text": "olho.",
+          "start": 91403,
+          "end": 91676,
+          "confidence": 0.9999878,
+          "speaker": "A"
+        },
+        {
+          "text": "Você",
+          "start": 92349,
+          "end": 92590,
+          "confidence": 0.99975497,
+          "speaker": "A"
+        },
+        {
+          "text": "vai",
+          "start": 92590,
+          "end": 92750,
+          "confidence": 0.9999801,
+          "speaker": "A"
+        },
+        {
+          "text": "ficar",
+          "start": 92750,
+          "end": 93231,
+          "confidence": 0.9999896,
+          "speaker": "A"
+        },
+        {
+          "text": "focado",
+          "start": 93231,
+          "end": 93952,
+          "confidence": 0.9999653,
+          "speaker": "A"
+        },
+        {
+          "text": "aí",
+          "start": 94048,
+          "end": 94225,
+          "confidence": 0.99997085,
+          "speaker": "A"
+        },
+        {
+          "text": "neste",
+          "start": 94225,
+          "end": 94754,
+          "confidence": 0.9994863,
+          "speaker": "A"
+        },
+        {
+          "text": "movimento",
+          "start": 94754,
+          "end": 95427,
+          "confidence": 0.9999358,
+          "speaker": "A"
+        },
+        {
+          "text": "da",
+          "start": 95700,
+          "end": 95880,
+          "confidence": 0.92008793,
+          "speaker": "A"
+        },
+        {
+          "text": "sua",
+          "start": 95880,
+          "end": 96220,
+          "confidence": 0.99942243,
+          "speaker": "A"
+        },
+        {
+          "text": "glândula",
+          "start": 96220,
+          "end": 96540,
+          "confidence": 0.9994765,
+          "speaker": "A"
+        },
+        {
+          "text": "pineal",
+          "start": 96540,
+          "end": 97020,
+          "confidence": 0.9999398,
+          "speaker": "A"
+        },
+        {
+          "text": "durante",
+          "start": 97020,
+          "end": 97860,
+          "confidence": 0.9888476,
+          "speaker": "A"
+        },
+        {
+          "text": "10",
+          "start": 97860,
+          "end": 98440,
+          "confidence": 0.9999013,
+          "speaker": "A"
+        },
+        {
+          "text": "respirações.",
+          "start": 98440,
+          "end": 99640,
+          "confidence": 0.99958503,
+          "speaker": "A"
+        },
+        {
+          "text": "E",
+          "start": 100120,
+          "end": 100140,
+          "confidence": 0.9993668,
+          "speaker": "A"
+        },
+        {
+          "text": "agora",
+          "start": 100140,
+          "end": 100520,
+          "confidence": 0.99946123,
+          "speaker": "A"
+        },
+        {
+          "text": "você",
+          "start": 100520,
+          "end": 100800,
+          "confidence": 0.9940491,
+          "speaker": "A"
+        },
+        {
+          "text": "vai",
+          "start": 100800,
+          "end": 101180,
+          "confidence": 0.99988556,
+          "speaker": "A"
+        },
+        {
+          "text": "imaginar",
+          "start": 101180,
+          "end": 101840,
+          "confidence": 0.9999948,
+          "speaker": "A"
+        },
+        {
+          "text": "um",
+          "start": 101840,
+          "end": 102280,
+          "confidence": 0.99135816,
+          "speaker": "A"
+        },
+        {
+          "text": "olho",
+          "start": 102280,
+          "end": 102620,
+          "confidence": 0.9999863,
+          "speaker": "A"
+        },
+        {
+          "text": "abrindo",
+          "start": 102620,
+          "end": 103260,
+          "confidence": 0.99990237,
+          "speaker": "A"
+        },
+        {
+          "text": "no",
+          "start": 103260,
+          "end": 103600,
+          "confidence": 0.99965525,
+          "speaker": "A"
+        },
+        {
+          "text": "centro",
+          "start": 103600,
+          "end": 104080,
+          "confidence": 0.99994886,
+          "speaker": "A"
+        },
+        {
+          "text": "da",
+          "start": 104080,
+          "end": 104340,
+          "confidence": 0.99991596,
+          "speaker": "A"
+        },
+        {
+          "text": "sua",
+          "start": 104340,
+          "end": 104680,
+          "confidence": 0.99994886,
+          "speaker": "A"
+        },
+        {
+          "text": "testa.",
+          "start": 104680,
+          "end": 105630,
+          "confidence": 0.99952275,
+          "speaker": "A"
+        },
+        {
+          "text": "Pratique",
+          "start": 107140,
+          "end": 107300,
+          "confidence": 0.999529,
+          "speaker": "A"
+        },
+        {
+          "text": "este",
+          "start": 107300,
+          "end": 107960,
+          "confidence": 0.99230534,
+          "speaker": "A"
+        },
+        {
+          "text": "exercício",
+          "start": 107960,
+          "end": 108580,
+          "confidence": 0.9999933,
+          "speaker": "A"
+        },
+        {
+          "text": "sempre",
+          "start": 108580,
+          "end": 109060,
+          "confidence": 0.9998647,
+          "speaker": "A"
+        },
+        {
+          "text": "que",
+          "start": 109060,
+          "end": 109300,
+          "confidence": 0.99971515,
+          "speaker": "A"
+        },
+        {
+          "text": "acordar",
+          "start": 109300,
+          "end": 109960,
+          "confidence": 0.9999792,
+          "speaker": "A"
+        },
+        {
+          "text": "e",
+          "start": 109960,
+          "end": 110200,
+          "confidence": 0.9993851,
+          "speaker": "A"
+        },
+        {
+          "text": "antes",
+          "start": 110200,
+          "end": 110600,
+          "confidence": 0.9997743,
+          "speaker": "A"
+        },
+        {
+          "text": "de",
+          "start": 110600,
+          "end": 110860,
+          "confidence": 0.99999154,
+          "speaker": "A"
+        },
+        {
+          "text": "dormir.",
+          "start": 110860,
+          "end": 111880,
+          "confidence": 0.9993339,
+          "speaker": "A"
+        },
+        {
+          "text": "A",
+          "start": 111880,
+          "end": 112000,
+          "confidence": 0.99976534,
+          "speaker": "A"
+        },
+        {
+          "text": "prática",
+          "start": 112000,
+          "end": 112380,
+          "confidence": 0.99997526,
+          "speaker": "A"
+        },
+        {
+          "text": "deste",
+          "start": 112380,
+          "end": 112820,
+          "confidence": 0.99801886,
+          "speaker": "A"
+        },
+        {
+          "text": "exercício",
+          "start": 112820,
+          "end": 113380,
+          "confidence": 0.9999929,
+          "speaker": "A"
+        },
+        {
+          "text": "te",
+          "start": 113380,
+          "end": 113860,
+          "confidence": 0.9988875,
+          "speaker": "A"
+        },
+        {
+          "text": "trará",
+          "start": 113860,
+          "end": 113960,
+          "confidence": 0.9999533,
+          "speaker": "A"
+        },
+        {
+          "text": "uma",
+          "start": 113960,
+          "end": 114180,
+          "confidence": 0.9997706,
+          "speaker": "A"
+        },
+        {
+          "text": "conexão",
+          "start": 114180,
+          "end": 114640,
+          "confidence": 0.99999094,
+          "speaker": "A"
+        },
+        {
+          "text": "com",
+          "start": 114640,
+          "end": 114880,
+          "confidence": 0.9999689,
+          "speaker": "A"
+        },
+        {
+          "text": "a",
+          "start": 114880,
+          "end": 115080,
+          "confidence": 0.99996424,
+          "speaker": "A"
+        },
+        {
+          "text": "mente",
+          "start": 115080,
+          "end": 115160,
+          "confidence": 0.99659616,
+          "speaker": "A"
+        },
+        {
+          "text": "divina,",
+          "start": 115160,
+          "end": 116100,
+          "confidence": 0.99968946,
+          "speaker": "A"
+        },
+        {
+          "text": "intuição",
+          "start": 116100,
+          "end": 116440,
+          "confidence": 0.9998326,
+          "speaker": "A"
+        },
+        {
+          "text": "e",
+          "start": 116440,
+          "end": 116920,
+          "confidence": 0.99922323,
+          "speaker": "A"
+        },
+        {
+          "text": "verdades",
+          "start": 116920,
+          "end": 117480,
+          "confidence": 0.99986815,
+          "speaker": "A"
+        },
+        {
+          "text": "que",
+          "start": 117480,
+          "end": 117680,
+          "confidence": 0.9997942,
+          "speaker": "A"
+        },
+        {
+          "text": "chegarão",
+          "start": 117680,
+          "end": 118200,
+          "confidence": 0.99982023,
+          "speaker": "A"
+        },
+        {
+          "text": "aleatoriamente",
+          "start": 118200,
+          "end": 118920,
+          "confidence": 0.99999136,
+          "speaker": "A"
+        },
+        {
+          "text": "para",
+          "start": 118920,
+          "end": 119360,
+          "confidence": 0.8435679,
+          "speaker": "A"
+        },
+        {
+          "text": "você.",
+          "start": 119360,
+          "end": 120060,
+          "confidence": 0.9993402,
+          "speaker": "A"
+        },
+        {
+          "text": "Nada",
+          "start": 120060,
+          "end": 120260,
+          "confidence": 0.9996623,
+          "speaker": "A"
+        },
+        {
+          "text": "comparável",
+          "start": 120260,
+          "end": 121140,
+          "confidence": 0.9985259,
+          "speaker": "A"
+        },
+        {
+          "text": "ao",
+          "start": 121140,
+          "end": 121500,
+          "confidence": 0.99991405,
+          "speaker": "A"
+        },
+        {
+          "text": "que",
+          "start": 121500,
+          "end": 121720,
+          "confidence": 0.99995863,
+          "speaker": "A"
+        },
+        {
+          "text": "um",
+          "start": 121720,
+          "end": 121980,
+          "confidence": 0.99936837,
+          "speaker": "A"
+        },
+        {
+          "text": "professor",
+          "start": 121980,
+          "end": 122460,
+          "confidence": 0.99996066,
+          "speaker": "A"
+        },
+        {
+          "text": "possa",
+          "start": 122460,
+          "end": 122940,
+          "confidence": 0.99995434,
+          "speaker": "A"
+        },
+        {
+          "text": "vir",
+          "start": 122940,
+          "end": 123200,
+          "confidence": 0.9998708,
+          "speaker": "A"
+        },
+        {
+          "text": "ali",
+          "start": 123200,
+          "end": 123480,
+          "confidence": 0.9945807,
+          "speaker": "A"
+        },
+        {
+          "text": "ensinar.",
+          "start": 123480,
+          "end": 124160,
+          "confidence": 0.99783677,
+          "speaker": "A"
+        },
+        {
+          "text": "Você",
+          "start": 124160,
+          "end": 124540,
+          "confidence": 0.9998847,
+          "speaker": "A"
+        },
+        {
+          "text": "tem",
+          "start": 124540,
+          "end": 124880,
+          "confidence": 0.9999304,
+          "speaker": "A"
+        },
+        {
+          "text": "a",
+          "start": 124880,
+          "end": 125120,
+          "confidence": 0.99985445,
+          "speaker": "A"
+        },
+        {
+          "text": "sabedoria",
+          "start": 125120,
+          "end": 125460,
+          "confidence": 0.99988514,
+          "speaker": "A"
+        },
+        {
+          "text": "divina",
+          "start": 125460,
+          "end": 125680,
+          "confidence": 0.9999656,
+          "speaker": "A"
+        },
+        {
+          "text": "dentro",
+          "start": 125680,
+          "end": 125700,
+          "confidence": 0.9998373,
+          "speaker": "A"
+        },
+        {
+          "text": "de",
+          "start": 125700,
+          "end": 125720,
+          "confidence": 0.99919075,
+          "speaker": "A"
+        },
+        {
+          "text": "você.",
+          "start": 125720,
+          "end": 125740,
+          "confidence": 0.9886604,
+          "speaker": "A"
+        },
+        {
+          "text": "Que",
+          "start": 126916,
+          "end": 126964,
+          "confidence": 0.72775555,
+          "speaker": "A"
+        },
+        {
+          "text": "está",
+          "start": 127174,
+          "end": 127481,
+          "confidence": 0.99987066,
+          "speaker": "A"
+        },
+        {
+          "text": "pronta",
+          "start": 127481,
+          "end": 128045,
+          "confidence": 0.9999932,
+          "speaker": "A"
+        },
+        {
+          "text": "para",
+          "start": 128126,
+          "end": 128368,
+          "confidence": 0.99996424,
+          "speaker": "A"
+        },
+        {
+          "text": "despertar.",
+          "start": 128368,
+          "end": 129304,
+          "confidence": 0.99967074,
+          "speaker": "A"
+        },
+        {
+          "text": "Um",
+          "start": 129837,
+          "end": 130030,
+          "confidence": 0.9985753,
+          "speaker": "A"
+        },
+        {
+          "text": "ótimo",
+          "start": 130079,
+          "end": 130466,
+          "confidence": 0.99999434,
+          "speaker": "A"
+        },
+        {
+          "text": "despertar",
+          "start": 130466,
+          "end": 131080,
+          "confidence": 0.9999958,
+          "speaker": "A"
+        },
+        {
+          "text": "desejo",
+          "start": 131112,
+          "end": 131515,
+          "confidence": 0.99644446,
+          "speaker": "A"
+        },
+        {
+          "text": "para",
+          "start": 131515,
+          "end": 131628,
+          "confidence": 0.996276,
+          "speaker": "A"
+        },
+        {
+          "text": "vocês,",
+          "start": 131628,
+          "end": 132177,
+          "confidence": 0.8748586,
+          "speaker": "A"
+        },
+        {
+          "text": "e",
+          "start": 132580,
+          "end": 132597,
+          "confidence": 0.99993515,
+          "speaker": "A"
+        },
+        {
+          "text": "chame",
+          "start": 132597,
+          "end": 133129,
+          "confidence": 0.9531741,
+          "speaker": "A"
+        },
+        {
+          "text": "o",
+          "start": 133226,
+          "end": 133307,
+          "confidence": 0.99983346,
+          "speaker": "A"
+        },
+        {
+          "text": "anjo",
+          "start": 133307,
+          "end": 133694,
+          "confidence": 0.9998412,
+          "speaker": "A"
+        },
+        {
+          "text": "da",
+          "start": 133694,
+          "end": 133726,
+          "confidence": 0.9999449,
+          "speaker": "A"
+        },
+        {
+          "text": "guarda",
+          "start": 133726,
+          "end": 134178,
+          "confidence": 0.99999845,
+          "speaker": "A"
+        },
+        {
+          "text": "de",
+          "start": 134178,
+          "end": 134259,
+          "confidence": 0.9999194,
+          "speaker": "A"
+        },
+        {
+          "text": "vocês",
+          "start": 134259,
+          "end": 134743,
+          "confidence": 0.9999921,
+          "speaker": "A"
+        },
+        {
+          "text": "para",
+          "start": 134743,
+          "end": 134937,
+          "confidence": 0.9993469,
+          "speaker": "A"
+        },
+        {
+          "text": "que",
+          "start": 134937,
+          "end": 135066,
+          "confidence": 0.9999418,
+          "speaker": "A"
+        },
+        {
+          "text": "possam",
+          "start": 135066,
+          "end": 135502,
+          "confidence": 0.91807497,
+          "speaker": "A"
+        },
+        {
+          "text": "auxiliar",
+          "start": 135566,
+          "end": 136286,
+          "confidence": 0.999972,
+          "speaker": "A"
+        },
+        {
+          "text": "nesse",
+          "start": 136286,
+          "end": 136621,
+          "confidence": 0.9999177,
+          "speaker": "A"
+        },
+        {
+          "text": "processo.",
+          "start": 136621,
+          "end": 137134,
+          "confidence": 0.99972576,
+          "speaker": "A"
+        }
+      ]
+    }
+  ],
+  "confidence": 0.991426,
+  "audio_duration": 138,
+  "punctuate": true,
+  "format_text": true,
+  "dual_channel": false,
+  "webhook_url": null,
+  "webhook_status_code": null,
+  "webhook_auth": false,
+  "webhook_auth_header_name": null,
+  "speed_boost": false,
+  "auto_highlights_result": null,
+  "auto_highlights": false,
+  "audio_start_from": null,
+  "audio_end_at": null,
+  "word_boost": [],
+  "boost_param": null,
+  "prompt": null,
+  "keyterms_prompt": [],
+  "filter_profanity": false,
+  "redact_pii": false,
+  "redact_pii_audio": false,
+  "redact_pii_audio_quality": null,
+  "redact_pii_audio_options": null,
+  "redact_pii_policies": null,
+  "redact_pii_sub": null,
+  "redact_static_entities": null,
+  "speaker_labels": true,
+  "speaker_options": {
+    "min_speakers_expected": null,
+    "max_speakers_expected": null,
+    "advanced_speaker_segmentation": true
+  },
+  "content_safety": false,
+  "iab_categories": false,
+  "content_safety_labels": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "iab_categories_result": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "language_detection": false,
+  "language_detection_options": null,
+  "language_detection_results": null,
+  "language_confidence_threshold": null,
+  "language_confidence": null,
+  "custom_spelling": null,
+  "throttled": false,
+  "auto_chapters": false,
+  "summarization": false,
+  "summary_type": null,
+  "summary_model": null,
+  "custom_topics": false,
+  "topics": [],
+  "speech_threshold": null,
+  "speech_model": null,
+  "speech_models": [
+    "universal-3-5-pro",
+    "universal-2"
+  ],
+  "speech_model_used": "universal-3-5-pro",
+  "temperature": null,
+  "remove_audio_tags": "all",
+  "chapters": null,
+  "disfluencies": false,
+  "entity_detection": false,
+  "sentiment_analysis": false,
+  "sentiment_analysis_results": null,
+  "entities": null,
+  "speakers_expected": null,
+  "summary": null,
+  "custom_topics_results": null,
+  "is_deleted": null,
+  "multichannel": null,
+  "project_id": 1431881,
+  "token_id": 1443892
+}

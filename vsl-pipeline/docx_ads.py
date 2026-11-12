@@ -21,11 +21,11 @@ doc.add_heading(d["titulo"],level=0); small(d["fonte"]); small(d["nota_prints"])
 n_frames=0
 for b in d["blocos"]:
     doc.add_page_break(); doc.add_heading(f"{b['titulo']}  [{b['inicio']} – {b['fim']}]",level=1)
-    doc.add_heading("Transcrição em inglês",level=2)
+    doc.add_heading(b.get("rotulo_original","Transcrição em inglês"),level=2)
     for f in b["falas"]:
         p=doc.add_paragraph(); r=p.add_run(f"[{f['ts']}] "); r.bold,r.font.color.rgb=True,NAVY
         r2=p.add_run(f"{f['falante']}: "); r2.bold=True; p.add_run(f["en"])
-    doc.add_heading("Tradução PT-BR",level=2)
+    doc.add_heading(b.get("rotulo_pt","Tradução PT-BR"),level=2)
     for f in b["falas"]:
         p=doc.add_paragraph(); r=p.add_run(f"[{f['ts']}] "); r.bold,r.font.color.rgb=True,NAVY
         r2=p.add_run(f"{f['falante']}: "); r2.bold=True; p.add_run(f["pt"])

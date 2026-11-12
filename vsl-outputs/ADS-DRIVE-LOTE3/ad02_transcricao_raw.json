@@ -1,0 +1,635 @@
+{
+  "id": "37bd7cd0-6c0b-42b5-bc6e-4438aed6c200",
+  "language_model": "assemblyai_default",
+  "acoustic_model": "assemblyai_default",
+  "language_code": "en_us",
+  "speech_understanding": null,
+  "translated_texts": null,
+  "status": "completed",
+  "audio_url": "https://drive.usercontent.google.com/download?id=1bSIE8frKQvnS_rcUMYBPpciW5yKprMJC&export=download&confirm=t",
+  "text": "5 signs someone might be psychic. Sign number 1, you have a dream about an event happening or a situation, and that dream comes true. That is a premonition. So you've seen that event beforehand in your dreams.",
+  "words": [
+    {
+      "text": "5",
+      "start": 417,
+      "end": 722,
+      "confidence": 0.9458474,
+      "speaker": "A"
+    },
+    {
+      "text": "signs",
+      "start": 754,
+      "end": 1043,
+      "confidence": 0.9810142,
+      "speaker": "A"
+    },
+    {
+      "text": "someone",
+      "start": 1075,
+      "end": 1669,
+      "confidence": 0.99470216,
+      "speaker": "A"
+    },
+    {
+      "text": "might",
+      "start": 1894,
+      "end": 2279,
+      "confidence": 0.9998548,
+      "speaker": "A"
+    },
+    {
+      "text": "be",
+      "start": 2279,
+      "end": 2440,
+      "confidence": 0.9999865,
+      "speaker": "A"
+    },
+    {
+      "text": "psychic.",
+      "start": 2584,
+      "end": 3242,
+      "confidence": 0.99728525,
+      "speaker": "A"
+    },
+    {
+      "text": "Sign",
+      "start": 3628,
+      "end": 3900,
+      "confidence": 0.96905744,
+      "speaker": "A"
+    },
+    {
+      "text": "number",
+      "start": 3900,
+      "end": 4189,
+      "confidence": 0.9942756,
+      "speaker": "A"
+    },
+    {
+      "text": "1,",
+      "start": 4205,
+      "end": 4575,
+      "confidence": 0.8551559,
+      "speaker": "A"
+    },
+    {
+      "text": "you",
+      "start": 4912,
+      "end": 5008,
+      "confidence": 0.9998141,
+      "speaker": "A"
+    },
+    {
+      "text": "have",
+      "start": 5008,
+      "end": 5185,
+      "confidence": 0.99989486,
+      "speaker": "A"
+    },
+    {
+      "text": "a",
+      "start": 5185,
+      "end": 5329,
+      "confidence": 0.999967,
+      "speaker": "A"
+    },
+    {
+      "text": "dream",
+      "start": 5329,
+      "end": 5747,
+      "confidence": 0.99999523,
+      "speaker": "A"
+    },
+    {
+      "text": "about",
+      "start": 5891,
+      "end": 6276,
+      "confidence": 0.9999809,
+      "speaker": "A"
+    },
+    {
+      "text": "an",
+      "start": 6758,
+      "end": 6822,
+      "confidence": 0.99708,
+      "speaker": "A"
+    },
+    {
+      "text": "event",
+      "start": 7240,
+      "end": 7834,
+      "confidence": 0.99997795,
+      "speaker": "A"
+    },
+    {
+      "text": "happening",
+      "start": 7882,
+      "end": 8347,
+      "confidence": 0.9999522,
+      "speaker": "A"
+    },
+    {
+      "text": "or",
+      "start": 8925,
+      "end": 9102,
+      "confidence": 0.97050047,
+      "speaker": "A"
+    },
+    {
+      "text": "a",
+      "start": 9102,
+      "end": 9118,
+      "confidence": 0.9998524,
+      "speaker": "A"
+    },
+    {
+      "text": "situation,",
+      "start": 9182,
+      "end": 9953,
+      "confidence": 0.76776475,
+      "speaker": "A"
+    },
+    {
+      "text": "and",
+      "start": 10466,
+      "end": 10530,
+      "confidence": 0.99998295,
+      "speaker": "A"
+    },
+    {
+      "text": "that",
+      "start": 10611,
+      "end": 10739,
+      "confidence": 0.99994004,
+      "speaker": "A"
+    },
+    {
+      "text": "dream",
+      "start": 10868,
+      "end": 11092,
+      "confidence": 0.99998355,
+      "speaker": "A"
+    },
+    {
+      "text": "comes",
+      "start": 11574,
+      "end": 11959,
+      "confidence": 0.9999485,
+      "speaker": "A"
+    },
+    {
+      "text": "true.",
+      "start": 12232,
+      "end": 12649,
+      "confidence": 0.99946445,
+      "speaker": "A"
+    },
+    {
+      "text": "That",
+      "start": 13757,
+      "end": 13870,
+      "confidence": 0.99919754,
+      "speaker": "A"
+    },
+    {
+      "text": "is",
+      "start": 13918,
+      "end": 13982,
+      "confidence": 0.9998198,
+      "speaker": "A"
+    },
+    {
+      "text": "a",
+      "start": 14383,
+      "end": 14480,
+      "confidence": 0.99972016,
+      "speaker": "A"
+    },
+    {
+      "text": "premonition.",
+      "start": 14480,
+      "end": 15250,
+      "confidence": 0.870877,
+      "speaker": "A"
+    },
+    {
+      "text": "So",
+      "start": 15603,
+      "end": 15700,
+      "confidence": 0.998589,
+      "speaker": "A"
+    },
+    {
+      "text": "you've",
+      "start": 15764,
+      "end": 15908,
+      "confidence": 0.99307096,
+      "speaker": "A"
+    },
+    {
+      "text": "seen",
+      "start": 15908,
+      "end": 16213,
+      "confidence": 0.9999844,
+      "speaker": "A"
+    },
+    {
+      "text": "that",
+      "start": 16229,
+      "end": 16406,
+      "confidence": 0.99983525,
+      "speaker": "A"
+    },
+    {
+      "text": "event",
+      "start": 16406,
+      "end": 16759,
+      "confidence": 0.9998092,
+      "speaker": "A"
+    },
+    {
+      "text": "beforehand",
+      "start": 16807,
+      "end": 17498,
+      "confidence": 0.9999229,
+      "speaker": "A"
+    },
+    {
+      "text": "in",
+      "start": 18252,
+      "end": 18300,
+      "confidence": 0.9878677,
+      "speaker": "A"
+    },
+    {
+      "text": "your",
+      "start": 18397,
+      "end": 18525,
+      "confidence": 0.9999422,
+      "speaker": "A"
+    },
+    {
+      "text": "dreams.",
+      "start": 18573,
+      "end": 19183,
+      "confidence": 0.9950267,
+      "speaker": "A"
+    }
+  ],
+  "utterances": [
+    {
+      "speaker": "A",
+      "text": "5 signs someone might be psychic. Sign number 1, you have a dream about an event happening or a situation, and that dream comes true. That is a premonition. So you've seen that event beforehand in your dreams.",
+      "confidence": 0.98197216,
+      "start": 417,
+      "end": 19183,
+      "words": [
+        {
+          "text": "5",
+          "start": 417,
+          "end": 722,
+          "confidence": 0.9458474,
+          "speaker": "A"
+        },
+        {
+          "text": "signs",
+          "start": 754,
+          "end": 1043,
+          "confidence": 0.9810142,
+          "speaker": "A"
+        },
+        {
+          "text": "someone",
+          "start": 1075,
+          "end": 1669,
+          "confidence": 0.99470216,
+          "speaker": "A"
+        },
+        {
+          "text": "might",
+          "start": 1894,
+          "end": 2279,
+          "confidence": 0.9998548,
+          "speaker": "A"
+        },
+        {
+          "text": "be",
+          "start": 2279,
+          "end": 2440,
+          "confidence": 0.9999865,
+          "speaker": "A"
+        },
+        {
+          "text": "psychic.",
+          "start": 2584,
+          "end": 3242,
+          "confidence": 0.99728525,
+          "speaker": "A"
+        },
+        {
+          "text": "Sign",
+          "start": 3628,
+          "end": 3900,
+          "confidence": 0.96905744,
+          "speaker": "A"
+        },
+        {
+          "text": "number",
+          "start": 3900,
+          "end": 4189,
+          "confidence": 0.9942756,
+          "speaker": "A"
+        },
+        {
+          "text": "1,",
+          "start": 4205,
+          "end": 4575,
+          "confidence": 0.8551559,
+          "speaker": "A"
+        },
+        {
+          "text": "you",
+          "start": 4912,
+          "end": 5008,
+          "confidence": 0.9998141,
+          "speaker": "A"
+        },
+        {
+          "text": "have",
+          "start": 5008,
+          "end": 5185,
+          "confidence": 0.99989486,
+          "speaker": "A"
+        },
+        {
+          "text": "a",
+          "start": 5185,
+          "end": 5329,
+          "confidence": 0.999967,
+          "speaker": "A"
+        },
+        {
+          "text": "dream",
+          "start": 5329,
+          "end": 5747,
+          "confidence": 0.99999523,
+          "speaker": "A"
+        },
+        {
+          "text": "about",
+          "start": 5891,
+          "end": 6276,
+          "confidence": 0.9999809,
+          "speaker": "A"
+        },
+        {
+          "text": "an",
+          "start": 6758,
+          "end": 6822,
+          "confidence": 0.99708,
+          "speaker": "A"
+        },
+        {
+          "text": "event",
+          "start": 7240,
+          "end": 7834,
+          "confidence": 0.99997795,
+          "speaker": "A"
+        },
+        {
+          "text": "happening",
+          "start": 7882,
+          "end": 8347,
+          "confidence": 0.9999522,
+          "speaker": "A"
+        },
+        {
+          "text": "or",
+          "start": 8925,
+          "end": 9102,
+          "confidence": 0.97050047,
+          "speaker": "A"
+        },
+        {
+          "text": "a",
+          "start": 9102,
+          "end": 9118,
+          "confidence": 0.9998524,
+          "speaker": "A"
+        },
+        {
+          "text": "situation,",
+          "start": 9182,
+          "end": 9953,
+          "confidence": 0.76776475,
+          "speaker": "A"
+        },
+        {
+          "text": "and",
+          "start": 10466,
+          "end": 10530,
+          "confidence": 0.99998295,
+          "speaker": "A"
+        },
+        {
+          "text": "that",
+          "start": 10611,
+          "end": 10739,
+          "confidence": 0.99994004,
+          "speaker": "A"
+        },
+        {
+          "text": "dream",
+          "start": 10868,
+          "end": 11092,
+          "confidence": 0.99998355,
+          "speaker": "A"
+        },
+        {
+          "text": "comes",
+          "start": 11574,
+          "end": 11959,
+          "confidence": 0.9999485,
+          "speaker": "A"
+        },
+        {
+          "text": "true.",
+          "start": 12232,
+          "end": 12649,
+          "confidence": 0.99946445,
+          "speaker": "A"
+        },
+        {
+          "text": "That",
+          "start": 13757,
+          "end": 13870,
+          "confidence": 0.99919754,
+          "speaker": "A"
+        },
+        {
+          "text": "is",
+          "start": 13918,
+          "end": 13982,
+          "confidence": 0.9998198,
+          "speaker": "A"
+        },
+        {
+          "text": "a",
+          "start": 14383,
+          "end": 14480,
+          "confidence": 0.99972016,
+          "speaker": "A"
+        },
+        {
+          "text": "premonition.",
+          "start": 14480,
+          "end": 15250,
+          "confidence": 0.870877,
+          "speaker": "A"
+        },
+        {
+          "text": "So",
+          "start": 15603,
+          "end": 15700,
+          "confidence": 0.998589,
+          "speaker": "A"
+        },
+        {
+          "text": "you've",
+          "start": 15764,
+          "end": 15908,
+          "confidence": 0.99307096,
+          "speaker": "A"
+        },
+        {
+          "text": "seen",
+          "start": 15908,
+          "end": 16213,
+          "confidence": 0.9999844,
+          "speaker": "A"
+        },
+        {
+          "text": "that",
+          "start": 16229,
+          "end": 16406,
+          "confidence": 0.99983525,
+          "speaker": "A"
+        },
+        {
+          "text": "event",
+          "start": 16406,
+          "end": 16759,
+          "confidence": 0.9998092,
+          "speaker": "A"
+        },
+        {
+          "text": "beforehand",
+          "start": 16807,
+          "end": 17498,
+          "confidence": 0.9999229,
+          "speaker": "A"
+        },
+        {
+          "text": "in",
+          "start": 18252,
+          "end": 18300,
+          "confidence": 0.9878677,
+          "speaker": "A"
+        },
+        {
+          "text": "your",
+          "start": 18397,
+          "end": 18525,
+          "confidence": 0.9999422,
+          "speaker": "A"
+        },
+        {
+          "text": "dreams.",
+          "start": 18573,
+          "end": 19183,
+          "confidence": 0.9950267,
+          "speaker": "A"
+        }
+      ]
+    }
+  ],
+  "confidence": 0.98197216,
+  "audio_duration": 20,
+  "punctuate": true,
+  "format_text": true,
+  "dual_channel": false,
+  "webhook_url": null,
+  "webhook_status_code": null,
+  "webhook_auth": false,
+  "webhook_auth_header_name": null,
+  "speed_boost": false,
+  "auto_highlights_result": null,
+  "auto_highlights": false,
+  "audio_start_from": null,
+  "audio_end_at": null,
+  "word_boost": [],
+  "boost_param": null,
+  "prompt": null,
+  "keyterms_prompt": [],
+  "filter_profanity": false,
+  "redact_pii": false,
+  "redact_pii_audio": false,
+  "redact_pii_audio_quality": null,
+  "redact_pii_audio_options": null,
+  "redact_pii_policies": null,
+  "redact_pii_sub": null,
+  "redact_static_entities": null,
+  "speaker_labels": true,
+  "speaker_options": {
+    "min_speakers_expected": null,
+    "max_speakers_expected": null,
+    "advanced_speaker_segmentation": true
+  },
+  "content_safety": false,
+  "iab_categories": false,
+  "content_safety_labels": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "iab_categories_result": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "language_detection": false,
+  "language_detection_options": null,
+  "language_detection_results": null,
+  "language_confidence_threshold": null,
+  "language_confidence": null,
+  "custom_spelling": null,
+  "throttled": false,
+  "auto_chapters": false,
+  "summarization": false,
+  "summary_type": null,
+  "summary_model": null,
+  "custom_topics": false,
+  "topics": [],
+  "speech_threshold": null,
+  "speech_model": null,
+  "speech_models": [
+    "universal-3-5-pro",
+    "universal-2"
+  ],
+  "speech_model_used": "universal-3-5-pro",
+  "temperature": null,
+  "remove_audio_tags": "all",
+  "chapters": null,
+  "disfluencies": false,
+  "entity_detection": false,
+  "sentiment_analysis": false,
+  "sentiment_analysis_results": null,
+  "entities": null,
+  "speakers_expected": null,
+  "summary": null,
+  "custom_topics_results": null,
+  "is_deleted": null,
+  "multichannel": null,
+  "project_id": 1431881,
+  "token_id": 1443892
+}
