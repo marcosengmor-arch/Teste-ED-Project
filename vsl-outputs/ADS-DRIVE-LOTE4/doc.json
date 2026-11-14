@@ -1,0 +1,673 @@
+{
+ "titulo": "ADS — pasta Drive (5 anúncios, lote 4) — Transcrição EN + Tradução PT-BR + Prints",
+ "fonte": "Fonte: pasta do Drive com 5 vídeos (video-08-07, 16-07, 23-09, 12-10 e 14-10-2026), ordenados pela data do nome. Transcrição: AssemblyAI (speaker labels). Tradução fiel: nomes, marcas, valores em dólares e referências mantidos como falados. Os ADs 01 e 03 usam o mesmo personagem ('Texas truck talk'). O AD 04 diz 'her' no fechamento, embora o entrevistado seja um homem — mantido como falado.",
+ "nota_prints": "Minutagens: cada trecho traz o [m:ss] em que começa. Prints: frames dos momentos em que muda a cena, o lettering ou aparece a prova, com legenda descrevendo a imagem e o texto queimado no vídeo, nomeados adNN_descricao_HH-MM-SS.jpg na pasta frames/.",
+ "falantes": [
+  "HOMEM DO TEXAS (UGC, picape RAM)",
+  "HOMEM (UGC, boné e óculos)",
+  "REPÓRTER (entrevista de rua)",
+  "HOMEM DE 67 ANOS (chapéu de cowboy, picape)",
+  "MULHER (UGC, cozinha)"
+ ],
+ "blocos": [
+  {
+   "n": 1,
+   "titulo": "AD 01 — video-08-07-2026 (2:06) — IA 'Lottery Gap' acerta a Powerball (Texas truck talk)",
+   "inicio": "0:00",
+   "fim": "2:06",
+   "falas": [
+    {
+     "falante": "HOMEM DO TEXAS (UGC, picape RAM)",
+     "ts": "0:00",
+     "en": "This video wasn't even supposed to be online, but while it's still up, watch this. They don't want you to know this, but an artificial intelligence is predicting Powerball numbers with 97.4% accuracy, and I'm living proof. I hit 5 jackpots in just 29 days, and now the step-by-step video is back online, at least for now. In the last 58 days, 296 ordinary Americans became millionaires, and they all used the same system, an AI called Lottery Gap, a technology that gives anyone up to a 97% chance of hitting a prize in their very first week.",
+     "pt": "Este vídeo nem deveria estar no ar, mas, enquanto ainda está, assista. Eles não querem que você saiba disso, mas uma inteligência artificial está prevendo os números da Powerball com 97,4% de precisão, e eu sou a prova viva. Acertei 5 prêmios em apenas 29 dias, e agora o vídeo com o passo a passo voltou ao ar, pelo menos por enquanto. Nos últimos 58 dias, 296 americanos comuns viraram milionários, e todos usaram o mesmo sistema, uma IA chamada Lottery Gap, uma tecnologia que dá a qualquer pessoa até 97% de chance de ganhar um prêmio já na primeira semana."
+    },
+    {
+     "falante": "HOMEM DO TEXAS (UGC, picape RAM)",
+     "ts": "0:26",
+     "en": "Sounds impossible? I thought so too. But when I tested it, I won 5 times in less than a month. And here's the craziest part: this AI is 100% legal and has already helped more than 18,300 people win. Now give me 12 seconds to show you how it works, especially if you play Powerball. Most people think the lottery is luck. Wrong! The lottery is a probability system, and any probability system can be cracked, especially by artificial intelligence.",
+     "pt": "Parece impossível? Eu também achei. Mas, quando testei, ganhei 5 vezes em menos de um mês. E aqui vai a parte mais louca: essa IA é 100% legal e já ajudou mais de 18.300 pessoas a ganhar. Agora me dê 12 segundos para mostrar como funciona, principalmente se você joga Powerball. A maioria das pessoas acha que a loteria é sorte. Errado! A loteria é um sistema de probabilidade, e qualquer sistema de probabilidade pode ser quebrado, principalmente pela inteligência artificial."
+    },
+    {
+     "falante": "HOMEM DO TEXAS (UGC, picape RAM)",
+     "ts": "0:47",
+     "en": "That's exactly what Peter Mayfield, a former ChatGPT developer, did. He analyzed more than 203,000 combinations and 47 years of Powerball results, and discovered what he calls mathematical loopholes, tiny patterns that reveal when certain numbers are about to repeat. He created Lottery Gap and recorded a video showing exactly how this AI identifies those patterns and predicts the next winning numbers with insane precision.",
+     "pt": "Foi exatamente o que Peter Mayfield, um ex-desenvolvedor do ChatGPT, fez. Ele analisou mais de 203.000 combinações e 47 anos de resultados da Powerball e descobriu o que chama de brechas matemáticas, pequenos padrões que revelam quando certos números estão prestes a se repetir. Ele criou o Lottery Gap e gravou um vídeo mostrando exatamente como essa IA identifica esses padrões e prevê os próximos números vencedores com uma precisão absurda."
+    },
+    {
+     "falante": "HOMEM DO TEXAS (UGC, picape RAM)",
+     "ts": "1:08",
+     "en": "That's why more than 8,100 ordinary people are now hitting 5 or 6 numbers and winning prizes every single week. The link to the original video is on the Learn More button below, but you need to be quick. Powerball is freaking out and trying to take this down again. Peter told me investors offered him $33 million to buy the AI and hide it from the public. He refused and sent me this short video with the step-by-step instructions so anyone can use it today before it disappears from the internet.",
+     "pt": "É por isso que mais de 8.100 pessoas comuns estão acertando 5 ou 6 números e ganhando prêmios toda semana. O link para o vídeo original está no botão Saiba Mais abaixo, mas você precisa ser rápido. A Powerball está desesperada tentando derrubar isso de novo. O Peter me contou que investidores ofereceram $33 milhões para comprar a IA e escondê-la do público. Ele recusou e me mandou este vídeo curto com o passo a passo para que qualquer pessoa possa usar hoje, antes que ele desapareça da internet."
+    },
+    {
+     "falante": "HOMEM DO TEXAS (UGC, picape RAM)",
+     "ts": "1:31",
+     "en": "This same video went viral on TikTok and YouTube, getting over 25 million views before it started being deleted, allegedly due to pressure from Powerball. If the Learn More button is still showing, the video is still live. Click it now and watch Peter's step-by-step guide. You'll understand why 9 out of 10 people hit their first prize in less than 7 days. And just so you understand how big this opportunity is, after the video was taken down, some people paid $997 just to watch it again.",
+     "pt": "Este mesmo vídeo viralizou no TikTok e no YouTube, passando de 25 milhões de visualizações antes de começar a ser apagado, supostamente por pressão da Powerball. Se o botão Saiba Mais ainda está aparecendo, o vídeo ainda está no ar. Clique agora e assista ao passo a passo do Peter. Você vai entender por que 9 em cada 10 pessoas acertam o primeiro prêmio em menos de 7 dias. E, só para você entender o tamanho dessa oportunidade, depois que o vídeo foi derrubado, algumas pessoas pagaram $997 só para assistir de novo."
+    },
+    {
+     "falante": "HOMEM DO TEXAS (UGC, picape RAM)",
+     "ts": "1:55",
+     "en": "But right now it's 100% free for the next 2 hours. Last time it went online, it got deleted under 2 hours. So click the Learn More button now and see how to use Lottery Gap to finally hit your first jackpot without relying on luck.",
+     "pt": "Mas agora mesmo ele está 100% grátis pelas próximas 2 horas. Da última vez que entrou no ar, foi apagado em menos de 2 horas. Então clique no botão Saiba Mais agora e veja como usar o Lottery Gap para finalmente acertar o seu primeiro prêmio sem depender da sorte."
+    }
+   ],
+   "prints": [
+    {
+     "ts": "0:00",
+     "legenda": "Abertura: 'Powerball $82 Million' com os números sorteados sobre o homem",
+     "arquivo": "ad01_powerball_82_million_00-00-00.jpg"
+    },
+    {
+     "ts": "0:05",
+     "legenda": "Tela 'Odds of Winning Powerball Jackpot' com as bolas",
+     "arquivo": "ad01_odds_of_winning_jackpot_00-00-05.jpg"
+    },
+    {
+     "ts": "0:07",
+     "legenda": "Homem de boné, óculos escuros e jaqueta jeans diante de picape RAM; selo 'Texas truck talk'",
+     "arquivo": "ad01_texas_truck_talk_ram_00-00-07.jpg"
+    },
+    {
+     "ts": "0:12",
+     "legenda": "Mãos digitando num laptop (a IA); legenda 'in their very first week'",
+     "arquivo": "ad01_maos_laptop_ia_00-00-12.jpg"
+    },
+    {
+     "ts": "0:18",
+     "legenda": "Homem apontando o dedo; 'I won 5 times in less than a month'",
+     "arquivo": "ad01_dedo_apontando_00-00-18.jpg"
+    },
+    {
+     "ts": "0:22",
+     "legenda": "Animação de números em neon no espaço (IA calculando)",
+     "arquivo": "ad01_numeros_neon_espaco_00-00-22.jpg"
+    },
+    {
+     "ts": "0:26",
+     "legenda": "Explosão de luz com números e 'Frequency'",
+     "arquivo": "ad01_explosao_numeros_frequencia_00-00-26.jpg"
+    },
+    {
+     "ts": "0:30",
+     "legenda": "Terminal de loteria numa loja",
+     "arquivo": "ad01_maquina_loteria_loja_00-00-30.jpg"
+    },
+    {
+     "ts": "0:51",
+     "legenda": "Ganhadores da Powerball com cheque de $1,3 bilhão",
+     "arquivo": "ad01_ganhadores_1_3_billion_00-00-51.jpg"
+    },
+    {
+     "ts": "0:53",
+     "legenda": "Ganhadores com cheques de $1 milhão e $2 milhões",
+     "arquivo": "ad01_ganhadores_cheques_milhao_00-00-53.jpg"
+    },
+    {
+     "ts": "0:58",
+     "legenda": "Lista de combinações de números",
+     "arquivo": "ad01_lista_combinacoes_numeros_00-00-58.jpg"
+    },
+    {
+     "ts": "1:03",
+     "legenda": "Tablet 'Lottery Predictor — 5 numbers you must play in the Powerball'",
+     "arquivo": "ad01_lottery_predictor_5_numbers_00-01-03.jpg"
+    },
+    {
+     "ts": "1:07",
+     "legenda": "Caderno 'Lotto 6 Formulas — good luck!'",
+     "arquivo": "ad01_caderno_lotto_6_formulas_00-01-07.jpg"
+    },
+    {
+     "ts": "1:11",
+     "legenda": "Mulher ganhando carro com laço vermelho",
+     "arquivo": "ad01_mulher_carro_laco_00-01-11.jpg"
+    },
+    {
+     "ts": "1:12",
+     "legenda": "Mulher dirigindo conversível",
+     "arquivo": "ad01_mulher_conversivel_00-01-12.jpg"
+    },
+    {
+     "ts": "1:13",
+     "legenda": "Homem de óculos num conversível",
+     "arquivo": "ad01_homem_conversivel_oculos_00-01-13.jpg"
+    },
+    {
+     "ts": "1:20",
+     "legenda": "Tela com glitch (vídeo sendo derrubado)",
+     "arquivo": "ad01_glitch_tela_00-01-20.jpg"
+    },
+    {
+     "ts": "1:35",
+     "legenda": "Tela 'This site can't be reached — ERR_CONNECTION_RESET'",
+     "arquivo": "ad01_site_cant_be_reached_00-01-35.jpg"
+    },
+    {
+     "ts": "1:40",
+     "legenda": "Homem apontando; 'click it now'",
+     "arquivo": "ad01_apontando_botao_00-01-40.jpg"
+    },
+    {
+     "ts": "2:01",
+     "legenda": "Seta verde para baixo (CTA final)",
+     "arquivo": "ad01_seta_verde_final_00-02-01.jpg"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "AD 02 — video-16-07-2026 (1:15) — IA que acerta 5 números (aposentado com Lamborghini)",
+   "inicio": "0:00",
+   "fim": "1:14",
+   "falas": [
+    {
+     "falante": "HOMEM (UGC, boné e óculos)",
+     "ts": "0:00",
+     "en": "This AI has been hitting 5 numbers on Powerball every single week, and this is why they want to ban it before you use it. I've won 8 times in the last 90 days using this thing, and the craziest part is that it takes literally 12 seconds to use. Powerball has been doing everything it can to wipe this off the internet, but ever since this new AI that calculates lottery numbers started going viral, Americans have been trying Powerball without relying on luck in an honest and legal way.",
+     "pt": "Essa IA vem acertando 5 números da Powerball toda semana, e é por isso que querem bani-la antes que você use. Ganhei 8 vezes nos últimos 90 dias usando isso, e o mais louco é que leva literalmente 12 segundos para usar. A Powerball tem feito de tudo para apagar isso da internet, mas desde que essa nova IA que calcula os números da loteria começou a viralizar, os americanos vêm jogando na Powerball sem depender da sorte, de forma honesta e legal."
+    },
+    {
+     "falante": "HOMEM (UGC, boné e óculos)",
+     "ts": "0:22",
+     "en": "When I first saw one of those Facebook videos talking about it, I didn't believe it either, but after giving it a shot and hitting my first 5 numbers, I knew this was the real deal. Thanks to this loophole, I'm free and living A calm, peaceful retirement. In fact, ever since I bought this airplane here on the farm, a lot of my neighbors won't stop asking how I've managed to hit it a handful of times just in the past 2 months. And to show you how simple this is, I decided to post a video showing how to use this new AI in just 3 clicks on your phone and start hitting at least 4 numbers.",
+     "pt": "Quando vi pela primeira vez um daqueles vídeos no Facebook falando disso, eu também não acreditei, mas, depois de tentar e acertar os meus primeiros 5 números, soube que era de verdade. Graças a essa brecha, estou livre e vivendo uma aposentadoria calma e tranquila. Inclusive, desde que comprei este avião aqui na fazenda, muitos vizinhos não param de perguntar como consegui acertar várias vezes só nos últimos 2 meses. E, para mostrar como é simples, decidi postar um vídeo mostrando como usar essa nova IA em só 3 cliques no celular e começar a acertar pelo menos 4 números."
+    },
+    {
+     "falante": "HOMEM (UGC, boné e óculos)",
+     "ts": "0:47",
+     "en": "I know they're doing everything they can to stop more people from using this loophole, but just for the next 4 hours, I'm making this video free. Right on the button below. Just promise me when you start hitting, don't turn into one of those arrogant people, okay? Trust me, peace of mind hasn't been a problem for me ever since, and it might not be for you either. But don't waste time now. I heard Powerball is going all in to make sure fewer people discover this, and this might be your last chance to see the video.",
+     "pt": "Sei que estão fazendo de tudo para impedir que mais gente use essa brecha, mas só pelas próximas 4 horas vou deixar esse vídeo de graça. Bem no botão abaixo. Só me prometa que, quando começar a acertar, não vai virar uma daquelas pessoas arrogantes, ok? Confie em mim, tranquilidade não tem sido problema para mim desde então, e talvez não seja para você também. Mas não perca tempo agora. Ouvi dizer que a Powerball está jogando pesado para que menos gente descubra isso, e esta pode ser a sua última chance de ver o vídeo."
+    },
+    {
+     "falante": "HOMEM (UGC, boné e óculos)",
+     "ts": "1:08",
+     "en": "So go ahead, click the button below, start hitting your first prizes, and don't forget to message me after to let me know how it is going. All right.",
+     "pt": "Então vá em frente, clique no botão abaixo, comece a acertar os seus primeiros prêmios e não esqueça de me mandar mensagem depois para contar como está indo. Beleza."
+    }
+   ],
+   "prints": [
+    {
+     "ts": "0:00",
+     "legenda": "Abertura: tablet 'Lottery Predictor — 5 numbers you must play in the Powerball'",
+     "arquivo": "ad02_tablet_lottery_predictor_00-00-00.jpg"
+    },
+    {
+     "ts": "0:03",
+     "legenda": "Homem de boné e óculos escuros em selfie ao ar livre",
+     "arquivo": "ad02_homem_bone_oculos_selfie_00-00-03.jpg"
+    },
+    {
+     "ts": "0:07",
+     "legenda": "Ele sorrindo ao lado de uma Lamborghini verde",
+     "arquivo": "ad02_homem_lamborghini_verde_00-00-07.jpg"
+    },
+    {
+     "ts": "0:08",
+     "legenda": "Celular com app de IA mostrando números",
+     "arquivo": "ad02_celular_app_ia_666_00-00-08.jpg"
+    },
+    {
+     "ts": "0:14",
+     "legenda": "App 'AI Lotto' gerando números no celular",
+     "arquivo": "ad02_app_ai_lottobaba_00-00-14.jpg"
+    },
+    {
+     "ts": "0:19",
+     "legenda": "Ganhadores da Powerball com cheque de $1,3 bilhão",
+     "arquivo": "ad02_ganhadores_1_3_billion_00-00-19.jpg"
+    },
+    {
+     "ts": "0:26",
+     "legenda": "Bilhete 'AI picked LOTTO numbers for me' com linha riscada",
+     "arquivo": "ad02_ai_picked_lotto_numbers_00-00-26.jpg"
+    },
+    {
+     "ts": "0:31",
+     "legenda": "Ele dirigindo o carro esportivo",
+     "arquivo": "ad02_dirigindo_carro_00-00-31.jpg"
+    },
+    {
+     "ts": "0:42",
+     "legenda": "Mulher no celular com 'WINNER'",
+     "arquivo": "ad02_mulher_winner_celular_00-00-42.jpg"
+    },
+    {
+     "ts": "0:52",
+     "legenda": "Planilha 'POWER BALL — Power Ranked / Due Ranked'",
+     "arquivo": "ad02_planilha_power_ranked_00-00-52.jpg"
+    },
+    {
+     "ts": "0:53",
+     "legenda": "Setas verdes sobre a lista de números",
+     "arquivo": "ad02_setas_verdes_numeros_00-00-53.jpg"
+    },
+    {
+     "ts": "0:56",
+     "legenda": "Homens de terno trocando dinheiro ('$50')",
+     "arquivo": "ad02_homens_terno_50_00-00-56.jpg"
+    },
+    {
+     "ts": "1:01",
+     "legenda": "Helicóptero diante de mansão",
+     "arquivo": "ad02_helicoptero_mansao_00-01-01.jpg"
+    },
+    {
+     "ts": "1:07",
+     "legenda": "Calendário de resultados 'April 2025'",
+     "arquivo": "ad02_calendario_resultados_00-01-07.jpg"
+    },
+    {
+     "ts": "1:10",
+     "legenda": "Jatinho sobre as nuvens",
+     "arquivo": "ad02_jatinho_nuvens_00-01-10.jpg"
+    },
+    {
+     "ts": "1:11",
+     "legenda": "Mansão com carros esportivos",
+     "arquivo": "ad02_mansao_carros_00-01-11.jpg"
+    },
+    {
+     "ts": "1:12",
+     "legenda": "Iate no mar",
+     "arquivo": "ad02_iate_00-01-12.jpg"
+    },
+    {
+     "ts": "1:14",
+     "legenda": "Último frame: homem de boné",
+     "arquivo": "ad02_homem_final_00-01-14.jpg"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "AD 03 — video-23-09-2026 (1:50) — A falha da Powerball (Texas truck talk)",
+   "inicio": "0:00",
+   "fim": "1:50",
+   "falas": [
+    {
+     "falante": "HOMEM DO TEXAS (UGC, picape RAM)",
+     "ts": "0:00",
+     "en": "I tried that Powerball flaw and I'm already paying off my second brand new Ram pickup in just 3 months. I even had to slow down a bit so I didn't raise too many eyebrows at Powerball. But now nothing else matters because in 40 seconds anyone will be able to use this flaw to clean out the draws. I already tried posting a full video right here showing this flaw and the platform threatened to shut down my account. But now that it's even been on TV, I'm going to show you.",
+     "pt": "Eu testei aquela falha da Powerball e já estou quitando a minha segunda picape RAM zero quilômetro em só 3 meses. Até tive que pegar mais leve para não levantar suspeita demais na Powerball. Mas agora nada mais importa, porque em 40 segundos qualquer pessoa vai poder usar essa falha para limpar os sorteios. Eu já tentei postar um vídeo completo aqui mostrando essa falha e a plataforma ameaçou derrubar a minha conta. Mas agora que isso até já passou na TV, vou te mostrar."
+    },
+    {
+     "falante": "HOMEM DO TEXAS (UGC, picape RAM)",
+     "ts": "0:21",
+     "en": "My cousin Charles was one of the first to try out this math flaw and the last time I called him, I could barely believe he owned land clear over in Australia. Of course I started after that, I wasn't about to get left behind, and I nearly went Crazy with all those numbers hitting week after week. The best part? All I needed was an old phone with internet I barely know how to use and 3 minutes on my couch. This flaw works like a tracker for all the possibilities, telling you the 6 numbers that are gonna hit first, and you just copy and paste them to rake in the biggest prizes up to 3 times a week.",
+     "pt": "O meu primo Charles foi um dos primeiros a testar essa falha matemática, e da última vez que liguei para ele, mal acreditei que ele era dono de terras lá na Austrália. Claro que comecei depois disso, não ia ficar para trás, e quase enlouqueci com todos aqueles números batendo semana após semana. A melhor parte? Tudo de que eu precisei foi um celular velho com internet que eu mal sei usar e 3 minutos no meu sofá. Essa falha funciona como um rastreador de todas as possibilidades, dizendo os 6 números que vão sair primeiro, e você só copia e cola para faturar os maiores prêmios até 3 vezes por semana."
+    },
+    {
+     "falante": "HOMEM DO TEXAS (UGC, picape RAM)",
+     "ts": "0:48",
+     "en": "Not to mention, it's 100% free to do and completely legal. But I got to confess, it ain't all sunshine and rainbows down in Florida. One fella used it so many times in a row and posted it on social media that Powerball banned him from playing again. On top of that, he stopped worrying about his mortgage and went back to catching NFL games in person. The best part is without having to work anymore, he still spends all his time on his 7-hectare farm and traveling to foreign lands with his family.",
+     "pt": "Sem contar que é 100% grátis e totalmente legal. Mas tenho que confessar, nem tudo são flores aqui na Flórida. Um sujeito usou tantas vezes seguidas e postou nas redes sociais que a Powerball o proibiu de jogar de novo. Além disso, ele parou de se preocupar com a hipoteca e voltou a assistir aos jogos da NFL no estádio. A melhor parte é que, sem precisar mais trabalhar, ele ainda passa o tempo todo na fazenda de 7 hectares dele e viajando para o exterior com a família."
+    },
+    {
+     "falante": "HOMEM DO TEXAS (UGC, picape RAM)",
+     "ts": "1:10",
+     "en": "I thought that was crazy too, until I realized more and more Americans hitting 5 or 6 numbers straight week after week had already been talking about this math flaw. I'm leaving a little video in a safer spot that explains how to take advantage of this flaw. Don't waste any time, tap the button below to get this flaw on your phone, but you gotta go quick. Something this easy and fast is getting popular with millions of Americans without costing a dime. Even if some folks aren't happy about it, It'll probably only last a couple of hours before it gets taken down or crashes because too many people are watching it.",
+     "pt": "Eu também achei isso loucura, até perceber que cada vez mais americanos acertando 5 ou 6 números seguidos, semana após semana, já vinham falando dessa falha matemática. Estou deixando um videozinho num lugar mais seguro que explica como aproveitar essa falha. Não perca tempo, toque no botão abaixo para ter essa falha no seu celular, mas tem que ser rápido. Algo tão fácil e rápido está ficando popular com milhões de americanos sem custar um centavo. Mesmo que algumas pessoas não estejam felizes com isso, provavelmente só vai durar umas poucas horas antes de ser derrubado ou cair porque gente demais está assistindo."
+    },
+    {
+     "falante": "HOMEM DO TEXAS (UGC, picape RAM)",
+     "ts": "1:36",
+     "en": "So jump on it now and find out why hitting 5 or 6 numbers is way easier than just 1, and why once you figure this out, you'll never want to sign your tickets again. Just don't forget the folks who helped you out before you start driving sports cars and flying first class. Tap the button below to learn this flaw and get started.",
+     "pt": "Então corra agora e descubra por que acertar 5 ou 6 números é muito mais fácil do que acertar só 1, e por que, depois que você entender isso, nunca mais vai querer assinar os seus bilhetes. Só não esqueça de quem te ajudou antes de começar a dirigir carros esportivos e voar de primeira classe. Toque no botão abaixo para aprender essa falha e começar."
+    }
+   ],
+   "prints": [
+    {
+     "ts": "0:00",
+     "legenda": "Abertura: bilhete da Powerball na mão dentro do carro; legenda 'I TRIED THAT POWERBALL FLAW'",
+     "arquivo": "ad03_bilhete_powerball_carro_00-00-00.jpg"
+    },
+    {
+     "ts": "0:03",
+     "legenda": "Picape RAM 1500 prata; legenda 'BRAND NEW RAM PICKUP IN JUST'",
+     "arquivo": "ad03_picape_ram_1500_00-00-03.jpg"
+    },
+    {
+     "ts": "0:05",
+     "legenda": "Rapaz no balcão de loteria",
+     "arquivo": "ad03_rapaz_loja_loteria_00-00-05.jpg"
+    },
+    {
+     "ts": "0:07",
+     "legenda": "Máquina imprimindo bilhetes; legenda 'EYEBROWS AT POWERBALL'",
+     "arquivo": "ad03_maquina_bilhetes_00-00-07.jpg"
+    },
+    {
+     "ts": "0:10",
+     "legenda": "Homem do Texas diante da picape; legenda 'IN 40 SECONDS'",
+     "arquivo": "ad03_homem_texas_40_segundos_00-00-10.jpg"
+    },
+    {
+     "ts": "0:11",
+     "legenda": "Idosa usando o celular; legenda 'ABLE TO USE'",
+     "arquivo": "ad03_idosa_celular_00-00-11.jpg"
+    },
+    {
+     "ts": "0:12",
+     "legenda": "Celular sobre bilhetes; legenda 'TO CLEAN OUT'",
+     "arquivo": "ad03_celular_bilhetes_00-00-12.jpg"
+    },
+    {
+     "ts": "0:17",
+     "legenda": "Tela '404 Not Found'; legenda 'THREATENED TO SHUT DOWN MY ACCOUNT'",
+     "arquivo": "ad03_erro_404_00-00-17.jpg"
+    },
+    {
+     "ts": "0:23",
+     "legenda": "Homem com bilhetes da Powerball; legenda 'THIS MATH FLAW'",
+     "arquivo": "ad03_homem_bilhetes_math_flaw_00-00-23.jpg"
+    },
+    {
+     "ts": "0:26",
+     "legenda": "Casa com vista para terras; legenda 'BELIEVE HE OWNED'",
+     "arquivo": "ad03_casa_terras_australia_00-00-26.jpg"
+    },
+    {
+     "ts": "0:39",
+     "legenda": "Site 'Lottoclusters' com estatísticas; legenda 'ON MY COUCH'",
+     "arquivo": "ad03_lottoclusters_site_00-00-39.jpg"
+    },
+    {
+     "ts": "0:40",
+     "legenda": "Anotações 'NOTES / DUE' com números; legenda 'LIKE A TRACKER'",
+     "arquivo": "ad03_notas_due_tracker_00-00-40.jpg"
+    },
+    {
+     "ts": "0:44",
+     "legenda": "Preenchendo o volante da Powerball; legenda 'AND YOU JUST'",
+     "arquivo": "ad03_preenchendo_volante_00-00-44.jpg"
+    },
+    {
+     "ts": "0:46",
+     "legenda": "Homem comemorando na loja; legenda 'PRIZES'",
+     "arquivo": "ad03_homem_loja_premio_00-00-46.jpg"
+    },
+    {
+     "ts": "0:49",
+     "legenda": "Homem do Texas; legenda 'IT'S 100% FREE'",
+     "arquivo": "ad03_lettering_100_free_00-00-49.jpg"
+    },
+    {
+     "ts": "0:58",
+     "legenda": "Tela 'Its powerball time! And the website is down!!!'; legenda 'THAT POWERBALL BANNED'",
+     "arquivo": "ad03_powerball_time_banned_00-00-58.jpg"
+    },
+    {
+     "ts": "1:03",
+     "legenda": "Legenda 'TO CATCHING NFL'",
+     "arquivo": "ad03_nfl_00-01-03.jpg"
+    },
+    {
+     "ts": "1:12",
+     "legenda": "Mulheres comemorando com bilhete; legenda 'UNTIL I REALIZED'",
+     "arquivo": "ad03_mulheres_comemorando_bilhete_00-01-12.jpg"
+    },
+    {
+     "ts": "1:16",
+     "legenda": "Mulher com bilhete; 'the POWERBALL is $1.8 billion'",
+     "arquivo": "ad03_powerball_1_8_billion_00-01-16.jpg"
+    },
+    {
+     "ts": "1:20",
+     "legenda": "Lista de números; legenda 'TO TAKE ADVANTAGE'",
+     "arquivo": "ad03_lista_numeros_00-01-20.jpg"
+    },
+    {
+     "ts": "1:22",
+     "legenda": "Homem com seta verde; legenda 'TIME'",
+     "arquivo": "ad03_seta_verde_time_00-01-22.jpg"
+    },
+    {
+     "ts": "1:37",
+     "legenda": "Carros esportivos na garagem; legenda 'AND FIND OUT'",
+     "arquivo": "ad03_carros_esportivos_00-01-37.jpg"
+    },
+    {
+     "ts": "1:38",
+     "legenda": "Iate à noite; legenda 'HITTING 5 OR'",
+     "arquivo": "ad03_iate_noite_00-01-38.jpg"
+    },
+    {
+     "ts": "1:46",
+     "legenda": "Porsche azul; legenda 'DRIVING SPORTS CARS'",
+     "arquivo": "ad03_porsche_azul_00-01-46.jpg"
+    },
+    {
+     "ts": "1:47",
+     "legenda": "Interior de jatinho; legenda 'CLASS'",
+     "arquivo": "ad03_jatinho_interior_00-01-47.jpg"
+    },
+    {
+     "ts": "1:49",
+     "legenda": "Último frame: seta verde; legenda 'THIS FLAW AND'",
+     "arquivo": "ad03_seta_verde_final_00-01-49.jpg"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "titulo": "AD 04 — video-12-10-2026 (1:51) — Tarefas pagas de IA (entrevista de rua)",
+   "inicio": "0:00",
+   "fim": "1:51",
+   "falas": [
+    {
+     "falante": "REPÓRTER (entrevista de rua)",
+     "ts": "0:00",
+     "en": "What were you laughing at just now?",
+     "pt": "Do que você estava rindo agora?"
+    },
+    {
+     "falante": "HOMEM DE 67 ANOS (chapéu de cowboy, picape)",
+     "ts": "0:01",
+     "en": "Answering a few questions for an AI company. They reward you for it.",
+     "pt": "Respondendo a umas perguntas para uma empresa de IA. Eles te recompensam por isso."
+    },
+    {
+     "falante": "REPÓRTER (entrevista de rua)",
+     "ts": "0:05",
+     "en": "So you're pretty into tech?",
+     "pt": "Então você é bem ligado em tecnologia?"
+    },
+    {
+     "falante": "HOMEM DE 67 ANOS (chapéu de cowboy, picape)",
+     "ts": "0:07",
+     "en": "I'm 67 and I still keep my passwords in a spiral notebook. But that's the whole point. My daughter explained it to me. These companies have plenty of 25-year-old engineers. What they don't have is people my age telling them what's confusing. So they reward us for it.",
+     "pt": "Tenho 67 anos e ainda guardo as minhas senhas num caderno espiral. Mas é justamente esse o ponto. A minha filha me explicou. Essas empresas têm um monte de engenheiros de 25 anos. O que elas não têm é gente da minha idade dizendo o que é confuso. Então elas nos recompensam por isso."
+    },
+    {
+     "falante": "REPÓRTER (entrevista de rua)",
+     "ts": "0:24",
+     "en": "And it actually shows up?",
+     "pt": "E o dinheiro aparece mesmo?"
+    },
+    {
+     "falante": "HOMEM DE 67 ANOS (chapéu de cowboy, picape)",
+     "ts": "0:25",
+     "en": "I didn't believe it either. Then my friend pulled up her Venmo and showed me. Now I do it with my morning coffee.",
+     "pt": "Eu também não acreditava. Aí a minha amiga abriu o Venmo e me mostrou. Agora faço com o meu café da manhã."
+    },
+    {
+     "falante": "REPÓRTER (entrevista de rua)",
+     "ts": "0:31",
+     "en": "So, what made you actually look into it?",
+     "pt": "E o que fez você realmente ir atrás disso?"
+    },
+    {
+     "falante": "HOMEM DE 67 ANOS (chapéu de cowboy, picape)",
+     "ts": "0:33",
+     "en": "Because it came from, uh, someone I trust. It made me think, instead of dismissing something just because it sounds too good, why not understand it first? So, I looked into it myself.",
+     "pt": "Porque veio de, é, alguém em quem eu confio. Me fez pensar: em vez de descartar algo só porque parece bom demais, por que não entender primeiro? Então fui pesquisar por conta própria."
+    },
+    {
+     "falante": "REPÓRTER (entrevista de rua)",
+     "ts": "0:43",
+     "en": "And what did you find?",
+     "pt": "E o que você descobriu?"
+    },
+    {
+     "falante": "HOMEM DE 67 ANOS (chapéu de cowboy, picape)",
+     "ts": "0:44",
+     "en": "Tech companies, Big Tech, currently have a massive backlog of tasks. Their AI is advancing so rapidly that they require far more human feedback than before, and there aren't enough people doing it. That is why they are offering rewards on a per-task basis, with each task being simple and easy to complete.",
+     "pt": "As empresas de tecnologia, as Big Techs, estão com um acúmulo enorme de tarefas. A IA delas está avançando tão rápido que precisam de muito mais feedback humano do que antes, e não há gente suficiente fazendo isso. É por isso que estão oferecendo recompensas por tarefa, e cada tarefa é simples e fácil de fazer."
+    },
+    {
+     "falante": "REPÓRTER (entrevista de rua)",
+     "ts": "1:02",
+     "en": "What does a task actually look like?",
+     "pt": "Como é uma tarefa, na prática?"
+    },
+    {
+     "falante": "HOMEM DE 67 ANOS (chapéu de cowboy, picape)",
+     "ts": "1:04",
+     "en": "It's simpler than I expected. You see a question, you see 2 AI-generated answers, and you pick which one sounds more natural. You click submit. That's it. No coding, no tech skills. Anyone can do this. The difference is now you're getting rewards for it.",
+     "pt": "É mais simples do que eu esperava. Você vê uma pergunta, vê 2 respostas geradas por IA e escolhe qual soa mais natural. Clica em enviar. Só isso. Sem programação, sem conhecimento técnico. Qualquer um consegue. A diferença é que agora você recebe recompensas por isso."
+    },
+    {
+     "falante": "REPÓRTER (entrevista de rua)",
+     "ts": "1:19",
+     "en": "So you didn't need to already understand AI or finance to start?",
+     "pt": "Então você não precisou já entender de IA ou de finanças para começar?"
+    },
+    {
+     "falante": "HOMEM DE 67 ANOS (chapéu de cowboy, picape)",
+     "ts": "1:22",
+     "en": "No. I just— It took a little time to understand what it was and how it worked. It was much easier to follow than I, than I imagined. The information was explained clearly, not the complicated tech jargon I expected.",
+     "pt": "Não. Eu só… Levou um pouco de tempo para entender o que era e como funcionava. Foi muito mais fácil de acompanhar do que eu imaginava. A informação era explicada com clareza, não aquele jargão técnico complicado que eu esperava."
+    },
+    {
+     "falante": "REPÓRTER (entrevista de rua)",
+     "ts": "1:36",
+     "en": "What would you say to someone who's still skeptical?",
+     "pt": "O que você diria para alguém que ainda está cético?"
+    },
+    {
+     "falante": "HOMEM DE 67 ANOS (chapéu de cowboy, picape)",
+     "ts": "1:38",
+     "en": "I'd say, I was that person. Don't take my word for it. Watch Craig's training video, understand how it works, and decide for yourself.",
+     "pt": "Eu diria: eu era essa pessoa. Não acredite só na minha palavra. Assista ao vídeo de treinamento do Craig, entenda como funciona e decida por conta própria."
+    },
+    {
+     "falante": "REPÓRTER (entrevista de rua)",
+     "ts": "1:46",
+     "en": "Fair enough. See what caught her attention? Watch the training video. Find out how it works.",
+     "pt": "Justo. Viu o que chamou a atenção dele? Assista ao vídeo de treinamento. Descubra como funciona."
+    }
+   ],
+   "prints": [
+    {
+     "ts": "0:00",
+     "legenda": "Abertura: repórter com microfone entrevistando homem de chapéu de cowboy na janela de uma picape",
+     "arquivo": "ad04_entrevista_picape_cowboy_00-00-00.jpg"
+    },
+    {
+     "ts": "0:07",
+     "legenda": "Homem de 67 anos sorrindo; 'I'm 67 and I still keep my passwords in a spiral notebook'",
+     "arquivo": "ad04_cowboy_sorrindo_00-00-07.jpg"
+    },
+    {
+     "ts": "0:25",
+     "legenda": "Homem falando; 'my friend pulled up her Venmo'",
+     "arquivo": "ad04_cowboy_venmo_00-00-25.jpg"
+    },
+    {
+     "ts": "0:44",
+     "legenda": "Homem explicando; 'Big Tech currently have a massive backlog of tasks'",
+     "arquivo": "ad04_cowboy_big_tech_00-00-44.jpg"
+    },
+    {
+     "ts": "1:03",
+     "legenda": "Homem explicando a tarefa; 'you pick which one sounds more natural'",
+     "arquivo": "ad04_cowboy_tarefa_00-01-03.jpg"
+    },
+    {
+     "ts": "1:33",
+     "legenda": "Homem; 'Watch Craig's training video'",
+     "arquivo": "ad04_cowboy_craig_video_00-01-33.jpg"
+    },
+    {
+     "ts": "1:46",
+     "legenda": "Repórter falando para a câmera; 'See what caught her attention?'",
+     "arquivo": "ad04_reporter_close_00-01-46.jpg"
+    },
+    {
+     "ts": "1:49",
+     "legenda": "Último frame: repórter na rua; 'Find out how it works'",
+     "arquivo": "ad04_reporter_final_00-01-49.jpg"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "titulo": "AD 05 — video-14-10-2026 (0:41) — O celular trabalhando para você (UGC na cozinha)",
+   "inicio": "0:00",
+   "fim": "0:40",
+   "falas": [
+    {
+     "falante": "MULHER (UGC, cozinha)",
+     "ts": "0:02",
+     "en": "You're never gonna believe what I just figured out. Every time your phone connects to the internet, big tech's cashing in while you get nothing. But there's a way to flip that script with 3 simple clicks. Your phone's already doing the work. Now it can work for you instead of just them. No special skills needed, just collecting what should have been yours from day one.",
+     "pt": "Você nunca vai acreditar no que eu acabei de descobrir. Toda vez que o seu celular se conecta à internet, as big techs lucram enquanto você não ganha nada. Mas existe um jeito de virar o jogo com 3 cliques simples. O seu celular já está fazendo o trabalho. Agora ele pode trabalhar para você, e não só para eles. Sem habilidade especial, é só coletar o que deveria ser seu desde o primeiro dia."
+    },
+    {
+     "falante": "MULHER (UGC, cozinha)",
+     "ts": "0:26",
+     "en": "They sure ain't gonna tell you about that one. But all you have to do is tap 3 buttons and you're done. Thousands of people across the country are taking back what's rightfully theirs. Want to see how? Tap below and watch the quick video.",
+     "pt": "Isso eles com certeza não vão te contar. Mas tudo o que você tem que fazer é tocar em 3 botões e pronto. Milhares de pessoas no país inteiro estão pegando de volta o que é delas por direito. Quer ver como? Toque abaixo e assista ao vídeo rápido."
+    }
+   ],
+   "prints": [
+    {
+     "ts": "0:00",
+     "legenda": "Abertura: b-roll de câmera de segurança numa cozinha industrial (homem caindo)",
+     "arquivo": "ad05_broll_cozinha_queda_00-00-00.jpg"
+    },
+    {
+     "ts": "0:02",
+     "legenda": "Mulher de óculos e camisa jeans em selfie na cozinha; legenda 'YOU'RE NEVER GONNA BELIEVE'",
+     "arquivo": "ad05_mulher_selfie_youre_never_00-00-02.jpg"
+    },
+    {
+     "ts": "0:08",
+     "legenda": "Legenda 'BIG TECH CASHING IN'",
+     "arquivo": "ad05_big_tech_cashing_in_00-00-08.jpg"
+    },
+    {
+     "ts": "0:15",
+     "legenda": "Legenda 'WITH THREE SIMPLE CLICKS'",
+     "arquivo": "ad05_simple_clicks_00-00-15.jpg"
+    },
+    {
+     "ts": "0:16",
+     "legenda": "Mulher em pé na cozinha; legenda 'ALREADY DOING THE WORK'",
+     "arquivo": "ad05_mulher_em_pe_already_00-00-16.jpg"
+    },
+    {
+     "ts": "0:22",
+     "legenda": "Legenda 'SKILLS NEEDED'",
+     "arquivo": "ad05_skills_needed_00-00-22.jpg"
+    },
+    {
+     "ts": "0:31",
+     "legenda": "Legenda 'TAP THREE BUTTONS'",
+     "arquivo": "ad05_three_buttons_00-00-31.jpg"
+    },
+    {
+     "ts": "0:39",
+     "legenda": "Legenda 'TAP BELOW'",
+     "arquivo": "ad05_tap_below_00-00-39.jpg"
+    },
+    {
+     "ts": "0:40",
+     "legenda": "Último frame: 'THE QUICK VIDEO'",
+     "arquivo": "ad05_the_quick_video_final_00-00-40.jpg"
+    }
+   ]
+  }
+ ]
+}

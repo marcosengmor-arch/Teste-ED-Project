@@ -1,0 +1,1671 @@
+{
+  "id": "b0992ec4-1c84-4da0-88e8-ebd165cf4e79",
+  "language_model": "assemblyai_default",
+  "acoustic_model": "assemblyai_default",
+  "language_code": "en_us",
+  "speech_understanding": null,
+  "translated_texts": null,
+  "status": "completed",
+  "audio_url": "https://drive.usercontent.google.com/download?id=1AcYwafUG-6kKFyH3FmFMpjCPBBPgxede&export=download&confirm=t",
+  "text": "You're never gonna believe what I just figured out. Every time your phone connects to the internet, big tech's cashing in while you get nothing. But there's a way to flip that script with 3 simple clicks. Your phone's already doing the work. Now it can work for you instead of just them. No special skills needed, just collecting what should have been yours from day one. They sure ain't gonna tell you about that one. But all you have to do is tap 3 buttons and you're done. Thousands of people across the country are taking back what's rightfully theirs. Want to see how? Tap below and watch the quick video.",
+  "words": [
+    {
+      "text": "You're",
+      "start": 2382,
+      "end": 2422,
+      "confidence": 0.9976927,
+      "speaker": "A"
+    },
+    {
+      "text": "never",
+      "start": 2454,
+      "end": 2839,
+      "confidence": 0.9999262,
+      "speaker": "A"
+    },
+    {
+      "text": "gonna",
+      "start": 2839,
+      "end": 3000,
+      "confidence": 0.89907104,
+      "speaker": "A"
+    },
+    {
+      "text": "believe",
+      "start": 3000,
+      "end": 3369,
+      "confidence": 0.99998033,
+      "speaker": "A"
+    },
+    {
+      "text": "what",
+      "start": 3626,
+      "end": 3722,
+      "confidence": 0.99991655,
+      "speaker": "A"
+    },
+    {
+      "text": "I",
+      "start": 3722,
+      "end": 3882,
+      "confidence": 0.999959,
+      "speaker": "A"
+    },
+    {
+      "text": "just",
+      "start": 3882,
+      "end": 4171,
+      "confidence": 0.9986707,
+      "speaker": "A"
+    },
+    {
+      "text": "figured",
+      "start": 4203,
+      "end": 4508,
+      "confidence": 0.999915,
+      "speaker": "A"
+    },
+    {
+      "text": "out.",
+      "start": 4508,
+      "end": 4701,
+      "confidence": 0.93532497,
+      "speaker": "A"
+    },
+    {
+      "text": "Every",
+      "start": 5407,
+      "end": 5615,
+      "confidence": 0.9909237,
+      "speaker": "A"
+    },
+    {
+      "text": "time",
+      "start": 5647,
+      "end": 5856,
+      "confidence": 0.99991477,
+      "speaker": "A"
+    },
+    {
+      "text": "your",
+      "start": 5888,
+      "end": 6016,
+      "confidence": 0.9998846,
+      "speaker": "A"
+    },
+    {
+      "text": "phone",
+      "start": 6048,
+      "end": 6401,
+      "confidence": 0.99994886,
+      "speaker": "A"
+    },
+    {
+      "text": "connects",
+      "start": 6754,
+      "end": 7155,
+      "confidence": 0.99992263,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 7155,
+      "end": 7252,
+      "confidence": 0.99996984,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 7252,
+      "end": 7396,
+      "confidence": 0.99998605,
+      "speaker": "A"
+    },
+    {
+      "text": "internet,",
+      "start": 7476,
+      "end": 7861,
+      "confidence": 0.99943954,
+      "speaker": "A"
+    },
+    {
+      "text": "big",
+      "start": 8375,
+      "end": 8551,
+      "confidence": 0.5639651,
+      "speaker": "A"
+    },
+    {
+      "text": "tech's",
+      "start": 8615,
+      "end": 9113,
+      "confidence": 0.9990537,
+      "speaker": "A"
+    },
+    {
+      "text": "cashing",
+      "start": 9257,
+      "end": 9706,
+      "confidence": 0.9995808,
+      "speaker": "A"
+    },
+    {
+      "text": "in",
+      "start": 9883,
+      "end": 10108,
+      "confidence": 0.99996865,
+      "speaker": "A"
+    },
+    {
+      "text": "while",
+      "start": 10525,
+      "end": 10653,
+      "confidence": 0.95163476,
+      "speaker": "A"
+    },
+    {
+      "text": "you",
+      "start": 10765,
+      "end": 10862,
+      "confidence": 0.999979,
+      "speaker": "A"
+    },
+    {
+      "text": "get",
+      "start": 10926,
+      "end": 11054,
+      "confidence": 0.99987996,
+      "speaker": "A"
+    },
+    {
+      "text": "nothing.",
+      "start": 11118,
+      "end": 11471,
+      "confidence": 0.99318475,
+      "speaker": "A"
+    },
+    {
+      "text": "But",
+      "start": 12225,
+      "end": 12370,
+      "confidence": 0.98298913,
+      "speaker": "A"
+    },
+    {
+      "text": "there's",
+      "start": 12370,
+      "end": 12627,
+      "confidence": 0.99717987,
+      "speaker": "A"
+    },
+    {
+      "text": "a",
+      "start": 12627,
+      "end": 12707,
+      "confidence": 0.99997294,
+      "speaker": "A"
+    },
+    {
+      "text": "way",
+      "start": 12707,
+      "end": 12867,
+      "confidence": 0.99996006,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 12867,
+      "end": 12996,
+      "confidence": 0.99998033,
+      "speaker": "A"
+    },
+    {
+      "text": "flip",
+      "start": 13012,
+      "end": 13349,
+      "confidence": 0.9999815,
+      "speaker": "A"
+    },
+    {
+      "text": "that",
+      "start": 13349,
+      "end": 13589,
+      "confidence": 0.99944144,
+      "speaker": "A"
+    },
+    {
+      "text": "script",
+      "start": 13589,
+      "end": 14119,
+      "confidence": 0.99999726,
+      "speaker": "A"
+    },
+    {
+      "text": "with",
+      "start": 14231,
+      "end": 14424,
+      "confidence": 0.9708538,
+      "speaker": "A"
+    },
+    {
+      "text": "3",
+      "start": 14456,
+      "end": 14648,
+      "confidence": 0.9999696,
+      "speaker": "A"
+    },
+    {
+      "text": "simple",
+      "start": 14648,
+      "end": 15113,
+      "confidence": 0.99998283,
+      "speaker": "A"
+    },
+    {
+      "text": "clicks.",
+      "start": 15113,
+      "end": 15499,
+      "confidence": 0.99044937,
+      "speaker": "A"
+    },
+    {
+      "text": "Your",
+      "start": 15900,
+      "end": 15996,
+      "confidence": 0.7141833,
+      "speaker": "A"
+    },
+    {
+      "text": "phone's",
+      "start": 15996,
+      "end": 16381,
+      "confidence": 0.99991935,
+      "speaker": "A"
+    },
+    {
+      "text": "already",
+      "start": 16461,
+      "end": 16766,
+      "confidence": 0.99986005,
+      "speaker": "A"
+    },
+    {
+      "text": "doing",
+      "start": 16782,
+      "end": 17007,
+      "confidence": 0.99981815,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 17039,
+      "end": 17151,
+      "confidence": 0.9995103,
+      "speaker": "A"
+    },
+    {
+      "text": "work.",
+      "start": 17183,
+      "end": 17504,
+      "confidence": 0.9771314,
+      "speaker": "A"
+    },
+    {
+      "text": "Now",
+      "start": 18338,
+      "end": 18515,
+      "confidence": 0.9782225,
+      "speaker": "A"
+    },
+    {
+      "text": "it",
+      "start": 18563,
+      "end": 18643,
+      "confidence": 0.934143,
+      "speaker": "A"
+    },
+    {
+      "text": "can",
+      "start": 18643,
+      "end": 18852,
+      "confidence": 0.9999509,
+      "speaker": "A"
+    },
+    {
+      "text": "work",
+      "start": 18868,
+      "end": 19109,
+      "confidence": 0.9998337,
+      "speaker": "A"
+    },
+    {
+      "text": "for",
+      "start": 19109,
+      "end": 19333,
+      "confidence": 0.9999447,
+      "speaker": "A"
+    },
+    {
+      "text": "you",
+      "start": 19349,
+      "end": 19494,
+      "confidence": 0.99993324,
+      "speaker": "A"
+    },
+    {
+      "text": "instead",
+      "start": 19766,
+      "end": 20151,
+      "confidence": 0.97895503,
+      "speaker": "A"
+    },
+    {
+      "text": "of",
+      "start": 20151,
+      "end": 20216,
+      "confidence": 0.99999404,
+      "speaker": "A"
+    },
+    {
+      "text": "just",
+      "start": 20248,
+      "end": 20504,
+      "confidence": 0.9997836,
+      "speaker": "A"
+    },
+    {
+      "text": "them.",
+      "start": 20633,
+      "end": 20938,
+      "confidence": 0.99339956,
+      "speaker": "A"
+    },
+    {
+      "text": "No",
+      "start": 21836,
+      "end": 21948,
+      "confidence": 0.99771583,
+      "speaker": "A"
+    },
+    {
+      "text": "special",
+      "start": 21948,
+      "end": 22398,
+      "confidence": 0.99998057,
+      "speaker": "A"
+    },
+    {
+      "text": "skills",
+      "start": 22398,
+      "end": 22703,
+      "confidence": 0.9999794,
+      "speaker": "A"
+    },
+    {
+      "text": "needed,",
+      "start": 22799,
+      "end": 23104,
+      "confidence": 0.98702466,
+      "speaker": "A"
+    },
+    {
+      "text": "just",
+      "start": 23617,
+      "end": 23810,
+      "confidence": 0.99975556,
+      "speaker": "A"
+    },
+    {
+      "text": "collecting",
+      "start": 23858,
+      "end": 24387,
+      "confidence": 0.99988294,
+      "speaker": "A"
+    },
+    {
+      "text": "what",
+      "start": 24419,
+      "end": 24580,
+      "confidence": 0.9999658,
+      "speaker": "A"
+    },
+    {
+      "text": "should",
+      "start": 24580,
+      "end": 24820,
+      "confidence": 0.9999101,
+      "speaker": "A"
+    },
+    {
+      "text": "have",
+      "start": 24820,
+      "end": 24901,
+      "confidence": 0.54426426,
+      "speaker": "A"
+    },
+    {
+      "text": "been",
+      "start": 24901,
+      "end": 25125,
+      "confidence": 0.9999659,
+      "speaker": "A"
+    },
+    {
+      "text": "yours",
+      "start": 25125,
+      "end": 25350,
+      "confidence": 0.99999154,
+      "speaker": "A"
+    },
+    {
+      "text": "from",
+      "start": 25446,
+      "end": 25575,
+      "confidence": 0.9998087,
+      "speaker": "A"
+    },
+    {
+      "text": "day",
+      "start": 25623,
+      "end": 25783,
+      "confidence": 0.9999262,
+      "speaker": "A"
+    },
+    {
+      "text": "one.",
+      "start": 25863,
+      "end": 26056,
+      "confidence": 0.91059726,
+      "speaker": "A"
+    },
+    {
+      "text": "They",
+      "start": 26650,
+      "end": 26730,
+      "confidence": 0.9978656,
+      "speaker": "A"
+    },
+    {
+      "text": "sure",
+      "start": 26730,
+      "end": 27019,
+      "confidence": 0.9998703,
+      "speaker": "A"
+    },
+    {
+      "text": "ain't",
+      "start": 27051,
+      "end": 27147,
+      "confidence": 0.99986756,
+      "speaker": "A"
+    },
+    {
+      "text": "gonna",
+      "start": 27147,
+      "end": 27388,
+      "confidence": 0.9256627,
+      "speaker": "A"
+    },
+    {
+      "text": "tell",
+      "start": 27388,
+      "end": 27612,
+      "confidence": 0.9999629,
+      "speaker": "A"
+    },
+    {
+      "text": "you",
+      "start": 27612,
+      "end": 27660,
+      "confidence": 0.9994266,
+      "speaker": "A"
+    },
+    {
+      "text": "about",
+      "start": 27708,
+      "end": 27949,
+      "confidence": 0.99882275,
+      "speaker": "A"
+    },
+    {
+      "text": "that",
+      "start": 27949,
+      "end": 28061,
+      "confidence": 0.99967384,
+      "speaker": "A"
+    },
+    {
+      "text": "one.",
+      "start": 28174,
+      "end": 28302,
+      "confidence": 0.9484879,
+      "speaker": "A"
+    },
+    {
+      "text": "But",
+      "start": 29074,
+      "end": 29236,
+      "confidence": 0.7148192,
+      "speaker": "A"
+    },
+    {
+      "text": "all",
+      "start": 29300,
+      "end": 29349,
+      "confidence": 0.9950165,
+      "speaker": "A"
+    },
+    {
+      "text": "you",
+      "start": 29462,
+      "end": 29543,
+      "confidence": 0.9999473,
+      "speaker": "A"
+    },
+    {
+      "text": "have",
+      "start": 29543,
+      "end": 29688,
+      "confidence": 0.99985623,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 29720,
+      "end": 29850,
+      "confidence": 0.9999912,
+      "speaker": "A"
+    },
+    {
+      "text": "do",
+      "start": 29866,
+      "end": 29979,
+      "confidence": 0.9999881,
+      "speaker": "A"
+    },
+    {
+      "text": "is",
+      "start": 30140,
+      "end": 30253,
+      "confidence": 0.9999677,
+      "speaker": "A"
+    },
+    {
+      "text": "tap",
+      "start": 30286,
+      "end": 30706,
+      "confidence": 0.9999062,
+      "speaker": "A"
+    },
+    {
+      "text": "3",
+      "start": 30754,
+      "end": 31013,
+      "confidence": 0.9999852,
+      "speaker": "A"
+    },
+    {
+      "text": "buttons",
+      "start": 31093,
+      "end": 31546,
+      "confidence": 0.99979407,
+      "speaker": "A"
+    },
+    {
+      "text": "and",
+      "start": 31740,
+      "end": 31804,
+      "confidence": 0.9103933,
+      "speaker": "A"
+    },
+    {
+      "text": "you're",
+      "start": 31901,
+      "end": 32095,
+      "confidence": 0.99990046,
+      "speaker": "A"
+    },
+    {
+      "text": "done.",
+      "start": 32144,
+      "end": 32434,
+      "confidence": 0.9812649,
+      "speaker": "A"
+    },
+    {
+      "text": "Thousands",
+      "start": 32774,
+      "end": 33194,
+      "confidence": 0.9872528,
+      "speaker": "A"
+    },
+    {
+      "text": "of",
+      "start": 33194,
+      "end": 33274,
+      "confidence": 0.9999777,
+      "speaker": "A"
+    },
+    {
+      "text": "people",
+      "start": 33274,
+      "end": 33678,
+      "confidence": 0.9999229,
+      "speaker": "A"
+    },
+    {
+      "text": "across",
+      "start": 33694,
+      "end": 34034,
+      "confidence": 0.9995677,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 34163,
+      "end": 34244,
+      "confidence": 0.9993787,
+      "speaker": "A"
+    },
+    {
+      "text": "country",
+      "start": 34244,
+      "end": 34777,
+      "confidence": 0.9996301,
+      "speaker": "A"
+    },
+    {
+      "text": "are",
+      "start": 34971,
+      "end": 35051,
+      "confidence": 0.99984896,
+      "speaker": "A"
+    },
+    {
+      "text": "taking",
+      "start": 35132,
+      "end": 35423,
+      "confidence": 0.99980944,
+      "speaker": "A"
+    },
+    {
+      "text": "back",
+      "start": 35520,
+      "end": 35778,
+      "confidence": 0.99998987,
+      "speaker": "A"
+    },
+    {
+      "text": "what's",
+      "start": 35778,
+      "end": 36101,
+      "confidence": 0.99982864,
+      "speaker": "A"
+    },
+    {
+      "text": "rightfully",
+      "start": 36263,
+      "end": 36958,
+      "confidence": 0.9999554,
+      "speaker": "A"
+    },
+    {
+      "text": "theirs.",
+      "start": 36990,
+      "end": 37361,
+      "confidence": 0.9978948,
+      "speaker": "A"
+    },
+    {
+      "text": "Want",
+      "start": 37798,
+      "end": 37943,
+      "confidence": 0.64858484,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 37943,
+      "end": 37991,
+      "confidence": 0.99996567,
+      "speaker": "A"
+    },
+    {
+      "text": "see",
+      "start": 38024,
+      "end": 38266,
+      "confidence": 0.99986553,
+      "speaker": "A"
+    },
+    {
+      "text": "how?",
+      "start": 38266,
+      "end": 38379,
+      "confidence": 0.9998793,
+      "speaker": "A"
+    },
+    {
+      "text": "Tap",
+      "start": 38928,
+      "end": 39171,
+      "confidence": 0.9991007,
+      "speaker": "A"
+    },
+    {
+      "text": "below",
+      "start": 39171,
+      "end": 39462,
+      "confidence": 0.9996674,
+      "speaker": "A"
+    },
+    {
+      "text": "and",
+      "start": 39817,
+      "end": 39882,
+      "confidence": 0.99655354,
+      "speaker": "A"
+    },
+    {
+      "text": "watch",
+      "start": 39898,
+      "end": 40108,
+      "confidence": 0.9999678,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 40221,
+      "end": 40302,
+      "confidence": 0.9971722,
+      "speaker": "A"
+    },
+    {
+      "text": "quick",
+      "start": 40302,
+      "end": 40528,
+      "confidence": 0.9997367,
+      "speaker": "A"
+    },
+    {
+      "text": "video.",
+      "start": 40528,
+      "end": 40867,
+      "confidence": 0.9933823,
+      "speaker": "A"
+    }
+  ],
+  "utterances": [
+    {
+      "speaker": "A",
+      "text": "You're never gonna believe what I just figured out. Every time your phone connects to the internet, big tech's cashing in while you get nothing. But there's a way to flip that script with 3 simple clicks. Your phone's already doing the work. Now it can work for you instead of just them. No special skills needed, just collecting what should have been yours from day one. They sure ain't gonna tell you about that one. But all you have to do is tap 3 buttons and you're done. Thousands of people across the country are taking back what's rightfully theirs. Want to see how? Tap below and watch the quick video.",
+      "confidence": 0.9766968,
+      "start": 2342,
+      "end": 40867,
+      "words": [
+        {
+          "text": "You're",
+          "start": 2382,
+          "end": 2422,
+          "confidence": 0.9976927,
+          "speaker": "A"
+        },
+        {
+          "text": "never",
+          "start": 2454,
+          "end": 2839,
+          "confidence": 0.9999262,
+          "speaker": "A"
+        },
+        {
+          "text": "gonna",
+          "start": 2839,
+          "end": 3000,
+          "confidence": 0.89907104,
+          "speaker": "A"
+        },
+        {
+          "text": "believe",
+          "start": 3000,
+          "end": 3369,
+          "confidence": 0.99998033,
+          "speaker": "A"
+        },
+        {
+          "text": "what",
+          "start": 3626,
+          "end": 3722,
+          "confidence": 0.99991655,
+          "speaker": "A"
+        },
+        {
+          "text": "I",
+          "start": 3722,
+          "end": 3882,
+          "confidence": 0.999959,
+          "speaker": "A"
+        },
+        {
+          "text": "just",
+          "start": 3882,
+          "end": 4171,
+          "confidence": 0.9986707,
+          "speaker": "A"
+        },
+        {
+          "text": "figured",
+          "start": 4203,
+          "end": 4508,
+          "confidence": 0.999915,
+          "speaker": "A"
+        },
+        {
+          "text": "out.",
+          "start": 4508,
+          "end": 4701,
+          "confidence": 0.93532497,
+          "speaker": "A"
+        },
+        {
+          "text": "Every",
+          "start": 5407,
+          "end": 5615,
+          "confidence": 0.9909237,
+          "speaker": "A"
+        },
+        {
+          "text": "time",
+          "start": 5647,
+          "end": 5856,
+          "confidence": 0.99991477,
+          "speaker": "A"
+        },
+        {
+          "text": "your",
+          "start": 5888,
+          "end": 6016,
+          "confidence": 0.9998846,
+          "speaker": "A"
+        },
+        {
+          "text": "phone",
+          "start": 6048,
+          "end": 6401,
+          "confidence": 0.99994886,
+          "speaker": "A"
+        },
+        {
+          "text": "connects",
+          "start": 6754,
+          "end": 7155,
+          "confidence": 0.99992263,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 7155,
+          "end": 7252,
+          "confidence": 0.99996984,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 7252,
+          "end": 7396,
+          "confidence": 0.99998605,
+          "speaker": "A"
+        },
+        {
+          "text": "internet,",
+          "start": 7476,
+          "end": 7861,
+          "confidence": 0.99943954,
+          "speaker": "A"
+        },
+        {
+          "text": "big",
+          "start": 8375,
+          "end": 8551,
+          "confidence": 0.5639651,
+          "speaker": "A"
+        },
+        {
+          "text": "tech's",
+          "start": 8615,
+          "end": 9113,
+          "confidence": 0.9990537,
+          "speaker": "A"
+        },
+        {
+          "text": "cashing",
+          "start": 9257,
+          "end": 9706,
+          "confidence": 0.9995808,
+          "speaker": "A"
+        },
+        {
+          "text": "in",
+          "start": 9883,
+          "end": 10108,
+          "confidence": 0.99996865,
+          "speaker": "A"
+        },
+        {
+          "text": "while",
+          "start": 10525,
+          "end": 10653,
+          "confidence": 0.95163476,
+          "speaker": "A"
+        },
+        {
+          "text": "you",
+          "start": 10765,
+          "end": 10862,
+          "confidence": 0.999979,
+          "speaker": "A"
+        },
+        {
+          "text": "get",
+          "start": 10926,
+          "end": 11054,
+          "confidence": 0.99987996,
+          "speaker": "A"
+        },
+        {
+          "text": "nothing.",
+          "start": 11118,
+          "end": 11471,
+          "confidence": 0.99318475,
+          "speaker": "A"
+        },
+        {
+          "text": "But",
+          "start": 12225,
+          "end": 12370,
+          "confidence": 0.98298913,
+          "speaker": "A"
+        },
+        {
+          "text": "there's",
+          "start": 12370,
+          "end": 12627,
+          "confidence": 0.99717987,
+          "speaker": "A"
+        },
+        {
+          "text": "a",
+          "start": 12627,
+          "end": 12707,
+          "confidence": 0.99997294,
+          "speaker": "A"
+        },
+        {
+          "text": "way",
+          "start": 12707,
+          "end": 12867,
+          "confidence": 0.99996006,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 12867,
+          "end": 12996,
+          "confidence": 0.99998033,
+          "speaker": "A"
+        },
+        {
+          "text": "flip",
+          "start": 13012,
+          "end": 13349,
+          "confidence": 0.9999815,
+          "speaker": "A"
+        },
+        {
+          "text": "that",
+          "start": 13349,
+          "end": 13589,
+          "confidence": 0.99944144,
+          "speaker": "A"
+        },
+        {
+          "text": "script",
+          "start": 13589,
+          "end": 14119,
+          "confidence": 0.99999726,
+          "speaker": "A"
+        },
+        {
+          "text": "with",
+          "start": 14231,
+          "end": 14424,
+          "confidence": 0.9708538,
+          "speaker": "A"
+        },
+        {
+          "text": "3",
+          "start": 14456,
+          "end": 14648,
+          "confidence": 0.9999696,
+          "speaker": "A"
+        },
+        {
+          "text": "simple",
+          "start": 14648,
+          "end": 15113,
+          "confidence": 0.99998283,
+          "speaker": "A"
+        },
+        {
+          "text": "clicks.",
+          "start": 15113,
+          "end": 15499,
+          "confidence": 0.99044937,
+          "speaker": "A"
+        },
+        {
+          "text": "Your",
+          "start": 15900,
+          "end": 15996,
+          "confidence": 0.7141833,
+          "speaker": "A"
+        },
+        {
+          "text": "phone's",
+          "start": 15996,
+          "end": 16381,
+          "confidence": 0.99991935,
+          "speaker": "A"
+        },
+        {
+          "text": "already",
+          "start": 16461,
+          "end": 16766,
+          "confidence": 0.99986005,
+          "speaker": "A"
+        },
+        {
+          "text": "doing",
+          "start": 16782,
+          "end": 17007,
+          "confidence": 0.99981815,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 17039,
+          "end": 17151,
+          "confidence": 0.9995103,
+          "speaker": "A"
+        },
+        {
+          "text": "work.",
+          "start": 17183,
+          "end": 17504,
+          "confidence": 0.9771314,
+          "speaker": "A"
+        },
+        {
+          "text": "Now",
+          "start": 18338,
+          "end": 18515,
+          "confidence": 0.9782225,
+          "speaker": "A"
+        },
+        {
+          "text": "it",
+          "start": 18563,
+          "end": 18643,
+          "confidence": 0.934143,
+          "speaker": "A"
+        },
+        {
+          "text": "can",
+          "start": 18643,
+          "end": 18852,
+          "confidence": 0.9999509,
+          "speaker": "A"
+        },
+        {
+          "text": "work",
+          "start": 18868,
+          "end": 19109,
+          "confidence": 0.9998337,
+          "speaker": "A"
+        },
+        {
+          "text": "for",
+          "start": 19109,
+          "end": 19333,
+          "confidence": 0.9999447,
+          "speaker": "A"
+        },
+        {
+          "text": "you",
+          "start": 19349,
+          "end": 19494,
+          "confidence": 0.99993324,
+          "speaker": "A"
+        },
+        {
+          "text": "instead",
+          "start": 19766,
+          "end": 20151,
+          "confidence": 0.97895503,
+          "speaker": "A"
+        },
+        {
+          "text": "of",
+          "start": 20151,
+          "end": 20216,
+          "confidence": 0.99999404,
+          "speaker": "A"
+        },
+        {
+          "text": "just",
+          "start": 20248,
+          "end": 20504,
+          "confidence": 0.9997836,
+          "speaker": "A"
+        },
+        {
+          "text": "them.",
+          "start": 20633,
+          "end": 20938,
+          "confidence": 0.99339956,
+          "speaker": "A"
+        },
+        {
+          "text": "No",
+          "start": 21836,
+          "end": 21948,
+          "confidence": 0.99771583,
+          "speaker": "A"
+        },
+        {
+          "text": "special",
+          "start": 21948,
+          "end": 22398,
+          "confidence": 0.99998057,
+          "speaker": "A"
+        },
+        {
+          "text": "skills",
+          "start": 22398,
+          "end": 22703,
+          "confidence": 0.9999794,
+          "speaker": "A"
+        },
+        {
+          "text": "needed,",
+          "start": 22799,
+          "end": 23104,
+          "confidence": 0.98702466,
+          "speaker": "A"
+        },
+        {
+          "text": "just",
+          "start": 23617,
+          "end": 23810,
+          "confidence": 0.99975556,
+          "speaker": "A"
+        },
+        {
+          "text": "collecting",
+          "start": 23858,
+          "end": 24387,
+          "confidence": 0.99988294,
+          "speaker": "A"
+        },
+        {
+          "text": "what",
+          "start": 24419,
+          "end": 24580,
+          "confidence": 0.9999658,
+          "speaker": "A"
+        },
+        {
+          "text": "should",
+          "start": 24580,
+          "end": 24820,
+          "confidence": 0.9999101,
+          "speaker": "A"
+        },
+        {
+          "text": "have",
+          "start": 24820,
+          "end": 24901,
+          "confidence": 0.54426426,
+          "speaker": "A"
+        },
+        {
+          "text": "been",
+          "start": 24901,
+          "end": 25125,
+          "confidence": 0.9999659,
+          "speaker": "A"
+        },
+        {
+          "text": "yours",
+          "start": 25125,
+          "end": 25350,
+          "confidence": 0.99999154,
+          "speaker": "A"
+        },
+        {
+          "text": "from",
+          "start": 25446,
+          "end": 25575,
+          "confidence": 0.9998087,
+          "speaker": "A"
+        },
+        {
+          "text": "day",
+          "start": 25623,
+          "end": 25783,
+          "confidence": 0.9999262,
+          "speaker": "A"
+        },
+        {
+          "text": "one.",
+          "start": 25863,
+          "end": 26056,
+          "confidence": 0.91059726,
+          "speaker": "A"
+        },
+        {
+          "text": "They",
+          "start": 26650,
+          "end": 26730,
+          "confidence": 0.9978656,
+          "speaker": "A"
+        },
+        {
+          "text": "sure",
+          "start": 26730,
+          "end": 27019,
+          "confidence": 0.9998703,
+          "speaker": "A"
+        },
+        {
+          "text": "ain't",
+          "start": 27051,
+          "end": 27147,
+          "confidence": 0.99986756,
+          "speaker": "A"
+        },
+        {
+          "text": "gonna",
+          "start": 27147,
+          "end": 27388,
+          "confidence": 0.9256627,
+          "speaker": "A"
+        },
+        {
+          "text": "tell",
+          "start": 27388,
+          "end": 27612,
+          "confidence": 0.9999629,
+          "speaker": "A"
+        },
+        {
+          "text": "you",
+          "start": 27612,
+          "end": 27660,
+          "confidence": 0.9994266,
+          "speaker": "A"
+        },
+        {
+          "text": "about",
+          "start": 27708,
+          "end": 27949,
+          "confidence": 0.99882275,
+          "speaker": "A"
+        },
+        {
+          "text": "that",
+          "start": 27949,
+          "end": 28061,
+          "confidence": 0.99967384,
+          "speaker": "A"
+        },
+        {
+          "text": "one.",
+          "start": 28174,
+          "end": 28302,
+          "confidence": 0.9484879,
+          "speaker": "A"
+        },
+        {
+          "text": "But",
+          "start": 29074,
+          "end": 29236,
+          "confidence": 0.7148192,
+          "speaker": "A"
+        },
+        {
+          "text": "all",
+          "start": 29300,
+          "end": 29349,
+          "confidence": 0.9950165,
+          "speaker": "A"
+        },
+        {
+          "text": "you",
+          "start": 29462,
+          "end": 29543,
+          "confidence": 0.9999473,
+          "speaker": "A"
+        },
+        {
+          "text": "have",
+          "start": 29543,
+          "end": 29688,
+          "confidence": 0.99985623,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 29720,
+          "end": 29850,
+          "confidence": 0.9999912,
+          "speaker": "A"
+        },
+        {
+          "text": "do",
+          "start": 29866,
+          "end": 29979,
+          "confidence": 0.9999881,
+          "speaker": "A"
+        },
+        {
+          "text": "is",
+          "start": 30140,
+          "end": 30253,
+          "confidence": 0.9999677,
+          "speaker": "A"
+        },
+        {
+          "text": "tap",
+          "start": 30286,
+          "end": 30706,
+          "confidence": 0.9999062,
+          "speaker": "A"
+        },
+        {
+          "text": "3",
+          "start": 30754,
+          "end": 31013,
+          "confidence": 0.9999852,
+          "speaker": "A"
+        },
+        {
+          "text": "buttons",
+          "start": 31093,
+          "end": 31546,
+          "confidence": 0.99979407,
+          "speaker": "A"
+        },
+        {
+          "text": "and",
+          "start": 31740,
+          "end": 31804,
+          "confidence": 0.9103933,
+          "speaker": "A"
+        },
+        {
+          "text": "you're",
+          "start": 31901,
+          "end": 32095,
+          "confidence": 0.99990046,
+          "speaker": "A"
+        },
+        {
+          "text": "done.",
+          "start": 32144,
+          "end": 32434,
+          "confidence": 0.9812649,
+          "speaker": "A"
+        },
+        {
+          "text": "Thousands",
+          "start": 32774,
+          "end": 33194,
+          "confidence": 0.9872528,
+          "speaker": "A"
+        },
+        {
+          "text": "of",
+          "start": 33194,
+          "end": 33274,
+          "confidence": 0.9999777,
+          "speaker": "A"
+        },
+        {
+          "text": "people",
+          "start": 33274,
+          "end": 33678,
+          "confidence": 0.9999229,
+          "speaker": "A"
+        },
+        {
+          "text": "across",
+          "start": 33694,
+          "end": 34034,
+          "confidence": 0.9995677,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 34163,
+          "end": 34244,
+          "confidence": 0.9993787,
+          "speaker": "A"
+        },
+        {
+          "text": "country",
+          "start": 34244,
+          "end": 34777,
+          "confidence": 0.9996301,
+          "speaker": "A"
+        },
+        {
+          "text": "are",
+          "start": 34971,
+          "end": 35051,
+          "confidence": 0.99984896,
+          "speaker": "A"
+        },
+        {
+          "text": "taking",
+          "start": 35132,
+          "end": 35423,
+          "confidence": 0.99980944,
+          "speaker": "A"
+        },
+        {
+          "text": "back",
+          "start": 35520,
+          "end": 35778,
+          "confidence": 0.99998987,
+          "speaker": "A"
+        },
+        {
+          "text": "what's",
+          "start": 35778,
+          "end": 36101,
+          "confidence": 0.99982864,
+          "speaker": "A"
+        },
+        {
+          "text": "rightfully",
+          "start": 36263,
+          "end": 36958,
+          "confidence": 0.9999554,
+          "speaker": "A"
+        },
+        {
+          "text": "theirs.",
+          "start": 36990,
+          "end": 37361,
+          "confidence": 0.9978948,
+          "speaker": "A"
+        },
+        {
+          "text": "Want",
+          "start": 37798,
+          "end": 37943,
+          "confidence": 0.64858484,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 37943,
+          "end": 37991,
+          "confidence": 0.99996567,
+          "speaker": "A"
+        },
+        {
+          "text": "see",
+          "start": 38024,
+          "end": 38266,
+          "confidence": 0.99986553,
+          "speaker": "A"
+        },
+        {
+          "text": "how?",
+          "start": 38266,
+          "end": 38379,
+          "confidence": 0.9998793,
+          "speaker": "A"
+        },
+        {
+          "text": "Tap",
+          "start": 38928,
+          "end": 39171,
+          "confidence": 0.9991007,
+          "speaker": "A"
+        },
+        {
+          "text": "below",
+          "start": 39171,
+          "end": 39462,
+          "confidence": 0.9996674,
+          "speaker": "A"
+        },
+        {
+          "text": "and",
+          "start": 39817,
+          "end": 39882,
+          "confidence": 0.99655354,
+          "speaker": "A"
+        },
+        {
+          "text": "watch",
+          "start": 39898,
+          "end": 40108,
+          "confidence": 0.9999678,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 40221,
+          "end": 40302,
+          "confidence": 0.9971722,
+          "speaker": "A"
+        },
+        {
+          "text": "quick",
+          "start": 40302,
+          "end": 40528,
+          "confidence": 0.9997367,
+          "speaker": "A"
+        },
+        {
+          "text": "video.",
+          "start": 40528,
+          "end": 40867,
+          "confidence": 0.9933823,
+          "speaker": "A"
+        }
+      ]
+    }
+  ],
+  "confidence": 0.97651076,
+  "audio_duration": 42,
+  "punctuate": true,
+  "format_text": true,
+  "dual_channel": false,
+  "webhook_url": null,
+  "webhook_status_code": null,
+  "webhook_auth": false,
+  "webhook_auth_header_name": null,
+  "speed_boost": false,
+  "auto_highlights_result": null,
+  "auto_highlights": false,
+  "audio_start_from": null,
+  "audio_end_at": null,
+  "word_boost": [],
+  "boost_param": null,
+  "prompt": null,
+  "keyterms_prompt": [],
+  "filter_profanity": false,
+  "redact_pii": false,
+  "redact_pii_audio": false,
+  "redact_pii_audio_quality": null,
+  "redact_pii_audio_options": null,
+  "redact_pii_policies": null,
+  "redact_pii_sub": null,
+  "redact_static_entities": null,
+  "speaker_labels": true,
+  "speaker_options": {
+    "min_speakers_expected": null,
+    "max_speakers_expected": null,
+    "advanced_speaker_segmentation": true
+  },
+  "content_safety": false,
+  "iab_categories": false,
+  "content_safety_labels": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "iab_categories_result": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "language_detection": false,
+  "language_detection_options": null,
+  "language_detection_results": null,
+  "language_confidence_threshold": null,
+  "language_confidence": null,
+  "custom_spelling": null,
+  "throttled": false,
+  "auto_chapters": false,
+  "summarization": false,
+  "summary_type": null,
+  "summary_model": null,
+  "custom_topics": false,
+  "topics": [],
+  "speech_threshold": null,
+  "speech_model": null,
+  "speech_models": [
+    "universal-3-5-pro",
+    "universal-2"
+  ],
+  "speech_model_used": "universal-3-5-pro",
+  "temperature": null,
+  "remove_audio_tags": "all",
+  "chapters": null,
+  "disfluencies": false,
+  "entity_detection": false,
+  "sentiment_analysis": false,
+  "sentiment_analysis_results": null,
+  "entities": null,
+  "speakers_expected": null,
+  "summary": null,
+  "custom_topics_results": null,
+  "is_deleted": null,
+  "multichannel": null,
+  "project_id": 1431881,
+  "token_id": 1443892
+}
