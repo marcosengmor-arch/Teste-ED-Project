@@ -19,7 +19,7 @@ PICKS=[
  (69,"intestino_vermelho_glp1","Intestino vermelho com GLP-1 e GIP; legenda 'for producing GLP-1'"),
  (81,"mulher_sobrepeso_didnt_lose","Mulher com sobrepeso de top; legenda 'and didn't lose'"),
  (87,"arm_hammer_use_baking_soda_alone","Caixa Arm & Hammer; legenda 'use baking soda alone'"),
- (89,"mulher_tranças_pure_baking_soda","Mulher de tranças e suéter verde; legenda 'It uses pure baking soda'"),
+ (89,"mulher_trancas_pure_baking_soda","Mulher de tranças e suéter verde; legenda 'It uses pure baking soda'"),
  (91,"mulher_combined_with","Mesma mulher com ingrediente amarelo; legenda 'combined with'"),
  (93,"copo_less_than","Copo com mistura; legenda 'less than'"),
  (97,"intestino_your_intestine","Intestino ilustrado sobre o corpo; legenda 'your intestine'"),
