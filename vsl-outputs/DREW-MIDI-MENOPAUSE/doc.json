@@ -1,0 +1,808 @@
+{
+ "titulo": "DREW BARRYMORE SHOW × MIDI HEALTH (menopausa) — Transcrição EN + Tradução PT-BR + Prints",
+ "fonte": "Fonte: 'Drew Barrymore Learns About Surprising Menopause Symptoms and How to Manage Them' (YouTube 7ZKsLCJFjbU, 6:45, 720p, via Drive). Segmento patrocinado ('Sponsored by Midi') do The Drew Barrymore Show. Transcrição: AssemblyAI (speaker labels). Tradução fiel: nomes, marcas e referências dos EUA mantidos. Falantes identificados pelos lower thirds: Drew Barrymore (blazer cinza), Valerie Bertinelli ('for Midi Health', óculos e jeans), Dra. Kathleen Jordan (Chief Medical Officer, Midi Health, blazer magenta) e uma coapresentadora de blazer branco (não identificada na tela).",
+ "nota_prints": "Timing: cada mini-bloco traz o intervalo x → y em que a fala acontece no vídeo. Prints: frames dos momentos mais importantes (lower thirds, cartelas de tema, falantes, reações, CTA), nomeados bNN_descricao_HH-MM-SS.jpg na pasta frames/.",
+ "correcoes_asr": "'Middie Health' → Midi Health (lower third 'Sponsored by Midi' / 'www.JoinMidi.com'); 'Dr.' + 'Kathleen Jordan' unidos; 'We do it all' (0:48) separado como fala da Drew; 'What's that mean?' (4:35) e 'Yeah' (5:51) atribuídos à Drew; gaguejos removidos; reticências (…) marcam cortes.",
+ "falantes": [
+  "DREW BARRYMORE (apresentadora)",
+  "COAPRESENTADORA (blazer branco)",
+  "VALERIE BERTINELLI (convidada, 'for Midi Health')",
+  "DRA. KATHLEEN JORDAN (Chief Medical Officer, Midi Health)"
+ ],
+ "frames_dir": "VSL-Pipeline-DREW/frames",
+ "img_width_in": 2.35,
+ "blocos": [
+  {
+   "n": 1,
+   "titulo": "ABERTURA: 'vamos falar de menopausa', não é um modelo único, parceria com a Midi Health e a Dra. Kathleen Jordan",
+   "inicio": "0:00",
+   "fim": "0:43",
+   "mini": [
+    {
+     "inicio": "0:00",
+     "fim": "0:31",
+     "prints": [
+      {
+       "arquivo": "b01_abertura_drew_mesa_00-00-00.jpg",
+       "legenda": "Abertura: Drew Barrymore (blazer cinza) na mesa do programa, logo 'DREW' e 'drew weekdays'",
+       "ts": "0:00"
+      },
+      {
+       "arquivo": "b01_drew_talk_about_menopause_00-00-04.jpg",
+       "legenda": "Drew: 'We are about to talk about menopause'",
+       "ts": "0:04"
+      },
+      {
+       "arquivo": "b01_plateia_aplaudindo_00-00-10.jpg",
+       "legenda": "Plateia aplaudindo: 'we love to do that here'",
+       "ts": "0:10"
+      },
+      {
+       "arquivo": "b01_valerie_bertinelli_reacao_00-00-16.jpg",
+       "legenda": "Valerie Bertinelli (óculos, jeans) reagindo",
+       "ts": "0:16"
+      },
+      {
+       "arquivo": "b01_drew_not_one_size_fits_all_00-00-20.jpg",
+       "legenda": "Drew: 'it's not a one-size-fits-all model'",
+       "ts": "0:20"
+      },
+      {
+       "arquivo": "b01_coapresentadora_blazer_branco_00-00-24.jpg",
+       "legenda": "Coapresentadora de blazer branco: 'I know that's right'",
+       "ts": "0:24"
+      }
+     ],
+     "falas": [
+      {
+       "falante": "DREW BARRYMORE (apresentadora)",
+       "en": "All right, I just had to pull my trousers down. Welcome back, everybody. We are about to talk about menopause. Mm, yep. That's right, we love to do that here. Listen, the menopause is a completely different journey for every single human woman, and that is why it's so complex, because it's not a one-size-fits-all model.",
+       "pt": "Tá bom, eu acabei de ter que abaixar a minha calça. Bem-vindos de volta, pessoal. Nós vamos falar de menopausa. Hum, é isso. Isso mesmo, a gente adora fazer isso aqui. Olha, a menopausa é uma jornada completamente diferente para cada mulher, e é por isso que é tão complexa, porque não é um modelo único que serve para todo mundo."
+      },
+      {
+       "falante": "COAPRESENTADORA (blazer branco)",
+       "en": "I know that's right. It's not easy at all. Even when we think we've covered it all, there's something more to learn.",
+       "pt": "Isso mesmo. Não é nada fácil. Mesmo quando a gente acha que já cobriu tudo, sempre tem mais alguma coisa para aprender."
+      }
+     ]
+    },
+    {
+     "inicio": "0:31",
+     "fim": "0:43",
+     "prints": [
+      {
+       "arquivo": "b01_sponsored_by_midi_00-00-32.jpg",
+       "legenda": "Lower third 'Sponsored by Midi' sobre a coapresentadora: 'we've teamed up with women's telehealth company Midi Health'",
+       "ts": "0:32"
+      },
+      {
+       "arquivo": "b01_coapresentadora_dr_kathleen_jordan_00-00-38.jpg",
+       "legenda": "Coapresentadora apresenta a Dra. Kathleen Jordan",
+       "ts": "0:38"
+      },
+      {
+       "arquivo": "b01_dra_kathleen_jordan_sorrindo_00-00-40.jpg",
+       "legenda": "Dra. Kathleen Jordan (blazer magenta) sorrindo",
+       "ts": "0:40"
+      }
+     ],
+     "falas": [
+      {
+       "falante": "COAPRESENTADORA (blazer branco)",
+       "en": "So we've teamed up with women's telehealth company Midi Health, and joining us is their Chief Medical Officer, Dr. Kathleen Jordan.",
+       "pt": "Então nós fizemos uma parceria com a empresa de telessaúde feminina Midi Health, e quem está com a gente é a Chief Medical Officer deles, a Dra. Kathleen Jordan."
+      },
+      {
+       "falante": "DREW BARRYMORE (apresentadora)",
+       "en": "Thank you so much. Thank you. Thanks for hosting the conversation.",
+       "pt": "Muito obrigada. Obrigada. Obrigada por sediar essa conversa."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "VALERIE, A PÓS-MENOPÁUSICA: 'queria ter tido isso 10, 15 anos atrás'",
+   "inicio": "0:44",
+   "fim": "0:58",
+   "mini": [
+    {
+     "inicio": "0:44",
+     "fim": "0:58",
+     "prints": [
+      {
+       "arquivo": "b02_drew_thank_you_so_much_00-00-44.jpg",
+       "legenda": "Drew: 'Thank you so much'",
+       "ts": "0:44"
+      },
+      {
+       "arquivo": "b02_plano_geral_mesa_quatro_00-00-46.jpg",
+       "legenda": "Plano geral da mesa com as quatro mulheres e a skyline",
+       "ts": "0:46"
+      },
+      {
+       "arquivo": "b02_valerie_postmenopausal_00-00-52.jpg",
+       "legenda": "Valerie Bertinelli: 'I'm the postmenopausal person here'",
+       "ts": "0:52"
+      },
+      {
+       "arquivo": "b02_valerie_10_15_years_ago_00-00-56.jpg",
+       "legenda": "Valerie: 'I wish that they had had this 10, 15 years ago'",
+       "ts": "0:56"
+      }
+     ],
+     "falas": [
+      {
+       "falante": "VALERIE BERTINELLI (convidada, 'for Midi Health')",
+       "en": "Okay, so I'm the postmenopausal person here. So thank you for doing this because…",
+       "pt": "Tá, então eu sou a pessoa pós-menopáusica aqui. Então obrigada por fazerem isso, porque…"
+      },
+      {
+       "falante": "DREW BARRYMORE (apresentadora)",
+       "en": "We do it all.",
+       "pt": "A gente faz de tudo."
+      },
+      {
+       "falante": "VALERIE BERTINELLI (convidada, 'for Midi Health')",
+       "en": "I wish that they had had this 10, 15 years ago.",
+       "pt": "Eu queria que tivesse existido isso 10, 15 anos atrás."
+      },
+      {
+       "falante": "COAPRESENTADORA (blazer branco)",
+       "en": "Girl.",
+       "pt": "Amiga."
+      },
+      {
+       "falante": "VALERIE BERTINELLI (convidada, 'for Midi Health')",
+       "en": "I mean, don't you love that we're finally getting information and not feeling like we're doing this by ourselves?",
+       "pt": "Quer dizer, vocês não adoram que a gente finalmente está recebendo informação e não se sentindo como se estivesse passando por isso sozinha?"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "SONO: suores noturnos, 20% sem fogachos mas sem dormir, estrogênio/serotonina e progesterona/GABA, o que checar",
+   "inicio": "0:59",
+   "fim": "2:23",
+   "mini": [
+    {
+     "inicio": "0:59",
+     "fim": "1:29",
+     "prints": [
+      {
+       "arquivo": "b03_drew_lets_talk_about_sleep_00-01-00.jpg",
+       "legenda": "Drew: 'Let's talk about the subject of sleep'",
+       "ts": "1:00"
+      },
+      {
+       "arquivo": "b03_drew_night_sweats_00-01-06.jpg",
+       "legenda": "Drew: 'Some people, they get night sweats'",
+       "ts": "1:06"
+      },
+      {
+       "arquivo": "b03_valerie_nightgown_drenched_00-01-10.jpg",
+       "legenda": "Valerie em fundo laranja: 'I woke up with my nightgown drenched'",
+       "ts": "1:10"
+      },
+      {
+       "arquivo": "b03_drew_coapresentadora_keeping_us_up_00-01-16.jpg",
+       "legenda": "Drew e coapresentadora: 'what's keeping us up at night?'",
+       "ts": "1:16"
+      },
+      {
+       "arquivo": "b03_dra_jordan_hot_flashes_sleep_00-01-20.jpg",
+       "legenda": "Dra. Jordan: 'Hot flashes and night sweats definitely impact sleep negatively'",
+       "ts": "1:20"
+      },
+      {
+       "arquivo": "b03_lower_third_dr_kathleen_jordan_00-01-24.jpg",
+       "legenda": "Lower third 'Dr. Kathleen Jordan, Chief Medical Officer, Midi Health'",
+       "ts": "1:24"
+      }
+     ],
+     "falas": [
+      {
+       "falante": "DREW BARRYMORE (apresentadora)",
+       "en": "Let's talk about the subject of sleep. Yes. That can really change through the course of menopause. Some people, they get night sweats. Some people don't.",
+       "pt": "Vamos falar sobre o assunto do sono. Sim. Isso pode mudar muito ao longo da menopausa. Algumas pessoas têm suores noturnos. Outras não."
+      },
+      {
+       "falante": "VALERIE BERTINELLI (convidada, 'for Midi Health')",
+       "en": "I woke up with my nightgown drenched.",
+       "pt": "Eu acordava com a camisola encharcada."
+      },
+      {
+       "falante": "DREW BARRYMORE (apresentadora)",
+       "en": "That's a lot of women's experience.",
+       "pt": "Essa é a experiência de muitas mulheres."
+      },
+      {
+       "falante": "COAPRESENTADORA (blazer branco)",
+       "en": "Yeah, what's keeping us up at night?",
+       "pt": "É, o que está nos deixando acordadas à noite?"
+      },
+      {
+       "falante": "DRA. KATHLEEN JORDAN (Chief Medical Officer, Midi Health)",
+       "en": "Hot flashes and night sweats definitely impact sleep negatively. So we have more than half of women in this time of life not sleeping well. So they're exhausted. But it's not just about hot flashes.",
+       "pt": "Os fogachos e os suores noturnos com certeza prejudicam o sono. Então a gente tem mais da metade das mulheres nessa fase da vida dormindo mal. Então elas estão exaustas. Mas não é só por causa dos fogachos."
+      }
+     ]
+    },
+    {
+     "inicio": "1:29",
+     "fim": "2:05",
+     "prints": [
+      {
+       "arquivo": "b03_cartela_sleep_loss_00-01-32.jpg",
+       "legenda": "Cartela 'sleep loss' no telão do estúdio: '20% of women don't actually have hot flashes'",
+       "ts": "1:32"
+      },
+      {
+       "arquivo": "b03_drew_why_is_that_happening_00-01-38.jpg",
+       "legenda": "Drew: 'Why is that happening?'",
+       "ts": "1:38"
+      },
+      {
+       "arquivo": "b03_dra_jordan_estrogen_serotonin_00-01-44.jpg",
+       "legenda": "Dra. Jordan: 'as our estrogen depletes, it changes our serotonin activity'",
+       "ts": "1:44"
+      },
+      {
+       "arquivo": "b03_dra_jordan_progesterone_gaba_00-01-50.jpg",
+       "legenda": "Dra. Jordan: 'as progesterone decreases, it changes our GABA activity'",
+       "ts": "1:50"
+      },
+      {
+       "arquivo": "b03_lower_third_declining_progesterone_00-01-56.jpg",
+       "legenda": "Lower third 'Declining progesterone can lead to lighter sleep because it has natural calming properties'",
+       "ts": "1:56"
+      },
+      {
+       "arquivo": "b03_plano_geral_anxiety_depression_00-02-02.jpg",
+       "legenda": "Plano geral: 'we see a rise in anxiety, we see a rise in depression'",
+       "ts": "2:02"
+      }
+     ],
+     "falas": [
+      {
+       "falante": "DRA. KATHLEEN JORDAN (Chief Medical Officer, Midi Health)",
+       "en": "So about roughly 20% of women don't actually have hot flashes, but they still struggle with sleep.",
+       "pt": "Então, cerca de 20% das mulheres na verdade não têm fogachos, mas mesmo assim sofrem para dormir."
+      },
+      {
+       "falante": "DREW BARRYMORE (apresentadora)",
+       "en": "It's interrupted, it's thin. Oh yeah. Why is that happening?",
+       "pt": "É interrompido, é leve. Ah, sim. Por que isso está acontecendo?"
+      },
+      {
+       "falante": "DRA. KATHLEEN JORDAN (Chief Medical Officer, Midi Health)",
+       "en": "They can't get to sleep, they wake up in the middle of the night. When our estrogen and progesterone deplete in menopause, as our estrogen depletes, it changes our serotonin activity. And as progesterone decreases, it changes our GABA activity. And these are sort of our zen chemicals in our brain that help us calm down. So we see a rise in anxiety, we see a rise in depression, we see a lot of trouble sleeping in women in this time.",
+       "pt": "Elas não conseguem pegar no sono, acordam no meio da noite. Quando o nosso estrogênio e a nossa progesterona caem na menopausa, conforme o estrogênio cai, isso muda a atividade da nossa serotonina. E conforme a progesterona diminui, isso muda a atividade do nosso GABA. E esses são meio que os nossos químicos zen no cérebro, que ajudam a gente a se acalmar. Então a gente vê um aumento da ansiedade, um aumento da depressão, a gente vê muita dificuldade para dormir nas mulheres nessa fase."
+      }
+     ]
+    },
+    {
+     "inicio": "2:05",
+     "fim": "2:23",
+     "prints": [
+      {
+       "arquivo": "b03_dra_jordan_iron_magnesium_00-02-10.jpg",
+       "legenda": "Dra. Jordan: 'we check things like iron levels, magnesium levels'",
+       "ts": "2:10"
+      },
+      {
+       "arquivo": "b03_dra_jordan_progesterone_sleep_00-02-18.jpg",
+       "legenda": "Dra. Jordan: 'Progesterone... can actually help you sleep'",
+       "ts": "2:18"
+      }
+     ],
+     "falas": [
+      {
+       "falante": "DRA. KATHLEEN JORDAN (Chief Medical Officer, Midi Health)",
+       "en": "And we check things like iron levels, magnesium levels, some hormone therapies can help. Progesterone has actually been shown at certain doses and certain formulations, so you wanna talk to a specialized clinician, can actually help you sleep. And not sleeping well then brings a whole other set of issues.",
+       "pt": "E a gente checa coisas como os níveis de ferro, os níveis de magnésio; algumas terapias hormonais podem ajudar. A progesterona, na verdade, já se mostrou, em certas doses e certas formulações, então você vai querer conversar com um clínico especializado, capaz de ajudar você a dormir. E não dormir bem traz um outro conjunto inteiro de problemas."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "titulo": "BRAIN FOG: temporário, 'whatchamacallit', não é demência",
+   "inicio": "2:23",
+   "fim": "3:00",
+   "mini": [
+    {
+     "inicio": "2:23",
+     "fim": "3:00",
+     "prints": [
+      {
+       "arquivo": "b04_coapresentadora_brain_fog_pergunta_00-02-26.jpg",
+       "legenda": "Coapresentadora: 'that's what I was gonna ask about the brain fog'",
+       "ts": "2:26"
+      },
+      {
+       "arquivo": "b04_cartela_brain_fog_00-02-32.jpg",
+       "legenda": "Cartela 'brain fog' no telão: 'it's a big contributor actually to brain fog'",
+       "ts": "2:32"
+      },
+      {
+       "arquivo": "b04_lower_third_brain_fog_not_dementia_00-02-38.jpg",
+       "legenda": "Lower third 'Menopause brain fog can be temporary and is not the same as dementia'",
+       "ts": "2:38"
+      },
+      {
+       "arquivo": "b04_coapresentadora_whatchamacallit_00-02-46.jpg",
+       "legenda": "Coapresentadora rindo: 'whatchamacallit or what's-his-name'",
+       "ts": "2:46"
+      },
+      {
+       "arquivo": "b04_dra_jordan_dementia_later_decades_00-02-54.jpg",
+       "legenda": "Dra. Jordan: 'dementia... usually hits people in later decades'",
+       "ts": "2:54"
+      }
+     ],
+     "falas": [
+      {
+       "falante": "COAPRESENTADORA (blazer branco)",
+       "en": "Well, that's what I was gonna ask about the brain fog. Is the not sleeping adding to the brain fog, or is that just completely something else? Where's that coming from?",
+       "pt": "Bom, era isso que eu ia perguntar sobre o brain fog, a névoa mental. O não dormir está somando ao brain fog, ou isso é uma coisa completamente diferente? De onde vem isso?"
+      },
+      {
+       "falante": "DRA. KATHLEEN JORDAN (Chief Medical Officer, Midi Health)",
+       "en": "Well, it's a big contributor actually to brain fog. Brain fog is temporary. It's a temporary stressor on the brain. It looks like people forgetting things, forgetting names, using, you know, whatchamacallit or what's-his-name a lot. But dementia is different, and dementia is not as common in midlife. Usually hits people in later decades. and is associated with a progressive decline. So for the most part, women in midlife are having brain fog, not incurring dementia.",
+       "pt": "Bom, na verdade é um grande contribuinte para o brain fog. O brain fog é temporário. É um estressor temporário no cérebro. Parece com gente esquecendo as coisas, esquecendo nomes, usando muito, sabe, \"aquele negócio\" ou \"aquele fulano\". Mas demência é diferente, e demência não é tão comum na meia-idade. Geralmente atinge as pessoas em décadas mais tarde, e está associada a um declínio progressivo. Então, na maior parte dos casos, as mulheres na meia-idade estão tendo brain fog, não desenvolvendo demência."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "titulo": "GANHO DE PESO: a barriga alta ('onde estão meus pés?'), metabolismo, colesterol e glicose, carboidratos, músculo, remédios de emagrecimento",
+   "inicio": "3:00",
+   "fim": "4:25",
+   "mini": [
+    {
+     "inicio": "3:00",
+     "fim": "3:31",
+     "prints": [
+      {
+       "arquivo": "b05_valerie_weight_gain_00-03-02.jpg",
+       "legenda": "Valerie: 'I noticed definitely weight gain when I started to go through menopause'",
+       "ts": "3:02"
+      },
+      {
+       "arquivo": "b05_valerie_climb_stairs_00-03-10.jpg",
+       "legenda": "Valerie: 'being able to climb stairs because I could feel the extra weight'",
+       "ts": "3:10"
+      },
+      {
+       "arquivo": "b05_cartela_weight_gain_00-03-16.jpg",
+       "legenda": "Cartela 'weight gain' no telão: 'weight gain that just doesn't seem to wanna budge'",
+       "ts": "3:16"
+      },
+      {
+       "arquivo": "b05_valerie_its_still_here_00-03-24.jpg",
+       "legenda": "Valerie em fundo rosa: 'Oh, and it's still here'",
+       "ts": "3:24"
+      },
+      {
+       "arquivo": "b05_drew_coapresentadora_where_are_my_feet_00-03-30.jpg",
+       "legenda": "Drew e coapresentadora: 'That high belly, it's like, where are my feet?'",
+       "ts": "3:30"
+      }
+     ],
+     "falas": [
+      {
+       "falante": "VALERIE BERTINELLI (convidada, 'for Midi Health')",
+       "en": "I noticed definitely weight gain when I started to go through menopause and all through menopause. And it was much more of a challenge to pull that weight back down. And it wasn't about, you know, being skinny. It was just about being able to climb stairs because I could feel the extra weight on my body. Like, what do we do about weight gain that just doesn't seem to wanna budge?",
+       "pt": "Eu notei com certeza um ganho de peso quando comecei a passar pela menopausa e durante toda a menopausa. E foi muito mais desafiador puxar esse peso de volta para baixo. E não era sobre, sabe, ser magra. Era só sobre conseguir subir escadas, porque eu sentia o peso extra no meu corpo. Tipo, o que a gente faz com o ganho de peso que simplesmente parece não querer ceder?"
+      },
+      {
+       "falante": "DRA. KATHLEEN JORDAN (Chief Medical Officer, Midi Health)",
+       "en": "Yeah, and I bet you started to gain it soon after.",
+       "pt": "É, e eu aposto que você começou a ganhar logo depois."
+      },
+      {
+       "falante": "VALERIE BERTINELLI (convidada, 'for Midi Health')",
+       "en": "Oh, and it's still here. Oh yeah. Yeah, it's still here.",
+       "pt": "Ah, e ainda está aqui. Ah, sim. É, ainda está aqui."
+      },
+      {
+       "falante": "COAPRESENTADORA (blazer branco)",
+       "en": "That high belly, it's like, where are my feet?",
+       "pt": "Aquela barriga alta, é tipo, cadê os meus pés?"
+      }
+     ]
+    },
+    {
+     "inicio": "3:31",
+     "fim": "4:03",
+     "prints": [
+      {
+       "arquivo": "b05_drew_apple_shape_00-03-36.jpg",
+       "legenda": "Drew: 'I'm like just an apple shape'",
+       "ts": "3:36"
+      },
+      {
+       "arquivo": "b05_coapresentadora_paired_up_00-03-40.jpg",
+       "legenda": "Coapresentadora em fundo rosa: 'I paired up, honey'",
+       "ts": "3:40"
+      },
+      {
+       "arquivo": "b05_lower_third_weight_changes_00-03-46.jpg",
+       "legenda": "Lower third 'Weight changes are one of the most commonly reported menopause symptoms'",
+       "ts": "3:46"
+      },
+      {
+       "arquivo": "b05_dra_jordan_cholesterol_blood_sugar_00-03-54.jpg",
+       "legenda": "Dra. Jordan: 'our cholesterol goes up, our blood sugars go up, our weight and our waist goes up'",
+       "ts": "3:54"
+      },
+      {
+       "arquivo": "b05_dra_jordan_less_pure_carbs_00-04-02.jpg",
+       "legenda": "Dra. Jordan: 'We tend to tolerate less pure carbs. And building muscle actually helps.'",
+       "ts": "4:02"
+      }
+     ],
+     "falas": [
+      {
+       "falante": "COAPRESENTADORA (blazer branco)",
+       "en": "Seriously, for the first time in my life, where are my feet?",
+       "pt": "Sério, pela primeira vez na minha vida, cadê os meus pés?"
+      },
+      {
+       "falante": "DREW BARRYMORE (apresentadora)",
+       "en": "I'm like just an apple shape. Like, it just, it's all here.",
+       "pt": "Eu sou tipo só um formato de maçã. Tipo, é só, está tudo aqui."
+      },
+      {
+       "falante": "COAPRESENTADORA (blazer branco)",
+       "en": "I paired up, honey.",
+       "pt": "Eu me emparelhei, querida."
+      },
+      {
+       "falante": "DRA. KATHLEEN JORDAN (Chief Medical Officer, Midi Health)",
+       "en": "Okay, so first of all, when our hormones change in menopause and perimenopause, it changes our metabolism. So you are not the only ones to have this experience. And the good news is there's a lot we can do, but realizing that our cholesterol goes up, our blood sugars go up, our weight and our waist goes up. So it is a time to sort of reassess. There's definitely things you can do with diet. We tend to tolerate less pure carbs.",
+       "pt": "Tá, então, antes de tudo, quando os nossos hormônios mudam na menopausa e na perimenopausa, isso muda o nosso metabolismo. Então vocês não são as únicas a ter essa experiência. E a boa notícia é que tem muita coisa que a gente pode fazer, mas percebendo que o nosso colesterol sobe, a nossa glicose sobe, o nosso peso e a nossa cintura sobem. Então é um momento de meio que reavaliar. Com certeza tem coisas que dá para fazer com a dieta. A gente tende a tolerar menos carboidratos puros."
+      }
+     ]
+    },
+    {
+     "inicio": "4:03",
+     "fim": "4:25",
+     "prints": [
+      {
+       "arquivo": "b05_valerie_building_muscle_00-04-06.jpg",
+       "legenda": "Valerie: 'Building muscle is so important as we get older'",
+       "ts": "4:06"
+      },
+      {
+       "arquivo": "b05_drew_i_dont_wanna_do_it_00-04-10.jpg",
+       "legenda": "Drew: 'I don't wanna do it'",
+       "ts": "4:10"
+      },
+      {
+       "arquivo": "b05_lower_third_building_muscles_00-04-16.jpg",
+       "legenda": "Lower third 'Building and maintaining muscles supports metabolism, insulin sensitivity and joint stability'",
+       "ts": "4:16"
+      },
+      {
+       "arquivo": "b05_dra_jordan_weight_medications_00-04-22.jpg",
+       "legenda": "Dra. Jordan: 'the weight medications have been a game changer for so many women'",
+       "ts": "4:22"
+      }
+     ],
+     "falas": [
+      {
+       "falante": "DRA. KATHLEEN JORDAN (Chief Medical Officer, Midi Health)",
+       "en": "And building muscle actually helps.",
+       "pt": "E construir músculo realmente ajuda."
+      },
+      {
+       "falante": "VALERIE BERTINELLI (convidada, 'for Midi Health')",
+       "en": "Building muscle is so important as we get older. And it's harder to build.",
+       "pt": "Construir músculo é tão importante conforme a gente envelhece. E é mais difícil de construir."
+      },
+      {
+       "falante": "COAPRESENTADORA (blazer branco)",
+       "en": "I don't wanna do it.",
+       "pt": "Eu não quero fazer isso."
+      },
+      {
+       "falante": "DRA. KATHLEEN JORDAN (Chief Medical Officer, Midi Health)",
+       "en": "What people don't realize is that muscle may look good, it looks toned, but it actually is metabolically active and actually helps your metabolism. And then obviously the weight medications have been a game changer for so many women. And that's actually been wonderful to be part of as well.",
+       "pt": "O que as pessoas não percebem é que o músculo pode ficar bonito, parece tonificado, mas na verdade ele é metabolicamente ativo e realmente ajuda o seu metabolismo. E aí, obviamente, os remédios para emagrecer foram um divisor de águas para tantas mulheres. E tem sido maravilhoso fazer parte disso também."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "titulo": "MOVIMENTO: passear com o cachorro, caminhada pós-prandial ('fart walk')",
+   "inicio": "4:26",
+   "fim": "4:48",
+   "mini": [
+    {
+     "inicio": "4:26",
+     "fim": "4:48",
+     "prints": [
+      {
+       "arquivo": "b06_valerie_dog_walk_00-04-28.jpg",
+       "legenda": "Valerie: 'taking your dog for a walk for 20 minutes'",
+       "ts": "4:28"
+      },
+      {
+       "arquivo": "b06_lower_third_postprandial_walk_00-04-36.jpg",
+       "legenda": "Lower third 'A postprandial walk is taken after a meal and helps support digestion and metabolism'",
+       "ts": "4:36"
+      },
+      {
+       "arquivo": "b06_coapresentadora_fart_walk_00-04-40.jpg",
+       "legenda": "Coapresentadora: 'we call that a fart walk'",
+       "ts": "4:40"
+      }
+     ],
+     "falas": [
+      {
+       "falante": "VALERIE BERTINELLI (convidada, 'for Midi Health')",
+       "en": "And I think keeping yourself active, even if it's just taking your dog for a walk for 20 minutes, just moving your body.",
+       "pt": "E eu acho que se manter ativa, mesmo que seja só levar o seu cachorro para passear por 20 minutos, só mover o seu corpo."
+      },
+      {
+       "falante": "DRA. KATHLEEN JORDAN (Chief Medical Officer, Midi Health)",
+       "en": "Walking for sure. And postprandial walking.",
+       "pt": "Caminhar, com certeza. E a caminhada pós-prandial."
+      },
+      {
+       "falante": "DREW BARRYMORE (apresentadora)",
+       "en": "What's that mean?",
+       "pt": "O que isso quer dizer?"
+      },
+      {
+       "falante": "DRA. KATHLEEN JORDAN (Chief Medical Officer, Midi Health)",
+       "en": "That means walking right after you eat.",
+       "pt": "Quer dizer caminhar logo depois de comer."
+      },
+      {
+       "falante": "COAPRESENTADORA (blazer branco)",
+       "en": "Yes. Oh, we call that a fart walk. I thought that was normal.",
+       "pt": "Sim. Ah, a gente chama isso de \"fart walk\", a caminhada do pum. Eu achava que isso era normal."
+      },
+      {
+       "falante": "DRA. KATHLEEN JORDAN (Chief Medical Officer, Midi Health)",
+       "en": "It's also good for your metabolism.",
+       "pt": "Também é bom para o seu metabolismo."
+      },
+      {
+       "falante": "COAPRESENTADORA (blazer branco)",
+       "en": "Yeah.",
+       "pt": "É."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "titulo": "TRH E A 'CABEÇA-DURA': 'não precisa viver a menopausa da sua mãe', não precisa aguentar calada",
+   "inicio": "4:48",
+   "fim": "5:18",
+   "mini": [
+    {
+     "inicio": "4:48",
+     "fim": "5:18",
+     "prints": [
+      {
+       "arquivo": "b07_drew_rindo_fart_walk_00-04-50.jpg",
+       "legenda": "Drew rindo: 'I thought that was normal'",
+       "ts": "4:50"
+      },
+      {
+       "arquivo": "b07_coapresentadora_hrt_petri_dish_00-04-54.jpg",
+       "legenda": "Coapresentadora: 'I'm not gonna do hormone replacement therapy... you're a petri dish'",
+       "ts": "4:54"
+      },
+      {
+       "arquivo": "b07_coapresentadora_break_me_down_00-05-00.jpg",
+       "legenda": "Coapresentadora: 'What do you say to a hardhead like me? Break me down.'",
+       "ts": "5:00"
+      },
+      {
+       "arquivo": "b07_dra_jordan_mothers_menopause_00-05-06.jpg",
+       "legenda": "Dra. Jordan: 'you don't need to experience your mother's menopause'",
+       "ts": "5:06"
+      },
+      {
+       "arquivo": "b07_dra_jordan_tough_it_out_00-05-12.jpg",
+       "legenda": "Dra. Jordan: 'they don't have to tough it out or just get through it'",
+       "ts": "5:12"
+      }
+     ],
+     "falas": [
+      {
+       "falante": "COAPRESENTADORA (blazer branco)",
+       "en": "Wait, so doctor, I have a question because I'm powering through. I'm not gonna do hormone replacement therapy because it always seems like you're a petri dish and people are trying to figure out the right mix. And I do the whole thing where if my mom didn't do it, I don't have to do it. What do you say to a hardhead like me? Break me down.",
+       "pt": "Espera, então, doutora, eu tenho uma pergunta, porque eu estou aguentando na marra. Eu não vou fazer terapia de reposição hormonal, porque sempre parece que você é uma placa de Petri e as pessoas estão tentando descobrir a mistura certa. E eu faço aquela coisa toda de \"se a minha mãe não fez, eu não preciso fazer\". O que você diz para uma cabeça-dura como eu? Me convença."
+      },
+      {
+       "falante": "DRA. KATHLEEN JORDAN (Chief Medical Officer, Midi Health)",
+       "en": "First of all, we know a lot more than we did when your mother went through menopause. So you don't need to experience your mother's menopause. What I want women to know is that they don't have to tough it out or just get through it. So many of these are common. And there are ways to feel and do better.",
+       "pt": "Antes de tudo, a gente sabe muito mais do que sabia quando a sua mãe passou pela menopausa. Então você não precisa viver a menopausa da sua mãe. O que eu quero que as mulheres saibam é que elas não precisam aguentar na marra ou só \"passar por isso\". Muitos desses sintomas são comuns. E existem maneiras de se sentir e de ficar melhor."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "titulo": "A OFERTA MIDI HEALTH: clínicas especializadas, plano personalizado, consultas virtuais em todos os estados, cobertas por seguros",
+   "inicio": "5:19",
+   "fim": "5:46",
+   "mini": [
+    {
+     "inicio": "5:19",
+     "fim": "5:46",
+     "prints": [
+      {
+       "arquivo": "b08_dra_jordan_midi_clinicians_00-05-20.jpg",
+       "legenda": "Dra. Jordan: 'Midi Health has clinicians, they're specially trained in women's health'",
+       "ts": "5:20"
+      },
+      {
+       "arquivo": "b08_sponsored_by_midi_dra_jordan_00-05-26.jpg",
+       "legenda": "Lower third 'Sponsored by Midi' sobre a Dra. Jordan: 'create a personalized care plan'",
+       "ts": "5:26"
+      },
+      {
+       "arquivo": "b08_drew_ouvindo_personalized_plan_00-05-28.jpg",
+       "legenda": "Drew ouvindo: 'weight gain, sleep, moodiness, fatigue, hot flashes'",
+       "ts": "5:28"
+      },
+      {
+       "arquivo": "b08_dra_jordan_virtual_visits_00-05-38.jpg",
+       "legenda": "Dra. Jordan: 'we offer virtual visits in every state covered by most insurances'",
+       "ts": "5:38"
+      },
+      {
+       "arquivo": "b08_drew_coapresentadora_ouvindo_00-05-44.jpg",
+       "legenda": "Drew e coapresentadora ouvindo: 'you can get the support you need'",
+       "ts": "5:44"
+      }
+     ],
+     "falas": [
+      {
+       "falante": "DRA. KATHLEEN JORDAN (Chief Medical Officer, Midi Health)",
+       "en": "So Midi Health has clinicians, they're specially trained in women's health. They will look at the full picture of your symptoms and create a personalized care plan based on your needs. So if it's weight gain, sleep, moodiness, fatigue, hot flashes, we can get you answers and we create a plan with you. And my favorite part is that we offer virtual visits in every state covered by most insurances. So it's very convenient and you can get the support you need.",
+       "pt": "Então a Midi Health tem clínicos, eles são especialmente treinados em saúde da mulher. Eles vão olhar o quadro completo dos seus sintomas e criar um plano de cuidado personalizado baseado nas suas necessidades. Então, se é ganho de peso, sono, oscilação de humor, fadiga, fogachos, a gente consegue te dar respostas e cria um plano com você. E a minha parte favorita é que a gente oferece consultas virtuais em todos os estados, cobertas pela maioria dos seguros. Então é muito conveniente e você consegue o apoio de que precisa."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "titulo": "HORMÔNIOS SUBUTILIZADOS, saúde óssea, 'fui dispensada por médicos' e ENCERRAMENTO (JoinMidi.com)",
+   "inicio": "5:46",
+   "fim": "6:40",
+   "mini": [
+    {
+     "inicio": "5:46",
+     "fim": "6:19",
+     "prints": [
+      {
+       "arquivo": "b09_dra_jordan_bigger_than_hot_flashes_00-05-48.jpg",
+       "legenda": "Dra. Jordan: 'Menopause is much bigger than hot flashes'",
+       "ts": "5:48"
+      },
+      {
+       "arquivo": "b09_dra_jordan_bone_health_00-05-54.jpg",
+       "legenda": "Dra. Jordan: 'it is very impactful, particularly for bone health'",
+       "ts": "5:54"
+      },
+      {
+       "arquivo": "b09_lower_third_valerie_bertinelli_for_midi_00-06-02.jpg",
+       "legenda": "Lower third 'Valerie Bertinelli for Midi Health': 'you can go to Midi Health'",
+       "ts": "6:02"
+      },
+      {
+       "arquivo": "b09_lower_third_joinmidi_com_00-06-08.jpg",
+       "legenda": "Lower third 'For more information visit www.JoinMidi.com'",
+       "ts": "6:08"
+      },
+      {
+       "arquivo": "b09_dra_jordan_access_care_joinmidi_00-06-14.jpg",
+       "legenda": "Dra. Jordan com 'www.JoinMidi.com': 'we built Midi Health so that more women could access care'",
+       "ts": "6:14"
+      }
+     ],
+     "falas": [
+      {
+       "falante": "DRA. KATHLEEN JORDAN (Chief Medical Officer, Midi Health)",
+       "en": "Menopause is much bigger than hot flashes and it's much bigger than taking hormone therapy.",
+       "pt": "A menopausa é muito maior do que os fogachos, e é muito maior do que tomar terapia hormonal."
+      },
+      {
+       "falante": "DREW BARRYMORE (apresentadora)",
+       "en": "Yeah.",
+       "pt": "É."
+      },
+      {
+       "falante": "DRA. KATHLEEN JORDAN (Chief Medical Officer, Midi Health)",
+       "en": "That is one solution that I think is underutilized. Right now we have small percentages of women that take it and it is very impactful, particularly for bone health.",
+       "pt": "Essa é uma solução que eu acho subutilizada. Hoje a gente tem pequenas porcentagens de mulheres que a tomam, e ela tem um impacto enorme, principalmente na saúde óssea."
+      },
+      {
+       "falante": "VALERIE BERTINELLI (convidada, 'for Midi Health')",
+       "en": "And if you want more information, you can go to Midi Health and you can have an individualized experience with them. Yes.",
+       "pt": "E se você quiser mais informações, pode ir à Midi Health e ter uma experiência individualizada com eles. Sim."
+      },
+      {
+       "falante": "DRA. KATHLEEN JORDAN (Chief Medical Officer, Midi Health)",
+       "en": "Yes. So I am happy to say that we built Midi Health so that more women could access care. 'Cause for a long time, this care was relegated to small, private concierge practices.",
+       "pt": "Sim. Então eu fico feliz de dizer que a gente construiu a Midi Health para que mais mulheres pudessem ter acesso a cuidado. Porque, por muito tempo, esse cuidado ficou relegado a pequenas clínicas particulares de concierge."
+      }
+     ]
+    },
+    {
+     "inicio": "6:19",
+     "fim": "6:40",
+     "prints": [
+      {
+       "arquivo": "b09_valerie_doctor_doesnt_know_00-06-22.jpg",
+       "legenda": "Valerie: 'your doctor who doesn't really know how to talk to you about menopause'",
+       "ts": "6:22"
+      },
+      {
+       "arquivo": "b09_drew_dismissed_by_doctors_00-06-24.jpg",
+       "legenda": "Drew: 'I've literally been dismissed by doctors about menopause'",
+       "ts": "6:24"
+      },
+      {
+       "arquivo": "b09_drew_thank_you_midi_health_00-06-30.jpg",
+       "legenda": "Drew: 'So thank you to Midi Health and Dr. Kathleen Jordan'",
+       "ts": "6:30"
+      },
+      {
+       "arquivo": "b09_dra_jordan_agradece_00-06-36.jpg",
+       "legenda": "Dra. Jordan sorrindo: 'Thank you, Dr. Jordan'",
+       "ts": "6:36"
+      },
+      {
+       "arquivo": "b09_plano_geral_well_be_right_back_00-06-40.jpg",
+       "legenda": "Plano geral do estúdio: 'We'll be right back'",
+       "ts": "6:40"
+      }
+     ],
+     "falas": [
+      {
+       "falante": "VALERIE BERTINELLI (convidada, 'for Midi Health')",
+       "en": "So you'd go to your doctor who doesn't really know how to talk to you about menopause.",
+       "pt": "Então você ia ao seu médico, que não sabe muito bem como falar com você sobre menopausa."
+      },
+      {
+       "falante": "DREW BARRYMORE (apresentadora)",
+       "en": "Right, I've literally been dismissed by doctors about menopause.",
+       "pt": "Isso, eu literalmente já fui dispensada por médicos quando falei de menopausa."
+      },
+      {
+       "falante": "VALERIE BERTINELLI (convidada, 'for Midi Health')",
+       "en": "Yeah. Really?",
+       "pt": "É. Sério?"
+      },
+      {
+       "falante": "DREW BARRYMORE (apresentadora)",
+       "en": "Yeah. Midi Health can find something that works for you. So thank you to Midi Health and Dr. Kathleen Jordan. Thank you, Dr. Jordan. It's an honor to talk about Midi Health. Thank you. We'll be right back.",
+       "pt": "É. A Midi Health pode encontrar algo que funcione para você. Então obrigada à Midi Health e à Dra. Kathleen Jordan. Obrigada, Dra. Jordan. É uma honra falar sobre a Midi Health. Obrigada. Já voltamos."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
