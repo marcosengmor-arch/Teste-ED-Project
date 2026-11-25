@@ -1,0 +1,680 @@
+{
+ "titulo": "DIVINE HEAL APP — LEAD (0:00 a 3:40) — Transcrição EN + Tradução PT-BR + Prints",
+ "fonte": "Fonte: 'Divine Heal App 17/08' (Drive, 52:13 no total; extraído apenas 0:00 → 3:40 a pedido). Vídeo vertical 404x720. Transcrição: AssemblyAI (speaker labels). Tradução fiel: nomes, marcas e referências mantidos. Formato: entrevista falsa em estilo podcast com avatares de Raymond Arroyo (lower third 'Host, Arroyo Grande Podcast') e Mel Gibson (lower third 'Director, Flight Risk'), legendas em caixa alta amarela, cena de 'Nós Que Aqui Estamos' (Mel de capacete), b-roll de Mel em oficina e idoso à porta; aos 3:23 entra a cartela 'WARNING' e aos 3:40 o pastor com o pergaminho.",
+ "nota_prints": "Timing: cada mini-bloco traz o intervalo x → y em que a fala acontece no vídeo. Prints: frames dos momentos mais importantes (lower thirds, legendas-chave, b-roll, cartela de aviso), nomeados bNN_descricao_HH-MM-SS.jpg na pasta frames/.",
+ "correcoes_asr": "'Dr.' + 'Amir Shalev' unidos; travessões do ASR normalizados; 'censored Raymond' pontuado como vocativo. O trecho termina no início da fala do pastor (3:40), por isso o último bloco fecha com a cartela de aviso.",
+ "falantes": [
+  "RAYMOND ARROYO (apresentador, Arroyo Grande Podcast, avatar)",
+  "MEL GIBSON (avatar)",
+  "VOZ DO AVISO ('WARNING')"
+ ],
+ "frames_dir": "VSL-Pipeline-DIVINE/frames",
+ "img_width_in": 2.35,
+ "blocos": [
+  {
+   "n": 1,
+   "titulo": "PRÉ-LEAD: Raymond Arroyo, 'milagres de cura só na Bíblia?', Mel Gibson tem a prova viva (frequências esquecidas)",
+   "inicio": "0:00",
+   "fim": "0:30",
+   "mini": [
+    {
+     "inicio": "0:00",
+     "fim": "0:30",
+     "prints": [
+      {
+       "arquivo": "b01_raymond_arroyo_abertura_00-00-00.jpg",
+       "legenda": "Raymond Arroyo (avatar) em estúdio com fundo roxo: 'WHAT I'M ABOUT'",
+       "ts": "0:00"
+      },
+      {
+       "arquivo": "b01_lower_third_raymond_arroyo_00-00-02.jpg",
+       "legenda": "Lower third 'RAYMOND ARROYO — Host, Arroyo Grande Podcast': 'PEOPLE QUESTION EVERYTHING'",
+       "ts": "0:02"
+      },
+      {
+       "arquivo": "b01_legenda_told_us_about_00-00-04.jpg",
+       "legenda": "Raymond: 'MODERN MEDICINE... TOLD US ABOUT'",
+       "ts": "0:04"
+      },
+      {
+       "arquivo": "b01_legenda_health_and_faith_00-00-05.jpg",
+       "legenda": "Legenda 'HEALTH AND FAITH'",
+       "ts": "0:05"
+      },
+      {
+       "arquivo": "b01_legenda_happened_in_biblical_00-00-09.jpg",
+       "legenda": "Legenda 'HAPPENED IN BIBLICAL' (healing miracles only happened in biblical times)",
+       "ts": "0:09"
+      },
+      {
+       "arquivo": "b01_legenda_mel_gibson_says_00-00-12.jpg",
+       "legenda": "Legenda 'MEL GIBSON SAYS' sobre Raymond",
+       "ts": "0:12"
+      },
+      {
+       "arquivo": "b01_legenda_proof_that_divine_00-00-14.jpg",
+       "legenda": "Legenda 'PROOF THAT DIVINE... POWER STILL OPERATES'",
+       "ts": "0:14"
+      },
+      {
+       "arquivo": "b01_legenda_frequencies_00-00-17.jpg",
+       "legenda": "Legenda 'FREQUENCIES' (through forgotten frequencies)",
+       "ts": "0:17"
+      },
+      {
+       "arquivo": "b01_raymond_entrevista_mel_gibson_you_00-00-18.jpg",
+       "legenda": "Raymond Arroyo (avatar) na sala da entrevista: 'MEL GIBSON YOU'",
+       "ts": "0:18"
+      },
+      {
+       "arquivo": "b01_raymond_your_sense_of_00-00-21.jpg",
+       "legenda": "Raymond: 'WHEN YOU LOST YOUR SENSE OF'",
+       "ts": "0:21"
+      },
+      {
+       "arquivo": "b01_raymond_constant_pain_00-00-23.jpg",
+       "legenda": "Raymond: 'AND DEALT WITH CONSTANT PAIN'",
+       "ts": "0:23"
+      },
+      {
+       "arquivo": "b01_plano_geral_arroyo_grande_00-00-26.jpg",
+       "legenda": "Plano geral da sala com logo 'Arroyo Grande': 'SOUND FREQUENCIES'",
+       "ts": "0:26"
+      },
+      {
+       "arquivo": "b01_raymond_tell_us_what_00-00-29.jpg",
+       "legenda": "Raymond com papéis na mão: 'TELL US WHAT HAPPENED, RAYMOND'",
+       "ts": "0:29"
+      }
+     ],
+     "falas": [
+      {
+       "falante": "RAYMOND ARROYO (apresentador, Arroyo Grande Podcast, avatar)",
+       "en": "What I'm about to show will make many people question everything modern medicine and history have told us about health and faith. Because while most of us think healing miracles only happened in biblical times, Hollywood actor and director Mel Gibson says he has living proof that divine power still operates today through forgotten frequencies. Mel Gibson, you recently spoke about a moment when you lost your sense of strength and dealt with constant pain. But now you say that ancient verses and sound frequencies brought your vitality back. Tell us what happened.",
+       "pt": "O que eu estou prestes a mostrar vai fazer muita gente questionar tudo o que a medicina moderna e a história nos contaram sobre saúde e fé. Porque, enquanto a maioria de nós acha que os milagres de cura só aconteceram nos tempos bíblicos, o ator e diretor de Hollywood Mel Gibson diz que tem a prova viva de que o poder divino ainda opera hoje, por meio de frequências esquecidas. Mel Gibson, você falou recentemente sobre um momento em que perdeu a sua sensação de força e lidava com dor constante. Mas agora você diz que versículos antigos e frequências sonoras trouxeram a sua vitalidade de volta. Conta pra gente o que aconteceu."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "MEL GIBSON I: corpo quebrado, dores crônicas sem diagnóstico, o Pastor Samuel e o manuscrito hebraico",
+   "inicio": "0:31",
+   "fim": "0:59",
+   "mini": [
+    {
+     "inicio": "0:31",
+     "fim": "0:59",
+     "prints": [
+      {
+       "arquivo": "b02_lower_third_mel_gibson_flight_risk_00-00-31.jpg",
+       "legenda": "Mel Gibson (avatar) com lower third 'MEL GIBSON — Director, Flight Risk'",
+       "ts": "0:31"
+      },
+      {
+       "arquivo": "b02_cena_mel_capacete_cavalry_00-00-32.jpg",
+       "legenda": "Cena de filme: Mel Gibson de capacete, legenda 'In the 7th Cavalry' ('VERY BLESSED IN MY CAREER')",
+       "ts": "0:32"
+      },
+      {
+       "arquivo": "b02_mel_my_body_was_00-00-35.jpg",
+       "legenda": "Mel Gibson: 'BUT IT REACHED... MY BODY WAS' (broken)",
+       "ts": "0:35"
+      },
+      {
+       "arquivo": "b02_mel_i_was_exhausted_00-00-37.jpg",
+       "legenda": "Mel: 'I WAS EXHAUSTED, BODY, MIND AND SPIRIT'",
+       "ts": "0:37"
+      },
+      {
+       "arquivo": "b02_mel_no_doctor_could_00-00-41.jpg",
+       "legenda": "Mel: 'NO DOCTOR COULD SOLVE'",
+       "ts": "0:41"
+      },
+      {
+       "arquivo": "b02_mel_my_health_vanishing_00-00-45.jpg",
+       "legenda": "Mel: 'MY HEALTH VANISHING'",
+       "ts": "0:45"
+      },
+      {
+       "arquivo": "b02_mel_friend_pastor_samuel_00-00-47.jpg",
+       "legenda": "Mel apontando: 'THEN A CLOSE FRIEND PASTOR SAMUEL'",
+       "ts": "0:47"
+      },
+      {
+       "arquivo": "b02_mel_i_will_never_00-00-50.jpg",
+       "legenda": "Mel gesticulando: 'SENT ME SOMETHING I WILL NEVER' (forget)",
+       "ts": "0:50"
+      },
+      {
+       "arquivo": "b02_raymond_recently_translated_00-00-52.jpg",
+       "legenda": "Raymond ouvindo: 'RECENTLY TRANSLATED'",
+       "ts": "0:52"
+      },
+      {
+       "arquivo": "b02_mel_ancient_hebrew_manuscript_00-00-53.jpg",
+       "legenda": "Mel: 'ANCIENT HEBREW MANUSCRIPT'",
+       "ts": "0:53"
+      },
+      {
+       "arquivo": "b02_mel_plano_aberto_exact_verses_00-00-56.jpg",
+       "legenda": "Mel em plano aberto na sala: 'EXACT VERSES OUR PATRIARCHS USED'",
+       "ts": "0:56"
+      },
+      {
+       "arquivo": "b02_mel_strength_00-00-59.jpg",
+       "legenda": "Mel: 'STRENGTH' (to restore their strength)",
+       "ts": "0:59"
+      }
+     ],
+     "falas": [
+      {
+       "falante": "MEL GIBSON (avatar)",
+       "en": "I have been very blessed in my career, but it reached a point where my body was broken. I was exhausted, body, mind, and spirit. Chronic pains that no doctor could solve. It was not a specific disease, but I felt my health vanishing. Then a close friend, Pastor Samuel, sent me something I will never forget. Copies of a recently translated ancient Hebrew manuscript. He told me, these are the exact verses our patriarchs used to restore their strength.",
+       "pt": "Eu fui muito abençoado na minha carreira, mas chegou um ponto em que o meu corpo estava quebrado. Eu estava exausto, de corpo, mente e espírito. Dores crônicas que nenhum médico conseguia resolver. Não era uma doença específica, mas eu sentia a minha saúde desaparecendo. Então um amigo próximo, o Pastor Samuel, me mandou uma coisa que eu nunca vou esquecer. Cópias de um manuscrito hebraico antigo recém-traduzido. Ele me disse: estes são os versículos exatos que os nossos patriarcas usavam para restaurar as suas forças."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "MEL GIBSON II: Dr. Amir Shalev mapeia os versículos em frequências sonoras, a primeira manhã e a 'restauração celular'",
+   "inicio": "1:00",
+   "fim": "1:34",
+   "mini": [
+    {
+     "inicio": "1:00",
+     "fim": "1:34",
+     "prints": [
+      {
+       "arquivo": "b03_mel_by_these_ancient_languages_00-01-02.jpg",
+       "legenda": "Mel: 'I AM FASCINATED BY THESE ANCIENT LANGUAGES'",
+       "ts": "1:02"
+      },
+      {
+       "arquivo": "b03_mel_but_pastor_samuel_00-01-04.jpg",
+       "legenda": "Mel: 'BUT PASTOR SAMUEL'",
+       "ts": "1:04"
+      },
+      {
+       "arquivo": "b03_mel_sentado_amir_shalev_00-01-07.jpg",
+       "legenda": "Mel sentado, mão no queixo: 'HE AND DOCTOR AMIR SHALEV'",
+       "ts": "1:07"
+      },
+      {
+       "arquivo": "b03_mel_israeli_neuroscientist_00-01-09.jpg",
+       "legenda": "Mel: 'AN ISRAELI NEUROSCIENTIST'",
+       "ts": "1:09"
+      },
+      {
+       "arquivo": "b03_mel_mapped_the_vibrations_00-01-10.jpg",
+       "legenda": "Mel: 'MAPPED THE VIBRATIONS OF THESE VERSES'",
+       "ts": "1:10"
+      },
+      {
+       "arquivo": "b03_mel_frequencies_00-01-13.jpg",
+       "legenda": "Mel: 'INTO EXACT SOUND FREQUENCIES'",
+       "ts": "1:13"
+      },
+      {
+       "arquivo": "b03_mel_you_can_listen_00-01-17.jpg",
+       "legenda": "Mel: 'SO INSTEAD OF JUST READING YOU CAN LISTEN'",
+       "ts": "1:17"
+      },
+      {
+       "arquivo": "b03_mel_divine_sound_patterns_00-01-18.jpg",
+       "legenda": "Mel: 'DIVINE SOUND PATTERNS'",
+       "ts": "1:18"
+      },
+      {
+       "arquivo": "b03_mel_the_cells_is_00-01-21.jpg",
+       "legenda": "Mel: 'THE EFFECT ON THE CELLS IS' (immediate)",
+       "ts": "1:21"
+      },
+      {
+       "arquivo": "b03_broll_mel_oficina_for_the_first_00-01-23.jpg",
+       "legenda": "B-roll: Mel em oficina com homem de boina ('FOR THE FIRST')",
+       "ts": "1:23"
+      },
+      {
+       "arquivo": "b03_broll_mel_without_fear_00-01-25.jpg",
+       "legenda": "B-roll na oficina: 'WITHOUT FEAR, WITHOUT INFLAMMATION'",
+       "ts": "1:25"
+      },
+      {
+       "arquivo": "b03_broll_mel_exhaustion_00-01-27.jpg",
+       "legenda": "B-roll na oficina: 'EXHAUSTION'",
+       "ts": "1:27"
+      },
+      {
+       "arquivo": "b03_broll_mel_i_just_breathed_00-01-28.jpg",
+       "legenda": "B-roll: Mel respirando fundo, 'I JUST BREATHED'",
+       "ts": "1:28"
+      },
+      {
+       "arquivo": "b03_broll_mel_body_obey_me_00-01-31.jpg",
+       "legenda": "B-roll: Mel de mão no peito, 'BODY OBEY ME'",
+       "ts": "1:31"
+      },
+      {
+       "arquivo": "b03_mel_it_was_cellular_00-01-33.jpg",
+       "legenda": "Mel: 'IT WAS CELLULAR RESTORATION'",
+       "ts": "1:33"
+      }
+     ],
+     "falas": [
+      {
+       "falante": "MEL GIBSON (avatar)",
+       "en": "As you know, I am fascinated by these ancient languages. But Pastor Samuel went further. He and Dr. Amir Shalev, an Israeli neuroscientist, mapped the vibrations of these verses into exact sound frequencies. So, instead of just reading, you can listen to the same divine sound patterns. The effect on the cells is immediate. I remember that first morning. For the first time in years, I woke up without fear, without inflammation, without that heavy exhaustion. I just breathed. I stood up and felt my body obey me and rejuvenate. It was not just relief; it was cellular restoration.",
+       "pt": "Como você sabe, eu sou fascinado por essas línguas antigas. Mas o Pastor Samuel foi além. Ele e o Dr. Amir Shalev, um neurocientista israelense, mapearam as vibrações desses versículos em frequências sonoras exatas. Então, em vez de só ler, você pode ouvir os mesmos padrões sonoros divinos. O efeito nas células é imediato. Eu me lembro daquela primeira manhã. Pela primeira vez em anos, eu acordei sem medo, sem inflamação, sem aquela exaustão pesada. Eu simplesmente respirei. Eu me levantei e senti o meu corpo me obedecer e rejuvenescer. Não foi só alívio; foi restauração celular."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "titulo": "MEL GIBSON III: 'você parece 10 anos mais jovem', o familiar (glicose, pressão, memória em 7 dias) e a equipe do filme",
+   "inicio": "1:35",
+   "fim": "2:33",
+   "mini": [
+    {
+     "inicio": "1:35",
+     "fim": "2:05",
+     "prints": [
+      {
+       "arquivo": "b04_mel_a_still_small_voice_00-01-35.jpg",
+       "legenda": "Mel de braços cruzados: 'A STILL SMALL VOICE INSIDE SAID'",
+       "ts": "1:35"
+      },
+      {
+       "arquivo": "b04_mel_finished_yet_people_00-01-38.jpg",
+       "legenda": "Mel: 'YOU ARE NOT FINISHED YET. PEOPLE AROUND ME NOTICED'",
+       "ts": "1:38"
+      },
+      {
+       "arquivo": "b04_mel_you_look_10_years_younger_00-01-42.jpg",
+       "legenda": "Mel: 'THEY SAID MEL YOU LOOK 10 YEARS YOUNGER'",
+       "ts": "1:42"
+      },
+      {
+       "arquivo": "b04_mel_was_not_medicine_00-01-45.jpg",
+       "legenda": "Mel: 'I KNEW IT WAS NOT MEDICINE'",
+       "ts": "1:45"
+      },
+      {
+       "arquivo": "b04_mel_it_was_divine_00-01-46.jpg",
+       "legenda": "Mel: 'IT WAS DIVINE'",
+       "ts": "1:46"
+      },
+      {
+       "arquivo": "b04_mel_powerful_part_was_00-01-48.jpg",
+       "legenda": "Mel: 'BUT THE MOST POWERFUL PART WAS WHAT HAPPENED NEXT'",
+       "ts": "1:48"
+      },
+      {
+       "arquivo": "b04_mel_same_frequencies_with_00-01-52.jpg",
+       "legenda": "Mel: 'I SHARED THESE SAME FREQUENCIES WITH A FAMILY MEMBER'",
+       "ts": "1:52"
+      },
+      {
+       "arquivo": "b04_broll_idoso_porta_struggling_00-01-54.jpg",
+       "legenda": "B-roll: idoso de camisa verde à porta, mão no peito ('STRUGGLING WITH HIGH')",
+       "ts": "1:54"
+      },
+      {
+       "arquivo": "b04_broll_idoso_blood_sugar_00-01-55.jpg",
+       "legenda": "B-roll: idoso à porta, 'BLOOD SUGAR'",
+       "ts": "1:55"
+      },
+      {
+       "arquivo": "b04_broll_idoso_unstable_blood_pressure_00-01-56.jpg",
+       "legenda": "B-roll: idoso à porta, 'UNSTABLE BLOOD PRESSURE'",
+       "ts": "1:56"
+      },
+      {
+       "arquivo": "b04_broll_idoso_and_his_memory_00-01-57.jpg",
+       "legenda": "B-roll: idoso à porta, 'AND HIS MEMORY' (starting to fail)",
+       "ts": "1:57"
+      },
+      {
+       "arquivo": "b04_mel_seven_days_after_00-01-59.jpg",
+       "legenda": "Mel: 'SEVEN DAYS AFTER HE STARTED LISTENING'",
+       "ts": "1:59"
+      },
+      {
+       "arquivo": "b04_mel_the_numbers_normalized_00-02-02.jpg",
+       "legenda": "Mel: 'THE NUMBERS NORMALIZED'",
+       "ts": "2:02"
+      },
+      {
+       "arquivo": "b04_mel_the_doctor_could_not_explain_00-02-04.jpg",
+       "legenda": "Mel: 'THE DOCTOR COULD NOT EXPLAIN IT'",
+       "ts": "2:04"
+      }
+     ],
+     "falas": [
+      {
+       "falante": "MEL GIBSON (avatar)",
+       "en": "A still, small voice inside said, you are not finished yet. People around me noticed. They said, Mel, you look 10 years younger. I just smiled. I knew it was not medicine; it was divine. But the most powerful part was what happened next. I shared these same frequencies with a family member. He had been struggling with high blood sugar, unstable blood pressure, and his memory was starting to fail. 7 days after he started listening to the frequency, the numbers normalized. The doctor could not explain it. The mind became sharp.",
+       "pt": "Uma voz mansa e suave lá dentro disse: você ainda não acabou. As pessoas ao meu redor notaram. Elas disseram: Mel, você parece 10 anos mais jovem. Eu só sorri. Eu sabia que não era remédio; era divino. Mas a parte mais poderosa foi o que aconteceu depois. Eu compartilhei essas mesmas frequências com um familiar. Ele vinha lutando com glicose alta, pressão instável, e a memória dele estava começando a falhar. 7 dias depois que ele começou a ouvir a frequência, os números normalizaram. O médico não conseguiu explicar. A mente ficou afiada."
+      }
+     ]
+    },
+    {
+     "inicio": "2:06",
+     "fim": "2:33",
+     "prints": [
+      {
+       "arquivo": "b04_mel_sharp_the_energy_returned_00-02-06.jpg",
+       "legenda": "Mel: 'THE MIND BECAME SHARP, THE ENERGY RETURNED'",
+       "ts": "2:06"
+      },
+      {
+       "arquivo": "b04_mel_afterward_i_shared_00-02-08.jpg",
+       "legenda": "Mel gesticulando: 'AFTERWARD I SHARED... PEOPLE ON MY FILM CREW'",
+       "ts": "2:08"
+      },
+      {
+       "arquivo": "b04_mel_living_with_chronic_pain_00-02-12.jpg",
+       "legenda": "Mel: 'SOME HAD BEEN LIVING WITH CHRONIC PAIN FOR YEARS'",
+       "ts": "2:12"
+      },
+      {
+       "arquivo": "b04_mel_knee_problems_back_00-02-14.jpg",
+       "legenda": "Mel: 'KNEE PROBLEMS, BACK PROBLEMS'",
+       "ts": "2:14"
+      },
+      {
+       "arquivo": "b04_mel_plano_aberto_migraines_00-02-17.jpg",
+       "legenda": "Mel em plano aberto: 'MIGRAINES AFTER JUST A FEW DAYS'",
+       "ts": "2:17"
+      },
+      {
+       "arquivo": "b04_mel_tones_00-02-20.jpg",
+       "legenda": "Mel: 'OF LISTENING TO THE SAME PRAYER TONES'",
+       "ts": "2:20"
+      },
+      {
+       "arquivo": "b04_mel_plano_aberto_their_pain_simply_00-02-22.jpg",
+       "legenda": "Mel em plano aberto: 'THEIR PAIN SIMPLY' (vanished)",
+       "ts": "2:22"
+      },
+      {
+       "arquivo": "b04_mel_crew_members_told_00-02-24.jpg",
+       "legenda": "Mel: 'ONE OF THE CREW MEMBERS TOLD ME'",
+       "ts": "2:24"
+      },
+      {
+       "arquivo": "b04_mel_a_decade_00-02-26.jpg",
+       "legenda": "Mel: 'FIRST TIME IN A DECADE'",
+       "ts": "2:26"
+      },
+      {
+       "arquivo": "b04_mel_sleep_through_the_entire_night_00-02-28.jpg",
+       "legenda": "Mel: 'SLEEP THROUGH THE ENTIRE NIGHT'",
+       "ts": "2:28"
+      },
+      {
+       "arquivo": "b04_mel_was_not_a_coincidence_00-02-30.jpg",
+       "legenda": "Mel: 'THAT WAS WHEN I REALIZED IT WAS NOT A COINCIDENCE'",
+       "ts": "2:30"
+      },
+      {
+       "arquivo": "b04_mel_divine_design_rediscovered_00-02-32.jpg",
+       "legenda": "Mel: 'IT IS THE DIVINE DESIGN REDISCOVERED'",
+       "ts": "2:32"
+      }
+     ],
+     "falas": [
+      {
+       "falante": "MEL GIBSON (avatar)",
+       "en": "The energy returned. Afterward, I shared it with some people on my film crew. Some had been living with chronic pain for years: knee problems, back problems, migraines. After just a few days of listening to the same prayer tones, their pain simply vanished. One of the crew members told me it was the first time in a decade he managed to sleep through the entire night. That was when I realized it was not a coincidence. It is the divine design rediscovered.",
+       "pt": "A energia voltou. Depois, eu compartilhei com algumas pessoas da minha equipe de filmagem. Alguns viviam com dor crônica há anos: problemas no joelho, problemas nas costas, enxaquecas. Depois de só alguns dias ouvindo os mesmos tons de oração, a dor deles simplesmente sumiu. Um dos membros da equipe me disse que foi a primeira vez em uma década que ele conseguiu dormir a noite inteira. Foi aí que eu percebi que não era coincidência. É o desígnio divino redescoberto."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "titulo": "A OBJEÇÃO ('por que a igreja nunca ouviu falar?'): censura, 2 imperadores romanos no século 4, a caverna em Jerusalém em 1938",
+   "inicio": "2:34",
+   "fim": "2:57",
+   "mini": [
+    {
+     "inicio": "2:34",
+     "fim": "2:57",
+     "prints": [
+      {
+       "arquivo": "b05_raymond_that_is_impressive_00-02-34.jpg",
+       "legenda": "Raymond: 'THAT IS IMPRESSIVE, MEL'",
+       "ts": "2:34"
+      },
+      {
+       "arquivo": "b05_raymond_healing_frequency_is_00-02-36.jpg",
+       "legenda": "Raymond: 'BUT IF THIS HEALING FREQUENCY IS' (real and so powerful)",
+       "ts": "2:36"
+      },
+      {
+       "arquivo": "b05_raymond_why_has_the_public_00-02-38.jpg",
+       "legenda": "Raymond: 'WHY HAS THE CHURCH OR THE PUBLIC'",
+       "ts": "2:38"
+      },
+      {
+       "arquivo": "b05_plano_geral_never_heard_of_00-02-40.jpg",
+       "legenda": "Plano geral da sala: 'NEVER HEARD OF' (it before)",
+       "ts": "2:40"
+      },
+      {
+       "arquivo": "b05_mel_censored_raymond_00-02-42.jpg",
+       "legenda": "Mel: 'BECAUSE IT WAS CENSORED, RAYMOND'",
+       "ts": "2:42"
+      },
+      {
+       "arquivo": "b05_mel_these_verses_were_00-02-43.jpg",
+       "legenda": "Mel: 'THESE VERSES WERE' (removed from the Bible)",
+       "ts": "2:43"
+      },
+      {
+       "arquivo": "b05_mel_century_two_roman_emperors_00-02-45.jpg",
+       "legenda": "Mel: '4TH CENTURY... OF TWO ROMAN EMPERORS'",
+       "ts": "2:45"
+      },
+      {
+       "arquivo": "b05_mel_not_want_ordinary_00-02-49.jpg",
+       "legenda": "Mel: 'MEN WHO DID NOT WANT ORDINARY' (people to have direct access)",
+       "ts": "2:49"
+      },
+      {
+       "arquivo": "b05_mel_but_workers_discovered_00-02-52.jpg",
+       "legenda": "Mel: 'BUT WORKERS DISCOVERED THESE TEXTS IN'",
+       "ts": "2:52"
+      },
+      {
+       "arquivo": "b05_mel_1938_00-02-54.jpg",
+       "legenda": "Mel: '1938'",
+       "ts": "2:54"
+      },
+      {
+       "arquivo": "b05_mel_hidden_inside_a_cave_jerusalem_00-02-55.jpg",
+       "legenda": "Mel: 'HIDDEN INSIDE A CAVE IN JERUSALEM'",
+       "ts": "2:55"
+      }
+     ],
+     "falas": [
+      {
+       "falante": "RAYMOND ARROYO (apresentador, Arroyo Grande Podcast, avatar)",
+       "en": "That is impressive, Mel. But if this healing frequency is real and so powerful, why has the church or the public never heard of it before?",
+       "pt": "Isso é impressionante, Mel. Mas, se essa frequência de cura é real e tão poderosa, por que a igreja ou o público nunca ouviram falar dela antes?"
+      },
+      {
+       "falante": "MEL GIBSON (avatar)",
+       "en": "Because it was censored, Raymond. These verses were removed from the Bible in the 4th century by the order of 2 Roman emperors, men who did not want ordinary people to have direct access to God's healing. But workers discovered these texts in 1938, hidden inside a cave in Jerusalem.",
+       "pt": "Porque ela foi censurada, Raymond. Esses versículos foram removidos da Bíblia no século 4 por ordem de 2 imperadores romanos, homens que não queriam que as pessoas comuns tivessem acesso direto à cura de Deus. Mas trabalhadores descobriram esses textos em 1938, escondidos dentro de uma caverna em Jerusalém."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "titulo": "GANCHO PARA O PASTOR: 'frequências divinas', o monopólio da indústria farmacêutica, Matusalém e Noé",
+   "inicio": "2:57",
+   "fim": "3:22",
+   "mini": [
+    {
+     "inicio": "2:57",
+     "fim": "3:22",
+     "prints": [
+      {
+       "arquivo": "b06_mel_pastor_samuel_calls_00-02-58.jpg",
+       "legenda": "Mel: 'PASTOR SAMUEL CALLS THEM DIVINE FREQUENCIES'",
+       "ts": "2:58"
+      },
+      {
+       "arquivo": "b06_plano_geral_divine_frequencies_00-02-59.jpg",
+       "legenda": "Plano geral: 'THEM DIVINE FREQUENCIES'",
+       "ts": "2:59"
+      },
+      {
+       "arquivo": "b06_mel_will_destroy_the_00-03-02.jpg",
+       "legenda": "Mel: 'AND WHAT HE DISCOVERED WILL DESTROY THE'",
+       "ts": "3:02"
+      },
+      {
+       "arquivo": "b06_mel_pharmaceutical_industrys_monopoly_00-03-03.jpg",
+       "legenda": "Mel: 'PHARMACEUTICAL INDUSTRY'S MONOPOLY'",
+       "ts": "3:03"
+      },
+      {
+       "arquivo": "b06_plano_geral_over_our_health_00-03-05.jpg",
+       "legenda": "Plano geral: 'OVER OUR HEALTH'",
+       "ts": "3:05"
+      },
+      {
+       "arquivo": "b06_mel_watching_this_now_00-03-07.jpg",
+       "legenda": "Mel: 'IF YOU ARE WATCHING THIS NOW'",
+       "ts": "3:07"
+      },
+      {
+       "arquivo": "b06_mel_your_joy_or_healing_00-03-09.jpg",
+       "legenda": "Mel: 'YOUR ENERGY, YOUR JOY OR... FAITH IN HEALING'",
+       "ts": "3:09"
+      },
+      {
+       "arquivo": "b06_mel_do_not_go_anywhere_00-03-11.jpg",
+       "legenda": "Mel: 'DO NOT GO ANYWHERE'",
+       "ts": "3:11"
+      },
+      {
+       "arquivo": "b06_mel_pastor_is_about_to_reveal_00-03-13.jpg",
+       "legenda": "Mel: 'BECAUSE WHAT THIS PASTOR IS ABOUT TO REVEAL'",
+       "ts": "3:13"
+      },
+      {
+       "arquivo": "b06_mel_explains_how_biblical_00-03-15.jpg",
+       "legenda": "Mel: 'EXPLAINS HOW BIBLICAL FIGURES'",
+       "ts": "3:15"
+      },
+      {
+       "arquivo": "b06_mel_like_methuselah_and_00-03-17.jpg",
+       "legenda": "Mel: 'LIKE METHUSELAH AND' (Noah)",
+       "ts": "3:17"
+      },
+      {
+       "arquivo": "b06_mel_lived_for_centuries_00-03-19.jpg",
+       "legenda": "Mel de braços cruzados: 'LIVED FOR CENTURIES IN PERFECT HEALTH'",
+       "ts": "3:19"
+      },
+      {
+       "arquivo": "b06_mel_lets_hear_it_00-03-21.jpg",
+       "legenda": "Mel: 'LET'S HEAR IT' (straight from the source)",
+       "ts": "3:21"
+      }
+     ],
+     "falas": [
+      {
+       "falante": "MEL GIBSON (avatar)",
+       "en": "Pastor Samuel calls them divine frequencies. And what he discovered will destroy the pharmaceutical industry's monopoly over our health. If you are watching this now and have lost your energy, your joy, or your faith in healing, do not go anywhere. Because what this pastor is about to reveal explains how biblical figures like Methuselah and Noah lived for centuries in perfect health. Let's hear it straight from the source.",
+       "pt": "O Pastor Samuel chama isso de frequências divinas. E o que ele descobriu vai destruir o monopólio da indústria farmacêutica sobre a nossa saúde. Se você está assistindo a isso agora e perdeu a sua energia, a sua alegria ou a sua fé na cura, não saia daí. Porque o que esse pastor está prestes a revelar explica como figuras bíblicas como Matusalém e Noé viveram por séculos em perfeita saúde. Vamos ouvir direto da fonte."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "titulo": "AVISO 'WARNING': removido do YouTube, 'você foi escolhido', 'não sei quanto tempo esta página fica no ar' e a entrada do pastor",
+   "inicio": "3:23",
+   "fim": "3:39",
+   "mini": [
+    {
+     "inicio": "3:23",
+     "fim": "3:39",
+     "prints": [
+      {
+       "arquivo": "b07_warning_cartela_00-03-23.jpg",
+       "legenda": "Cartela 'WARNING' com triângulo de alerta",
+       "ts": "3:23"
+      },
+      {
+       "arquivo": "b07_warning_removed_from_youtube_00-03-25.jpg",
+       "legenda": "Cartela 'WARNING': 'this presentation has been removed from YouTube'",
+       "ts": "3:25"
+      },
+      {
+       "arquivo": "b07_warning_multiple_times_authorities_00-03-27.jpg",
+       "legenda": "Cartela 'WARNING': 'multiple times by authorities'",
+       "ts": "3:27"
+      },
+      {
+       "arquivo": "b07_warning_pharmaceutical_companies_00-03-29.jpg",
+       "legenda": "Cartela 'WARNING': 'and pharmaceutical companies'",
+       "ts": "3:29"
+      },
+      {
+       "arquivo": "b07_warning_who_profit_from_you_00-03-30.jpg",
+       "legenda": "Cartela 'WARNING': 'who profit from your pain'",
+       "ts": "3:30"
+      },
+      {
+       "arquivo": "b07_warning_if_youre_watching_00-03-32.jpg",
+       "legenda": "Cartela 'WARNING': 'if you're watching this right now'",
+       "ts": "3:32"
+      },
+      {
+       "arquivo": "b07_warning_you_have_been_chosen_00-03-34.jpg",
+       "legenda": "Cartela 'WARNING': 'it's not by chance, you have been chosen'",
+       "ts": "3:34"
+      },
+      {
+       "arquivo": "b07_warning_pay_very_close_attention_00-03-36.jpg",
+       "legenda": "Cartela 'WARNING': 'so pay very close attention'",
+       "ts": "3:36"
+      },
+      {
+       "arquivo": "b07_warning_how_long_page_online_00-03-39.jpg",
+       "legenda": "Cartela 'WARNING': 'I don't know how long this page will stay online...'",
+       "ts": "3:39"
+      },
+      {
+       "arquivo": "b07_pastor_pergaminho_1938_00-03-39.jpg",
+       "legenda": "Pastor (óculos, camisa listrada) lendo o pergaminho: 'in 1938 workers discovered this in a cave in Jerusalem'",
+       "ts": "3:39"
+      }
+     ],
+     "falas": [
+      {
+       "falante": "VOZ DO AVISO ('WARNING')",
+       "en": "Warning, this presentation has been removed from YouTube multiple times by authorities and pharmaceutical companies who profit from your pain. If you're watching this right now, it's not by chance. You have been chosen. So pay very close attention because I don't know how long this page will stay online.",
+       "pt": "Aviso: esta apresentação foi removida do YouTube várias vezes por autoridades e empresas farmacêuticas que lucram com a sua dor. Se você está assistindo a isso agora, não é por acaso. Você foi escolhido. Então preste muita atenção, porque eu não sei por quanto tempo esta página vai ficar no ar."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
