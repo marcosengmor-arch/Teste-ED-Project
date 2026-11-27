@@ -1,0 +1,27 @@
+   0 [0:00] A Financial literacy is one of the most important aspects of long-term prosperity.
+   1 [0:03] A Understanding compound interest, asset allocation, and risk management forms the foundation of sound financial planning.
+   2 [0:07] A Creating a budget and tracking expenses helps identify opportunities for savings and investment.
+   3 [0:11] A Diversifying your portfolio across different assets ensures a well-balanced portfolio.
+   4 [0:14] A Consulting with a qualified financial advisor can provide personalized guidance based on your specific goals and circumstances.
+   5 [0:19] A Building an emergency fund provides a safety net for unexpected situations.
+   6 [0:22] A Starting early and being consistent with contributions maximizes the power of compound growth over decades.
+   7 [0:26] A Financial literacy is one of the most important steps to long-term prosperity.
+   8 [0:29] A Understanding compound interest, asset allocation, and Risk management forms the foundation of sound financial planning.
+   9 [0:34] A Creating a budget and tracking expenses helps simplify opportunities for savings and investment.
+  10 [0:38] A Diversifying your portfolio across different asset classes reduces overall risk.
+  11 [0:41] A Consulting with a qualified financial advisor can provide personalized guidance based on your specific goals and circumstances.
+  12 [0:46] A Building an emergency fund provides a safety net for unexpected situations.
+  13 [0:49] A Starting early and being consistent with contributions maximizes the power of compound growth over decades.
+  14 [0:53] A Financial literacy is one of the most important factors in long-term prosperity.
+  15 [0:56] A Understanding compound interest concepts and risk management forms the foundation of sound financial planning.
+  16 [1:01] A Budgeting and tracking expenses helps simplify opportunities for savings and investment.
+  17 [1:04] A investing.
+  18 [1:04] A Diversifying your portfolio across different asset classes.
+  19 [1:08] A Consulting with a qualified financial advisor can provide personalized guidance based on your specific goals and needs.
+  20 [1:12] A Building an emergency fund provides a safety net for unexpected situations.
+  21 [1:16] A Starting early and being consistent with contributions maximizes the power of compound interest over time.
+  22 [1:20] A Financial literacy is one of the most important tools for long-term prosperity.
+  23 [1:23] A Capital allocation and risk management form the foundation of sound financial planning.
+  24 [1:27] A Creating a budget and tracking expenses helps prevent unwanted payments to savings and investments.
+  25 [1:31] A Diversifying your portfolio across different asset classes reduces overall risk.
+  26 [1:33] A Consulting with a qualified

@@ -1,0 +1,4387 @@
+{
+  "id": "62978911-eeca-4fa8-86f0-fe127c3ac638",
+  "language_model": "assemblyai_default",
+  "acoustic_model": "assemblyai_default",
+  "language_code": "en_us",
+  "speech_understanding": null,
+  "translated_texts": null,
+  "status": "completed",
+  "audio_url": "https://drive.usercontent.google.com/download?id=1SoF0c-x-FD0R1Ixj8PqUwZDNKYap8SLb&export=download&confirm=t",
+  "text": "This 30-second nightly pineal activation may start undoing decades of energetic blocks, barriers designed to keep you blind to your full potential. You see, the pineal gland, your third eye, was never meant to be dormant. It's your spiritual antenna, your inner compass, your link to higher consciousness. But for most people, it's been chemically shut down. Fluoride, heavy metals, EMF radiation— these calcify the pineal gland like concrete, preventing it from vibrating, transmitting, and receiving energy from higher dimensions. That's not a side effect. That's the plan. Why else would the Eye of Horus, the Ajna Chakra, and even the Vatican's giant pine cone all point to this tiny gland hidden deep inside your brain? When reawakened, ancient microcrystals inside begin to resonate, producing electromagnetic energy that shifts your brain into gamma wave states, the same frequency linked to superconsciousness, psychic intuition, and quantum-level manifestation. Some call it the Kundalini surge. Others feel a pulse of electricity behind their forehead or experience visions more real than dreams. This isn't New Age fluff. It's ancient technology buried on purpose because a fully activated human being can't be controlled. That's why I created a short presentation revealing the truth. Not watered down, not censored. Step by step, it shows how to decalcify your pineal gland, reawaken your third eye, and access the universal energy field that elites have used for decades, while keeping the rest of us blind. But I don't know how long it'll be available. The deeper you go, the more you'll realize. This knowledge was never meant to reach the masses. If you're ready to wake up, really wake up, tap Watch Now before it disappears. This is your invitation to break free from the fog, reconnect to your true purpose, and unlock the part of your mind they've worked so hard to silence.",
+  "words": [
+    {
+      "text": "This",
+      "start": 292,
+      "end": 433,
+      "confidence": 0.997159,
+      "speaker": "A"
+    },
+    {
+      "text": "30-second",
+      "start": 433,
+      "end": 1123,
+      "confidence": 0.99980694,
+      "speaker": "A"
+    },
+    {
+      "text": "nightly",
+      "start": 1155,
+      "end": 1444,
+      "confidence": 0.99160856,
+      "speaker": "A"
+    },
+    {
+      "text": "pineal",
+      "start": 1476,
+      "end": 1941,
+      "confidence": 0.9951425,
+      "speaker": "A"
+    },
+    {
+      "text": "activation",
+      "start": 1941,
+      "end": 2487,
+      "confidence": 0.99999774,
+      "speaker": "A"
+    },
+    {
+      "text": "may",
+      "start": 2759,
+      "end": 2856,
+      "confidence": 0.9277808,
+      "speaker": "A"
+    },
+    {
+      "text": "start",
+      "start": 2856,
+      "end": 3225,
+      "confidence": 0.99929,
+      "speaker": "A"
+    },
+    {
+      "text": "undoing",
+      "start": 3225,
+      "end": 3530,
+      "confidence": 0.9999567,
+      "speaker": "A"
+    },
+    {
+      "text": "decades",
+      "start": 3642,
+      "end": 4123,
+      "confidence": 0.9987716,
+      "speaker": "A"
+    },
+    {
+      "text": "of",
+      "start": 4123,
+      "end": 4204,
+      "confidence": 0.9987754,
+      "speaker": "A"
+    },
+    {
+      "text": "energetic",
+      "start": 4204,
+      "end": 4669,
+      "confidence": 0.99973947,
+      "speaker": "A"
+    },
+    {
+      "text": "blocks,",
+      "start": 4685,
+      "end": 5086,
+      "confidence": 0.9718758,
+      "speaker": "A"
+    },
+    {
+      "text": "barriers",
+      "start": 5648,
+      "end": 6097,
+      "confidence": 0.9995134,
+      "speaker": "A"
+    },
+    {
+      "text": "designed",
+      "start": 6129,
+      "end": 6514,
+      "confidence": 0.9999,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 6514,
+      "end": 6594,
+      "confidence": 0.99960893,
+      "speaker": "A"
+    },
+    {
+      "text": "keep",
+      "start": 6594,
+      "end": 6771,
+      "confidence": 0.99975175,
+      "speaker": "A"
+    },
+    {
+      "text": "you",
+      "start": 6771,
+      "end": 6899,
+      "confidence": 0.9999175,
+      "speaker": "A"
+    },
+    {
+      "text": "blind",
+      "start": 6915,
+      "end": 7172,
+      "confidence": 0.99994385,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 7172,
+      "end": 7316,
+      "confidence": 0.9997937,
+      "speaker": "A"
+    },
+    {
+      "text": "your",
+      "start": 7316,
+      "end": 7381,
+      "confidence": 0.99991214,
+      "speaker": "A"
+    },
+    {
+      "text": "full",
+      "start": 7413,
+      "end": 7605,
+      "confidence": 0.99978834,
+      "speaker": "A"
+    },
+    {
+      "text": "potential.",
+      "start": 7653,
+      "end": 8071,
+      "confidence": 0.99993896,
+      "speaker": "A"
+    },
+    {
+      "text": "You",
+      "start": 8391,
+      "end": 8456,
+      "confidence": 0.8224071,
+      "speaker": "A"
+    },
+    {
+      "text": "see,",
+      "start": 8456,
+      "end": 8793,
+      "confidence": 0.9999472,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 8937,
+      "end": 9081,
+      "confidence": 0.9979741,
+      "speaker": "A"
+    },
+    {
+      "text": "pineal",
+      "start": 9081,
+      "end": 9402,
+      "confidence": 0.99853325,
+      "speaker": "A"
+    },
+    {
+      "text": "gland,",
+      "start": 9418,
+      "end": 9916,
+      "confidence": 0.999163,
+      "speaker": "A"
+    },
+    {
+      "text": "your",
+      "start": 10140,
+      "end": 10237,
+      "confidence": 0.9960334,
+      "speaker": "A"
+    },
+    {
+      "text": "third",
+      "start": 10237,
+      "end": 10606,
+      "confidence": 0.91736966,
+      "speaker": "A"
+    },
+    {
+      "text": "eye,",
+      "start": 10606,
+      "end": 10654,
+      "confidence": 0.9999588,
+      "speaker": "A"
+    },
+    {
+      "text": "was",
+      "start": 11264,
+      "end": 11360,
+      "confidence": 0.9982003,
+      "speaker": "A"
+    },
+    {
+      "text": "never",
+      "start": 11424,
+      "end": 11649,
+      "confidence": 0.99997115,
+      "speaker": "A"
+    },
+    {
+      "text": "meant",
+      "start": 11649,
+      "end": 11825,
+      "confidence": 0.9998128,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 11825,
+      "end": 11922,
+      "confidence": 0.9998136,
+      "speaker": "A"
+    },
+    {
+      "text": "be",
+      "start": 11922,
+      "end": 12050,
+      "confidence": 0.9999536,
+      "speaker": "A"
+    },
+    {
+      "text": "dormant.",
+      "start": 12066,
+      "end": 12387,
+      "confidence": 0.9998754,
+      "speaker": "A"
+    },
+    {
+      "text": "It's",
+      "start": 12868,
+      "end": 12948,
+      "confidence": 0.9780729,
+      "speaker": "A"
+    },
+    {
+      "text": "your",
+      "start": 12948,
+      "end": 13061,
+      "confidence": 0.9999552,
+      "speaker": "A"
+    },
+    {
+      "text": "spiritual",
+      "start": 13093,
+      "end": 13751,
+      "confidence": 0.999984,
+      "speaker": "A"
+    },
+    {
+      "text": "antenna,",
+      "start": 13751,
+      "end": 14232,
+      "confidence": 0.99993134,
+      "speaker": "A"
+    },
+    {
+      "text": "your",
+      "start": 14409,
+      "end": 14521,
+      "confidence": 0.9982174,
+      "speaker": "A"
+    },
+    {
+      "text": "inner",
+      "start": 14697,
+      "end": 14874,
+      "confidence": 0.99999,
+      "speaker": "A"
+    },
+    {
+      "text": "compass,",
+      "start": 14874,
+      "end": 15355,
+      "confidence": 0.9999432,
+      "speaker": "A"
+    },
+    {
+      "text": "your",
+      "start": 15740,
+      "end": 15805,
+      "confidence": 0.9995284,
+      "speaker": "A"
+    },
+    {
+      "text": "link",
+      "start": 15917,
+      "end": 16222,
+      "confidence": 0.9999603,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 16222,
+      "end": 16318,
+      "confidence": 0.9999317,
+      "speaker": "A"
+    },
+    {
+      "text": "higher",
+      "start": 16382,
+      "end": 16703,
+      "confidence": 0.9997881,
+      "speaker": "A"
+    },
+    {
+      "text": "consciousness.",
+      "start": 16703,
+      "end": 17249,
+      "confidence": 0.99982095,
+      "speaker": "A"
+    },
+    {
+      "text": "But",
+      "start": 18003,
+      "end": 18147,
+      "confidence": 0.98377496,
+      "speaker": "A"
+    },
+    {
+      "text": "for",
+      "start": 18147,
+      "end": 18195,
+      "confidence": 0.9981098,
+      "speaker": "A"
+    },
+    {
+      "text": "most",
+      "start": 18195,
+      "end": 18500,
+      "confidence": 0.9999701,
+      "speaker": "A"
+    },
+    {
+      "text": "people,",
+      "start": 18548,
+      "end": 18821,
+      "confidence": 0.999949,
+      "speaker": "A"
+    },
+    {
+      "text": "it's",
+      "start": 19222,
+      "end": 19367,
+      "confidence": 0.9993477,
+      "speaker": "A"
+    },
+    {
+      "text": "been",
+      "start": 19367,
+      "end": 19479,
+      "confidence": 0.99990666,
+      "speaker": "A"
+    },
+    {
+      "text": "chemically",
+      "start": 19591,
+      "end": 20009,
+      "confidence": 0.9999497,
+      "speaker": "A"
+    },
+    {
+      "text": "shut",
+      "start": 20009,
+      "end": 20313,
+      "confidence": 0.9999465,
+      "speaker": "A"
+    },
+    {
+      "text": "down.",
+      "start": 20313,
+      "end": 20538,
+      "confidence": 0.99956924,
+      "speaker": "A"
+    },
+    {
+      "text": "Fluoride,",
+      "start": 21276,
+      "end": 21774,
+      "confidence": 0.9796392,
+      "speaker": "A"
+    },
+    {
+      "text": "heavy",
+      "start": 21918,
+      "end": 22159,
+      "confidence": 0.99932504,
+      "speaker": "A"
+    },
+    {
+      "text": "metals,",
+      "start": 22159,
+      "end": 22464,
+      "confidence": 0.99993455,
+      "speaker": "A"
+    },
+    {
+      "text": "EMF",
+      "start": 22897,
+      "end": 23202,
+      "confidence": 0.9994149,
+      "speaker": "A"
+    },
+    {
+      "text": "radiation—",
+      "start": 23202,
+      "end": 23731,
+      "confidence": 0.9357338,
+      "speaker": "A"
+    },
+    {
+      "text": "these",
+      "start": 24325,
+      "end": 24469,
+      "confidence": 0.9043869,
+      "speaker": "A"
+    },
+    {
+      "text": "calcify",
+      "start": 24582,
+      "end": 25079,
+      "confidence": 0.9999812,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 25143,
+      "end": 25288,
+      "confidence": 0.9994425,
+      "speaker": "A"
+    },
+    {
+      "text": "pineal",
+      "start": 25288,
+      "end": 25593,
+      "confidence": 0.9999944,
+      "speaker": "A"
+    },
+    {
+      "text": "gland",
+      "start": 25689,
+      "end": 25962,
+      "confidence": 0.99999416,
+      "speaker": "A"
+    },
+    {
+      "text": "like",
+      "start": 26010,
+      "end": 26170,
+      "confidence": 0.9995389,
+      "speaker": "A"
+    },
+    {
+      "text": "concrete,",
+      "start": 26170,
+      "end": 26796,
+      "confidence": 0.9997729,
+      "speaker": "A"
+    },
+    {
+      "text": "preventing",
+      "start": 27149,
+      "end": 27566,
+      "confidence": 0.99411607,
+      "speaker": "A"
+    },
+    {
+      "text": "it",
+      "start": 27630,
+      "end": 27695,
+      "confidence": 0.9993349,
+      "speaker": "A"
+    },
+    {
+      "text": "from",
+      "start": 27695,
+      "end": 27839,
+      "confidence": 0.99886775,
+      "speaker": "A"
+    },
+    {
+      "text": "vibrating,",
+      "start": 27935,
+      "end": 28401,
+      "confidence": 0.9998363,
+      "speaker": "A"
+    },
+    {
+      "text": "transmitting,",
+      "start": 28673,
+      "end": 29363,
+      "confidence": 0.9973915,
+      "speaker": "A"
+    },
+    {
+      "text": "and",
+      "start": 29476,
+      "end": 29540,
+      "confidence": 0.9966755,
+      "speaker": "A"
+    },
+    {
+      "text": "receiving",
+      "start": 29556,
+      "end": 30005,
+      "confidence": 0.9994815,
+      "speaker": "A"
+    },
+    {
+      "text": "energy",
+      "start": 30117,
+      "end": 30487,
+      "confidence": 0.99969625,
+      "speaker": "A"
+    },
+    {
+      "text": "from",
+      "start": 30503,
+      "end": 30647,
+      "confidence": 0.9958263,
+      "speaker": "A"
+    },
+    {
+      "text": "higher",
+      "start": 30679,
+      "end": 30872,
+      "confidence": 0.9997267,
+      "speaker": "A"
+    },
+    {
+      "text": "dimensions.",
+      "start": 30920,
+      "end": 31449,
+      "confidence": 0.99911326,
+      "speaker": "A"
+    },
+    {
+      "text": "That's",
+      "start": 31818,
+      "end": 31914,
+      "confidence": 0.9840505,
+      "speaker": "A"
+    },
+    {
+      "text": "not",
+      "start": 31963,
+      "end": 32123,
+      "confidence": 0.9996848,
+      "speaker": "A"
+    },
+    {
+      "text": "a",
+      "start": 32123,
+      "end": 32139,
+      "confidence": 0.99995065,
+      "speaker": "A"
+    },
+    {
+      "text": "side",
+      "start": 32139,
+      "end": 32379,
+      "confidence": 0.9999695,
+      "speaker": "A"
+    },
+    {
+      "text": "effect.",
+      "start": 32379,
+      "end": 32700,
+      "confidence": 0.83753777,
+      "speaker": "A"
+    },
+    {
+      "text": "That's",
+      "start": 32845,
+      "end": 33085,
+      "confidence": 0.99668187,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 33085,
+      "end": 33165,
+      "confidence": 0.9999242,
+      "speaker": "A"
+    },
+    {
+      "text": "plan.",
+      "start": 33165,
+      "end": 33454,
+      "confidence": 0.9929284,
+      "speaker": "A"
+    },
+    {
+      "text": "Why",
+      "start": 34128,
+      "end": 34240,
+      "confidence": 0.98957306,
+      "speaker": "A"
+    },
+    {
+      "text": "else",
+      "start": 34512,
+      "end": 34769,
+      "confidence": 0.9999857,
+      "speaker": "A"
+    },
+    {
+      "text": "would",
+      "start": 34833,
+      "end": 34929,
+      "confidence": 0.9998877,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 34929,
+      "end": 35042,
+      "confidence": 0.9999039,
+      "speaker": "A"
+    },
+    {
+      "text": "Eye",
+      "start": 35234,
+      "end": 35266,
+      "confidence": 0.9997354,
+      "speaker": "A"
+    },
+    {
+      "text": "of",
+      "start": 35491,
+      "end": 35619,
+      "confidence": 0.9998165,
+      "speaker": "A"
+    },
+    {
+      "text": "Horus,",
+      "start": 35635,
+      "end": 36100,
+      "confidence": 0.99987924,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 36694,
+      "end": 36838,
+      "confidence": 0.99438936,
+      "speaker": "A"
+    },
+    {
+      "text": "Ajna",
+      "start": 36998,
+      "end": 37255,
+      "confidence": 0.9966497,
+      "speaker": "A"
+    },
+    {
+      "text": "Chakra,",
+      "start": 37255,
+      "end": 37816,
+      "confidence": 0.8511657,
+      "speaker": "A"
+    },
+    {
+      "text": "and",
+      "start": 38137,
+      "end": 38217,
+      "confidence": 0.9989151,
+      "speaker": "A"
+    },
+    {
+      "text": "even",
+      "start": 38217,
+      "end": 38394,
+      "confidence": 0.9999529,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 38442,
+      "end": 38522,
+      "confidence": 0.99982303,
+      "speaker": "A"
+    },
+    {
+      "text": "Vatican's",
+      "start": 38538,
+      "end": 39067,
+      "confidence": 0.9999777,
+      "speaker": "A"
+    },
+    {
+      "text": "giant",
+      "start": 39163,
+      "end": 39500,
+      "confidence": 0.9896026,
+      "speaker": "A"
+    },
+    {
+      "text": "pine",
+      "start": 39500,
+      "end": 39789,
+      "confidence": 0.9978684,
+      "speaker": "A"
+    },
+    {
+      "text": "cone",
+      "start": 39821,
+      "end": 40029,
+      "confidence": 0.7099873,
+      "speaker": "A"
+    },
+    {
+      "text": "all",
+      "start": 40286,
+      "end": 40334,
+      "confidence": 0.99832004,
+      "speaker": "A"
+    },
+    {
+      "text": "point",
+      "start": 40446,
+      "end": 40671,
+      "confidence": 0.9997389,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 40703,
+      "end": 40863,
+      "confidence": 0.9992879,
+      "speaker": "A"
+    },
+    {
+      "text": "this",
+      "start": 40863,
+      "end": 41088,
+      "confidence": 0.9996055,
+      "speaker": "A"
+    },
+    {
+      "text": "tiny",
+      "start": 41104,
+      "end": 41425,
+      "confidence": 0.9993364,
+      "speaker": "A"
+    },
+    {
+      "text": "gland",
+      "start": 41425,
+      "end": 41842,
+      "confidence": 0.9997625,
+      "speaker": "A"
+    },
+    {
+      "text": "hidden",
+      "start": 41890,
+      "end": 42194,
+      "confidence": 0.9964289,
+      "speaker": "A"
+    },
+    {
+      "text": "deep",
+      "start": 42323,
+      "end": 42563,
+      "confidence": 0.9994012,
+      "speaker": "A"
+    },
+    {
+      "text": "inside",
+      "start": 42563,
+      "end": 42948,
+      "confidence": 0.99956626,
+      "speaker": "A"
+    },
+    {
+      "text": "your",
+      "start": 42948,
+      "end": 43092,
+      "confidence": 0.9998311,
+      "speaker": "A"
+    },
+    {
+      "text": "brain?",
+      "start": 43092,
+      "end": 43301,
+      "confidence": 0.9999036,
+      "speaker": "A"
+    },
+    {
+      "text": "When",
+      "start": 44055,
+      "end": 44119,
+      "confidence": 0.7516518,
+      "speaker": "A"
+    },
+    {
+      "text": "reawakened,",
+      "start": 44231,
+      "end": 44937,
+      "confidence": 0.9999236,
+      "speaker": "A"
+    },
+    {
+      "text": "ancient",
+      "start": 45097,
+      "end": 45418,
+      "confidence": 0.9995602,
+      "speaker": "A"
+    },
+    {
+      "text": "microcrystals",
+      "start": 45418,
+      "end": 46124,
+      "confidence": 0.98260397,
+      "speaker": "A"
+    },
+    {
+      "text": "inside",
+      "start": 46156,
+      "end": 46605,
+      "confidence": 0.9996834,
+      "speaker": "A"
+    },
+    {
+      "text": "begin",
+      "start": 46637,
+      "end": 46845,
+      "confidence": 0.99983907,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 46877,
+      "end": 46973,
+      "confidence": 0.99981517,
+      "speaker": "A"
+    },
+    {
+      "text": "resonate,",
+      "start": 47022,
+      "end": 47583,
+      "confidence": 0.99818337,
+      "speaker": "A"
+    },
+    {
+      "text": "producing",
+      "start": 47984,
+      "end": 48369,
+      "confidence": 0.98965013,
+      "speaker": "A"
+    },
+    {
+      "text": "electromagnetic",
+      "start": 48465,
+      "end": 49379,
+      "confidence": 0.99958605,
+      "speaker": "A"
+    },
+    {
+      "text": "energy",
+      "start": 49507,
+      "end": 49812,
+      "confidence": 0.9978667,
+      "speaker": "A"
+    },
+    {
+      "text": "that",
+      "start": 50325,
+      "end": 50486,
+      "confidence": 0.9843508,
+      "speaker": "A"
+    },
+    {
+      "text": "shifts",
+      "start": 50486,
+      "end": 50806,
+      "confidence": 0.99960726,
+      "speaker": "A"
+    },
+    {
+      "text": "your",
+      "start": 50806,
+      "end": 50967,
+      "confidence": 0.99911875,
+      "speaker": "A"
+    },
+    {
+      "text": "brain",
+      "start": 50967,
+      "end": 51175,
+      "confidence": 0.9999273,
+      "speaker": "A"
+    },
+    {
+      "text": "into",
+      "start": 51352,
+      "end": 51544,
+      "confidence": 0.9994271,
+      "speaker": "A"
+    },
+    {
+      "text": "gamma",
+      "start": 51624,
+      "end": 51993,
+      "confidence": 0.99516547,
+      "speaker": "A"
+    },
+    {
+      "text": "wave",
+      "start": 51993,
+      "end": 52218,
+      "confidence": 0.9334929,
+      "speaker": "A"
+    },
+    {
+      "text": "states,",
+      "start": 52234,
+      "end": 52651,
+      "confidence": 0.9445903,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 53132,
+      "end": 53196,
+      "confidence": 0.9677903,
+      "speaker": "A"
+    },
+    {
+      "text": "same",
+      "start": 53196,
+      "end": 53421,
+      "confidence": 0.9991738,
+      "speaker": "A"
+    },
+    {
+      "text": "frequency",
+      "start": 53517,
+      "end": 54158,
+      "confidence": 0.99887925,
+      "speaker": "A"
+    },
+    {
+      "text": "linked",
+      "start": 54174,
+      "end": 54575,
+      "confidence": 0.9983564,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 54575,
+      "end": 54720,
+      "confidence": 0.99872845,
+      "speaker": "A"
+    },
+    {
+      "text": "superconsciousness,",
+      "start": 54720,
+      "end": 55778,
+      "confidence": 0.9056468,
+      "speaker": "A"
+    },
+    {
+      "text": "psychic",
+      "start": 55874,
+      "end": 56323,
+      "confidence": 0.9877957,
+      "speaker": "A"
+    },
+    {
+      "text": "intuition,",
+      "start": 56339,
+      "end": 56869,
+      "confidence": 0.9970369,
+      "speaker": "A"
+    },
+    {
+      "text": "and",
+      "start": 57414,
+      "end": 57446,
+      "confidence": 0.89195806,
+      "speaker": "A"
+    },
+    {
+      "text": "quantum-level",
+      "start": 57526,
+      "end": 58199,
+      "confidence": 0.99841535,
+      "speaker": "A"
+    },
+    {
+      "text": "manifestation.",
+      "start": 58199,
+      "end": 58953,
+      "confidence": 0.99833757,
+      "speaker": "A"
+    },
+    {
+      "text": "Some",
+      "start": 59562,
+      "end": 59739,
+      "confidence": 0.6516466,
+      "speaker": "A"
+    },
+    {
+      "text": "call",
+      "start": 59787,
+      "end": 59979,
+      "confidence": 0.99989974,
+      "speaker": "A"
+    },
+    {
+      "text": "it",
+      "start": 60027,
+      "end": 60124,
+      "confidence": 0.99996746,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 60172,
+      "end": 60268,
+      "confidence": 0.99912256,
+      "speaker": "A"
+    },
+    {
+      "text": "Kundalini",
+      "start": 60268,
+      "end": 60797,
+      "confidence": 0.9987198,
+      "speaker": "A"
+    },
+    {
+      "text": "surge.",
+      "start": 60829,
+      "end": 61246,
+      "confidence": 0.9638209,
+      "speaker": "A"
+    },
+    {
+      "text": "Others",
+      "start": 61871,
+      "end": 62080,
+      "confidence": 0.96489435,
+      "speaker": "A"
+    },
+    {
+      "text": "feel",
+      "start": 62192,
+      "end": 62320,
+      "confidence": 0.99993217,
+      "speaker": "A"
+    },
+    {
+      "text": "a",
+      "start": 62368,
+      "end": 62384,
+      "confidence": 0.9998416,
+      "speaker": "A"
+    },
+    {
+      "text": "pulse",
+      "start": 62433,
+      "end": 62753,
+      "confidence": 0.99989927,
+      "speaker": "A"
+    },
+    {
+      "text": "of",
+      "start": 62753,
+      "end": 62833,
+      "confidence": 0.9993486,
+      "speaker": "A"
+    },
+    {
+      "text": "electricity",
+      "start": 62833,
+      "end": 63523,
+      "confidence": 0.9999399,
+      "speaker": "A"
+    },
+    {
+      "text": "behind",
+      "start": 63555,
+      "end": 63860,
+      "confidence": 0.999589,
+      "speaker": "A"
+    },
+    {
+      "text": "their",
+      "start": 63860,
+      "end": 63956,
+      "confidence": 0.9999056,
+      "speaker": "A"
+    },
+    {
+      "text": "forehead",
+      "start": 63956,
+      "end": 64405,
+      "confidence": 0.99996674,
+      "speaker": "A"
+    },
+    {
+      "text": "or",
+      "start": 64982,
+      "end": 65014,
+      "confidence": 0.69501036,
+      "speaker": "A"
+    },
+    {
+      "text": "experience",
+      "start": 65014,
+      "end": 65703,
+      "confidence": 0.9999722,
+      "speaker": "A"
+    },
+    {
+      "text": "visions",
+      "start": 65703,
+      "end": 66008,
+      "confidence": 0.99998105,
+      "speaker": "A"
+    },
+    {
+      "text": "more",
+      "start": 66104,
+      "end": 66281,
+      "confidence": 0.9994123,
+      "speaker": "A"
+    },
+    {
+      "text": "real",
+      "start": 66281,
+      "end": 66585,
+      "confidence": 0.99996185,
+      "speaker": "A"
+    },
+    {
+      "text": "than",
+      "start": 66585,
+      "end": 66666,
+      "confidence": 0.9999049,
+      "speaker": "A"
+    },
+    {
+      "text": "dreams.",
+      "start": 66762,
+      "end": 67050,
+      "confidence": 0.99986345,
+      "speaker": "A"
+    },
+    {
+      "text": "This",
+      "start": 67483,
+      "end": 67708,
+      "confidence": 0.82931507,
+      "speaker": "A"
+    },
+    {
+      "text": "isn't",
+      "start": 67708,
+      "end": 67948,
+      "confidence": 0.99993294,
+      "speaker": "A"
+    },
+    {
+      "text": "New",
+      "start": 67948,
+      "end": 68028,
+      "confidence": 0.9745423,
+      "speaker": "A"
+    },
+    {
+      "text": "Age",
+      "start": 68125,
+      "end": 68365,
+      "confidence": 0.9999728,
+      "speaker": "A"
+    },
+    {
+      "text": "fluff.",
+      "start": 68365,
+      "end": 68702,
+      "confidence": 0.93536305,
+      "speaker": "A"
+    },
+    {
+      "text": "It's",
+      "start": 68830,
+      "end": 69007,
+      "confidence": 0.9911677,
+      "speaker": "A"
+    },
+    {
+      "text": "ancient",
+      "start": 69071,
+      "end": 69407,
+      "confidence": 0.99991214,
+      "speaker": "A"
+    },
+    {
+      "text": "technology",
+      "start": 69407,
+      "end": 70017,
+      "confidence": 0.99995947,
+      "speaker": "A"
+    },
+    {
+      "text": "buried",
+      "start": 70209,
+      "end": 70530,
+      "confidence": 0.9146548,
+      "speaker": "A"
+    },
+    {
+      "text": "on",
+      "start": 70530,
+      "end": 70626,
+      "confidence": 0.99987686,
+      "speaker": "A"
+    },
+    {
+      "text": "purpose",
+      "start": 70690,
+      "end": 71043,
+      "confidence": 0.99999404,
+      "speaker": "A"
+    },
+    {
+      "text": "because",
+      "start": 71572,
+      "end": 71909,
+      "confidence": 0.95509446,
+      "speaker": "A"
+    },
+    {
+      "text": "a",
+      "start": 71909,
+      "end": 71925,
+      "confidence": 0.99992514,
+      "speaker": "A"
+    },
+    {
+      "text": "fully",
+      "start": 71973,
+      "end": 72342,
+      "confidence": 0.99998784,
+      "speaker": "A"
+    },
+    {
+      "text": "activated",
+      "start": 72438,
+      "end": 72951,
+      "confidence": 0.99987197,
+      "speaker": "A"
+    },
+    {
+      "text": "human",
+      "start": 72999,
+      "end": 73304,
+      "confidence": 0.9998647,
+      "speaker": "A"
+    },
+    {
+      "text": "being",
+      "start": 73336,
+      "end": 73624,
+      "confidence": 0.9999752,
+      "speaker": "A"
+    },
+    {
+      "text": "can't",
+      "start": 73656,
+      "end": 73961,
+      "confidence": 0.9997488,
+      "speaker": "A"
+    },
+    {
+      "text": "be",
+      "start": 73961,
+      "end": 74057,
+      "confidence": 0.9999429,
+      "speaker": "A"
+    },
+    {
+      "text": "controlled.",
+      "start": 74057,
+      "end": 74554,
+      "confidence": 0.99963766,
+      "speaker": "A"
+    },
+    {
+      "text": "That's",
+      "start": 75019,
+      "end": 75260,
+      "confidence": 0.9052963,
+      "speaker": "A"
+    },
+    {
+      "text": "why",
+      "start": 75260,
+      "end": 75292,
+      "confidence": 0.99989355,
+      "speaker": "A"
+    },
+    {
+      "text": "I",
+      "start": 75324,
+      "end": 75372,
+      "confidence": 0.999252,
+      "speaker": "A"
+    },
+    {
+      "text": "created",
+      "start": 75484,
+      "end": 75837,
+      "confidence": 0.9997751,
+      "speaker": "A"
+    },
+    {
+      "text": "a",
+      "start": 75837,
+      "end": 75901,
+      "confidence": 0.99943155,
+      "speaker": "A"
+    },
+    {
+      "text": "short",
+      "start": 75901,
+      "end": 76222,
+      "confidence": 0.9999186,
+      "speaker": "A"
+    },
+    {
+      "text": "presentation",
+      "start": 76222,
+      "end": 76831,
+      "confidence": 0.99996316,
+      "speaker": "A"
+    },
+    {
+      "text": "revealing",
+      "start": 76943,
+      "end": 77392,
+      "confidence": 0.9974426,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 77424,
+      "end": 77505,
+      "confidence": 0.99953544,
+      "speaker": "A"
+    },
+    {
+      "text": "truth.",
+      "start": 77505,
+      "end": 77793,
+      "confidence": 0.9337394,
+      "speaker": "A"
+    },
+    {
+      "text": "Not",
+      "start": 78451,
+      "end": 78579,
+      "confidence": 0.72567874,
+      "speaker": "A"
+    },
+    {
+      "text": "watered",
+      "start": 78691,
+      "end": 78996,
+      "confidence": 0.9998691,
+      "speaker": "A"
+    },
+    {
+      "text": "down,",
+      "start": 79044,
+      "end": 79300,
+      "confidence": 0.9782654,
+      "speaker": "A"
+    },
+    {
+      "text": "not",
+      "start": 79814,
+      "end": 80006,
+      "confidence": 0.9836204,
+      "speaker": "A"
+    },
+    {
+      "text": "censored.",
+      "start": 80006,
+      "end": 80551,
+      "confidence": 0.9989672,
+      "speaker": "A"
+    },
+    {
+      "text": "Step",
+      "start": 80968,
+      "end": 81353,
+      "confidence": 0.8228123,
+      "speaker": "A"
+    },
+    {
+      "text": "by",
+      "start": 81353,
+      "end": 81465,
+      "confidence": 0.9935774,
+      "speaker": "A"
+    },
+    {
+      "text": "step,",
+      "start": 81513,
+      "end": 81930,
+      "confidence": 0.9986079,
+      "speaker": "A"
+    },
+    {
+      "text": "it",
+      "start": 82058,
+      "end": 82155,
+      "confidence": 0.96738327,
+      "speaker": "A"
+    },
+    {
+      "text": "shows",
+      "start": 82155,
+      "end": 82443,
+      "confidence": 0.99901927,
+      "speaker": "A"
+    },
+    {
+      "text": "how",
+      "start": 82459,
+      "end": 82636,
+      "confidence": 0.97840387,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 82636,
+      "end": 82716,
+      "confidence": 0.99652785,
+      "speaker": "A"
+    },
+    {
+      "text": "decalcify",
+      "start": 82716,
+      "end": 83790,
+      "confidence": 0.9781043,
+      "speaker": "A"
+    },
+    {
+      "text": "your",
+      "start": 83918,
+      "end": 84143,
+      "confidence": 0.9948879,
+      "speaker": "A"
+    },
+    {
+      "text": "pineal",
+      "start": 84143,
+      "end": 84624,
+      "confidence": 0.9989935,
+      "speaker": "A"
+    },
+    {
+      "text": "gland,",
+      "start": 84640,
+      "end": 85137,
+      "confidence": 0.9164248,
+      "speaker": "A"
+    },
+    {
+      "text": "reawaken",
+      "start": 85442,
+      "end": 86083,
+      "confidence": 0.7814817,
+      "speaker": "A"
+    },
+    {
+      "text": "your",
+      "start": 86083,
+      "end": 86195,
+      "confidence": 0.9999707,
+      "speaker": "A"
+    },
+    {
+      "text": "third",
+      "start": 86243,
+      "end": 86628,
+      "confidence": 0.8276351,
+      "speaker": "A"
+    },
+    {
+      "text": "eye,",
+      "start": 86628,
+      "end": 86740,
+      "confidence": 0.99274826,
+      "speaker": "A"
+    },
+    {
+      "text": "and",
+      "start": 87365,
+      "end": 87429,
+      "confidence": 0.9999728,
+      "speaker": "A"
+    },
+    {
+      "text": "access",
+      "start": 87589,
+      "end": 87894,
+      "confidence": 0.99999416,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 88070,
+      "end": 88214,
+      "confidence": 0.9999833,
+      "speaker": "A"
+    },
+    {
+      "text": "universal",
+      "start": 88230,
+      "end": 88871,
+      "confidence": 0.99895597,
+      "speaker": "A"
+    },
+    {
+      "text": "energy",
+      "start": 88887,
+      "end": 89208,
+      "confidence": 0.9999784,
+      "speaker": "A"
+    },
+    {
+      "text": "field",
+      "start": 89272,
+      "end": 89544,
+      "confidence": 0.9999957,
+      "speaker": "A"
+    },
+    {
+      "text": "that",
+      "start": 89592,
+      "end": 89753,
+      "confidence": 0.9999808,
+      "speaker": "A"
+    },
+    {
+      "text": "elites",
+      "start": 89769,
+      "end": 90233,
+      "confidence": 0.99993205,
+      "speaker": "A"
+    },
+    {
+      "text": "have",
+      "start": 90233,
+      "end": 90458,
+      "confidence": 0.9999926,
+      "speaker": "A"
+    },
+    {
+      "text": "used",
+      "start": 90474,
+      "end": 90778,
+      "confidence": 0.9999918,
+      "speaker": "A"
+    },
+    {
+      "text": "for",
+      "start": 90794,
+      "end": 90891,
+      "confidence": 0.99999225,
+      "speaker": "A"
+    },
+    {
+      "text": "decades,",
+      "start": 90891,
+      "end": 91419,
+      "confidence": 0.8323874,
+      "speaker": "A"
+    },
+    {
+      "text": "while",
+      "start": 91836,
+      "end": 91980,
+      "confidence": 0.999856,
+      "speaker": "A"
+    },
+    {
+      "text": "keeping",
+      "start": 92012,
+      "end": 92301,
+      "confidence": 0.9999933,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 92397,
+      "end": 92461,
+      "confidence": 0.999992,
+      "speaker": "A"
+    },
+    {
+      "text": "rest",
+      "start": 92477,
+      "end": 92750,
+      "confidence": 0.9999931,
+      "speaker": "A"
+    },
+    {
+      "text": "of",
+      "start": 92750,
+      "end": 92830,
+      "confidence": 0.9999819,
+      "speaker": "A"
+    },
+    {
+      "text": "us",
+      "start": 92830,
+      "end": 92974,
+      "confidence": 0.9999862,
+      "speaker": "A"
+    },
+    {
+      "text": "blind.",
+      "start": 92974,
+      "end": 93262,
+      "confidence": 0.99934757,
+      "speaker": "A"
+    },
+    {
+      "text": "But",
+      "start": 94096,
+      "end": 94192,
+      "confidence": 0.99525464,
+      "speaker": "A"
+    },
+    {
+      "text": "I",
+      "start": 94192,
+      "end": 94256,
+      "confidence": 0.9996018,
+      "speaker": "A"
+    },
+    {
+      "text": "don't",
+      "start": 94256,
+      "end": 94432,
+      "confidence": 0.9999946,
+      "speaker": "A"
+    },
+    {
+      "text": "know",
+      "start": 94432,
+      "end": 94577,
+      "confidence": 0.99999595,
+      "speaker": "A"
+    },
+    {
+      "text": "how",
+      "start": 94577,
+      "end": 94753,
+      "confidence": 0.9999962,
+      "speaker": "A"
+    },
+    {
+      "text": "long",
+      "start": 94817,
+      "end": 95025,
+      "confidence": 0.9999962,
+      "speaker": "A"
+    },
+    {
+      "text": "it'll",
+      "start": 95138,
+      "end": 95266,
+      "confidence": 0.9999945,
+      "speaker": "A"
+    },
+    {
+      "text": "be",
+      "start": 95298,
+      "end": 95474,
+      "confidence": 0.99999714,
+      "speaker": "A"
+    },
+    {
+      "text": "available.",
+      "start": 95474,
+      "end": 95939,
+      "confidence": 0.99916476,
+      "speaker": "A"
+    },
+    {
+      "text": "The",
+      "start": 96436,
+      "end": 96548,
+      "confidence": 0.9994068,
+      "speaker": "A"
+    },
+    {
+      "text": "deeper",
+      "start": 96580,
+      "end": 96965,
+      "confidence": 0.9999982,
+      "speaker": "A"
+    },
+    {
+      "text": "you",
+      "start": 96965,
+      "end": 97061,
+      "confidence": 0.99999464,
+      "speaker": "A"
+    },
+    {
+      "text": "go,",
+      "start": 97061,
+      "end": 97317,
+      "confidence": 0.9999931,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 97461,
+      "end": 97542,
+      "confidence": 0.9999827,
+      "speaker": "A"
+    },
+    {
+      "text": "more",
+      "start": 97542,
+      "end": 97782,
+      "confidence": 0.9999964,
+      "speaker": "A"
+    },
+    {
+      "text": "you'll",
+      "start": 97782,
+      "end": 97990,
+      "confidence": 0.9999888,
+      "speaker": "A"
+    },
+    {
+      "text": "realize.",
+      "start": 98006,
+      "end": 98471,
+      "confidence": 0.7113401,
+      "speaker": "A"
+    },
+    {
+      "text": "This",
+      "start": 98904,
+      "end": 99144,
+      "confidence": 0.9999559,
+      "speaker": "A"
+    },
+    {
+      "text": "knowledge",
+      "start": 99144,
+      "end": 99481,
+      "confidence": 0.999995,
+      "speaker": "A"
+    },
+    {
+      "text": "was",
+      "start": 99529,
+      "end": 99673,
+      "confidence": 0.99997985,
+      "speaker": "A"
+    },
+    {
+      "text": "never",
+      "start": 99689,
+      "end": 99930,
+      "confidence": 0.999997,
+      "speaker": "A"
+    },
+    {
+      "text": "meant",
+      "start": 99930,
+      "end": 100186,
+      "confidence": 0.99999356,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 100186,
+      "end": 100346,
+      "confidence": 0.9999931,
+      "speaker": "A"
+    },
+    {
+      "text": "reach",
+      "start": 100346,
+      "end": 100635,
+      "confidence": 0.99999666,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 100651,
+      "end": 100683,
+      "confidence": 0.99999845,
+      "speaker": "A"
+    },
+    {
+      "text": "masses.",
+      "start": 100683,
+      "end": 101115,
+      "confidence": 0.9998534,
+      "speaker": "A"
+    },
+    {
+      "text": "If",
+      "start": 101724,
+      "end": 101853,
+      "confidence": 0.99974185,
+      "speaker": "A"
+    },
+    {
+      "text": "you're",
+      "start": 101853,
+      "end": 102013,
+      "confidence": 0.9999956,
+      "speaker": "A"
+    },
+    {
+      "text": "ready",
+      "start": 102013,
+      "end": 102189,
+      "confidence": 0.99999595,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 102189,
+      "end": 102285,
+      "confidence": 0.99999547,
+      "speaker": "A"
+    },
+    {
+      "text": "wake",
+      "start": 102350,
+      "end": 102654,
+      "confidence": 0.9999856,
+      "speaker": "A"
+    },
+    {
+      "text": "up,",
+      "start": 102654,
+      "end": 102830,
+      "confidence": 0.998746,
+      "speaker": "A"
+    },
+    {
+      "text": "really",
+      "start": 102991,
+      "end": 103199,
+      "confidence": 0.99992204,
+      "speaker": "A"
+    },
+    {
+      "text": "wake",
+      "start": 103295,
+      "end": 103616,
+      "confidence": 0.99997485,
+      "speaker": "A"
+    },
+    {
+      "text": "up,",
+      "start": 103616,
+      "end": 103712,
+      "confidence": 0.99987775,
+      "speaker": "A"
+    },
+    {
+      "text": "tap",
+      "start": 103776,
+      "end": 104128,
+      "confidence": 0.9999685,
+      "speaker": "A"
+    },
+    {
+      "text": "Watch",
+      "start": 104257,
+      "end": 104481,
+      "confidence": 0.79583615,
+      "speaker": "A"
+    },
+    {
+      "text": "Now",
+      "start": 104577,
+      "end": 104705,
+      "confidence": 0.999595,
+      "speaker": "A"
+    },
+    {
+      "text": "before",
+      "start": 104834,
+      "end": 105154,
+      "confidence": 0.9774196,
+      "speaker": "A"
+    },
+    {
+      "text": "it",
+      "start": 105154,
+      "end": 105250,
+      "confidence": 0.9999957,
+      "speaker": "A"
+    },
+    {
+      "text": "disappears.",
+      "start": 105250,
+      "end": 105843,
+      "confidence": 0.99859947,
+      "speaker": "A"
+    },
+    {
+      "text": "This",
+      "start": 106420,
+      "end": 106597,
+      "confidence": 0.99992025,
+      "speaker": "A"
+    },
+    {
+      "text": "is",
+      "start": 106597,
+      "end": 106645,
+      "confidence": 0.999995,
+      "speaker": "A"
+    },
+    {
+      "text": "your",
+      "start": 106741,
+      "end": 106917,
+      "confidence": 0.9999933,
+      "speaker": "A"
+    },
+    {
+      "text": "invitation",
+      "start": 106917,
+      "end": 107446,
+      "confidence": 0.99999475,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 107542,
+      "end": 107638,
+      "confidence": 0.9999939,
+      "speaker": "A"
+    },
+    {
+      "text": "break",
+      "start": 107638,
+      "end": 107943,
+      "confidence": 0.9999944,
+      "speaker": "A"
+    },
+    {
+      "text": "free",
+      "start": 107943,
+      "end": 108167,
+      "confidence": 0.999995,
+      "speaker": "A"
+    },
+    {
+      "text": "from",
+      "start": 108183,
+      "end": 108311,
+      "confidence": 0.9999939,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 108343,
+      "end": 108391,
+      "confidence": 0.99998176,
+      "speaker": "A"
+    },
+    {
+      "text": "fog,",
+      "start": 108424,
+      "end": 108824,
+      "confidence": 0.9999785,
+      "speaker": "A"
+    },
+    {
+      "text": "reconnect",
+      "start": 108920,
+      "end": 109417,
+      "confidence": 0.99997914,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 109417,
+      "end": 109545,
+      "confidence": 0.99998355,
+      "speaker": "A"
+    },
+    {
+      "text": "your",
+      "start": 109545,
+      "end": 109722,
+      "confidence": 0.99999225,
+      "speaker": "A"
+    },
+    {
+      "text": "true",
+      "start": 109722,
+      "end": 109882,
+      "confidence": 0.9999901,
+      "speaker": "A"
+    },
+    {
+      "text": "purpose,",
+      "start": 109962,
+      "end": 110363,
+      "confidence": 0.999962,
+      "speaker": "A"
+    },
+    {
+      "text": "and",
+      "start": 110443,
+      "end": 110507,
+      "confidence": 0.9999752,
+      "speaker": "A"
+    },
+    {
+      "text": "unlock",
+      "start": 110603,
+      "end": 111068,
+      "confidence": 0.99999356,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 111068,
+      "end": 111148,
+      "confidence": 0.9999366,
+      "speaker": "A"
+    },
+    {
+      "text": "part",
+      "start": 111148,
+      "end": 111340,
+      "confidence": 0.999984,
+      "speaker": "A"
+    },
+    {
+      "text": "of",
+      "start": 111340,
+      "end": 111469,
+      "confidence": 0.9999906,
+      "speaker": "A"
+    },
+    {
+      "text": "your",
+      "start": 111469,
+      "end": 111533,
+      "confidence": 0.999987,
+      "speaker": "A"
+    },
+    {
+      "text": "mind",
+      "start": 111533,
+      "end": 111805,
+      "confidence": 0.99999225,
+      "speaker": "A"
+    },
+    {
+      "text": "they've",
+      "start": 111805,
+      "end": 112046,
+      "confidence": 0.9999513,
+      "speaker": "A"
+    },
+    {
+      "text": "worked",
+      "start": 112046,
+      "end": 112270,
+      "confidence": 0.999987,
+      "speaker": "A"
+    },
+    {
+      "text": "so",
+      "start": 112270,
+      "end": 112510,
+      "confidence": 0.999972,
+      "speaker": "A"
+    },
+    {
+      "text": "hard",
+      "start": 112510,
+      "end": 112767,
+      "confidence": 0.9999814,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 112767,
+      "end": 112847,
+      "confidence": 0.9998958,
+      "speaker": "A"
+    },
+    {
+      "text": "silence.",
+      "start": 112847,
+      "end": 113360,
+      "confidence": 0.99920154,
+      "speaker": "A"
+    }
+  ],
+  "utterances": [
+    {
+      "speaker": "A",
+      "text": "This 30-second nightly pineal activation may start undoing decades of energetic blocks, barriers designed to keep you blind to your full potential. You see, the pineal gland, your third eye, was never meant to be dormant. It's your spiritual antenna, your inner compass, your link to higher consciousness. But for most people, it's been chemically shut down. Fluoride, heavy metals, EMF radiation— these calcify the pineal gland like concrete, preventing it from vibrating, transmitting, and receiving energy from higher dimensions. That's not a side effect. That's the plan. Why else would the Eye of Horus, the Ajna Chakra, and even the Vatican's giant pine cone all point to this tiny gland hidden deep inside your brain? When reawakened, ancient microcrystals inside begin to resonate, producing electromagnetic energy that shifts your brain into gamma wave states, the same frequency linked to superconsciousness, psychic intuition, and quantum-level manifestation. Some call it the Kundalini surge. Others feel a pulse of electricity behind their forehead or experience visions more real than dreams. This isn't New Age fluff. It's ancient technology buried on purpose because a fully activated human being can't be controlled. That's why I created a short presentation revealing the truth. Not watered down, not censored. Step by step, it shows how to decalcify your pineal gland, reawaken your third eye, and access the universal energy field that elites have used for decades, while keeping the rest of us blind. But I don't know how long it'll be available. The deeper you go, the more you'll realize. This knowledge was never meant to reach the masses. If you're ready to wake up, really wake up, tap Watch Now before it disappears. This is your invitation to break free from the fog, reconnect to your true purpose, and unlock the part of your mind they've worked so hard to silence.",
+      "confidence": 0.9826046,
+      "start": 192,
+      "end": 113360,
+      "words": [
+        {
+          "text": "This",
+          "start": 292,
+          "end": 433,
+          "confidence": 0.997159,
+          "speaker": "A"
+        },
+        {
+          "text": "30-second",
+          "start": 433,
+          "end": 1123,
+          "confidence": 0.99980694,
+          "speaker": "A"
+        },
+        {
+          "text": "nightly",
+          "start": 1155,
+          "end": 1444,
+          "confidence": 0.99160856,
+          "speaker": "A"
+        },
+        {
+          "text": "pineal",
+          "start": 1476,
+          "end": 1941,
+          "confidence": 0.9951425,
+          "speaker": "A"
+        },
+        {
+          "text": "activation",
+          "start": 1941,
+          "end": 2487,
+          "confidence": 0.99999774,
+          "speaker": "A"
+        },
+        {
+          "text": "may",
+          "start": 2759,
+          "end": 2856,
+          "confidence": 0.9277808,
+          "speaker": "A"
+        },
+        {
+          "text": "start",
+          "start": 2856,
+          "end": 3225,
+          "confidence": 0.99929,
+          "speaker": "A"
+        },
+        {
+          "text": "undoing",
+          "start": 3225,
+          "end": 3530,
+          "confidence": 0.9999567,
+          "speaker": "A"
+        },
+        {
+          "text": "decades",
+          "start": 3642,
+          "end": 4123,
+          "confidence": 0.9987716,
+          "speaker": "A"
+        },
+        {
+          "text": "of",
+          "start": 4123,
+          "end": 4204,
+          "confidence": 0.9987754,
+          "speaker": "A"
+        },
+        {
+          "text": "energetic",
+          "start": 4204,
+          "end": 4669,
+          "confidence": 0.99973947,
+          "speaker": "A"
+        },
+        {
+          "text": "blocks,",
+          "start": 4685,
+          "end": 5086,
+          "confidence": 0.9718758,
+          "speaker": "A"
+        },
+        {
+          "text": "barriers",
+          "start": 5648,
+          "end": 6097,
+          "confidence": 0.9995134,
+          "speaker": "A"
+        },
+        {
+          "text": "designed",
+          "start": 6129,
+          "end": 6514,
+          "confidence": 0.9999,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 6514,
+          "end": 6594,
+          "confidence": 0.99960893,
+          "speaker": "A"
+        },
+        {
+          "text": "keep",
+          "start": 6594,
+          "end": 6771,
+          "confidence": 0.99975175,
+          "speaker": "A"
+        },
+        {
+          "text": "you",
+          "start": 6771,
+          "end": 6899,
+          "confidence": 0.9999175,
+          "speaker": "A"
+        },
+        {
+          "text": "blind",
+          "start": 6915,
+          "end": 7172,
+          "confidence": 0.99994385,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 7172,
+          "end": 7316,
+          "confidence": 0.9997937,
+          "speaker": "A"
+        },
+        {
+          "text": "your",
+          "start": 7316,
+          "end": 7381,
+          "confidence": 0.99991214,
+          "speaker": "A"
+        },
+        {
+          "text": "full",
+          "start": 7413,
+          "end": 7605,
+          "confidence": 0.99978834,
+          "speaker": "A"
+        },
+        {
+          "text": "potential.",
+          "start": 7653,
+          "end": 8071,
+          "confidence": 0.99993896,
+          "speaker": "A"
+        },
+        {
+          "text": "You",
+          "start": 8391,
+          "end": 8456,
+          "confidence": 0.8224071,
+          "speaker": "A"
+        },
+        {
+          "text": "see,",
+          "start": 8456,
+          "end": 8793,
+          "confidence": 0.9999472,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 8937,
+          "end": 9081,
+          "confidence": 0.9979741,
+          "speaker": "A"
+        },
+        {
+          "text": "pineal",
+          "start": 9081,
+          "end": 9402,
+          "confidence": 0.99853325,
+          "speaker": "A"
+        },
+        {
+          "text": "gland,",
+          "start": 9418,
+          "end": 9916,
+          "confidence": 0.999163,
+          "speaker": "A"
+        },
+        {
+          "text": "your",
+          "start": 10140,
+          "end": 10237,
+          "confidence": 0.9960334,
+          "speaker": "A"
+        },
+        {
+          "text": "third",
+          "start": 10237,
+          "end": 10606,
+          "confidence": 0.91736966,
+          "speaker": "A"
+        },
+        {
+          "text": "eye,",
+          "start": 10606,
+          "end": 10654,
+          "confidence": 0.9999588,
+          "speaker": "A"
+        },
+        {
+          "text": "was",
+          "start": 11264,
+          "end": 11360,
+          "confidence": 0.9982003,
+          "speaker": "A"
+        },
+        {
+          "text": "never",
+          "start": 11424,
+          "end": 11649,
+          "confidence": 0.99997115,
+          "speaker": "A"
+        },
+        {
+          "text": "meant",
+          "start": 11649,
+          "end": 11825,
+          "confidence": 0.9998128,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 11825,
+          "end": 11922,
+          "confidence": 0.9998136,
+          "speaker": "A"
+        },
+        {
+          "text": "be",
+          "start": 11922,
+          "end": 12050,
+          "confidence": 0.9999536,
+          "speaker": "A"
+        },
+        {
+          "text": "dormant.",
+          "start": 12066,
+          "end": 12387,
+          "confidence": 0.9998754,
+          "speaker": "A"
+        },
+        {
+          "text": "It's",
+          "start": 12868,
+          "end": 12948,
+          "confidence": 0.9780729,
+          "speaker": "A"
+        },
+        {
+          "text": "your",
+          "start": 12948,
+          "end": 13061,
+          "confidence": 0.9999552,
+          "speaker": "A"
+        },
+        {
+          "text": "spiritual",
+          "start": 13093,
+          "end": 13751,
+          "confidence": 0.999984,
+          "speaker": "A"
+        },
+        {
+          "text": "antenna,",
+          "start": 13751,
+          "end": 14232,
+          "confidence": 0.99993134,
+          "speaker": "A"
+        },
+        {
+          "text": "your",
+          "start": 14409,
+          "end": 14521,
+          "confidence": 0.9982174,
+          "speaker": "A"
+        },
+        {
+          "text": "inner",
+          "start": 14697,
+          "end": 14874,
+          "confidence": 0.99999,
+          "speaker": "A"
+        },
+        {
+          "text": "compass,",
+          "start": 14874,
+          "end": 15355,
+          "confidence": 0.9999432,
+          "speaker": "A"
+        },
+        {
+          "text": "your",
+          "start": 15740,
+          "end": 15805,
+          "confidence": 0.9995284,
+          "speaker": "A"
+        },
+        {
+          "text": "link",
+          "start": 15917,
+          "end": 16222,
+          "confidence": 0.9999603,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 16222,
+          "end": 16318,
+          "confidence": 0.9999317,
+          "speaker": "A"
+        },
+        {
+          "text": "higher",
+          "start": 16382,
+          "end": 16703,
+          "confidence": 0.9997881,
+          "speaker": "A"
+        },
+        {
+          "text": "consciousness.",
+          "start": 16703,
+          "end": 17249,
+          "confidence": 0.99982095,
+          "speaker": "A"
+        },
+        {
+          "text": "But",
+          "start": 18003,
+          "end": 18147,
+          "confidence": 0.98377496,
+          "speaker": "A"
+        },
+        {
+          "text": "for",
+          "start": 18147,
+          "end": 18195,
+          "confidence": 0.9981098,
+          "speaker": "A"
+        },
+        {
+          "text": "most",
+          "start": 18195,
+          "end": 18500,
+          "confidence": 0.9999701,
+          "speaker": "A"
+        },
+        {
+          "text": "people,",
+          "start": 18548,
+          "end": 18821,
+          "confidence": 0.999949,
+          "speaker": "A"
+        },
+        {
+          "text": "it's",
+          "start": 19222,
+          "end": 19367,
+          "confidence": 0.9993477,
+          "speaker": "A"
+        },
+        {
+          "text": "been",
+          "start": 19367,
+          "end": 19479,
+          "confidence": 0.99990666,
+          "speaker": "A"
+        },
+        {
+          "text": "chemically",
+          "start": 19591,
+          "end": 20009,
+          "confidence": 0.9999497,
+          "speaker": "A"
+        },
+        {
+          "text": "shut",
+          "start": 20009,
+          "end": 20313,
+          "confidence": 0.9999465,
+          "speaker": "A"
+        },
+        {
+          "text": "down.",
+          "start": 20313,
+          "end": 20538,
+          "confidence": 0.99956924,
+          "speaker": "A"
+        },
+        {
+          "text": "Fluoride,",
+          "start": 21276,
+          "end": 21774,
+          "confidence": 0.9796392,
+          "speaker": "A"
+        },
+        {
+          "text": "heavy",
+          "start": 21918,
+          "end": 22159,
+          "confidence": 0.99932504,
+          "speaker": "A"
+        },
+        {
+          "text": "metals,",
+          "start": 22159,
+          "end": 22464,
+          "confidence": 0.99993455,
+          "speaker": "A"
+        },
+        {
+          "text": "EMF",
+          "start": 22897,
+          "end": 23202,
+          "confidence": 0.9994149,
+          "speaker": "A"
+        },
+        {
+          "text": "radiation—",
+          "start": 23202,
+          "end": 23731,
+          "confidence": 0.9357338,
+          "speaker": "A"
+        },
+        {
+          "text": "these",
+          "start": 24325,
+          "end": 24469,
+          "confidence": 0.9043869,
+          "speaker": "A"
+        },
+        {
+          "text": "calcify",
+          "start": 24582,
+          "end": 25079,
+          "confidence": 0.9999812,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 25143,
+          "end": 25288,
+          "confidence": 0.9994425,
+          "speaker": "A"
+        },
+        {
+          "text": "pineal",
+          "start": 25288,
+          "end": 25593,
+          "confidence": 0.9999944,
+          "speaker": "A"
+        },
+        {
+          "text": "gland",
+          "start": 25689,
+          "end": 25962,
+          "confidence": 0.99999416,
+          "speaker": "A"
+        },
+        {
+          "text": "like",
+          "start": 26010,
+          "end": 26170,
+          "confidence": 0.9995389,
+          "speaker": "A"
+        },
+        {
+          "text": "concrete,",
+          "start": 26170,
+          "end": 26796,
+          "confidence": 0.9997729,
+          "speaker": "A"
+        },
+        {
+          "text": "preventing",
+          "start": 27149,
+          "end": 27566,
+          "confidence": 0.99411607,
+          "speaker": "A"
+        },
+        {
+          "text": "it",
+          "start": 27630,
+          "end": 27695,
+          "confidence": 0.9993349,
+          "speaker": "A"
+        },
+        {
+          "text": "from",
+          "start": 27695,
+          "end": 27839,
+          "confidence": 0.99886775,
+          "speaker": "A"
+        },
+        {
+          "text": "vibrating,",
+          "start": 27935,
+          "end": 28401,
+          "confidence": 0.9998363,
+          "speaker": "A"
+        },
+        {
+          "text": "transmitting,",
+          "start": 28673,
+          "end": 29363,
+          "confidence": 0.9973915,
+          "speaker": "A"
+        },
+        {
+          "text": "and",
+          "start": 29476,
+          "end": 29540,
+          "confidence": 0.9966755,
+          "speaker": "A"
+        },
+        {
+          "text": "receiving",
+          "start": 29556,
+          "end": 30005,
+          "confidence": 0.9994815,
+          "speaker": "A"
+        },
+        {
+          "text": "energy",
+          "start": 30117,
+          "end": 30487,
+          "confidence": 0.99969625,
+          "speaker": "A"
+        },
+        {
+          "text": "from",
+          "start": 30503,
+          "end": 30647,
+          "confidence": 0.9958263,
+          "speaker": "A"
+        },
+        {
+          "text": "higher",
+          "start": 30679,
+          "end": 30872,
+          "confidence": 0.9997267,
+          "speaker": "A"
+        },
+        {
+          "text": "dimensions.",
+          "start": 30920,
+          "end": 31449,
+          "confidence": 0.99911326,
+          "speaker": "A"
+        },
+        {
+          "text": "That's",
+          "start": 31818,
+          "end": 31914,
+          "confidence": 0.9840505,
+          "speaker": "A"
+        },
+        {
+          "text": "not",
+          "start": 31963,
+          "end": 32123,
+          "confidence": 0.9996848,
+          "speaker": "A"
+        },
+        {
+          "text": "a",
+          "start": 32123,
+          "end": 32139,
+          "confidence": 0.99995065,
+          "speaker": "A"
+        },
+        {
+          "text": "side",
+          "start": 32139,
+          "end": 32379,
+          "confidence": 0.9999695,
+          "speaker": "A"
+        },
+        {
+          "text": "effect.",
+          "start": 32379,
+          "end": 32700,
+          "confidence": 0.83753777,
+          "speaker": "A"
+        },
+        {
+          "text": "That's",
+          "start": 32845,
+          "end": 33085,
+          "confidence": 0.99668187,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 33085,
+          "end": 33165,
+          "confidence": 0.9999242,
+          "speaker": "A"
+        },
+        {
+          "text": "plan.",
+          "start": 33165,
+          "end": 33454,
+          "confidence": 0.9929284,
+          "speaker": "A"
+        },
+        {
+          "text": "Why",
+          "start": 34128,
+          "end": 34240,
+          "confidence": 0.98957306,
+          "speaker": "A"
+        },
+        {
+          "text": "else",
+          "start": 34512,
+          "end": 34769,
+          "confidence": 0.9999857,
+          "speaker": "A"
+        },
+        {
+          "text": "would",
+          "start": 34833,
+          "end": 34929,
+          "confidence": 0.9998877,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 34929,
+          "end": 35042,
+          "confidence": 0.9999039,
+          "speaker": "A"
+        },
+        {
+          "text": "Eye",
+          "start": 35234,
+          "end": 35266,
+          "confidence": 0.9997354,
+          "speaker": "A"
+        },
+        {
+          "text": "of",
+          "start": 35491,
+          "end": 35619,
+          "confidence": 0.9998165,
+          "speaker": "A"
+        },
+        {
+          "text": "Horus,",
+          "start": 35635,
+          "end": 36100,
+          "confidence": 0.99987924,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 36694,
+          "end": 36838,
+          "confidence": 0.99438936,
+          "speaker": "A"
+        },
+        {
+          "text": "Ajna",
+          "start": 36998,
+          "end": 37255,
+          "confidence": 0.9966497,
+          "speaker": "A"
+        },
+        {
+          "text": "Chakra,",
+          "start": 37255,
+          "end": 37816,
+          "confidence": 0.8511657,
+          "speaker": "A"
+        },
+        {
+          "text": "and",
+          "start": 38137,
+          "end": 38217,
+          "confidence": 0.9989151,
+          "speaker": "A"
+        },
+        {
+          "text": "even",
+          "start": 38217,
+          "end": 38394,
+          "confidence": 0.9999529,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 38442,
+          "end": 38522,
+          "confidence": 0.99982303,
+          "speaker": "A"
+        },
+        {
+          "text": "Vatican's",
+          "start": 38538,
+          "end": 39067,
+          "confidence": 0.9999777,
+          "speaker": "A"
+        },
+        {
+          "text": "giant",
+          "start": 39163,
+          "end": 39500,
+          "confidence": 0.9896026,
+          "speaker": "A"
+        },
+        {
+          "text": "pine",
+          "start": 39500,
+          "end": 39789,
+          "confidence": 0.9978684,
+          "speaker": "A"
+        },
+        {
+          "text": "cone",
+          "start": 39821,
+          "end": 40029,
+          "confidence": 0.7099873,
+          "speaker": "A"
+        },
+        {
+          "text": "all",
+          "start": 40286,
+          "end": 40334,
+          "confidence": 0.99832004,
+          "speaker": "A"
+        },
+        {
+          "text": "point",
+          "start": 40446,
+          "end": 40671,
+          "confidence": 0.9997389,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 40703,
+          "end": 40863,
+          "confidence": 0.9992879,
+          "speaker": "A"
+        },
+        {
+          "text": "this",
+          "start": 40863,
+          "end": 41088,
+          "confidence": 0.9996055,
+          "speaker": "A"
+        },
+        {
+          "text": "tiny",
+          "start": 41104,
+          "end": 41425,
+          "confidence": 0.9993364,
+          "speaker": "A"
+        },
+        {
+          "text": "gland",
+          "start": 41425,
+          "end": 41842,
+          "confidence": 0.9997625,
+          "speaker": "A"
+        },
+        {
+          "text": "hidden",
+          "start": 41890,
+          "end": 42194,
+          "confidence": 0.9964289,
+          "speaker": "A"
+        },
+        {
+          "text": "deep",
+          "start": 42323,
+          "end": 42563,
+          "confidence": 0.9994012,
+          "speaker": "A"
+        },
+        {
+          "text": "inside",
+          "start": 42563,
+          "end": 42948,
+          "confidence": 0.99956626,
+          "speaker": "A"
+        },
+        {
+          "text": "your",
+          "start": 42948,
+          "end": 43092,
+          "confidence": 0.9998311,
+          "speaker": "A"
+        },
+        {
+          "text": "brain?",
+          "start": 43092,
+          "end": 43301,
+          "confidence": 0.9999036,
+          "speaker": "A"
+        },
+        {
+          "text": "When",
+          "start": 44055,
+          "end": 44119,
+          "confidence": 0.7516518,
+          "speaker": "A"
+        },
+        {
+          "text": "reawakened,",
+          "start": 44231,
+          "end": 44937,
+          "confidence": 0.9999236,
+          "speaker": "A"
+        },
+        {
+          "text": "ancient",
+          "start": 45097,
+          "end": 45418,
+          "confidence": 0.9995602,
+          "speaker": "A"
+        },
+        {
+          "text": "microcrystals",
+          "start": 45418,
+          "end": 46124,
+          "confidence": 0.98260397,
+          "speaker": "A"
+        },
+        {
+          "text": "inside",
+          "start": 46156,
+          "end": 46605,
+          "confidence": 0.9996834,
+          "speaker": "A"
+        },
+        {
+          "text": "begin",
+          "start": 46637,
+          "end": 46845,
+          "confidence": 0.99983907,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 46877,
+          "end": 46973,
+          "confidence": 0.99981517,
+          "speaker": "A"
+        },
+        {
+          "text": "resonate,",
+          "start": 47022,
+          "end": 47583,
+          "confidence": 0.99818337,
+          "speaker": "A"
+        },
+        {
+          "text": "producing",
+          "start": 47984,
+          "end": 48369,
+          "confidence": 0.98965013,
+          "speaker": "A"
+        },
+        {
+          "text": "electromagnetic",
+          "start": 48465,
+          "end": 49379,
+          "confidence": 0.99958605,
+          "speaker": "A"
+        },
+        {
+          "text": "energy",
+          "start": 49507,
+          "end": 49812,
+          "confidence": 0.9978667,
+          "speaker": "A"
+        },
+        {
+          "text": "that",
+          "start": 50325,
+          "end": 50486,
+          "confidence": 0.9843508,
+          "speaker": "A"
+        },
+        {
+          "text": "shifts",
+          "start": 50486,
+          "end": 50806,
+          "confidence": 0.99960726,
+          "speaker": "A"
+        },
+        {
+          "text": "your",
+          "start": 50806,
+          "end": 50967,
+          "confidence": 0.99911875,
+          "speaker": "A"
+        },
+        {
+          "text": "brain",
+          "start": 50967,
+          "end": 51175,
+          "confidence": 0.9999273,
+          "speaker": "A"
+        },
+        {
+          "text": "into",
+          "start": 51352,
+          "end": 51544,
+          "confidence": 0.9994271,
+          "speaker": "A"
+        },
+        {
+          "text": "gamma",
+          "start": 51624,
+          "end": 51993,
+          "confidence": 0.99516547,
+          "speaker": "A"
+        },
+        {
+          "text": "wave",
+          "start": 51993,
+          "end": 52218,
+          "confidence": 0.9334929,
+          "speaker": "A"
+        },
+        {
+          "text": "states,",
+          "start": 52234,
+          "end": 52651,
+          "confidence": 0.9445903,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 53132,
+          "end": 53196,
+          "confidence": 0.9677903,
+          "speaker": "A"
+        },
+        {
+          "text": "same",
+          "start": 53196,
+          "end": 53421,
+          "confidence": 0.9991738,
+          "speaker": "A"
+        },
+        {
+          "text": "frequency",
+          "start": 53517,
+          "end": 54158,
+          "confidence": 0.99887925,
+          "speaker": "A"
+        },
+        {
+          "text": "linked",
+          "start": 54174,
+          "end": 54575,
+          "confidence": 0.9983564,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 54575,
+          "end": 54720,
+          "confidence": 0.99872845,
+          "speaker": "A"
+        },
+        {
+          "text": "superconsciousness,",
+          "start": 54720,
+          "end": 55778,
+          "confidence": 0.9056468,
+          "speaker": "A"
+        },
+        {
+          "text": "psychic",
+          "start": 55874,
+          "end": 56323,
+          "confidence": 0.9877957,
+          "speaker": "A"
+        },
+        {
+          "text": "intuition,",
+          "start": 56339,
+          "end": 56869,
+          "confidence": 0.9970369,
+          "speaker": "A"
+        },
+        {
+          "text": "and",
+          "start": 57414,
+          "end": 57446,
+          "confidence": 0.89195806,
+          "speaker": "A"
+        },
+        {
+          "text": "quantum-level",
+          "start": 57526,
+          "end": 58199,
+          "confidence": 0.99841535,
+          "speaker": "A"
+        },
+        {
+          "text": "manifestation.",
+          "start": 58199,
+          "end": 58953,
+          "confidence": 0.99833757,
+          "speaker": "A"
+        },
+        {
+          "text": "Some",
+          "start": 59562,
+          "end": 59739,
+          "confidence": 0.6516466,
+          "speaker": "A"
+        },
+        {
+          "text": "call",
+          "start": 59787,
+          "end": 59979,
+          "confidence": 0.99989974,
+          "speaker": "A"
+        },
+        {
+          "text": "it",
+          "start": 60027,
+          "end": 60124,
+          "confidence": 0.99996746,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 60172,
+          "end": 60268,
+          "confidence": 0.99912256,
+          "speaker": "A"
+        },
+        {
+          "text": "Kundalini",
+          "start": 60268,
+          "end": 60797,
+          "confidence": 0.9987198,
+          "speaker": "A"
+        },
+        {
+          "text": "surge.",
+          "start": 60829,
+          "end": 61246,
+          "confidence": 0.9638209,
+          "speaker": "A"
+        },
+        {
+          "text": "Others",
+          "start": 61871,
+          "end": 62080,
+          "confidence": 0.96489435,
+          "speaker": "A"
+        },
+        {
+          "text": "feel",
+          "start": 62192,
+          "end": 62320,
+          "confidence": 0.99993217,
+          "speaker": "A"
+        },
+        {
+          "text": "a",
+          "start": 62368,
+          "end": 62384,
+          "confidence": 0.9998416,
+          "speaker": "A"
+        },
+        {
+          "text": "pulse",
+          "start": 62433,
+          "end": 62753,
+          "confidence": 0.99989927,
+          "speaker": "A"
+        },
+        {
+          "text": "of",
+          "start": 62753,
+          "end": 62833,
+          "confidence": 0.9993486,
+          "speaker": "A"
+        },
+        {
+          "text": "electricity",
+          "start": 62833,
+          "end": 63523,
+          "confidence": 0.9999399,
+          "speaker": "A"
+        },
+        {
+          "text": "behind",
+          "start": 63555,
+          "end": 63860,
+          "confidence": 0.999589,
+          "speaker": "A"
+        },
+        {
+          "text": "their",
+          "start": 63860,
+          "end": 63956,
+          "confidence": 0.9999056,
+          "speaker": "A"
+        },
+        {
+          "text": "forehead",
+          "start": 63956,
+          "end": 64405,
+          "confidence": 0.99996674,
+          "speaker": "A"
+        },
+        {
+          "text": "or",
+          "start": 64982,
+          "end": 65014,
+          "confidence": 0.69501036,
+          "speaker": "A"
+        },
+        {
+          "text": "experience",
+          "start": 65014,
+          "end": 65703,
+          "confidence": 0.9999722,
+          "speaker": "A"
+        },
+        {
+          "text": "visions",
+          "start": 65703,
+          "end": 66008,
+          "confidence": 0.99998105,
+          "speaker": "A"
+        },
+        {
+          "text": "more",
+          "start": 66104,
+          "end": 66281,
+          "confidence": 0.9994123,
+          "speaker": "A"
+        },
+        {
+          "text": "real",
+          "start": 66281,
+          "end": 66585,
+          "confidence": 0.99996185,
+          "speaker": "A"
+        },
+        {
+          "text": "than",
+          "start": 66585,
+          "end": 66666,
+          "confidence": 0.9999049,
+          "speaker": "A"
+        },
+        {
+          "text": "dreams.",
+          "start": 66762,
+          "end": 67050,
+          "confidence": 0.99986345,
+          "speaker": "A"
+        },
+        {
+          "text": "This",
+          "start": 67483,
+          "end": 67708,
+          "confidence": 0.82931507,
+          "speaker": "A"
+        },
+        {
+          "text": "isn't",
+          "start": 67708,
+          "end": 67948,
+          "confidence": 0.99993294,
+          "speaker": "A"
+        },
+        {
+          "text": "New",
+          "start": 67948,
+          "end": 68028,
+          "confidence": 0.9745423,
+          "speaker": "A"
+        },
+        {
+          "text": "Age",
+          "start": 68125,
+          "end": 68365,
+          "confidence": 0.9999728,
+          "speaker": "A"
+        },
+        {
+          "text": "fluff.",
+          "start": 68365,
+          "end": 68702,
+          "confidence": 0.93536305,
+          "speaker": "A"
+        },
+        {
+          "text": "It's",
+          "start": 68830,
+          "end": 69007,
+          "confidence": 0.9911677,
+          "speaker": "A"
+        },
+        {
+          "text": "ancient",
+          "start": 69071,
+          "end": 69407,
+          "confidence": 0.99991214,
+          "speaker": "A"
+        },
+        {
+          "text": "technology",
+          "start": 69407,
+          "end": 70017,
+          "confidence": 0.99995947,
+          "speaker": "A"
+        },
+        {
+          "text": "buried",
+          "start": 70209,
+          "end": 70530,
+          "confidence": 0.9146548,
+          "speaker": "A"
+        },
+        {
+          "text": "on",
+          "start": 70530,
+          "end": 70626,
+          "confidence": 0.99987686,
+          "speaker": "A"
+        },
+        {
+          "text": "purpose",
+          "start": 70690,
+          "end": 71043,
+          "confidence": 0.99999404,
+          "speaker": "A"
+        },
+        {
+          "text": "because",
+          "start": 71572,
+          "end": 71909,
+          "confidence": 0.95509446,
+          "speaker": "A"
+        },
+        {
+          "text": "a",
+          "start": 71909,
+          "end": 71925,
+          "confidence": 0.99992514,
+          "speaker": "A"
+        },
+        {
+          "text": "fully",
+          "start": 71973,
+          "end": 72342,
+          "confidence": 0.99998784,
+          "speaker": "A"
+        },
+        {
+          "text": "activated",
+          "start": 72438,
+          "end": 72951,
+          "confidence": 0.99987197,
+          "speaker": "A"
+        },
+        {
+          "text": "human",
+          "start": 72999,
+          "end": 73304,
+          "confidence": 0.9998647,
+          "speaker": "A"
+        },
+        {
+          "text": "being",
+          "start": 73336,
+          "end": 73624,
+          "confidence": 0.9999752,
+          "speaker": "A"
+        },
+        {
+          "text": "can't",
+          "start": 73656,
+          "end": 73961,
+          "confidence": 0.9997488,
+          "speaker": "A"
+        },
+        {
+          "text": "be",
+          "start": 73961,
+          "end": 74057,
+          "confidence": 0.9999429,
+          "speaker": "A"
+        },
+        {
+          "text": "controlled.",
+          "start": 74057,
+          "end": 74554,
+          "confidence": 0.99963766,
+          "speaker": "A"
+        },
+        {
+          "text": "That's",
+          "start": 75019,
+          "end": 75260,
+          "confidence": 0.9052963,
+          "speaker": "A"
+        },
+        {
+          "text": "why",
+          "start": 75260,
+          "end": 75292,
+          "confidence": 0.99989355,
+          "speaker": "A"
+        },
+        {
+          "text": "I",
+          "start": 75324,
+          "end": 75372,
+          "confidence": 0.999252,
+          "speaker": "A"
+        },
+        {
+          "text": "created",
+          "start": 75484,
+          "end": 75837,
+          "confidence": 0.9997751,
+          "speaker": "A"
+        },
+        {
+          "text": "a",
+          "start": 75837,
+          "end": 75901,
+          "confidence": 0.99943155,
+          "speaker": "A"
+        },
+        {
+          "text": "short",
+          "start": 75901,
+          "end": 76222,
+          "confidence": 0.9999186,
+          "speaker": "A"
+        },
+        {
+          "text": "presentation",
+          "start": 76222,
+          "end": 76831,
+          "confidence": 0.99996316,
+          "speaker": "A"
+        },
+        {
+          "text": "revealing",
+          "start": 76943,
+          "end": 77392,
+          "confidence": 0.9974426,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 77424,
+          "end": 77505,
+          "confidence": 0.99953544,
+          "speaker": "A"
+        },
+        {
+          "text": "truth.",
+          "start": 77505,
+          "end": 77793,
+          "confidence": 0.9337394,
+          "speaker": "A"
+        },
+        {
+          "text": "Not",
+          "start": 78451,
+          "end": 78579,
+          "confidence": 0.72567874,
+          "speaker": "A"
+        },
+        {
+          "text": "watered",
+          "start": 78691,
+          "end": 78996,
+          "confidence": 0.9998691,
+          "speaker": "A"
+        },
+        {
+          "text": "down,",
+          "start": 79044,
+          "end": 79300,
+          "confidence": 0.9782654,
+          "speaker": "A"
+        },
+        {
+          "text": "not",
+          "start": 79814,
+          "end": 80006,
+          "confidence": 0.9836204,
+          "speaker": "A"
+        },
+        {
+          "text": "censored.",
+          "start": 80006,
+          "end": 80551,
+          "confidence": 0.9989672,
+          "speaker": "A"
+        },
+        {
+          "text": "Step",
+          "start": 80968,
+          "end": 81353,
+          "confidence": 0.8228123,
+          "speaker": "A"
+        },
+        {
+          "text": "by",
+          "start": 81353,
+          "end": 81465,
+          "confidence": 0.9935774,
+          "speaker": "A"
+        },
+        {
+          "text": "step,",
+          "start": 81513,
+          "end": 81930,
+          "confidence": 0.9986079,
+          "speaker": "A"
+        },
+        {
+          "text": "it",
+          "start": 82058,
+          "end": 82155,
+          "confidence": 0.96738327,
+          "speaker": "A"
+        },
+        {
+          "text": "shows",
+          "start": 82155,
+          "end": 82443,
+          "confidence": 0.99901927,
+          "speaker": "A"
+        },
+        {
+          "text": "how",
+          "start": 82459,
+          "end": 82636,
+          "confidence": 0.97840387,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 82636,
+          "end": 82716,
+          "confidence": 0.99652785,
+          "speaker": "A"
+        },
+        {
+          "text": "decalcify",
+          "start": 82716,
+          "end": 83790,
+          "confidence": 0.9781043,
+          "speaker": "A"
+        },
+        {
+          "text": "your",
+          "start": 83918,
+          "end": 84143,
+          "confidence": 0.9948879,
+          "speaker": "A"
+        },
+        {
+          "text": "pineal",
+          "start": 84143,
+          "end": 84624,
+          "confidence": 0.9989935,
+          "speaker": "A"
+        },
+        {
+          "text": "gland,",
+          "start": 84640,
+          "end": 85137,
+          "confidence": 0.9164248,
+          "speaker": "A"
+        },
+        {
+          "text": "reawaken",
+          "start": 85442,
+          "end": 86083,
+          "confidence": 0.7814817,
+          "speaker": "A"
+        },
+        {
+          "text": "your",
+          "start": 86083,
+          "end": 86195,
+          "confidence": 0.9999707,
+          "speaker": "A"
+        },
+        {
+          "text": "third",
+          "start": 86243,
+          "end": 86628,
+          "confidence": 0.8276351,
+          "speaker": "A"
+        },
+        {
+          "text": "eye,",
+          "start": 86628,
+          "end": 86740,
+          "confidence": 0.99274826,
+          "speaker": "A"
+        },
+        {
+          "text": "and",
+          "start": 87365,
+          "end": 87429,
+          "confidence": 0.9999728,
+          "speaker": "A"
+        },
+        {
+          "text": "access",
+          "start": 87589,
+          "end": 87894,
+          "confidence": 0.99999416,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 88070,
+          "end": 88214,
+          "confidence": 0.9999833,
+          "speaker": "A"
+        },
+        {
+          "text": "universal",
+          "start": 88230,
+          "end": 88871,
+          "confidence": 0.99895597,
+          "speaker": "A"
+        },
+        {
+          "text": "energy",
+          "start": 88887,
+          "end": 89208,
+          "confidence": 0.9999784,
+          "speaker": "A"
+        },
+        {
+          "text": "field",
+          "start": 89272,
+          "end": 89544,
+          "confidence": 0.9999957,
+          "speaker": "A"
+        },
+        {
+          "text": "that",
+          "start": 89592,
+          "end": 89753,
+          "confidence": 0.9999808,
+          "speaker": "A"
+        },
+        {
+          "text": "elites",
+          "start": 89769,
+          "end": 90233,
+          "confidence": 0.99993205,
+          "speaker": "A"
+        },
+        {
+          "text": "have",
+          "start": 90233,
+          "end": 90458,
+          "confidence": 0.9999926,
+          "speaker": "A"
+        },
+        {
+          "text": "used",
+          "start": 90474,
+          "end": 90778,
+          "confidence": 0.9999918,
+          "speaker": "A"
+        },
+        {
+          "text": "for",
+          "start": 90794,
+          "end": 90891,
+          "confidence": 0.99999225,
+          "speaker": "A"
+        },
+        {
+          "text": "decades,",
+          "start": 90891,
+          "end": 91419,
+          "confidence": 0.8323874,
+          "speaker": "A"
+        },
+        {
+          "text": "while",
+          "start": 91836,
+          "end": 91980,
+          "confidence": 0.999856,
+          "speaker": "A"
+        },
+        {
+          "text": "keeping",
+          "start": 92012,
+          "end": 92301,
+          "confidence": 0.9999933,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 92397,
+          "end": 92461,
+          "confidence": 0.999992,
+          "speaker": "A"
+        },
+        {
+          "text": "rest",
+          "start": 92477,
+          "end": 92750,
+          "confidence": 0.9999931,
+          "speaker": "A"
+        },
+        {
+          "text": "of",
+          "start": 92750,
+          "end": 92830,
+          "confidence": 0.9999819,
+          "speaker": "A"
+        },
+        {
+          "text": "us",
+          "start": 92830,
+          "end": 92974,
+          "confidence": 0.9999862,
+          "speaker": "A"
+        },
+        {
+          "text": "blind.",
+          "start": 92974,
+          "end": 93262,
+          "confidence": 0.99934757,
+          "speaker": "A"
+        },
+        {
+          "text": "But",
+          "start": 94096,
+          "end": 94192,
+          "confidence": 0.99525464,
+          "speaker": "A"
+        },
+        {
+          "text": "I",
+          "start": 94192,
+          "end": 94256,
+          "confidence": 0.9996018,
+          "speaker": "A"
+        },
+        {
+          "text": "don't",
+          "start": 94256,
+          "end": 94432,
+          "confidence": 0.9999946,
+          "speaker": "A"
+        },
+        {
+          "text": "know",
+          "start": 94432,
+          "end": 94577,
+          "confidence": 0.99999595,
+          "speaker": "A"
+        },
+        {
+          "text": "how",
+          "start": 94577,
+          "end": 94753,
+          "confidence": 0.9999962,
+          "speaker": "A"
+        },
+        {
+          "text": "long",
+          "start": 94817,
+          "end": 95025,
+          "confidence": 0.9999962,
+          "speaker": "A"
+        },
+        {
+          "text": "it'll",
+          "start": 95138,
+          "end": 95266,
+          "confidence": 0.9999945,
+          "speaker": "A"
+        },
+        {
+          "text": "be",
+          "start": 95298,
+          "end": 95474,
+          "confidence": 0.99999714,
+          "speaker": "A"
+        },
+        {
+          "text": "available.",
+          "start": 95474,
+          "end": 95939,
+          "confidence": 0.99916476,
+          "speaker": "A"
+        },
+        {
+          "text": "The",
+          "start": 96436,
+          "end": 96548,
+          "confidence": 0.9994068,
+          "speaker": "A"
+        },
+        {
+          "text": "deeper",
+          "start": 96580,
+          "end": 96965,
+          "confidence": 0.9999982,
+          "speaker": "A"
+        },
+        {
+          "text": "you",
+          "start": 96965,
+          "end": 97061,
+          "confidence": 0.99999464,
+          "speaker": "A"
+        },
+        {
+          "text": "go,",
+          "start": 97061,
+          "end": 97317,
+          "confidence": 0.9999931,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 97461,
+          "end": 97542,
+          "confidence": 0.9999827,
+          "speaker": "A"
+        },
+        {
+          "text": "more",
+          "start": 97542,
+          "end": 97782,
+          "confidence": 0.9999964,
+          "speaker": "A"
+        },
+        {
+          "text": "you'll",
+          "start": 97782,
+          "end": 97990,
+          "confidence": 0.9999888,
+          "speaker": "A"
+        },
+        {
+          "text": "realize.",
+          "start": 98006,
+          "end": 98471,
+          "confidence": 0.7113401,
+          "speaker": "A"
+        },
+        {
+          "text": "This",
+          "start": 98904,
+          "end": 99144,
+          "confidence": 0.9999559,
+          "speaker": "A"
+        },
+        {
+          "text": "knowledge",
+          "start": 99144,
+          "end": 99481,
+          "confidence": 0.999995,
+          "speaker": "A"
+        },
+        {
+          "text": "was",
+          "start": 99529,
+          "end": 99673,
+          "confidence": 0.99997985,
+          "speaker": "A"
+        },
+        {
+          "text": "never",
+          "start": 99689,
+          "end": 99930,
+          "confidence": 0.999997,
+          "speaker": "A"
+        },
+        {
+          "text": "meant",
+          "start": 99930,
+          "end": 100186,
+          "confidence": 0.99999356,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 100186,
+          "end": 100346,
+          "confidence": 0.9999931,
+          "speaker": "A"
+        },
+        {
+          "text": "reach",
+          "start": 100346,
+          "end": 100635,
+          "confidence": 0.99999666,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 100651,
+          "end": 100683,
+          "confidence": 0.99999845,
+          "speaker": "A"
+        },
+        {
+          "text": "masses.",
+          "start": 100683,
+          "end": 101115,
+          "confidence": 0.9998534,
+          "speaker": "A"
+        },
+        {
+          "text": "If",
+          "start": 101724,
+          "end": 101853,
+          "confidence": 0.99974185,
+          "speaker": "A"
+        },
+        {
+          "text": "you're",
+          "start": 101853,
+          "end": 102013,
+          "confidence": 0.9999956,
+          "speaker": "A"
+        },
+        {
+          "text": "ready",
+          "start": 102013,
+          "end": 102189,
+          "confidence": 0.99999595,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 102189,
+          "end": 102285,
+          "confidence": 0.99999547,
+          "speaker": "A"
+        },
+        {
+          "text": "wake",
+          "start": 102350,
+          "end": 102654,
+          "confidence": 0.9999856,
+          "speaker": "A"
+        },
+        {
+          "text": "up,",
+          "start": 102654,
+          "end": 102830,
+          "confidence": 0.998746,
+          "speaker": "A"
+        },
+        {
+          "text": "really",
+          "start": 102991,
+          "end": 103199,
+          "confidence": 0.99992204,
+          "speaker": "A"
+        },
+        {
+          "text": "wake",
+          "start": 103295,
+          "end": 103616,
+          "confidence": 0.99997485,
+          "speaker": "A"
+        },
+        {
+          "text": "up,",
+          "start": 103616,
+          "end": 103712,
+          "confidence": 0.99987775,
+          "speaker": "A"
+        },
+        {
+          "text": "tap",
+          "start": 103776,
+          "end": 104128,
+          "confidence": 0.9999685,
+          "speaker": "A"
+        },
+        {
+          "text": "Watch",
+          "start": 104257,
+          "end": 104481,
+          "confidence": 0.79583615,
+          "speaker": "A"
+        },
+        {
+          "text": "Now",
+          "start": 104577,
+          "end": 104705,
+          "confidence": 0.999595,
+          "speaker": "A"
+        },
+        {
+          "text": "before",
+          "start": 104834,
+          "end": 105154,
+          "confidence": 0.9774196,
+          "speaker": "A"
+        },
+        {
+          "text": "it",
+          "start": 105154,
+          "end": 105250,
+          "confidence": 0.9999957,
+          "speaker": "A"
+        },
+        {
+          "text": "disappears.",
+          "start": 105250,
+          "end": 105843,
+          "confidence": 0.99859947,
+          "speaker": "A"
+        },
+        {
+          "text": "This",
+          "start": 106420,
+          "end": 106597,
+          "confidence": 0.99992025,
+          "speaker": "A"
+        },
+        {
+          "text": "is",
+          "start": 106597,
+          "end": 106645,
+          "confidence": 0.999995,
+          "speaker": "A"
+        },
+        {
+          "text": "your",
+          "start": 106741,
+          "end": 106917,
+          "confidence": 0.9999933,
+          "speaker": "A"
+        },
+        {
+          "text": "invitation",
+          "start": 106917,
+          "end": 107446,
+          "confidence": 0.99999475,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 107542,
+          "end": 107638,
+          "confidence": 0.9999939,
+          "speaker": "A"
+        },
+        {
+          "text": "break",
+          "start": 107638,
+          "end": 107943,
+          "confidence": 0.9999944,
+          "speaker": "A"
+        },
+        {
+          "text": "free",
+          "start": 107943,
+          "end": 108167,
+          "confidence": 0.999995,
+          "speaker": "A"
+        },
+        {
+          "text": "from",
+          "start": 108183,
+          "end": 108311,
+          "confidence": 0.9999939,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 108343,
+          "end": 108391,
+          "confidence": 0.99998176,
+          "speaker": "A"
+        },
+        {
+          "text": "fog,",
+          "start": 108424,
+          "end": 108824,
+          "confidence": 0.9999785,
+          "speaker": "A"
+        },
+        {
+          "text": "reconnect",
+          "start": 108920,
+          "end": 109417,
+          "confidence": 0.99997914,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 109417,
+          "end": 109545,
+          "confidence": 0.99998355,
+          "speaker": "A"
+        },
+        {
+          "text": "your",
+          "start": 109545,
+          "end": 109722,
+          "confidence": 0.99999225,
+          "speaker": "A"
+        },
+        {
+          "text": "true",
+          "start": 109722,
+          "end": 109882,
+          "confidence": 0.9999901,
+          "speaker": "A"
+        },
+        {
+          "text": "purpose,",
+          "start": 109962,
+          "end": 110363,
+          "confidence": 0.999962,
+          "speaker": "A"
+        },
+        {
+          "text": "and",
+          "start": 110443,
+          "end": 110507,
+          "confidence": 0.9999752,
+          "speaker": "A"
+        },
+        {
+          "text": "unlock",
+          "start": 110603,
+          "end": 111068,
+          "confidence": 0.99999356,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 111068,
+          "end": 111148,
+          "confidence": 0.9999366,
+          "speaker": "A"
+        },
+        {
+          "text": "part",
+          "start": 111148,
+          "end": 111340,
+          "confidence": 0.999984,
+          "speaker": "A"
+        },
+        {
+          "text": "of",
+          "start": 111340,
+          "end": 111469,
+          "confidence": 0.9999906,
+          "speaker": "A"
+        },
+        {
+          "text": "your",
+          "start": 111469,
+          "end": 111533,
+          "confidence": 0.999987,
+          "speaker": "A"
+        },
+        {
+          "text": "mind",
+          "start": 111533,
+          "end": 111805,
+          "confidence": 0.99999225,
+          "speaker": "A"
+        },
+        {
+          "text": "they've",
+          "start": 111805,
+          "end": 112046,
+          "confidence": 0.9999513,
+          "speaker": "A"
+        },
+        {
+          "text": "worked",
+          "start": 112046,
+          "end": 112270,
+          "confidence": 0.999987,
+          "speaker": "A"
+        },
+        {
+          "text": "so",
+          "start": 112270,
+          "end": 112510,
+          "confidence": 0.999972,
+          "speaker": "A"
+        },
+        {
+          "text": "hard",
+          "start": 112510,
+          "end": 112767,
+          "confidence": 0.9999814,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 112767,
+          "end": 112847,
+          "confidence": 0.9998958,
+          "speaker": "A"
+        },
+        {
+          "text": "silence.",
+          "start": 112847,
+          "end": 113360,
+          "confidence": 0.99920154,
+          "speaker": "A"
+        }
+      ]
+    }
+  ],
+  "confidence": 0.98347914,
+  "audio_duration": 114,
+  "punctuate": true,
+  "format_text": true,
+  "dual_channel": false,
+  "webhook_url": null,
+  "webhook_status_code": null,
+  "webhook_auth": false,
+  "webhook_auth_header_name": null,
+  "speed_boost": false,
+  "auto_highlights_result": null,
+  "auto_highlights": false,
+  "audio_start_from": null,
+  "audio_end_at": null,
+  "word_boost": [],
+  "boost_param": null,
+  "prompt": null,
+  "keyterms_prompt": [],
+  "filter_profanity": false,
+  "redact_pii": false,
+  "redact_pii_audio": false,
+  "redact_pii_audio_quality": null,
+  "redact_pii_audio_options": null,
+  "redact_pii_policies": null,
+  "redact_pii_sub": null,
+  "redact_static_entities": null,
+  "speaker_labels": true,
+  "speaker_options": {
+    "min_speakers_expected": null,
+    "max_speakers_expected": null,
+    "advanced_speaker_segmentation": true
+  },
+  "content_safety": false,
+  "iab_categories": false,
+  "content_safety_labels": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "iab_categories_result": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "language_detection": false,
+  "language_detection_options": null,
+  "language_detection_results": null,
+  "language_confidence_threshold": null,
+  "language_confidence": null,
+  "custom_spelling": null,
+  "throttled": false,
+  "auto_chapters": false,
+  "summarization": false,
+  "summary_type": null,
+  "summary_model": null,
+  "custom_topics": false,
+  "topics": [],
+  "speech_threshold": null,
+  "speech_model": null,
+  "speech_models": [
+    "universal-3-5-pro",
+    "universal-2"
+  ],
+  "speech_model_used": "universal-3-5-pro",
+  "temperature": null,
+  "remove_audio_tags": "all",
+  "chapters": null,
+  "disfluencies": false,
+  "entity_detection": false,
+  "sentiment_analysis": false,
+  "sentiment_analysis_results": null,
+  "entities": null,
+  "speakers_expected": null,
+  "summary": null,
+  "custom_topics_results": null,
+  "is_deleted": null,
+  "multichannel": null,
+  "project_id": 1431881,
+  "token_id": 1443892
+}

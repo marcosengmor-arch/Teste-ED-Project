@@ -1,0 +1,4667 @@
+{
+  "id": "c64d6556-7b71-4abc-9444-c10673ef0b87",
+  "language_model": "assemblyai_default",
+  "acoustic_model": "assemblyai_default",
+  "language_code": "en_us",
+  "speech_understanding": null,
+  "translated_texts": null,
+  "status": "completed",
+  "audio_url": "https://drive.usercontent.google.com/download?id=1M89CpNyx1kpofQk9iHrEZMjVPm2On7N0&export=download&confirm=t",
+  "text": "Financial literacy is one of the most important aspects of long-term prosperity. Understanding compound interest, asset allocation, and risk management forms the foundation of sound financial planning. Creating a budget and tracking expenses helps identify opportunities for savings and investment. Diversifying your portfolio across different assets ensures a well-balanced portfolio. Consulting with a qualified financial advisor can provide personalized guidance based on your specific goals and circumstances. Building an emergency fund provides a safety net for unexpected situations. Starting early and being consistent with contributions maximizes the power of compound growth over decades. Financial literacy is one of the most important steps to long-term prosperity. Understanding compound interest, asset allocation, and Risk management forms the foundation of sound financial planning. Creating a budget and tracking expenses helps simplify opportunities for savings and investment. Diversifying your portfolio across different asset classes reduces overall risk. Consulting with a qualified financial advisor can provide personalized guidance based on your specific goals and circumstances. Building an emergency fund provides a safety net for unexpected situations. Starting early and being consistent with contributions maximizes the power of compound growth over decades. Financial literacy is one of the most important factors in long-term prosperity. Understanding compound interest concepts and risk management forms the foundation of sound financial planning. Budgeting and tracking expenses helps simplify opportunities for savings and investment. investing. Diversifying your portfolio across different asset classes. Consulting with a qualified financial advisor can provide personalized guidance based on your specific goals and needs. Building an emergency fund provides a safety net for unexpected situations. Starting early and being consistent with contributions maximizes the power of compound interest over time. Financial literacy is one of the most important tools for long-term prosperity. Capital allocation and risk management form the foundation of sound financial planning. Creating a budget and tracking expenses helps prevent unwanted payments to savings and investments. Diversifying your portfolio across different asset classes reduces overall risk. Consulting with a qualified",
+  "words": [
+    {
+      "text": "Financial",
+      "start": 100,
+      "end": 480,
+      "confidence": 0.99719185,
+      "speaker": "A"
+    },
+    {
+      "text": "literacy",
+      "start": 480,
+      "end": 700,
+      "confidence": 0.99976283,
+      "speaker": "A"
+    },
+    {
+      "text": "is",
+      "start": 700,
+      "end": 960,
+      "confidence": 0.99540186,
+      "speaker": "A"
+    },
+    {
+      "text": "one",
+      "start": 960,
+      "end": 1040,
+      "confidence": 0.9983536,
+      "speaker": "A"
+    },
+    {
+      "text": "of",
+      "start": 1040,
+      "end": 1100,
+      "confidence": 0.99990976,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 1100,
+      "end": 1320,
+      "confidence": 0.99979764,
+      "speaker": "A"
+    },
+    {
+      "text": "most",
+      "start": 1320,
+      "end": 1340,
+      "confidence": 0.99873847,
+      "speaker": "A"
+    },
+    {
+      "text": "important",
+      "start": 2390,
+      "end": 2540,
+      "confidence": 0.9585426,
+      "speaker": "A"
+    },
+    {
+      "text": "aspects",
+      "start": 2540,
+      "end": 2600,
+      "confidence": 0.37654564,
+      "speaker": "A"
+    },
+    {
+      "text": "of",
+      "start": 2600,
+      "end": 3280,
+      "confidence": 0.78507555,
+      "speaker": "A"
+    },
+    {
+      "text": "long-term",
+      "start": 3280,
+      "end": 3380,
+      "confidence": 0.9090376,
+      "speaker": "A"
+    },
+    {
+      "text": "prosperity.",
+      "start": 3380,
+      "end": 3480,
+      "confidence": 0.9938518,
+      "speaker": "A"
+    },
+    {
+      "text": "Understanding",
+      "start": 3480,
+      "end": 3780,
+      "confidence": 0.89160997,
+      "speaker": "A"
+    },
+    {
+      "text": "compound",
+      "start": 3780,
+      "end": 4080,
+      "confidence": 0.4566829,
+      "speaker": "A"
+    },
+    {
+      "text": "interest,",
+      "start": 4080,
+      "end": 4460,
+      "confidence": 0.99787366,
+      "speaker": "A"
+    },
+    {
+      "text": "asset",
+      "start": 4460,
+      "end": 4680,
+      "confidence": 0.995933,
+      "speaker": "A"
+    },
+    {
+      "text": "allocation,",
+      "start": 4680,
+      "end": 5220,
+      "confidence": 0.99507385,
+      "speaker": "A"
+    },
+    {
+      "text": "and",
+      "start": 5220,
+      "end": 5300,
+      "confidence": 0.99709666,
+      "speaker": "A"
+    },
+    {
+      "text": "risk",
+      "start": 5300,
+      "end": 5440,
+      "confidence": 0.9996227,
+      "speaker": "A"
+    },
+    {
+      "text": "management",
+      "start": 5440,
+      "end": 5620,
+      "confidence": 0.99979264,
+      "speaker": "A"
+    },
+    {
+      "text": "forms",
+      "start": 5620,
+      "end": 5940,
+      "confidence": 0.98811394,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 5940,
+      "end": 6100,
+      "confidence": 0.9694458,
+      "speaker": "A"
+    },
+    {
+      "text": "foundation",
+      "start": 6100,
+      "end": 6320,
+      "confidence": 0.9939042,
+      "speaker": "A"
+    },
+    {
+      "text": "of",
+      "start": 6320,
+      "end": 6520,
+      "confidence": 0.6828882,
+      "speaker": "A"
+    },
+    {
+      "text": "sound",
+      "start": 6520,
+      "end": 6640,
+      "confidence": 0.9938763,
+      "speaker": "A"
+    },
+    {
+      "text": "financial",
+      "start": 6640,
+      "end": 6920,
+      "confidence": 0.9999502,
+      "speaker": "A"
+    },
+    {
+      "text": "planning.",
+      "start": 6920,
+      "end": 7420,
+      "confidence": 0.99889046,
+      "speaker": "A"
+    },
+    {
+      "text": "Creating",
+      "start": 7740,
+      "end": 8039,
+      "confidence": 0.92812866,
+      "speaker": "A"
+    },
+    {
+      "text": "a",
+      "start": 8039,
+      "end": 8260,
+      "confidence": 0.9998863,
+      "speaker": "A"
+    },
+    {
+      "text": "budget",
+      "start": 8260,
+      "end": 8300,
+      "confidence": 0.9998714,
+      "speaker": "A"
+    },
+    {
+      "text": "and",
+      "start": 8300,
+      "end": 8520,
+      "confidence": 0.9949484,
+      "speaker": "A"
+    },
+    {
+      "text": "tracking",
+      "start": 8520,
+      "end": 8660,
+      "confidence": 0.92715085,
+      "speaker": "A"
+    },
+    {
+      "text": "expenses",
+      "start": 8660,
+      "end": 8960,
+      "confidence": 0.50049347,
+      "speaker": "A"
+    },
+    {
+      "text": "helps",
+      "start": 8960,
+      "end": 9220,
+      "confidence": 0.99220204,
+      "speaker": "A"
+    },
+    {
+      "text": "identify",
+      "start": 9220,
+      "end": 9540,
+      "confidence": 0.99579465,
+      "speaker": "A"
+    },
+    {
+      "text": "opportunities",
+      "start": 9540,
+      "end": 10000,
+      "confidence": 0.9997955,
+      "speaker": "A"
+    },
+    {
+      "text": "for",
+      "start": 10000,
+      "end": 10180,
+      "confidence": 0.98609936,
+      "speaker": "A"
+    },
+    {
+      "text": "savings",
+      "start": 10180,
+      "end": 10380,
+      "confidence": 0.98480856,
+      "speaker": "A"
+    },
+    {
+      "text": "and",
+      "start": 10380,
+      "end": 10640,
+      "confidence": 0.9981365,
+      "speaker": "A"
+    },
+    {
+      "text": "investment.",
+      "start": 10640,
+      "end": 11440,
+      "confidence": 0.6465029,
+      "speaker": "A"
+    },
+    {
+      "text": "Diversifying",
+      "start": 11540,
+      "end": 11900,
+      "confidence": 0.8257018,
+      "speaker": "A"
+    },
+    {
+      "text": "your",
+      "start": 11900,
+      "end": 12180,
+      "confidence": 0.9996101,
+      "speaker": "A"
+    },
+    {
+      "text": "portfolio",
+      "start": 12180,
+      "end": 12400,
+      "confidence": 0.9999423,
+      "speaker": "A"
+    },
+    {
+      "text": "across",
+      "start": 12400,
+      "end": 12700,
+      "confidence": 0.9922523,
+      "speaker": "A"
+    },
+    {
+      "text": "different",
+      "start": 12700,
+      "end": 12960,
+      "confidence": 0.99950504,
+      "speaker": "A"
+    },
+    {
+      "text": "assets",
+      "start": 12960,
+      "end": 13580,
+      "confidence": 0.93100643,
+      "speaker": "A"
+    },
+    {
+      "text": "ensures",
+      "start": 13580,
+      "end": 13900,
+      "confidence": 0.52213603,
+      "speaker": "A"
+    },
+    {
+      "text": "a",
+      "start": 13900,
+      "end": 14080,
+      "confidence": 0.45884585,
+      "speaker": "A"
+    },
+    {
+      "text": "well-balanced",
+      "start": 14080,
+      "end": 14180,
+      "confidence": 0.808861,
+      "speaker": "A"
+    },
+    {
+      "text": "portfolio.",
+      "start": 14180,
+      "end": 14840,
+      "confidence": 0.68617123,
+      "speaker": "A"
+    },
+    {
+      "text": "Consulting",
+      "start": 14940,
+      "end": 15200,
+      "confidence": 0.88950133,
+      "speaker": "A"
+    },
+    {
+      "text": "with",
+      "start": 15200,
+      "end": 15340,
+      "confidence": 0.99986815,
+      "speaker": "A"
+    },
+    {
+      "text": "a",
+      "start": 15340,
+      "end": 15440,
+      "confidence": 0.9993795,
+      "speaker": "A"
+    },
+    {
+      "text": "qualified",
+      "start": 15440,
+      "end": 15620,
+      "confidence": 0.99989736,
+      "speaker": "A"
+    },
+    {
+      "text": "financial",
+      "start": 15620,
+      "end": 16079,
+      "confidence": 0.99997115,
+      "speaker": "A"
+    },
+    {
+      "text": "advisor",
+      "start": 16079,
+      "end": 16260,
+      "confidence": 0.99949324,
+      "speaker": "A"
+    },
+    {
+      "text": "can",
+      "start": 16260,
+      "end": 16520,
+      "confidence": 0.99856085,
+      "speaker": "A"
+    },
+    {
+      "text": "provide",
+      "start": 16520,
+      "end": 16640,
+      "confidence": 0.99983597,
+      "speaker": "A"
+    },
+    {
+      "text": "personalized",
+      "start": 16640,
+      "end": 17080,
+      "confidence": 0.9992355,
+      "speaker": "A"
+    },
+    {
+      "text": "guidance",
+      "start": 17080,
+      "end": 17340,
+      "confidence": 0.9988361,
+      "speaker": "A"
+    },
+    {
+      "text": "based",
+      "start": 17340,
+      "end": 17540,
+      "confidence": 0.99223024,
+      "speaker": "A"
+    },
+    {
+      "text": "on",
+      "start": 17540,
+      "end": 17680,
+      "confidence": 0.999926,
+      "speaker": "A"
+    },
+    {
+      "text": "your",
+      "start": 17680,
+      "end": 17840,
+      "confidence": 0.9988931,
+      "speaker": "A"
+    },
+    {
+      "text": "specific",
+      "start": 17840,
+      "end": 18060,
+      "confidence": 0.9904302,
+      "speaker": "A"
+    },
+    {
+      "text": "goals",
+      "start": 18060,
+      "end": 18300,
+      "confidence": 0.99899656,
+      "speaker": "A"
+    },
+    {
+      "text": "and",
+      "start": 18300,
+      "end": 18420,
+      "confidence": 0.99784565,
+      "speaker": "A"
+    },
+    {
+      "text": "circumstances.",
+      "start": 18420,
+      "end": 18970,
+      "confidence": 0.9772618,
+      "speaker": "A"
+    },
+    {
+      "text": "Building",
+      "start": 19560,
+      "end": 19660,
+      "confidence": 0.74503833,
+      "speaker": "A"
+    },
+    {
+      "text": "an",
+      "start": 19660,
+      "end": 19900,
+      "confidence": 0.9997477,
+      "speaker": "A"
+    },
+    {
+      "text": "emergency",
+      "start": 19900,
+      "end": 20100,
+      "confidence": 0.9999827,
+      "speaker": "A"
+    },
+    {
+      "text": "fund",
+      "start": 20100,
+      "end": 20360,
+      "confidence": 0.99999046,
+      "speaker": "A"
+    },
+    {
+      "text": "provides",
+      "start": 20360,
+      "end": 20620,
+      "confidence": 0.99913174,
+      "speaker": "A"
+    },
+    {
+      "text": "a",
+      "start": 20620,
+      "end": 20800,
+      "confidence": 0.9995473,
+      "speaker": "A"
+    },
+    {
+      "text": "safety",
+      "start": 20800,
+      "end": 20920,
+      "confidence": 0.99989545,
+      "speaker": "A"
+    },
+    {
+      "text": "net",
+      "start": 20920,
+      "end": 21040,
+      "confidence": 0.99994874,
+      "speaker": "A"
+    },
+    {
+      "text": "for",
+      "start": 21040,
+      "end": 21240,
+      "confidence": 0.99736077,
+      "speaker": "A"
+    },
+    {
+      "text": "unexpected",
+      "start": 21240,
+      "end": 21540,
+      "confidence": 0.99969923,
+      "speaker": "A"
+    },
+    {
+      "text": "situations.",
+      "start": 21540,
+      "end": 22040,
+      "confidence": 0.99588346,
+      "speaker": "A"
+    },
+    {
+      "text": "Starting",
+      "start": 22600,
+      "end": 22940,
+      "confidence": 0.7736673,
+      "speaker": "A"
+    },
+    {
+      "text": "early",
+      "start": 22940,
+      "end": 23180,
+      "confidence": 0.7567568,
+      "speaker": "A"
+    },
+    {
+      "text": "and",
+      "start": 23180,
+      "end": 23340,
+      "confidence": 0.6094351,
+      "speaker": "A"
+    },
+    {
+      "text": "being",
+      "start": 23340,
+      "end": 23480,
+      "confidence": 0.8689654,
+      "speaker": "A"
+    },
+    {
+      "text": "consistent",
+      "start": 23480,
+      "end": 23660,
+      "confidence": 0.99731535,
+      "speaker": "A"
+    },
+    {
+      "text": "with",
+      "start": 23660,
+      "end": 23940,
+      "confidence": 0.9858893,
+      "speaker": "A"
+    },
+    {
+      "text": "contributions",
+      "start": 23940,
+      "end": 24320,
+      "confidence": 0.9986737,
+      "speaker": "A"
+    },
+    {
+      "text": "maximizes",
+      "start": 24320,
+      "end": 24700,
+      "confidence": 0.99774367,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 24700,
+      "end": 25120,
+      "confidence": 0.9992254,
+      "speaker": "A"
+    },
+    {
+      "text": "power",
+      "start": 25120,
+      "end": 25220,
+      "confidence": 0.9997774,
+      "speaker": "A"
+    },
+    {
+      "text": "of",
+      "start": 25220,
+      "end": 25340,
+      "confidence": 0.9534712,
+      "speaker": "A"
+    },
+    {
+      "text": "compound",
+      "start": 25340,
+      "end": 25480,
+      "confidence": 0.9994085,
+      "speaker": "A"
+    },
+    {
+      "text": "growth",
+      "start": 25480,
+      "end": 25600,
+      "confidence": 0.99961674,
+      "speaker": "A"
+    },
+    {
+      "text": "over",
+      "start": 25600,
+      "end": 25860,
+      "confidence": 0.9638412,
+      "speaker": "A"
+    },
+    {
+      "text": "decades.",
+      "start": 25860,
+      "end": 26510,
+      "confidence": 0.8168045,
+      "speaker": "A"
+    },
+    {
+      "text": "Financial",
+      "start": 26900,
+      "end": 27100,
+      "confidence": 0.66600853,
+      "speaker": "A"
+    },
+    {
+      "text": "literacy",
+      "start": 27100,
+      "end": 27400,
+      "confidence": 0.9999447,
+      "speaker": "A"
+    },
+    {
+      "text": "is",
+      "start": 27400,
+      "end": 27560,
+      "confidence": 0.999124,
+      "speaker": "A"
+    },
+    {
+      "text": "one",
+      "start": 27560,
+      "end": 27740,
+      "confidence": 0.9984414,
+      "speaker": "A"
+    },
+    {
+      "text": "of",
+      "start": 27740,
+      "end": 27830,
+      "confidence": 0.9998665,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 27830,
+      "end": 27920,
+      "confidence": 0.9997876,
+      "speaker": "A"
+    },
+    {
+      "text": "most",
+      "start": 27920,
+      "end": 28060,
+      "confidence": 0.99951696,
+      "speaker": "A"
+    },
+    {
+      "text": "important",
+      "start": 28060,
+      "end": 28280,
+      "confidence": 0.9988788,
+      "speaker": "A"
+    },
+    {
+      "text": "steps",
+      "start": 28280,
+      "end": 28460,
+      "confidence": 0.9171499,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 28460,
+      "end": 28700,
+      "confidence": 0.746602,
+      "speaker": "A"
+    },
+    {
+      "text": "long-term",
+      "start": 28700,
+      "end": 28920,
+      "confidence": 0.99944025,
+      "speaker": "A"
+    },
+    {
+      "text": "prosperity.",
+      "start": 28920,
+      "end": 29440,
+      "confidence": 0.99775946,
+      "speaker": "A"
+    },
+    {
+      "text": "Understanding",
+      "start": 29440,
+      "end": 29980,
+      "confidence": 0.82516545,
+      "speaker": "A"
+    },
+    {
+      "text": "compound",
+      "start": 29980,
+      "end": 30000,
+      "confidence": 0.9995302,
+      "speaker": "A"
+    },
+    {
+      "text": "interest,",
+      "start": 30000,
+      "end": 30020,
+      "confidence": 0.9876971,
+      "speaker": "A"
+    },
+    {
+      "text": "asset",
+      "start": 30020,
+      "end": 30040,
+      "confidence": 0.9915018,
+      "speaker": "A"
+    },
+    {
+      "text": "allocation,",
+      "start": 30040,
+      "end": 30060,
+      "confidence": 0.996977,
+      "speaker": "A"
+    },
+    {
+      "text": "and",
+      "start": 30060,
+      "end": 30080,
+      "confidence": 0.8729268,
+      "speaker": "A"
+    },
+    {
+      "text": "Risk",
+      "start": 31900,
+      "end": 32080,
+      "confidence": 0.653038,
+      "speaker": "A"
+    },
+    {
+      "text": "management",
+      "start": 32080,
+      "end": 32340,
+      "confidence": 0.9638791,
+      "speaker": "A"
+    },
+    {
+      "text": "forms",
+      "start": 32340,
+      "end": 32580,
+      "confidence": 0.99881494,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 32580,
+      "end": 32780,
+      "confidence": 0.9991572,
+      "speaker": "A"
+    },
+    {
+      "text": "foundation",
+      "start": 32780,
+      "end": 32980,
+      "confidence": 0.9946509,
+      "speaker": "A"
+    },
+    {
+      "text": "of",
+      "start": 32980,
+      "end": 33320,
+      "confidence": 0.9968329,
+      "speaker": "A"
+    },
+    {
+      "text": "sound",
+      "start": 33320,
+      "end": 33340,
+      "confidence": 0.8742705,
+      "speaker": "A"
+    },
+    {
+      "text": "financial",
+      "start": 33340,
+      "end": 33600,
+      "confidence": 0.999358,
+      "speaker": "A"
+    },
+    {
+      "text": "planning.",
+      "start": 33600,
+      "end": 34200,
+      "confidence": 0.9870717,
+      "speaker": "A"
+    },
+    {
+      "text": "Creating",
+      "start": 34480,
+      "end": 34700,
+      "confidence": 0.99343324,
+      "speaker": "A"
+    },
+    {
+      "text": "a",
+      "start": 34700,
+      "end": 34880,
+      "confidence": 0.9999584,
+      "speaker": "A"
+    },
+    {
+      "text": "budget",
+      "start": 34880,
+      "end": 34960,
+      "confidence": 0.9999846,
+      "speaker": "A"
+    },
+    {
+      "text": "and",
+      "start": 34960,
+      "end": 35200,
+      "confidence": 0.9994325,
+      "speaker": "A"
+    },
+    {
+      "text": "tracking",
+      "start": 35200,
+      "end": 35320,
+      "confidence": 0.9999858,
+      "speaker": "A"
+    },
+    {
+      "text": "expenses",
+      "start": 35320,
+      "end": 35620,
+      "confidence": 0.9991561,
+      "speaker": "A"
+    },
+    {
+      "text": "helps",
+      "start": 35620,
+      "end": 35880,
+      "confidence": 0.9906571,
+      "speaker": "A"
+    },
+    {
+      "text": "simplify",
+      "start": 35880,
+      "end": 36240,
+      "confidence": 0.5801317,
+      "speaker": "A"
+    },
+    {
+      "text": "opportunities",
+      "start": 36240,
+      "end": 36660,
+      "confidence": 0.9087657,
+      "speaker": "A"
+    },
+    {
+      "text": "for",
+      "start": 36660,
+      "end": 36880,
+      "confidence": 0.98489666,
+      "speaker": "A"
+    },
+    {
+      "text": "savings",
+      "start": 36880,
+      "end": 37060,
+      "confidence": 0.8030784,
+      "speaker": "A"
+    },
+    {
+      "text": "and",
+      "start": 37060,
+      "end": 37240,
+      "confidence": 0.9964876,
+      "speaker": "A"
+    },
+    {
+      "text": "investment.",
+      "start": 37240,
+      "end": 38020,
+      "confidence": 0.62096196,
+      "speaker": "A"
+    },
+    {
+      "text": "Diversifying",
+      "start": 38020,
+      "end": 38540,
+      "confidence": 0.9958023,
+      "speaker": "A"
+    },
+    {
+      "text": "your",
+      "start": 38540,
+      "end": 38800,
+      "confidence": 0.9998234,
+      "speaker": "A"
+    },
+    {
+      "text": "portfolio",
+      "start": 38800,
+      "end": 39040,
+      "confidence": 0.9999896,
+      "speaker": "A"
+    },
+    {
+      "text": "across",
+      "start": 39040,
+      "end": 39360,
+      "confidence": 0.9996018,
+      "speaker": "A"
+    },
+    {
+      "text": "different",
+      "start": 39360,
+      "end": 39600,
+      "confidence": 0.99997807,
+      "speaker": "A"
+    },
+    {
+      "text": "asset",
+      "start": 39600,
+      "end": 39840,
+      "confidence": 0.99941576,
+      "speaker": "A"
+    },
+    {
+      "text": "classes",
+      "start": 39840,
+      "end": 39980,
+      "confidence": 0.97002774,
+      "speaker": "A"
+    },
+    {
+      "text": "reduces",
+      "start": 39980,
+      "end": 40340,
+      "confidence": 0.988891,
+      "speaker": "A"
+    },
+    {
+      "text": "overall",
+      "start": 40340,
+      "end": 40720,
+      "confidence": 0.99977535,
+      "speaker": "A"
+    },
+    {
+      "text": "risk.",
+      "start": 40720,
+      "end": 41520,
+      "confidence": 0.9995108,
+      "speaker": "A"
+    },
+    {
+      "text": "Consulting",
+      "start": 41520,
+      "end": 41860,
+      "confidence": 0.99890924,
+      "speaker": "A"
+    },
+    {
+      "text": "with",
+      "start": 41860,
+      "end": 41960,
+      "confidence": 0.9999763,
+      "speaker": "A"
+    },
+    {
+      "text": "a",
+      "start": 41960,
+      "end": 42080,
+      "confidence": 0.99992967,
+      "speaker": "A"
+    },
+    {
+      "text": "qualified",
+      "start": 42080,
+      "end": 42360,
+      "confidence": 0.99980253,
+      "speaker": "A"
+    },
+    {
+      "text": "financial",
+      "start": 42360,
+      "end": 42660,
+      "confidence": 0.9999913,
+      "speaker": "A"
+    },
+    {
+      "text": "advisor",
+      "start": 42660,
+      "end": 42900,
+      "confidence": 0.9990534,
+      "speaker": "A"
+    },
+    {
+      "text": "can",
+      "start": 42900,
+      "end": 43200,
+      "confidence": 0.9987639,
+      "speaker": "A"
+    },
+    {
+      "text": "provide",
+      "start": 43200,
+      "end": 43300,
+      "confidence": 0.99999464,
+      "speaker": "A"
+    },
+    {
+      "text": "personalized",
+      "start": 43300,
+      "end": 43680,
+      "confidence": 0.9999217,
+      "speaker": "A"
+    },
+    {
+      "text": "guidance",
+      "start": 43680,
+      "end": 44020,
+      "confidence": 0.9915925,
+      "speaker": "A"
+    },
+    {
+      "text": "based",
+      "start": 44020,
+      "end": 44240,
+      "confidence": 0.9999715,
+      "speaker": "A"
+    },
+    {
+      "text": "on",
+      "start": 44240,
+      "end": 44380,
+      "confidence": 0.9999701,
+      "speaker": "A"
+    },
+    {
+      "text": "your",
+      "start": 44380,
+      "end": 44500,
+      "confidence": 0.99994135,
+      "speaker": "A"
+    },
+    {
+      "text": "specific",
+      "start": 44500,
+      "end": 44720,
+      "confidence": 0.9992642,
+      "speaker": "A"
+    },
+    {
+      "text": "goals",
+      "start": 44720,
+      "end": 44940,
+      "confidence": 0.9999225,
+      "speaker": "A"
+    },
+    {
+      "text": "and",
+      "start": 44940,
+      "end": 45100,
+      "confidence": 0.99994195,
+      "speaker": "A"
+    },
+    {
+      "text": "circumstances.",
+      "start": 45100,
+      "end": 45650,
+      "confidence": 0.9978082,
+      "speaker": "A"
+    },
+    {
+      "text": "Building",
+      "start": 46200,
+      "end": 46320,
+      "confidence": 0.99564976,
+      "speaker": "A"
+    },
+    {
+      "text": "an",
+      "start": 46320,
+      "end": 46480,
+      "confidence": 0.9999783,
+      "speaker": "A"
+    },
+    {
+      "text": "emergency",
+      "start": 46480,
+      "end": 46740,
+      "confidence": 0.99999285,
+      "speaker": "A"
+    },
+    {
+      "text": "fund",
+      "start": 46740,
+      "end": 47020,
+      "confidence": 0.99999547,
+      "speaker": "A"
+    },
+    {
+      "text": "provides",
+      "start": 47020,
+      "end": 47260,
+      "confidence": 0.9999639,
+      "speaker": "A"
+    },
+    {
+      "text": "a",
+      "start": 47260,
+      "end": 47440,
+      "confidence": 0.9997907,
+      "speaker": "A"
+    },
+    {
+      "text": "safety",
+      "start": 47440,
+      "end": 47580,
+      "confidence": 0.9999306,
+      "speaker": "A"
+    },
+    {
+      "text": "net",
+      "start": 47580,
+      "end": 47720,
+      "confidence": 0.9991553,
+      "speaker": "A"
+    },
+    {
+      "text": "for",
+      "start": 47720,
+      "end": 47900,
+      "confidence": 0.999416,
+      "speaker": "A"
+    },
+    {
+      "text": "unexpected",
+      "start": 47900,
+      "end": 48180,
+      "confidence": 0.99996686,
+      "speaker": "A"
+    },
+    {
+      "text": "situations.",
+      "start": 48180,
+      "end": 48630,
+      "confidence": 0.9998134,
+      "speaker": "A"
+    },
+    {
+      "text": "Starting",
+      "start": 49320,
+      "end": 49580,
+      "confidence": 0.99407613,
+      "speaker": "A"
+    },
+    {
+      "text": "early",
+      "start": 49580,
+      "end": 49800,
+      "confidence": 0.9995011,
+      "speaker": "A"
+    },
+    {
+      "text": "and",
+      "start": 49800,
+      "end": 49960,
+      "confidence": 0.9763825,
+      "speaker": "A"
+    },
+    {
+      "text": "being",
+      "start": 49960,
+      "end": 50060,
+      "confidence": 0.6838686,
+      "speaker": "A"
+    },
+    {
+      "text": "consistent",
+      "start": 50060,
+      "end": 50260,
+      "confidence": 0.9993006,
+      "speaker": "A"
+    },
+    {
+      "text": "with",
+      "start": 50260,
+      "end": 50720,
+      "confidence": 0.9951434,
+      "speaker": "A"
+    },
+    {
+      "text": "contributions",
+      "start": 50720,
+      "end": 50900,
+      "confidence": 0.98598796,
+      "speaker": "A"
+    },
+    {
+      "text": "maximizes",
+      "start": 50900,
+      "end": 51380,
+      "confidence": 0.99925727,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 51380,
+      "end": 51660,
+      "confidence": 0.9998011,
+      "speaker": "A"
+    },
+    {
+      "text": "power",
+      "start": 51660,
+      "end": 51760,
+      "confidence": 0.9999932,
+      "speaker": "A"
+    },
+    {
+      "text": "of",
+      "start": 51760,
+      "end": 52160,
+      "confidence": 0.9999548,
+      "speaker": "A"
+    },
+    {
+      "text": "compound",
+      "start": 52160,
+      "end": 52200,
+      "confidence": 0.9995283,
+      "speaker": "A"
+    },
+    {
+      "text": "growth",
+      "start": 52200,
+      "end": 52240,
+      "confidence": 0.9996873,
+      "speaker": "A"
+    },
+    {
+      "text": "over",
+      "start": 52240,
+      "end": 52520,
+      "confidence": 0.99971145,
+      "speaker": "A"
+    },
+    {
+      "text": "decades.",
+      "start": 52520,
+      "end": 53220,
+      "confidence": 0.9890639,
+      "speaker": "A"
+    },
+    {
+      "text": "Financial",
+      "start": 53540,
+      "end": 53780,
+      "confidence": 0.999752,
+      "speaker": "A"
+    },
+    {
+      "text": "literacy",
+      "start": 53780,
+      "end": 54040,
+      "confidence": 0.99996567,
+      "speaker": "A"
+    },
+    {
+      "text": "is",
+      "start": 54040,
+      "end": 54260,
+      "confidence": 0.9417423,
+      "speaker": "A"
+    },
+    {
+      "text": "one",
+      "start": 54260,
+      "end": 54340,
+      "confidence": 0.9988808,
+      "speaker": "A"
+    },
+    {
+      "text": "of",
+      "start": 54340,
+      "end": 54400,
+      "confidence": 0.9999616,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 54400,
+      "end": 54460,
+      "confidence": 0.9999157,
+      "speaker": "A"
+    },
+    {
+      "text": "most",
+      "start": 54460,
+      "end": 54600,
+      "confidence": 0.9999869,
+      "speaker": "A"
+    },
+    {
+      "text": "important",
+      "start": 54600,
+      "end": 55100,
+      "confidence": 0.9995419,
+      "speaker": "A"
+    },
+    {
+      "text": "factors",
+      "start": 55100,
+      "end": 55240,
+      "confidence": 0.68907565,
+      "speaker": "A"
+    },
+    {
+      "text": "in",
+      "start": 55240,
+      "end": 55380,
+      "confidence": 0.87214243,
+      "speaker": "A"
+    },
+    {
+      "text": "long-term",
+      "start": 55380,
+      "end": 55600,
+      "confidence": 0.9995644,
+      "speaker": "A"
+    },
+    {
+      "text": "prosperity.",
+      "start": 55600,
+      "end": 56150,
+      "confidence": 0.99859667,
+      "speaker": "A"
+    },
+    {
+      "text": "Understanding",
+      "start": 56600,
+      "end": 57000,
+      "confidence": 0.99983203,
+      "speaker": "A"
+    },
+    {
+      "text": "compound",
+      "start": 57000,
+      "end": 57420,
+      "confidence": 0.99486214,
+      "speaker": "A"
+    },
+    {
+      "text": "interest",
+      "start": 57420,
+      "end": 57580,
+      "confidence": 0.99994004,
+      "speaker": "A"
+    },
+    {
+      "text": "concepts",
+      "start": 57580,
+      "end": 58000,
+      "confidence": 0.9633293,
+      "speaker": "A"
+    },
+    {
+      "text": "and",
+      "start": 58000,
+      "end": 58540,
+      "confidence": 0.9957712,
+      "speaker": "A"
+    },
+    {
+      "text": "risk",
+      "start": 58540,
+      "end": 58740,
+      "confidence": 0.99919885,
+      "speaker": "A"
+    },
+    {
+      "text": "management",
+      "start": 58740,
+      "end": 59020,
+      "confidence": 0.99971443,
+      "speaker": "A"
+    },
+    {
+      "text": "forms",
+      "start": 59020,
+      "end": 59280,
+      "confidence": 0.99888664,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 59280,
+      "end": 59440,
+      "confidence": 0.99973744,
+      "speaker": "A"
+    },
+    {
+      "text": "foundation",
+      "start": 59440,
+      "end": 59680,
+      "confidence": 0.9935869,
+      "speaker": "A"
+    },
+    {
+      "text": "of",
+      "start": 59680,
+      "end": 59840,
+      "confidence": 0.9966558,
+      "speaker": "A"
+    },
+    {
+      "text": "sound",
+      "start": 59840,
+      "end": 59980,
+      "confidence": 0.9976922,
+      "speaker": "A"
+    },
+    {
+      "text": "financial",
+      "start": 59980,
+      "end": 60220,
+      "confidence": 0.99978036,
+      "speaker": "A"
+    },
+    {
+      "text": "planning.",
+      "start": 60220,
+      "end": 60820,
+      "confidence": 0.99935985,
+      "speaker": "A"
+    },
+    {
+      "text": "Budgeting",
+      "start": 61420,
+      "end": 61880,
+      "confidence": 0.9938531,
+      "speaker": "A"
+    },
+    {
+      "text": "and",
+      "start": 61880,
+      "end": 61900,
+      "confidence": 0.9904874,
+      "speaker": "A"
+    },
+    {
+      "text": "tracking",
+      "start": 61900,
+      "end": 61920,
+      "confidence": 0.99993825,
+      "speaker": "A"
+    },
+    {
+      "text": "expenses",
+      "start": 61920,
+      "end": 61940,
+      "confidence": 0.99977666,
+      "speaker": "A"
+    },
+    {
+      "text": "helps",
+      "start": 61940,
+      "end": 61960,
+      "confidence": 0.9964259,
+      "speaker": "A"
+    },
+    {
+      "text": "simplify",
+      "start": 61960,
+      "end": 61980,
+      "confidence": 0.9138628,
+      "speaker": "A"
+    },
+    {
+      "text": "opportunities",
+      "start": 61980,
+      "end": 62000,
+      "confidence": 0.99243826,
+      "speaker": "A"
+    },
+    {
+      "text": "for",
+      "start": 62000,
+      "end": 62020,
+      "confidence": 0.9990557,
+      "speaker": "A"
+    },
+    {
+      "text": "savings",
+      "start": 62020,
+      "end": 62040,
+      "confidence": 0.91070426,
+      "speaker": "A"
+    },
+    {
+      "text": "and",
+      "start": 62040,
+      "end": 62060,
+      "confidence": 0.49065885,
+      "speaker": "A"
+    },
+    {
+      "text": "investment.",
+      "start": 62060,
+      "end": 62080,
+      "confidence": 0.77877396,
+      "speaker": "A"
+    },
+    {
+      "text": "investing.",
+      "start": 64250,
+      "end": 64700,
+      "confidence": 0.38260144,
+      "speaker": "A"
+    },
+    {
+      "text": "Diversifying",
+      "start": 64700,
+      "end": 65180,
+      "confidence": 0.9178751,
+      "speaker": "A"
+    },
+    {
+      "text": "your",
+      "start": 65180,
+      "end": 65440,
+      "confidence": 0.9992053,
+      "speaker": "A"
+    },
+    {
+      "text": "portfolio",
+      "start": 65440,
+      "end": 65740,
+      "confidence": 0.99991643,
+      "speaker": "A"
+    },
+    {
+      "text": "across",
+      "start": 65740,
+      "end": 66040,
+      "confidence": 0.9994197,
+      "speaker": "A"
+    },
+    {
+      "text": "different",
+      "start": 66040,
+      "end": 66300,
+      "confidence": 0.99969256,
+      "speaker": "A"
+    },
+    {
+      "text": "asset",
+      "start": 66300,
+      "end": 66500,
+      "confidence": 0.9964181,
+      "speaker": "A"
+    },
+    {
+      "text": "classes.",
+      "start": 66500,
+      "end": 67250,
+      "confidence": 0.8707266,
+      "speaker": "A"
+    },
+    {
+      "text": "Consulting",
+      "start": 68160,
+      "end": 68500,
+      "confidence": 0.9469822,
+      "speaker": "A"
+    },
+    {
+      "text": "with",
+      "start": 68500,
+      "end": 68660,
+      "confidence": 0.9998555,
+      "speaker": "A"
+    },
+    {
+      "text": "a",
+      "start": 68660,
+      "end": 68780,
+      "confidence": 0.99965906,
+      "speaker": "A"
+    },
+    {
+      "text": "qualified",
+      "start": 68780,
+      "end": 68960,
+      "confidence": 0.9998933,
+      "speaker": "A"
+    },
+    {
+      "text": "financial",
+      "start": 68960,
+      "end": 69360,
+      "confidence": 0.99995446,
+      "speaker": "A"
+    },
+    {
+      "text": "advisor",
+      "start": 69360,
+      "end": 69600,
+      "confidence": 0.9757092,
+      "speaker": "A"
+    },
+    {
+      "text": "can",
+      "start": 69600,
+      "end": 69880,
+      "confidence": 0.9962017,
+      "speaker": "A"
+    },
+    {
+      "text": "provide",
+      "start": 69880,
+      "end": 70000,
+      "confidence": 0.9998989,
+      "speaker": "A"
+    },
+    {
+      "text": "personalized",
+      "start": 70000,
+      "end": 70360,
+      "confidence": 0.93019557,
+      "speaker": "A"
+    },
+    {
+      "text": "guidance",
+      "start": 70360,
+      "end": 70640,
+      "confidence": 0.9953342,
+      "speaker": "A"
+    },
+    {
+      "text": "based",
+      "start": 70640,
+      "end": 70860,
+      "confidence": 0.9998022,
+      "speaker": "A"
+    },
+    {
+      "text": "on",
+      "start": 70860,
+      "end": 71000,
+      "confidence": 0.9999132,
+      "speaker": "A"
+    },
+    {
+      "text": "your",
+      "start": 71000,
+      "end": 71180,
+      "confidence": 0.99952567,
+      "speaker": "A"
+    },
+    {
+      "text": "specific",
+      "start": 71180,
+      "end": 71360,
+      "confidence": 0.9997651,
+      "speaker": "A"
+    },
+    {
+      "text": "goals",
+      "start": 71360,
+      "end": 71640,
+      "confidence": 0.9911567,
+      "speaker": "A"
+    },
+    {
+      "text": "and",
+      "start": 71640,
+      "end": 72120,
+      "confidence": 0.7981477,
+      "speaker": "A"
+    },
+    {
+      "text": "needs.",
+      "start": 72120,
+      "end": 72680,
+      "confidence": 0.61512744,
+      "speaker": "A"
+    },
+    {
+      "text": "Building",
+      "start": 72680,
+      "end": 72980,
+      "confidence": 0.9783335,
+      "speaker": "A"
+    },
+    {
+      "text": "an",
+      "start": 72980,
+      "end": 73240,
+      "confidence": 0.9997137,
+      "speaker": "A"
+    },
+    {
+      "text": "emergency",
+      "start": 73240,
+      "end": 73400,
+      "confidence": 0.99994874,
+      "speaker": "A"
+    },
+    {
+      "text": "fund",
+      "start": 73400,
+      "end": 73680,
+      "confidence": 0.9999691,
+      "speaker": "A"
+    },
+    {
+      "text": "provides",
+      "start": 73680,
+      "end": 73900,
+      "confidence": 0.9911237,
+      "speaker": "A"
+    },
+    {
+      "text": "a",
+      "start": 73900,
+      "end": 74140,
+      "confidence": 0.919637,
+      "speaker": "A"
+    },
+    {
+      "text": "safety",
+      "start": 74140,
+      "end": 74240,
+      "confidence": 0.9964604,
+      "speaker": "A"
+    },
+    {
+      "text": "net",
+      "start": 74240,
+      "end": 74560,
+      "confidence": 0.99986076,
+      "speaker": "A"
+    },
+    {
+      "text": "for",
+      "start": 74560,
+      "end": 74740,
+      "confidence": 0.5738538,
+      "speaker": "A"
+    },
+    {
+      "text": "unexpected",
+      "start": 74740,
+      "end": 74900,
+      "confidence": 0.9667232,
+      "speaker": "A"
+    },
+    {
+      "text": "situations.",
+      "start": 74900,
+      "end": 75350,
+      "confidence": 0.99838394,
+      "speaker": "A"
+    },
+    {
+      "text": "Starting",
+      "start": 76120,
+      "end": 76240,
+      "confidence": 0.8978388,
+      "speaker": "A"
+    },
+    {
+      "text": "early",
+      "start": 76240,
+      "end": 76460,
+      "confidence": 0.8277635,
+      "speaker": "A"
+    },
+    {
+      "text": "and",
+      "start": 76460,
+      "end": 76580,
+      "confidence": 0.65000576,
+      "speaker": "A"
+    },
+    {
+      "text": "being",
+      "start": 76580,
+      "end": 76760,
+      "confidence": 0.9957587,
+      "speaker": "A"
+    },
+    {
+      "text": "consistent",
+      "start": 76760,
+      "end": 76980,
+      "confidence": 0.99936754,
+      "speaker": "A"
+    },
+    {
+      "text": "with",
+      "start": 76980,
+      "end": 77260,
+      "confidence": 0.9906076,
+      "speaker": "A"
+    },
+    {
+      "text": "contributions",
+      "start": 77260,
+      "end": 77580,
+      "confidence": 0.45437753,
+      "speaker": "A"
+    },
+    {
+      "text": "maximizes",
+      "start": 77580,
+      "end": 78040,
+      "confidence": 0.998458,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 78040,
+      "end": 78340,
+      "confidence": 0.9834616,
+      "speaker": "A"
+    },
+    {
+      "text": "power",
+      "start": 78340,
+      "end": 78420,
+      "confidence": 0.9999404,
+      "speaker": "A"
+    },
+    {
+      "text": "of",
+      "start": 78420,
+      "end": 78840,
+      "confidence": 0.9952442,
+      "speaker": "A"
+    },
+    {
+      "text": "compound",
+      "start": 78840,
+      "end": 78920,
+      "confidence": 0.93387055,
+      "speaker": "A"
+    },
+    {
+      "text": "interest",
+      "start": 78920,
+      "end": 79000,
+      "confidence": 0.98925555,
+      "speaker": "A"
+    },
+    {
+      "text": "over",
+      "start": 79000,
+      "end": 79100,
+      "confidence": 0.97164977,
+      "speaker": "A"
+    },
+    {
+      "text": "time.",
+      "start": 79100,
+      "end": 79750,
+      "confidence": 0.8510905,
+      "speaker": "A"
+    },
+    {
+      "text": "Financial",
+      "start": 80010,
+      "end": 80460,
+      "confidence": 0.78345865,
+      "speaker": "A"
+    },
+    {
+      "text": "literacy",
+      "start": 80460,
+      "end": 80720,
+      "confidence": 0.9998338,
+      "speaker": "A"
+    },
+    {
+      "text": "is",
+      "start": 80720,
+      "end": 80900,
+      "confidence": 0.9994093,
+      "speaker": "A"
+    },
+    {
+      "text": "one",
+      "start": 80900,
+      "end": 81040,
+      "confidence": 0.9998747,
+      "speaker": "A"
+    },
+    {
+      "text": "of",
+      "start": 81040,
+      "end": 81060,
+      "confidence": 0.99993336,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 81060,
+      "end": 81220,
+      "confidence": 0.99980384,
+      "speaker": "A"
+    },
+    {
+      "text": "most",
+      "start": 81220,
+      "end": 81440,
+      "confidence": 0.99991536,
+      "speaker": "A"
+    },
+    {
+      "text": "important",
+      "start": 81440,
+      "end": 81560,
+      "confidence": 0.9997079,
+      "speaker": "A"
+    },
+    {
+      "text": "tools",
+      "start": 81560,
+      "end": 81800,
+      "confidence": 0.89312685,
+      "speaker": "A"
+    },
+    {
+      "text": "for",
+      "start": 81800,
+      "end": 81980,
+      "confidence": 0.9989925,
+      "speaker": "A"
+    },
+    {
+      "text": "long-term",
+      "start": 81980,
+      "end": 82280,
+      "confidence": 0.999835,
+      "speaker": "A"
+    },
+    {
+      "text": "prosperity.",
+      "start": 82280,
+      "end": 82880,
+      "confidence": 0.9987803,
+      "speaker": "A"
+    },
+    {
+      "text": "Capital",
+      "start": 83860,
+      "end": 84560,
+      "confidence": 0.14232016,
+      "speaker": "A"
+    },
+    {
+      "text": "allocation",
+      "start": 84560,
+      "end": 84920,
+      "confidence": 0.96075803,
+      "speaker": "A"
+    },
+    {
+      "text": "and",
+      "start": 84920,
+      "end": 85200,
+      "confidence": 0.9941356,
+      "speaker": "A"
+    },
+    {
+      "text": "risk",
+      "start": 85200,
+      "end": 85420,
+      "confidence": 0.9997956,
+      "speaker": "A"
+    },
+    {
+      "text": "management",
+      "start": 85420,
+      "end": 85580,
+      "confidence": 0.99943894,
+      "speaker": "A"
+    },
+    {
+      "text": "form",
+      "start": 85580,
+      "end": 85860,
+      "confidence": 0.53718543,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 85860,
+      "end": 86040,
+      "confidence": 0.9997565,
+      "speaker": "A"
+    },
+    {
+      "text": "foundation",
+      "start": 86040,
+      "end": 86320,
+      "confidence": 0.99899346,
+      "speaker": "A"
+    },
+    {
+      "text": "of",
+      "start": 86320,
+      "end": 86540,
+      "confidence": 0.99659234,
+      "speaker": "A"
+    },
+    {
+      "text": "sound",
+      "start": 86540,
+      "end": 86600,
+      "confidence": 0.9962501,
+      "speaker": "A"
+    },
+    {
+      "text": "financial",
+      "start": 86600,
+      "end": 86880,
+      "confidence": 0.9999615,
+      "speaker": "A"
+    },
+    {
+      "text": "planning.",
+      "start": 86880,
+      "end": 87580,
+      "confidence": 0.99704987,
+      "speaker": "A"
+    },
+    {
+      "text": "Creating",
+      "start": 87840,
+      "end": 88000,
+      "confidence": 0.99757785,
+      "speaker": "A"
+    },
+    {
+      "text": "a",
+      "start": 88000,
+      "end": 88160,
+      "confidence": 0.9967064,
+      "speaker": "A"
+    },
+    {
+      "text": "budget",
+      "start": 88160,
+      "end": 88280,
+      "confidence": 0.9994375,
+      "speaker": "A"
+    },
+    {
+      "text": "and",
+      "start": 88280,
+      "end": 88480,
+      "confidence": 0.9976399,
+      "speaker": "A"
+    },
+    {
+      "text": "tracking",
+      "start": 88480,
+      "end": 88620,
+      "confidence": 0.98541784,
+      "speaker": "A"
+    },
+    {
+      "text": "expenses",
+      "start": 88620,
+      "end": 88940,
+      "confidence": 0.9801993,
+      "speaker": "A"
+    },
+    {
+      "text": "helps",
+      "start": 88940,
+      "end": 89200,
+      "confidence": 0.6754921,
+      "speaker": "A"
+    },
+    {
+      "text": "prevent",
+      "start": 89200,
+      "end": 89420,
+      "confidence": 0.6908463,
+      "speaker": "A"
+    },
+    {
+      "text": "unwanted",
+      "start": 89420,
+      "end": 89700,
+      "confidence": 0.62955546,
+      "speaker": "A"
+    },
+    {
+      "text": "payments",
+      "start": 89700,
+      "end": 89980,
+      "confidence": 0.69813854,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 89980,
+      "end": 90140,
+      "confidence": 0.6892623,
+      "speaker": "A"
+    },
+    {
+      "text": "savings",
+      "start": 90140,
+      "end": 90340,
+      "confidence": 0.995546,
+      "speaker": "A"
+    },
+    {
+      "text": "and",
+      "start": 90340,
+      "end": 90560,
+      "confidence": 0.98880833,
+      "speaker": "A"
+    },
+    {
+      "text": "investments.",
+      "start": 90560,
+      "end": 91110,
+      "confidence": 0.9919221,
+      "speaker": "A"
+    },
+    {
+      "text": "Diversifying",
+      "start": 91540,
+      "end": 91820,
+      "confidence": 0.9923623,
+      "speaker": "A"
+    },
+    {
+      "text": "your",
+      "start": 91820,
+      "end": 92100,
+      "confidence": 0.9996979,
+      "speaker": "A"
+    },
+    {
+      "text": "portfolio",
+      "start": 92100,
+      "end": 92400,
+      "confidence": 0.9999137,
+      "speaker": "A"
+    },
+    {
+      "text": "across",
+      "start": 92400,
+      "end": 92660,
+      "confidence": 0.99958485,
+      "speaker": "A"
+    },
+    {
+      "text": "different",
+      "start": 92660,
+      "end": 92880,
+      "confidence": 0.9976452,
+      "speaker": "A"
+    },
+    {
+      "text": "asset",
+      "start": 92880,
+      "end": 93120,
+      "confidence": 0.9996687,
+      "speaker": "A"
+    },
+    {
+      "text": "classes",
+      "start": 93120,
+      "end": 93300,
+      "confidence": 0.9996793,
+      "speaker": "A"
+    },
+    {
+      "text": "reduces",
+      "start": 93300,
+      "end": 93620,
+      "confidence": 0.95592815,
+      "speaker": "A"
+    },
+    {
+      "text": "overall",
+      "start": 93620,
+      "end": 93780,
+      "confidence": 0.61701673,
+      "speaker": "A"
+    },
+    {
+      "text": "risk.",
+      "start": 93780,
+      "end": 93800,
+      "confidence": 0.9910643,
+      "speaker": "A"
+    },
+    {
+      "text": "Consulting",
+      "start": 93800,
+      "end": 93820,
+      "confidence": 0.9993063,
+      "speaker": "A"
+    },
+    {
+      "text": "with",
+      "start": 93820,
+      "end": 93840,
+      "confidence": 0.9995902,
+      "speaker": "A"
+    },
+    {
+      "text": "a",
+      "start": 93840,
+      "end": 93860,
+      "confidence": 0.9992454,
+      "speaker": "A"
+    },
+    {
+      "text": "qualified",
+      "start": 93860,
+      "end": 93880,
+      "confidence": 0.9993949,
+      "speaker": "A"
+    }
+  ],
+  "utterances": [
+    {
+      "speaker": "A",
+      "text": "Financial literacy is one of the most important aspects of long-term prosperity. Understanding compound interest, asset allocation, and risk management forms the foundation of sound financial planning. Creating a budget and tracking expenses helps identify opportunities for savings and investment. Diversifying your portfolio across different assets ensures a well-balanced portfolio. Consulting with a qualified financial advisor can provide personalized guidance based on your specific goals and circumstances. Building an emergency fund provides a safety net for unexpected situations. Starting early and being consistent with contributions maximizes the power of compound growth over decades. Financial literacy is one of the most important steps to long-term prosperity. Understanding compound interest, asset allocation, and Risk management forms the foundation of sound financial planning. Creating a budget and tracking expenses helps simplify opportunities for savings and investment. Diversifying your portfolio across different asset classes reduces overall risk. Consulting with a qualified financial advisor can provide personalized guidance based on your specific goals and circumstances. Building an emergency fund provides a safety net for unexpected situations. Starting early and being consistent with contributions maximizes the power of compound growth over decades. Financial literacy is one of the most important factors in long-term prosperity. Understanding compound interest concepts and risk management forms the foundation of sound financial planning. Budgeting and tracking expenses helps simplify opportunities for savings and investment. investing. Diversifying your portfolio across different asset classes. Consulting with a qualified financial advisor can provide personalized guidance based on your specific goals and needs. Building an emergency fund provides a safety net for unexpected situations. Starting early and being consistent with contributions maximizes the power of compound interest over time. Financial literacy is one of the most important tools for long-term prosperity. Capital allocation and risk management form the foundation of sound financial planning. Creating a budget and tracking expenses helps prevent unwanted payments to savings and investments. Diversifying your portfolio across different asset classes reduces overall risk. Consulting with a qualified",
+      "confidence": 0.94125855,
+      "start": 0,
+      "end": 93880,
+      "words": [
+        {
+          "text": "Financial",
+          "start": 100,
+          "end": 480,
+          "confidence": 0.99719185,
+          "speaker": "A"
+        },
+        {
+          "text": "literacy",
+          "start": 480,
+          "end": 700,
+          "confidence": 0.99976283,
+          "speaker": "A"
+        },
+        {
+          "text": "is",
+          "start": 700,
+          "end": 960,
+          "confidence": 0.99540186,
+          "speaker": "A"
+        },
+        {
+          "text": "one",
+          "start": 960,
+          "end": 1040,
+          "confidence": 0.9983536,
+          "speaker": "A"
+        },
+        {
+          "text": "of",
+          "start": 1040,
+          "end": 1100,
+          "confidence": 0.99990976,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 1100,
+          "end": 1320,
+          "confidence": 0.99979764,
+          "speaker": "A"
+        },
+        {
+          "text": "most",
+          "start": 1320,
+          "end": 1340,
+          "confidence": 0.99873847,
+          "speaker": "A"
+        },
+        {
+          "text": "important",
+          "start": 2390,
+          "end": 2540,
+          "confidence": 0.9585426,
+          "speaker": "A"
+        },
+        {
+          "text": "aspects",
+          "start": 2540,
+          "end": 2600,
+          "confidence": 0.37654564,
+          "speaker": "A"
+        },
+        {
+          "text": "of",
+          "start": 2600,
+          "end": 3280,
+          "confidence": 0.78507555,
+          "speaker": "A"
+        },
+        {
+          "text": "long-term",
+          "start": 3280,
+          "end": 3380,
+          "confidence": 0.9090376,
+          "speaker": "A"
+        },
+        {
+          "text": "prosperity.",
+          "start": 3380,
+          "end": 3480,
+          "confidence": 0.9938518,
+          "speaker": "A"
+        },
+        {
+          "text": "Understanding",
+          "start": 3480,
+          "end": 3780,
+          "confidence": 0.89160997,
+          "speaker": "A"
+        },
+        {
+          "text": "compound",
+          "start": 3780,
+          "end": 4080,
+          "confidence": 0.4566829,
+          "speaker": "A"
+        },
+        {
+          "text": "interest,",
+          "start": 4080,
+          "end": 4460,
+          "confidence": 0.99787366,
+          "speaker": "A"
+        },
+        {
+          "text": "asset",
+          "start": 4460,
+          "end": 4680,
+          "confidence": 0.995933,
+          "speaker": "A"
+        },
+        {
+          "text": "allocation,",
+          "start": 4680,
+          "end": 5220,
+          "confidence": 0.99507385,
+          "speaker": "A"
+        },
+        {
+          "text": "and",
+          "start": 5220,
+          "end": 5300,
+          "confidence": 0.99709666,
+          "speaker": "A"
+        },
+        {
+          "text": "risk",
+          "start": 5300,
+          "end": 5440,
+          "confidence": 0.9996227,
+          "speaker": "A"
+        },
+        {
+          "text": "management",
+          "start": 5440,
+          "end": 5620,
+          "confidence": 0.99979264,
+          "speaker": "A"
+        },
+        {
+          "text": "forms",
+          "start": 5620,
+          "end": 5940,
+          "confidence": 0.98811394,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 5940,
+          "end": 6100,
+          "confidence": 0.9694458,
+          "speaker": "A"
+        },
+        {
+          "text": "foundation",
+          "start": 6100,
+          "end": 6320,
+          "confidence": 0.9939042,
+          "speaker": "A"
+        },
+        {
+          "text": "of",
+          "start": 6320,
+          "end": 6520,
+          "confidence": 0.6828882,
+          "speaker": "A"
+        },
+        {
+          "text": "sound",
+          "start": 6520,
+          "end": 6640,
+          "confidence": 0.9938763,
+          "speaker": "A"
+        },
+        {
+          "text": "financial",
+          "start": 6640,
+          "end": 6920,
+          "confidence": 0.9999502,
+          "speaker": "A"
+        },
+        {
+          "text": "planning.",
+          "start": 6920,
+          "end": 7420,
+          "confidence": 0.99889046,
+          "speaker": "A"
+        },
+        {
+          "text": "Creating",
+          "start": 7740,
+          "end": 8039,
+          "confidence": 0.92812866,
+          "speaker": "A"
+        },
+        {
+          "text": "a",
+          "start": 8039,
+          "end": 8260,
+          "confidence": 0.9998863,
+          "speaker": "A"
+        },
+        {
+          "text": "budget",
+          "start": 8260,
+          "end": 8300,
+          "confidence": 0.9998714,
+          "speaker": "A"
+        },
+        {
+          "text": "and",
+          "start": 8300,
+          "end": 8520,
+          "confidence": 0.9949484,
+          "speaker": "A"
+        },
+        {
+          "text": "tracking",
+          "start": 8520,
+          "end": 8660,
+          "confidence": 0.92715085,
+          "speaker": "A"
+        },
+        {
+          "text": "expenses",
+          "start": 8660,
+          "end": 8960,
+          "confidence": 0.50049347,
+          "speaker": "A"
+        },
+        {
+          "text": "helps",
+          "start": 8960,
+          "end": 9220,
+          "confidence": 0.99220204,
+          "speaker": "A"
+        },
+        {
+          "text": "identify",
+          "start": 9220,
+          "end": 9540,
+          "confidence": 0.99579465,
+          "speaker": "A"
+        },
+        {
+          "text": "opportunities",
+          "start": 9540,
+          "end": 10000,
+          "confidence": 0.9997955,
+          "speaker": "A"
+        },
+        {
+          "text": "for",
+          "start": 10000,
+          "end": 10180,
+          "confidence": 0.98609936,
+          "speaker": "A"
+        },
+        {
+          "text": "savings",
+          "start": 10180,
+          "end": 10380,
+          "confidence": 0.98480856,
+          "speaker": "A"
+        },
+        {
+          "text": "and",
+          "start": 10380,
+          "end": 10640,
+          "confidence": 0.9981365,
+          "speaker": "A"
+        },
+        {
+          "text": "investment.",
+          "start": 10640,
+          "end": 11440,
+          "confidence": 0.6465029,
+          "speaker": "A"
+        },
+        {
+          "text": "Diversifying",
+          "start": 11540,
+          "end": 11900,
+          "confidence": 0.8257018,
+          "speaker": "A"
+        },
+        {
+          "text": "your",
+          "start": 11900,
+          "end": 12180,
+          "confidence": 0.9996101,
+          "speaker": "A"
+        },
+        {
+          "text": "portfolio",
+          "start": 12180,
+          "end": 12400,
+          "confidence": 0.9999423,
+          "speaker": "A"
+        },
+        {
+          "text": "across",
+          "start": 12400,
+          "end": 12700,
+          "confidence": 0.9922523,
+          "speaker": "A"
+        },
+        {
+          "text": "different",
+          "start": 12700,
+          "end": 12960,
+          "confidence": 0.99950504,
+          "speaker": "A"
+        },
+        {
+          "text": "assets",
+          "start": 12960,
+          "end": 13580,
+          "confidence": 0.93100643,
+          "speaker": "A"
+        },
+        {
+          "text": "ensures",
+          "start": 13580,
+          "end": 13900,
+          "confidence": 0.52213603,
+          "speaker": "A"
+        },
+        {
+          "text": "a",
+          "start": 13900,
+          "end": 14080,
+          "confidence": 0.45884585,
+          "speaker": "A"
+        },
+        {
+          "text": "well-balanced",
+          "start": 14080,
+          "end": 14180,
+          "confidence": 0.808861,
+          "speaker": "A"
+        },
+        {
+          "text": "portfolio.",
+          "start": 14180,
+          "end": 14840,
+          "confidence": 0.68617123,
+          "speaker": "A"
+        },
+        {
+          "text": "Consulting",
+          "start": 14940,
+          "end": 15200,
+          "confidence": 0.88950133,
+          "speaker": "A"
+        },
+        {
+          "text": "with",
+          "start": 15200,
+          "end": 15340,
+          "confidence": 0.99986815,
+          "speaker": "A"
+        },
+        {
+          "text": "a",
+          "start": 15340,
+          "end": 15440,
+          "confidence": 0.9993795,
+          "speaker": "A"
+        },
+        {
+          "text": "qualified",
+          "start": 15440,
+          "end": 15620,
+          "confidence": 0.99989736,
+          "speaker": "A"
+        },
+        {
+          "text": "financial",
+          "start": 15620,
+          "end": 16079,
+          "confidence": 0.99997115,
+          "speaker": "A"
+        },
+        {
+          "text": "advisor",
+          "start": 16079,
+          "end": 16260,
+          "confidence": 0.99949324,
+          "speaker": "A"
+        },
+        {
+          "text": "can",
+          "start": 16260,
+          "end": 16520,
+          "confidence": 0.99856085,
+          "speaker": "A"
+        },
+        {
+          "text": "provide",
+          "start": 16520,
+          "end": 16640,
+          "confidence": 0.99983597,
+          "speaker": "A"
+        },
+        {
+          "text": "personalized",
+          "start": 16640,
+          "end": 17080,
+          "confidence": 0.9992355,
+          "speaker": "A"
+        },
+        {
+          "text": "guidance",
+          "start": 17080,
+          "end": 17340,
+          "confidence": 0.9988361,
+          "speaker": "A"
+        },
+        {
+          "text": "based",
+          "start": 17340,
+          "end": 17540,
+          "confidence": 0.99223024,
+          "speaker": "A"
+        },
+        {
+          "text": "on",
+          "start": 17540,
+          "end": 17680,
+          "confidence": 0.999926,
+          "speaker": "A"
+        },
+        {
+          "text": "your",
+          "start": 17680,
+          "end": 17840,
+          "confidence": 0.9988931,
+          "speaker": "A"
+        },
+        {
+          "text": "specific",
+          "start": 17840,
+          "end": 18060,
+          "confidence": 0.9904302,
+          "speaker": "A"
+        },
+        {
+          "text": "goals",
+          "start": 18060,
+          "end": 18300,
+          "confidence": 0.99899656,
+          "speaker": "A"
+        },
+        {
+          "text": "and",
+          "start": 18300,
+          "end": 18420,
+          "confidence": 0.99784565,
+          "speaker": "A"
+        },
+        {
+          "text": "circumstances.",
+          "start": 18420,
+          "end": 18970,
+          "confidence": 0.9772618,
+          "speaker": "A"
+        },
+        {
+          "text": "Building",
+          "start": 19560,
+          "end": 19660,
+          "confidence": 0.74503833,
+          "speaker": "A"
+        },
+        {
+          "text": "an",
+          "start": 19660,
+          "end": 19900,
+          "confidence": 0.9997477,
+          "speaker": "A"
+        },
+        {
+          "text": "emergency",
+          "start": 19900,
+          "end": 20100,
+          "confidence": 0.9999827,
+          "speaker": "A"
+        },
+        {
+          "text": "fund",
+          "start": 20100,
+          "end": 20360,
+          "confidence": 0.99999046,
+          "speaker": "A"
+        },
+        {
+          "text": "provides",
+          "start": 20360,
+          "end": 20620,
+          "confidence": 0.99913174,
+          "speaker": "A"
+        },
+        {
+          "text": "a",
+          "start": 20620,
+          "end": 20800,
+          "confidence": 0.9995473,
+          "speaker": "A"
+        },
+        {
+          "text": "safety",
+          "start": 20800,
+          "end": 20920,
+          "confidence": 0.99989545,
+          "speaker": "A"
+        },
+        {
+          "text": "net",
+          "start": 20920,
+          "end": 21040,
+          "confidence": 0.99994874,
+          "speaker": "A"
+        },
+        {
+          "text": "for",
+          "start": 21040,
+          "end": 21240,
+          "confidence": 0.99736077,
+          "speaker": "A"
+        },
+        {
+          "text": "unexpected",
+          "start": 21240,
+          "end": 21540,
+          "confidence": 0.99969923,
+          "speaker": "A"
+        },
+        {
+          "text": "situations.",
+          "start": 21540,
+          "end": 22040,
+          "confidence": 0.99588346,
+          "speaker": "A"
+        },
+        {
+          "text": "Starting",
+          "start": 22600,
+          "end": 22940,
+          "confidence": 0.7736673,
+          "speaker": "A"
+        },
+        {
+          "text": "early",
+          "start": 22940,
+          "end": 23180,
+          "confidence": 0.7567568,
+          "speaker": "A"
+        },
+        {
+          "text": "and",
+          "start": 23180,
+          "end": 23340,
+          "confidence": 0.6094351,
+          "speaker": "A"
+        },
+        {
+          "text": "being",
+          "start": 23340,
+          "end": 23480,
+          "confidence": 0.8689654,
+          "speaker": "A"
+        },
+        {
+          "text": "consistent",
+          "start": 23480,
+          "end": 23660,
+          "confidence": 0.99731535,
+          "speaker": "A"
+        },
+        {
+          "text": "with",
+          "start": 23660,
+          "end": 23940,
+          "confidence": 0.9858893,
+          "speaker": "A"
+        },
+        {
+          "text": "contributions",
+          "start": 23940,
+          "end": 24320,
+          "confidence": 0.9986737,
+          "speaker": "A"
+        },
+        {
+          "text": "maximizes",
+          "start": 24320,
+          "end": 24700,
+          "confidence": 0.99774367,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 24700,
+          "end": 25120,
+          "confidence": 0.9992254,
+          "speaker": "A"
+        },
+        {
+          "text": "power",
+          "start": 25120,
+          "end": 25220,
+          "confidence": 0.9997774,
+          "speaker": "A"
+        },
+        {
+          "text": "of",
+          "start": 25220,
+          "end": 25340,
+          "confidence": 0.9534712,
+          "speaker": "A"
+        },
+        {
+          "text": "compound",
+          "start": 25340,
+          "end": 25480,
+          "confidence": 0.9994085,
+          "speaker": "A"
+        },
+        {
+          "text": "growth",
+          "start": 25480,
+          "end": 25600,
+          "confidence": 0.99961674,
+          "speaker": "A"
+        },
+        {
+          "text": "over",
+          "start": 25600,
+          "end": 25860,
+          "confidence": 0.9638412,
+          "speaker": "A"
+        },
+        {
+          "text": "decades.",
+          "start": 25860,
+          "end": 26510,
+          "confidence": 0.8168045,
+          "speaker": "A"
+        },
+        {
+          "text": "Financial",
+          "start": 26900,
+          "end": 27100,
+          "confidence": 0.66600853,
+          "speaker": "A"
+        },
+        {
+          "text": "literacy",
+          "start": 27100,
+          "end": 27400,
+          "confidence": 0.9999447,
+          "speaker": "A"
+        },
+        {
+          "text": "is",
+          "start": 27400,
+          "end": 27560,
+          "confidence": 0.999124,
+          "speaker": "A"
+        },
+        {
+          "text": "one",
+          "start": 27560,
+          "end": 27740,
+          "confidence": 0.9984414,
+          "speaker": "A"
+        },
+        {
+          "text": "of",
+          "start": 27740,
+          "end": 27830,
+          "confidence": 0.9998665,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 27830,
+          "end": 27920,
+          "confidence": 0.9997876,
+          "speaker": "A"
+        },
+        {
+          "text": "most",
+          "start": 27920,
+          "end": 28060,
+          "confidence": 0.99951696,
+          "speaker": "A"
+        },
+        {
+          "text": "important",
+          "start": 28060,
+          "end": 28280,
+          "confidence": 0.9988788,
+          "speaker": "A"
+        },
+        {
+          "text": "steps",
+          "start": 28280,
+          "end": 28460,
+          "confidence": 0.9171499,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 28460,
+          "end": 28700,
+          "confidence": 0.746602,
+          "speaker": "A"
+        },
+        {
+          "text": "long-term",
+          "start": 28700,
+          "end": 28920,
+          "confidence": 0.99944025,
+          "speaker": "A"
+        },
+        {
+          "text": "prosperity.",
+          "start": 28920,
+          "end": 29440,
+          "confidence": 0.99775946,
+          "speaker": "A"
+        },
+        {
+          "text": "Understanding",
+          "start": 29440,
+          "end": 29980,
+          "confidence": 0.82516545,
+          "speaker": "A"
+        },
+        {
+          "text": "compound",
+          "start": 29980,
+          "end": 30000,
+          "confidence": 0.9995302,
+          "speaker": "A"
+        },
+        {
+          "text": "interest,",
+          "start": 30000,
+          "end": 30020,
+          "confidence": 0.9876971,
+          "speaker": "A"
+        },
+        {
+          "text": "asset",
+          "start": 30020,
+          "end": 30040,
+          "confidence": 0.9915018,
+          "speaker": "A"
+        },
+        {
+          "text": "allocation,",
+          "start": 30040,
+          "end": 30060,
+          "confidence": 0.996977,
+          "speaker": "A"
+        },
+        {
+          "text": "and",
+          "start": 30060,
+          "end": 30080,
+          "confidence": 0.8729268,
+          "speaker": "A"
+        },
+        {
+          "text": "Risk",
+          "start": 31900,
+          "end": 32080,
+          "confidence": 0.653038,
+          "speaker": "A"
+        },
+        {
+          "text": "management",
+          "start": 32080,
+          "end": 32340,
+          "confidence": 0.9638791,
+          "speaker": "A"
+        },
+        {
+          "text": "forms",
+          "start": 32340,
+          "end": 32580,
+          "confidence": 0.99881494,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 32580,
+          "end": 32780,
+          "confidence": 0.9991572,
+          "speaker": "A"
+        },
+        {
+          "text": "foundation",
+          "start": 32780,
+          "end": 32980,
+          "confidence": 0.9946509,
+          "speaker": "A"
+        },
+        {
+          "text": "of",
+          "start": 32980,
+          "end": 33320,
+          "confidence": 0.9968329,
+          "speaker": "A"
+        },
+        {
+          "text": "sound",
+          "start": 33320,
+          "end": 33340,
+          "confidence": 0.8742705,
+          "speaker": "A"
+        },
+        {
+          "text": "financial",
+          "start": 33340,
+          "end": 33600,
+          "confidence": 0.999358,
+          "speaker": "A"
+        },
+        {
+          "text": "planning.",
+          "start": 33600,
+          "end": 34200,
+          "confidence": 0.9870717,
+          "speaker": "A"
+        },
+        {
+          "text": "Creating",
+          "start": 34480,
+          "end": 34700,
+          "confidence": 0.99343324,
+          "speaker": "A"
+        },
+        {
+          "text": "a",
+          "start": 34700,
+          "end": 34880,
+          "confidence": 0.9999584,
+          "speaker": "A"
+        },
+        {
+          "text": "budget",
+          "start": 34880,
+          "end": 34960,
+          "confidence": 0.9999846,
+          "speaker": "A"
+        },
+        {
+          "text": "and",
+          "start": 34960,
+          "end": 35200,
+          "confidence": 0.9994325,
+          "speaker": "A"
+        },
+        {
+          "text": "tracking",
+          "start": 35200,
+          "end": 35320,
+          "confidence": 0.9999858,
+          "speaker": "A"
+        },
+        {
+          "text": "expenses",
+          "start": 35320,
+          "end": 35620,
+          "confidence": 0.9991561,
+          "speaker": "A"
+        },
+        {
+          "text": "helps",
+          "start": 35620,
+          "end": 35880,
+          "confidence": 0.9906571,
+          "speaker": "A"
+        },
+        {
+          "text": "simplify",
+          "start": 35880,
+          "end": 36240,
+          "confidence": 0.5801317,
+          "speaker": "A"
+        },
+        {
+          "text": "opportunities",
+          "start": 36240,
+          "end": 36660,
+          "confidence": 0.9087657,
+          "speaker": "A"
+        },
+        {
+          "text": "for",
+          "start": 36660,
+          "end": 36880,
+          "confidence": 0.98489666,
+          "speaker": "A"
+        },
+        {
+          "text": "savings",
+          "start": 36880,
+          "end": 37060,
+          "confidence": 0.8030784,
+          "speaker": "A"
+        },
+        {
+          "text": "and",
+          "start": 37060,
+          "end": 37240,
+          "confidence": 0.9964876,
+          "speaker": "A"
+        },
+        {
+          "text": "investment.",
+          "start": 37240,
+          "end": 38020,
+          "confidence": 0.62096196,
+          "speaker": "A"
+        },
+        {
+          "text": "Diversifying",
+          "start": 38020,
+          "end": 38540,
+          "confidence": 0.9958023,
+          "speaker": "A"
+        },
+        {
+          "text": "your",
+          "start": 38540,
+          "end": 38800,
+          "confidence": 0.9998234,
+          "speaker": "A"
+        },
+        {
+          "text": "portfolio",
+          "start": 38800,
+          "end": 39040,
+          "confidence": 0.9999896,
+          "speaker": "A"
+        },
+        {
+          "text": "across",
+          "start": 39040,
+          "end": 39360,
+          "confidence": 0.9996018,
+          "speaker": "A"
+        },
+        {
+          "text": "different",
+          "start": 39360,
+          "end": 39600,
+          "confidence": 0.99997807,
+          "speaker": "A"
+        },
+        {
+          "text": "asset",
+          "start": 39600,
+          "end": 39840,
+          "confidence": 0.99941576,
+          "speaker": "A"
+        },
+        {
+          "text": "classes",
+          "start": 39840,
+          "end": 39980,
+          "confidence": 0.97002774,
+          "speaker": "A"
+        },
+        {
+          "text": "reduces",
+          "start": 39980,
+          "end": 40340,
+          "confidence": 0.988891,
+          "speaker": "A"
+        },
+        {
+          "text": "overall",
+          "start": 40340,
+          "end": 40720,
+          "confidence": 0.99977535,
+          "speaker": "A"
+        },
+        {
+          "text": "risk.",
+          "start": 40720,
+          "end": 41520,
+          "confidence": 0.9995108,
+          "speaker": "A"
+        },
+        {
+          "text": "Consulting",
+          "start": 41520,
+          "end": 41860,
+          "confidence": 0.99890924,
+          "speaker": "A"
+        },
+        {
+          "text": "with",
+          "start": 41860,
+          "end": 41960,
+          "confidence": 0.9999763,
+          "speaker": "A"
+        },
+        {
+          "text": "a",
+          "start": 41960,
+          "end": 42080,
+          "confidence": 0.99992967,
+          "speaker": "A"
+        },
+        {
+          "text": "qualified",
+          "start": 42080,
+          "end": 42360,
+          "confidence": 0.99980253,
+          "speaker": "A"
+        },
+        {
+          "text": "financial",
+          "start": 42360,
+          "end": 42660,
+          "confidence": 0.9999913,
+          "speaker": "A"
+        },
+        {
+          "text": "advisor",
+          "start": 42660,
+          "end": 42900,
+          "confidence": 0.9990534,
+          "speaker": "A"
+        },
+        {
+          "text": "can",
+          "start": 42900,
+          "end": 43200,
+          "confidence": 0.9987639,
+          "speaker": "A"
+        },
+        {
+          "text": "provide",
+          "start": 43200,
+          "end": 43300,
+          "confidence": 0.99999464,
+          "speaker": "A"
+        },
+        {
+          "text": "personalized",
+          "start": 43300,
+          "end": 43680,
+          "confidence": 0.9999217,
+          "speaker": "A"
+        },
+        {
+          "text": "guidance",
+          "start": 43680,
+          "end": 44020,
+          "confidence": 0.9915925,
+          "speaker": "A"
+        },
+        {
+          "text": "based",
+          "start": 44020,
+          "end": 44240,
+          "confidence": 0.9999715,
+          "speaker": "A"
+        },
+        {
+          "text": "on",
+          "start": 44240,
+          "end": 44380,
+          "confidence": 0.9999701,
+          "speaker": "A"
+        },
+        {
+          "text": "your",
+          "start": 44380,
+          "end": 44500,
+          "confidence": 0.99994135,
+          "speaker": "A"
+        },
+        {
+          "text": "specific",
+          "start": 44500,
+          "end": 44720,
+          "confidence": 0.9992642,
+          "speaker": "A"
+        },
+        {
+          "text": "goals",
+          "start": 44720,
+          "end": 44940,
+          "confidence": 0.9999225,
+          "speaker": "A"
+        },
+        {
+          "text": "and",
+          "start": 44940,
+          "end": 45100,
+          "confidence": 0.99994195,
+          "speaker": "A"
+        },
+        {
+          "text": "circumstances.",
+          "start": 45100,
+          "end": 45650,
+          "confidence": 0.9978082,
+          "speaker": "A"
+        },
+        {
+          "text": "Building",
+          "start": 46200,
+          "end": 46320,
+          "confidence": 0.99564976,
+          "speaker": "A"
+        },
+        {
+          "text": "an",
+          "start": 46320,
+          "end": 46480,
+          "confidence": 0.9999783,
+          "speaker": "A"
+        },
+        {
+          "text": "emergency",
+          "start": 46480,
+          "end": 46740,
+          "confidence": 0.99999285,
+          "speaker": "A"
+        },
+        {
+          "text": "fund",
+          "start": 46740,
+          "end": 47020,
+          "confidence": 0.99999547,
+          "speaker": "A"
+        },
+        {
+          "text": "provides",
+          "start": 47020,
+          "end": 47260,
+          "confidence": 0.9999639,
+          "speaker": "A"
+        },
+        {
+          "text": "a",
+          "start": 47260,
+          "end": 47440,
+          "confidence": 0.9997907,
+          "speaker": "A"
+        },
+        {
+          "text": "safety",
+          "start": 47440,
+          "end": 47580,
+          "confidence": 0.9999306,
+          "speaker": "A"
+        },
+        {
+          "text": "net",
+          "start": 47580,
+          "end": 47720,
+          "confidence": 0.9991553,
+          "speaker": "A"
+        },
+        {
+          "text": "for",
+          "start": 47720,
+          "end": 47900,
+          "confidence": 0.999416,
+          "speaker": "A"
+        },
+        {
+          "text": "unexpected",
+          "start": 47900,
+          "end": 48180,
+          "confidence": 0.99996686,
+          "speaker": "A"
+        },
+        {
+          "text": "situations.",
+          "start": 48180,
+          "end": 48630,
+          "confidence": 0.9998134,
+          "speaker": "A"
+        },
+        {
+          "text": "Starting",
+          "start": 49320,
+          "end": 49580,
+          "confidence": 0.99407613,
+          "speaker": "A"
+        },
+        {
+          "text": "early",
+          "start": 49580,
+          "end": 49800,
+          "confidence": 0.9995011,
+          "speaker": "A"
+        },
+        {
+          "text": "and",
+          "start": 49800,
+          "end": 49960,
+          "confidence": 0.9763825,
+          "speaker": "A"
+        },
+        {
+          "text": "being",
+          "start": 49960,
+          "end": 50060,
+          "confidence": 0.6838686,
+          "speaker": "A"
+        },
+        {
+          "text": "consistent",
+          "start": 50060,
+          "end": 50260,
+          "confidence": 0.9993006,
+          "speaker": "A"
+        },
+        {
+          "text": "with",
+          "start": 50260,
+          "end": 50720,
+          "confidence": 0.9951434,
+          "speaker": "A"
+        },
+        {
+          "text": "contributions",
+          "start": 50720,
+          "end": 50900,
+          "confidence": 0.98598796,
+          "speaker": "A"
+        },
+        {
+          "text": "maximizes",
+          "start": 50900,
+          "end": 51380,
+          "confidence": 0.99925727,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 51380,
+          "end": 51660,
+          "confidence": 0.9998011,
+          "speaker": "A"
+        },
+        {
+          "text": "power",
+          "start": 51660,
+          "end": 51760,
+          "confidence": 0.9999932,
+          "speaker": "A"
+        },
+        {
+          "text": "of",
+          "start": 51760,
+          "end": 52160,
+          "confidence": 0.9999548,
+          "speaker": "A"
+        },
+        {
+          "text": "compound",
+          "start": 52160,
+          "end": 52200,
+          "confidence": 0.9995283,
+          "speaker": "A"
+        },
+        {
+          "text": "growth",
+          "start": 52200,
+          "end": 52240,
+          "confidence": 0.9996873,
+          "speaker": "A"
+        },
+        {
+          "text": "over",
+          "start": 52240,
+          "end": 52520,
+          "confidence": 0.99971145,
+          "speaker": "A"
+        },
+        {
+          "text": "decades.",
+          "start": 52520,
+          "end": 53220,
+          "confidence": 0.9890639,
+          "speaker": "A"
+        },
+        {
+          "text": "Financial",
+          "start": 53540,
+          "end": 53780,
+          "confidence": 0.999752,
+          "speaker": "A"
+        },
+        {
+          "text": "literacy",
+          "start": 53780,
+          "end": 54040,
+          "confidence": 0.99996567,
+          "speaker": "A"
+        },
+        {
+          "text": "is",
+          "start": 54040,
+          "end": 54260,
+          "confidence": 0.9417423,
+          "speaker": "A"
+        },
+        {
+          "text": "one",
+          "start": 54260,
+          "end": 54340,
+          "confidence": 0.9988808,
+          "speaker": "A"
+        },
+        {
+          "text": "of",
+          "start": 54340,
+          "end": 54400,
+          "confidence": 0.9999616,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 54400,
+          "end": 54460,
+          "confidence": 0.9999157,
+          "speaker": "A"
+        },
+        {
+          "text": "most",
+          "start": 54460,
+          "end": 54600,
+          "confidence": 0.9999869,
+          "speaker": "A"
+        },
+        {
+          "text": "important",
+          "start": 54600,
+          "end": 55100,
+          "confidence": 0.9995419,
+          "speaker": "A"
+        },
+        {
+          "text": "factors",
+          "start": 55100,
+          "end": 55240,
+          "confidence": 0.68907565,
+          "speaker": "A"
+        },
+        {
+          "text": "in",
+          "start": 55240,
+          "end": 55380,
+          "confidence": 0.87214243,
+          "speaker": "A"
+        },
+        {
+          "text": "long-term",
+          "start": 55380,
+          "end": 55600,
+          "confidence": 0.9995644,
+          "speaker": "A"
+        },
+        {
+          "text": "prosperity.",
+          "start": 55600,
+          "end": 56150,
+          "confidence": 0.99859667,
+          "speaker": "A"
+        },
+        {
+          "text": "Understanding",
+          "start": 56600,
+          "end": 57000,
+          "confidence": 0.99983203,
+          "speaker": "A"
+        },
+        {
+          "text": "compound",
+          "start": 57000,
+          "end": 57420,
+          "confidence": 0.99486214,
+          "speaker": "A"
+        },
+        {
+          "text": "interest",
+          "start": 57420,
+          "end": 57580,
+          "confidence": 0.99994004,
+          "speaker": "A"
+        },
+        {
+          "text": "concepts",
+          "start": 57580,
+          "end": 58000,
+          "confidence": 0.9633293,
+          "speaker": "A"
+        },
+        {
+          "text": "and",
+          "start": 58000,
+          "end": 58540,
+          "confidence": 0.9957712,
+          "speaker": "A"
+        },
+        {
+          "text": "risk",
+          "start": 58540,
+          "end": 58740,
+          "confidence": 0.99919885,
+          "speaker": "A"
+        },
+        {
+          "text": "management",
+          "start": 58740,
+          "end": 59020,
+          "confidence": 0.99971443,
+          "speaker": "A"
+        },
+        {
+          "text": "forms",
+          "start": 59020,
+          "end": 59280,
+          "confidence": 0.99888664,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 59280,
+          "end": 59440,
+          "confidence": 0.99973744,
+          "speaker": "A"
+        },
+        {
+          "text": "foundation",
+          "start": 59440,
+          "end": 59680,
+          "confidence": 0.9935869,
+          "speaker": "A"
+        },
+        {
+          "text": "of",
+          "start": 59680,
+          "end": 59840,
+          "confidence": 0.9966558,
+          "speaker": "A"
+        },
+        {
+          "text": "sound",
+          "start": 59840,
+          "end": 59980,
+          "confidence": 0.9976922,
+          "speaker": "A"
+        },
+        {
+          "text": "financial",
+          "start": 59980,
+          "end": 60220,
+          "confidence": 0.99978036,
+          "speaker": "A"
+        },
+        {
+          "text": "planning.",
+          "start": 60220,
+          "end": 60820,
+          "confidence": 0.99935985,
+          "speaker": "A"
+        },
+        {
+          "text": "Budgeting",
+          "start": 61420,
+          "end": 61880,
+          "confidence": 0.9938531,
+          "speaker": "A"
+        },
+        {
+          "text": "and",
+          "start": 61880,
+          "end": 61900,
+          "confidence": 0.9904874,
+          "speaker": "A"
+        },
+        {
+          "text": "tracking",
+          "start": 61900,
+          "end": 61920,
+          "confidence": 0.99993825,
+          "speaker": "A"
+        },
+        {
+          "text": "expenses",
+          "start": 61920,
+          "end": 61940,
+          "confidence": 0.99977666,
+          "speaker": "A"
+        },
+        {
+          "text": "helps",
+          "start": 61940,
+          "end": 61960,
+          "confidence": 0.9964259,
+          "speaker": "A"
+        },
+        {
+          "text": "simplify",
+          "start": 61960,
+          "end": 61980,
+          "confidence": 0.9138628,
+          "speaker": "A"
+        },
+        {
+          "text": "opportunities",
+          "start": 61980,
+          "end": 62000,
+          "confidence": 0.99243826,
+          "speaker": "A"
+        },
+        {
+          "text": "for",
+          "start": 62000,
+          "end": 62020,
+          "confidence": 0.9990557,
+          "speaker": "A"
+        },
+        {
+          "text": "savings",
+          "start": 62020,
+          "end": 62040,
+          "confidence": 0.91070426,
+          "speaker": "A"
+        },
+        {
+          "text": "and",
+          "start": 62040,
+          "end": 62060,
+          "confidence": 0.49065885,
+          "speaker": "A"
+        },
+        {
+          "text": "investment.",
+          "start": 62060,
+          "end": 62080,
+          "confidence": 0.77877396,
+          "speaker": "A"
+        },
+        {
+          "text": "investing.",
+          "start": 64250,
+          "end": 64700,
+          "confidence": 0.38260144,
+          "speaker": "A"
+        },
+        {
+          "text": "Diversifying",
+          "start": 64700,
+          "end": 65180,
+          "confidence": 0.9178751,
+          "speaker": "A"
+        },
+        {
+          "text": "your",
+          "start": 65180,
+          "end": 65440,
+          "confidence": 0.9992053,
+          "speaker": "A"
+        },
+        {
+          "text": "portfolio",
+          "start": 65440,
+          "end": 65740,
+          "confidence": 0.99991643,
+          "speaker": "A"
+        },
+        {
+          "text": "across",
+          "start": 65740,
+          "end": 66040,
+          "confidence": 0.9994197,
+          "speaker": "A"
+        },
+        {
+          "text": "different",
+          "start": 66040,
+          "end": 66300,
+          "confidence": 0.99969256,
+          "speaker": "A"
+        },
+        {
+          "text": "asset",
+          "start": 66300,
+          "end": 66500,
+          "confidence": 0.9964181,
+          "speaker": "A"
+        },
+        {
+          "text": "classes.",
+          "start": 66500,
+          "end": 67250,
+          "confidence": 0.8707266,
+          "speaker": "A"
+        },
+        {
+          "text": "Consulting",
+          "start": 68160,
+          "end": 68500,
+          "confidence": 0.9469822,
+          "speaker": "A"
+        },
+        {
+          "text": "with",
+          "start": 68500,
+          "end": 68660,
+          "confidence": 0.9998555,
+          "speaker": "A"
+        },
+        {
+          "text": "a",
+          "start": 68660,
+          "end": 68780,
+          "confidence": 0.99965906,
+          "speaker": "A"
+        },
+        {
+          "text": "qualified",
+          "start": 68780,
+          "end": 68960,
+          "confidence": 0.9998933,
+          "speaker": "A"
+        },
+        {
+          "text": "financial",
+          "start": 68960,
+          "end": 69360,
+          "confidence": 0.99995446,
+          "speaker": "A"
+        },
+        {
+          "text": "advisor",
+          "start": 69360,
+          "end": 69600,
+          "confidence": 0.9757092,
+          "speaker": "A"
+        },
+        {
+          "text": "can",
+          "start": 69600,
+          "end": 69880,
+          "confidence": 0.9962017,
+          "speaker": "A"
+        },
+        {
+          "text": "provide",
+          "start": 69880,
+          "end": 70000,
+          "confidence": 0.9998989,
+          "speaker": "A"
+        },
+        {
+          "text": "personalized",
+          "start": 70000,
+          "end": 70360,
+          "confidence": 0.93019557,
+          "speaker": "A"
+        },
+        {
+          "text": "guidance",
+          "start": 70360,
+          "end": 70640,
+          "confidence": 0.9953342,
+          "speaker": "A"
+        },
+        {
+          "text": "based",
+          "start": 70640,
+          "end": 70860,
+          "confidence": 0.9998022,
+          "speaker": "A"
+        },
+        {
+          "text": "on",
+          "start": 70860,
+          "end": 71000,
+          "confidence": 0.9999132,
+          "speaker": "A"
+        },
+        {
+          "text": "your",
+          "start": 71000,
+          "end": 71180,
+          "confidence": 0.99952567,
+          "speaker": "A"
+        },
+        {
+          "text": "specific",
+          "start": 71180,
+          "end": 71360,
+          "confidence": 0.9997651,
+          "speaker": "A"
+        },
+        {
+          "text": "goals",
+          "start": 71360,
+          "end": 71640,
+          "confidence": 0.9911567,
+          "speaker": "A"
+        },
+        {
+          "text": "and",
+          "start": 71640,
+          "end": 72120,
+          "confidence": 0.7981477,
+          "speaker": "A"
+        },
+        {
+          "text": "needs.",
+          "start": 72120,
+          "end": 72680,
+          "confidence": 0.61512744,
+          "speaker": "A"
+        },
+        {
+          "text": "Building",
+          "start": 72680,
+          "end": 72980,
+          "confidence": 0.9783335,
+          "speaker": "A"
+        },
+        {
+          "text": "an",
+          "start": 72980,
+          "end": 73240,
+          "confidence": 0.9997137,
+          "speaker": "A"
+        },
+        {
+          "text": "emergency",
+          "start": 73240,
+          "end": 73400,
+          "confidence": 0.99994874,
+          "speaker": "A"
+        },
+        {
+          "text": "fund",
+          "start": 73400,
+          "end": 73680,
+          "confidence": 0.9999691,
+          "speaker": "A"
+        },
+        {
+          "text": "provides",
+          "start": 73680,
+          "end": 73900,
+          "confidence": 0.9911237,
+          "speaker": "A"
+        },
+        {
+          "text": "a",
+          "start": 73900,
+          "end": 74140,
+          "confidence": 0.919637,
+          "speaker": "A"
+        },
+        {
+          "text": "safety",
+          "start": 74140,
+          "end": 74240,
+          "confidence": 0.9964604,
+          "speaker": "A"
+        },
+        {
+          "text": "net",
+          "start": 74240,
+          "end": 74560,
+          "confidence": 0.99986076,
+          "speaker": "A"
+        },
+        {
+          "text": "for",
+          "start": 74560,
+          "end": 74740,
+          "confidence": 0.5738538,
+          "speaker": "A"
+        },
+        {
+          "text": "unexpected",
+          "start": 74740,
+          "end": 74900,
+          "confidence": 0.9667232,
+          "speaker": "A"
+        },
+        {
+          "text": "situations.",
+          "start": 74900,
+          "end": 75350,
+          "confidence": 0.99838394,
+          "speaker": "A"
+        },
+        {
+          "text": "Starting",
+          "start": 76120,
+          "end": 76240,
+          "confidence": 0.8978388,
+          "speaker": "A"
+        },
+        {
+          "text": "early",
+          "start": 76240,
+          "end": 76460,
+          "confidence": 0.8277635,
+          "speaker": "A"
+        },
+        {
+          "text": "and",
+          "start": 76460,
+          "end": 76580,
+          "confidence": 0.65000576,
+          "speaker": "A"
+        },
+        {
+          "text": "being",
+          "start": 76580,
+          "end": 76760,
+          "confidence": 0.9957587,
+          "speaker": "A"
+        },
+        {
+          "text": "consistent",
+          "start": 76760,
+          "end": 76980,
+          "confidence": 0.99936754,
+          "speaker": "A"
+        },
+        {
+          "text": "with",
+          "start": 76980,
+          "end": 77260,
+          "confidence": 0.9906076,
+          "speaker": "A"
+        },
+        {
+          "text": "contributions",
+          "start": 77260,
+          "end": 77580,
+          "confidence": 0.45437753,
+          "speaker": "A"
+        },
+        {
+          "text": "maximizes",
+          "start": 77580,
+          "end": 78040,
+          "confidence": 0.998458,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 78040,
+          "end": 78340,
+          "confidence": 0.9834616,
+          "speaker": "A"
+        },
+        {
+          "text": "power",
+          "start": 78340,
+          "end": 78420,
+          "confidence": 0.9999404,
+          "speaker": "A"
+        },
+        {
+          "text": "of",
+          "start": 78420,
+          "end": 78840,
+          "confidence": 0.9952442,
+          "speaker": "A"
+        },
+        {
+          "text": "compound",
+          "start": 78840,
+          "end": 78920,
+          "confidence": 0.93387055,
+          "speaker": "A"
+        },
+        {
+          "text": "interest",
+          "start": 78920,
+          "end": 79000,
+          "confidence": 0.98925555,
+          "speaker": "A"
+        },
+        {
+          "text": "over",
+          "start": 79000,
+          "end": 79100,
+          "confidence": 0.97164977,
+          "speaker": "A"
+        },
+        {
+          "text": "time.",
+          "start": 79100,
+          "end": 79750,
+          "confidence": 0.8510905,
+          "speaker": "A"
+        },
+        {
+          "text": "Financial",
+          "start": 80010,
+          "end": 80460,
+          "confidence": 0.78345865,
+          "speaker": "A"
+        },
+        {
+          "text": "literacy",
+          "start": 80460,
+          "end": 80720,
+          "confidence": 0.9998338,
+          "speaker": "A"
+        },
+        {
+          "text": "is",
+          "start": 80720,
+          "end": 80900,
+          "confidence": 0.9994093,
+          "speaker": "A"
+        },
+        {
+          "text": "one",
+          "start": 80900,
+          "end": 81040,
+          "confidence": 0.9998747,
+          "speaker": "A"
+        },
+        {
+          "text": "of",
+          "start": 81040,
+          "end": 81060,
+          "confidence": 0.99993336,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 81060,
+          "end": 81220,
+          "confidence": 0.99980384,
+          "speaker": "A"
+        },
+        {
+          "text": "most",
+          "start": 81220,
+          "end": 81440,
+          "confidence": 0.99991536,
+          "speaker": "A"
+        },
+        {
+          "text": "important",
+          "start": 81440,
+          "end": 81560,
+          "confidence": 0.9997079,
+          "speaker": "A"
+        },
+        {
+          "text": "tools",
+          "start": 81560,
+          "end": 81800,
+          "confidence": 0.89312685,
+          "speaker": "A"
+        },
+        {
+          "text": "for",
+          "start": 81800,
+          "end": 81980,
+          "confidence": 0.9989925,
+          "speaker": "A"
+        },
+        {
+          "text": "long-term",
+          "start": 81980,
+          "end": 82280,
+          "confidence": 0.999835,
+          "speaker": "A"
+        },
+        {
+          "text": "prosperity.",
+          "start": 82280,
+          "end": 82880,
+          "confidence": 0.9987803,
+          "speaker": "A"
+        },
+        {
+          "text": "Capital",
+          "start": 83860,
+          "end": 84560,
+          "confidence": 0.14232016,
+          "speaker": "A"
+        },
+        {
+          "text": "allocation",
+          "start": 84560,
+          "end": 84920,
+          "confidence": 0.96075803,
+          "speaker": "A"
+        },
+        {
+          "text": "and",
+          "start": 84920,
+          "end": 85200,
+          "confidence": 0.9941356,
+          "speaker": "A"
+        },
+        {
+          "text": "risk",
+          "start": 85200,
+          "end": 85420,
+          "confidence": 0.9997956,
+          "speaker": "A"
+        },
+        {
+          "text": "management",
+          "start": 85420,
+          "end": 85580,
+          "confidence": 0.99943894,
+          "speaker": "A"
+        },
+        {
+          "text": "form",
+          "start": 85580,
+          "end": 85860,
+          "confidence": 0.53718543,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 85860,
+          "end": 86040,
+          "confidence": 0.9997565,
+          "speaker": "A"
+        },
+        {
+          "text": "foundation",
+          "start": 86040,
+          "end": 86320,
+          "confidence": 0.99899346,
+          "speaker": "A"
+        },
+        {
+          "text": "of",
+          "start": 86320,
+          "end": 86540,
+          "confidence": 0.99659234,
+          "speaker": "A"
+        },
+        {
+          "text": "sound",
+          "start": 86540,
+          "end": 86600,
+          "confidence": 0.9962501,
+          "speaker": "A"
+        },
+        {
+          "text": "financial",
+          "start": 86600,
+          "end": 86880,
+          "confidence": 0.9999615,
+          "speaker": "A"
+        },
+        {
+          "text": "planning.",
+          "start": 86880,
+          "end": 87580,
+          "confidence": 0.99704987,
+          "speaker": "A"
+        },
+        {
+          "text": "Creating",
+          "start": 87840,
+          "end": 88000,
+          "confidence": 0.99757785,
+          "speaker": "A"
+        },
+        {
+          "text": "a",
+          "start": 88000,
+          "end": 88160,
+          "confidence": 0.9967064,
+          "speaker": "A"
+        },
+        {
+          "text": "budget",
+          "start": 88160,
+          "end": 88280,
+          "confidence": 0.9994375,
+          "speaker": "A"
+        },
+        {
+          "text": "and",
+          "start": 88280,
+          "end": 88480,
+          "confidence": 0.9976399,
+          "speaker": "A"
+        },
+        {
+          "text": "tracking",
+          "start": 88480,
+          "end": 88620,
+          "confidence": 0.98541784,
+          "speaker": "A"
+        },
+        {
+          "text": "expenses",
+          "start": 88620,
+          "end": 88940,
+          "confidence": 0.9801993,
+          "speaker": "A"
+        },
+        {
+          "text": "helps",
+          "start": 88940,
+          "end": 89200,
+          "confidence": 0.6754921,
+          "speaker": "A"
+        },
+        {
+          "text": "prevent",
+          "start": 89200,
+          "end": 89420,
+          "confidence": 0.6908463,
+          "speaker": "A"
+        },
+        {
+          "text": "unwanted",
+          "start": 89420,
+          "end": 89700,
+          "confidence": 0.62955546,
+          "speaker": "A"
+        },
+        {
+          "text": "payments",
+          "start": 89700,
+          "end": 89980,
+          "confidence": 0.69813854,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 89980,
+          "end": 90140,
+          "confidence": 0.6892623,
+          "speaker": "A"
+        },
+        {
+          "text": "savings",
+          "start": 90140,
+          "end": 90340,
+          "confidence": 0.995546,
+          "speaker": "A"
+        },
+        {
+          "text": "and",
+          "start": 90340,
+          "end": 90560,
+          "confidence": 0.98880833,
+          "speaker": "A"
+        },
+        {
+          "text": "investments.",
+          "start": 90560,
+          "end": 91110,
+          "confidence": 0.9919221,
+          "speaker": "A"
+        },
+        {
+          "text": "Diversifying",
+          "start": 91540,
+          "end": 91820,
+          "confidence": 0.9923623,
+          "speaker": "A"
+        },
+        {
+          "text": "your",
+          "start": 91820,
+          "end": 92100,
+          "confidence": 0.9996979,
+          "speaker": "A"
+        },
+        {
+          "text": "portfolio",
+          "start": 92100,
+          "end": 92400,
+          "confidence": 0.9999137,
+          "speaker": "A"
+        },
+        {
+          "text": "across",
+          "start": 92400,
+          "end": 92660,
+          "confidence": 0.99958485,
+          "speaker": "A"
+        },
+        {
+          "text": "different",
+          "start": 92660,
+          "end": 92880,
+          "confidence": 0.9976452,
+          "speaker": "A"
+        },
+        {
+          "text": "asset",
+          "start": 92880,
+          "end": 93120,
+          "confidence": 0.9996687,
+          "speaker": "A"
+        },
+        {
+          "text": "classes",
+          "start": 93120,
+          "end": 93300,
+          "confidence": 0.9996793,
+          "speaker": "A"
+        },
+        {
+          "text": "reduces",
+          "start": 93300,
+          "end": 93620,
+          "confidence": 0.95592815,
+          "speaker": "A"
+        },
+        {
+          "text": "overall",
+          "start": 93620,
+          "end": 93780,
+          "confidence": 0.61701673,
+          "speaker": "A"
+        },
+        {
+          "text": "risk.",
+          "start": 93780,
+          "end": 93800,
+          "confidence": 0.9910643,
+          "speaker": "A"
+        },
+        {
+          "text": "Consulting",
+          "start": 93800,
+          "end": 93820,
+          "confidence": 0.9993063,
+          "speaker": "A"
+        },
+        {
+          "text": "with",
+          "start": 93820,
+          "end": 93840,
+          "confidence": 0.9995902,
+          "speaker": "A"
+        },
+        {
+          "text": "a",
+          "start": 93840,
+          "end": 93860,
+          "confidence": 0.9992454,
+          "speaker": "A"
+        },
+        {
+          "text": "qualified",
+          "start": 93860,
+          "end": 93880,
+          "confidence": 0.9993949,
+          "speaker": "A"
+        }
+      ]
+    }
+  ],
+  "confidence": 0.94288737,
+  "audio_duration": 106,
+  "punctuate": true,
+  "format_text": true,
+  "dual_channel": false,
+  "webhook_url": null,
+  "webhook_status_code": null,
+  "webhook_auth": false,
+  "webhook_auth_header_name": null,
+  "speed_boost": false,
+  "auto_highlights_result": null,
+  "auto_highlights": false,
+  "audio_start_from": null,
+  "audio_end_at": null,
+  "word_boost": [],
+  "boost_param": null,
+  "prompt": null,
+  "keyterms_prompt": [],
+  "filter_profanity": false,
+  "redact_pii": false,
+  "redact_pii_audio": false,
+  "redact_pii_audio_quality": null,
+  "redact_pii_audio_options": null,
+  "redact_pii_policies": null,
+  "redact_pii_sub": null,
+  "redact_static_entities": null,
+  "speaker_labels": true,
+  "speaker_options": {
+    "min_speakers_expected": null,
+    "max_speakers_expected": null,
+    "advanced_speaker_segmentation": true
+  },
+  "content_safety": false,
+  "iab_categories": false,
+  "content_safety_labels": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "iab_categories_result": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "language_detection": false,
+  "language_detection_options": null,
+  "language_detection_results": null,
+  "language_confidence_threshold": null,
+  "language_confidence": null,
+  "custom_spelling": null,
+  "throttled": false,
+  "auto_chapters": false,
+  "summarization": false,
+  "summary_type": null,
+  "summary_model": null,
+  "custom_topics": false,
+  "topics": [],
+  "speech_threshold": null,
+  "speech_model": null,
+  "speech_models": [
+    "universal-3-5-pro",
+    "universal-2"
+  ],
+  "speech_model_used": "universal-3-5-pro",
+  "temperature": null,
+  "remove_audio_tags": "all",
+  "chapters": null,
+  "disfluencies": false,
+  "entity_detection": false,
+  "sentiment_analysis": false,
+  "sentiment_analysis_results": null,
+  "entities": null,
+  "speakers_expected": null,
+  "summary": null,
+  "custom_topics_results": null,
+  "is_deleted": null,
+  "multichannel": null,
+  "project_id": 1431881,
+  "token_id": 1443892
+}
