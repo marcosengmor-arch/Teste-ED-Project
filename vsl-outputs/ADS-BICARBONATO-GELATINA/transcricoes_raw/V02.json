@@ -1,0 +1,7691 @@
+{
+  "id": "628b38f1-e3c6-4778-ad4d-7765d2bf3e84",
+  "language_model": "assemblyai_default",
+  "acoustic_model": "assemblyai_default",
+  "language_code": "en_us",
+  "speech_understanding": null,
+  "translated_texts": null,
+  "status": "completed",
+  "audio_url": "https://drive.usercontent.google.com/download?id=1MvFMHDbghCTo7IR8xNbrJmxfx-N8BwMK&export=download&confirm=t",
+  "text": "This is the last time I am going to drop the baking soda and lemon trick recipe for free, and anyone who starts today is going to need to restock their wardrobe by Monday. I bet a million dollars that you will be wearing an XS bikini by September if you prepare the recipe in the correct order, and that is what separates those who get out of an XL from those who do not see the numbers on the scale go down. So pay attention for the next 30 seconds because I swear it is the last time I am going to talk about this on my profile. Seriously, if you have been taking the baking soda shot for at least 5 days and did not need to rush to the store to buy a new size M pair of pants, You probably fell for some fake version they are putting out there on the internet. The real version of the trick costs $3,000 and a private consultation with Dr. Kylie Sakaida, nutritionist to the stars in Hollywood, and requires the correct order and exact timing to go from XL to S in less than 3 months. Before continuing, a serious warning. In celebration of more than 70,000 women losing at least 9 pounds with this bariatric shot recipe, the short video of Dr. Kylie's original recipe, who has already helped names like Oprah, Kelly Clarkson, and Melissa McCarthy lose weight, is completely free for the next 20 minutes. Click learn more now and copy The correct recipe before it goes offline. Oprah is gonna kill me for revealing this, but it was this baking soda shot recipe she used to go from XL to M after turning 70. It is impossible for you not to wake up 3 pounds thinner tomorrow if you make this recipe the right way today. The combination of this recipe is more powerful than a truckload of Ozempic. Get ready to cry with joy the day you manage to wear XS for the first time in years. I bet $1 million in cash that you will get out of an XL in 5 days tops with this baking soda shot trick. This recipe turns on the metabolism's turbo mode and is up to 18 times stronger than cardio on the treadmill. The results? Your body enters high-speed Speed burn mode 24 hours a day. You will need to eat McDonald's every day just to keep from getting too skinny. To watch a full step-by-step video, click the link below. This recipe video has already been banned 7 times from the internet, and I suspect it is the manufacturers of Mounjaro. If it is still available when you click, be grateful and watch. It might be your last chance to see it for free. In the video, you will discover the correct order to prepare the recipe at home and the specific timing to see your XL pants slipping off before September 2026 is over. Click the button below, watch now, and prepare your first shot today. If you have tried everything and never managed to lose weight, this is your chance. Click Learn more and be ready to lose at least 3 pounds tomorrow morning.",
+  "words": [
+    {
+      "text": "This",
+      "start": 48,
+      "end": 96,
+      "confidence": 0.9671551,
+      "speaker": "A"
+    },
+    {
+      "text": "is",
+      "start": 176,
+      "end": 240,
+      "confidence": 0.9997477,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 272,
+      "end": 432,
+      "confidence": 0.99884003,
+      "speaker": "A"
+    },
+    {
+      "text": "last",
+      "start": 432,
+      "end": 833,
+      "confidence": 0.9996669,
+      "speaker": "A"
+    },
+    {
+      "text": "time",
+      "start": 833,
+      "end": 1154,
+      "confidence": 0.99991024,
+      "speaker": "A"
+    },
+    {
+      "text": "I",
+      "start": 1298,
+      "end": 1395,
+      "confidence": 0.99696344,
+      "speaker": "A"
+    },
+    {
+      "text": "am",
+      "start": 1395,
+      "end": 1443,
+      "confidence": 0.9520717,
+      "speaker": "A"
+    },
+    {
+      "text": "going",
+      "start": 1475,
+      "end": 1683,
+      "confidence": 0.9973327,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 1715,
+      "end": 1795,
+      "confidence": 0.9998851,
+      "speaker": "A"
+    },
+    {
+      "text": "drop",
+      "start": 1795,
+      "end": 2293,
+      "confidence": 0.9988967,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 2357,
+      "end": 2453,
+      "confidence": 0.99778676,
+      "speaker": "A"
+    },
+    {
+      "text": "baking",
+      "start": 2517,
+      "end": 2870,
+      "confidence": 0.9987167,
+      "speaker": "A"
+    },
+    {
+      "text": "soda",
+      "start": 2918,
+      "end": 3383,
+      "confidence": 0.99967265,
+      "speaker": "A"
+    },
+    {
+      "text": "and",
+      "start": 3399,
+      "end": 3463,
+      "confidence": 0.9992368,
+      "speaker": "A"
+    },
+    {
+      "text": "lemon",
+      "start": 3624,
+      "end": 3832,
+      "confidence": 0.99991786,
+      "speaker": "A"
+    },
+    {
+      "text": "trick",
+      "start": 3944,
+      "end": 4137,
+      "confidence": 0.9997483,
+      "speaker": "A"
+    },
+    {
+      "text": "recipe",
+      "start": 4201,
+      "end": 4634,
+      "confidence": 0.9997459,
+      "speaker": "A"
+    },
+    {
+      "text": "for",
+      "start": 4682,
+      "end": 4826,
+      "confidence": 0.9996387,
+      "speaker": "A"
+    },
+    {
+      "text": "free,",
+      "start": 4842,
+      "end": 5179,
+      "confidence": 0.973536,
+      "speaker": "A"
+    },
+    {
+      "text": "and",
+      "start": 5484,
+      "end": 5548,
+      "confidence": 0.997586,
+      "speaker": "A"
+    },
+    {
+      "text": "anyone",
+      "start": 5708,
+      "end": 6013,
+      "confidence": 0.9982261,
+      "speaker": "A"
+    },
+    {
+      "text": "who",
+      "start": 6109,
+      "end": 6189,
+      "confidence": 0.99976224,
+      "speaker": "A"
+    },
+    {
+      "text": "starts",
+      "start": 6189,
+      "end": 6670,
+      "confidence": 0.9996853,
+      "speaker": "A"
+    },
+    {
+      "text": "today",
+      "start": 6670,
+      "end": 7167,
+      "confidence": 0.9980738,
+      "speaker": "A"
+    },
+    {
+      "text": "is",
+      "start": 7504,
+      "end": 7616,
+      "confidence": 0.989907,
+      "speaker": "A"
+    },
+    {
+      "text": "going",
+      "start": 7632,
+      "end": 7777,
+      "confidence": 0.9991486,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 7809,
+      "end": 7905,
+      "confidence": 0.9997209,
+      "speaker": "A"
+    },
+    {
+      "text": "need",
+      "start": 7905,
+      "end": 8113,
+      "confidence": 0.9996581,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 8113,
+      "end": 8210,
+      "confidence": 0.99982786,
+      "speaker": "A"
+    },
+    {
+      "text": "restock",
+      "start": 8290,
+      "end": 8851,
+      "confidence": 0.9999266,
+      "speaker": "A"
+    },
+    {
+      "text": "their",
+      "start": 8851,
+      "end": 8963,
+      "confidence": 0.9993482,
+      "speaker": "A"
+    },
+    {
+      "text": "wardrobe",
+      "start": 9076,
+      "end": 9733,
+      "confidence": 0.99943167,
+      "speaker": "A"
+    },
+    {
+      "text": "by",
+      "start": 9733,
+      "end": 9909,
+      "confidence": 0.99788636,
+      "speaker": "A"
+    },
+    {
+      "text": "Monday.",
+      "start": 9909,
+      "end": 10310,
+      "confidence": 0.97680235,
+      "speaker": "A"
+    },
+    {
+      "text": "I",
+      "start": 10775,
+      "end": 10823,
+      "confidence": 0.9877079,
+      "speaker": "A"
+    },
+    {
+      "text": "bet",
+      "start": 10856,
+      "end": 11032,
+      "confidence": 0.9985599,
+      "speaker": "A"
+    },
+    {
+      "text": "a",
+      "start": 11032,
+      "end": 11096,
+      "confidence": 0.8501258,
+      "speaker": "A"
+    },
+    {
+      "text": "million",
+      "start": 11096,
+      "end": 11385,
+      "confidence": 0.9997223,
+      "speaker": "A"
+    },
+    {
+      "text": "dollars",
+      "start": 11417,
+      "end": 11721,
+      "confidence": 0.99948406,
+      "speaker": "A"
+    },
+    {
+      "text": "that",
+      "start": 11721,
+      "end": 11818,
+      "confidence": 0.9953052,
+      "speaker": "A"
+    },
+    {
+      "text": "you",
+      "start": 11818,
+      "end": 11898,
+      "confidence": 0.9997358,
+      "speaker": "A"
+    },
+    {
+      "text": "will",
+      "start": 11898,
+      "end": 11994,
+      "confidence": 0.98582304,
+      "speaker": "A"
+    },
+    {
+      "text": "be",
+      "start": 11994,
+      "end": 12106,
+      "confidence": 0.9994893,
+      "speaker": "A"
+    },
+    {
+      "text": "wearing",
+      "start": 12122,
+      "end": 12331,
+      "confidence": 0.9999386,
+      "speaker": "A"
+    },
+    {
+      "text": "an",
+      "start": 12379,
+      "end": 12427,
+      "confidence": 0.9992067,
+      "speaker": "A"
+    },
+    {
+      "text": "XS",
+      "start": 12523,
+      "end": 12844,
+      "confidence": 0.7331967,
+      "speaker": "A"
+    },
+    {
+      "text": "bikini",
+      "start": 12844,
+      "end": 13165,
+      "confidence": 0.9999912,
+      "speaker": "A"
+    },
+    {
+      "text": "by",
+      "start": 13165,
+      "end": 13261,
+      "confidence": 0.9994585,
+      "speaker": "A"
+    },
+    {
+      "text": "September",
+      "start": 13261,
+      "end": 13726,
+      "confidence": 0.99985707,
+      "speaker": "A"
+    },
+    {
+      "text": "if",
+      "start": 13742,
+      "end": 13902,
+      "confidence": 0.9842085,
+      "speaker": "A"
+    },
+    {
+      "text": "you",
+      "start": 13902,
+      "end": 14047,
+      "confidence": 0.99966145,
+      "speaker": "A"
+    },
+    {
+      "text": "prepare",
+      "start": 14223,
+      "end": 14560,
+      "confidence": 0.99489427,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 14560,
+      "end": 14640,
+      "confidence": 0.9993216,
+      "speaker": "A"
+    },
+    {
+      "text": "recipe",
+      "start": 14640,
+      "end": 15025,
+      "confidence": 0.99987924,
+      "speaker": "A"
+    },
+    {
+      "text": "in",
+      "start": 15025,
+      "end": 15073,
+      "confidence": 0.9984137,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 15105,
+      "end": 15185,
+      "confidence": 0.9999418,
+      "speaker": "A"
+    },
+    {
+      "text": "correct",
+      "start": 15185,
+      "end": 15570,
+      "confidence": 0.99967694,
+      "speaker": "A"
+    },
+    {
+      "text": "order,",
+      "start": 15570,
+      "end": 15794,
+      "confidence": 0.9136174,
+      "speaker": "A"
+    },
+    {
+      "text": "and",
+      "start": 16131,
+      "end": 16308,
+      "confidence": 0.99883896,
+      "speaker": "A"
+    },
+    {
+      "text": "that",
+      "start": 16308,
+      "end": 16484,
+      "confidence": 0.9991731,
+      "speaker": "A"
+    },
+    {
+      "text": "is",
+      "start": 16484,
+      "end": 16564,
+      "confidence": 0.9977283,
+      "speaker": "A"
+    },
+    {
+      "text": "what",
+      "start": 16612,
+      "end": 16773,
+      "confidence": 0.9999155,
+      "speaker": "A"
+    },
+    {
+      "text": "separates",
+      "start": 16773,
+      "end": 17254,
+      "confidence": 0.99991274,
+      "speaker": "A"
+    },
+    {
+      "text": "those",
+      "start": 17254,
+      "end": 17478,
+      "confidence": 0.9997615,
+      "speaker": "A"
+    },
+    {
+      "text": "who",
+      "start": 17494,
+      "end": 17526,
+      "confidence": 0.99951994,
+      "speaker": "A"
+    },
+    {
+      "text": "get",
+      "start": 17590,
+      "end": 17735,
+      "confidence": 0.99899,
+      "speaker": "A"
+    },
+    {
+      "text": "out",
+      "start": 17735,
+      "end": 17831,
+      "confidence": 0.9997876,
+      "speaker": "A"
+    },
+    {
+      "text": "of",
+      "start": 17831,
+      "end": 17911,
+      "confidence": 0.99994564,
+      "speaker": "A"
+    },
+    {
+      "text": "an",
+      "start": 17911,
+      "end": 17991,
+      "confidence": 0.9989932,
+      "speaker": "A"
+    },
+    {
+      "text": "XL",
+      "start": 17991,
+      "end": 18280,
+      "confidence": 0.99988556,
+      "speaker": "A"
+    },
+    {
+      "text": "from",
+      "start": 18312,
+      "end": 18440,
+      "confidence": 0.9992291,
+      "speaker": "A"
+    },
+    {
+      "text": "those",
+      "start": 18472,
+      "end": 18681,
+      "confidence": 0.9996829,
+      "speaker": "A"
+    },
+    {
+      "text": "who",
+      "start": 18697,
+      "end": 18793,
+      "confidence": 0.99956375,
+      "speaker": "A"
+    },
+    {
+      "text": "do",
+      "start": 18793,
+      "end": 18889,
+      "confidence": 0.9974354,
+      "speaker": "A"
+    },
+    {
+      "text": "not",
+      "start": 18889,
+      "end": 19066,
+      "confidence": 0.9999374,
+      "speaker": "A"
+    },
+    {
+      "text": "see",
+      "start": 19098,
+      "end": 19274,
+      "confidence": 0.9991788,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 19274,
+      "end": 19354,
+      "confidence": 0.9991007,
+      "speaker": "A"
+    },
+    {
+      "text": "numbers",
+      "start": 19354,
+      "end": 19675,
+      "confidence": 0.99973994,
+      "speaker": "A"
+    },
+    {
+      "text": "on",
+      "start": 19739,
+      "end": 19771,
+      "confidence": 0.9996668,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 19771,
+      "end": 19884,
+      "confidence": 0.9996119,
+      "speaker": "A"
+    },
+    {
+      "text": "scale",
+      "start": 19884,
+      "end": 20108,
+      "confidence": 0.999853,
+      "speaker": "A"
+    },
+    {
+      "text": "go",
+      "start": 20220,
+      "end": 20381,
+      "confidence": 0.99970955,
+      "speaker": "A"
+    },
+    {
+      "text": "down.",
+      "start": 20381,
+      "end": 20589,
+      "confidence": 0.8164975,
+      "speaker": "A"
+    },
+    {
+      "text": "So",
+      "start": 20733,
+      "end": 21038,
+      "confidence": 0.9719767,
+      "speaker": "A"
+    },
+    {
+      "text": "pay",
+      "start": 21038,
+      "end": 21198,
+      "confidence": 0.9365456,
+      "speaker": "A"
+    },
+    {
+      "text": "attention",
+      "start": 21198,
+      "end": 21583,
+      "confidence": 0.9999201,
+      "speaker": "A"
+    },
+    {
+      "text": "for",
+      "start": 21599,
+      "end": 21680,
+      "confidence": 0.9991216,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 21680,
+      "end": 21760,
+      "confidence": 0.9999372,
+      "speaker": "A"
+    },
+    {
+      "text": "next",
+      "start": 21760,
+      "end": 22000,
+      "confidence": 0.9999137,
+      "speaker": "A"
+    },
+    {
+      "text": "30",
+      "start": 22000,
+      "end": 22225,
+      "confidence": 0.9999231,
+      "speaker": "A"
+    },
+    {
+      "text": "seconds",
+      "start": 22225,
+      "end": 22529,
+      "confidence": 0.9999722,
+      "speaker": "A"
+    },
+    {
+      "text": "because",
+      "start": 22561,
+      "end": 22802,
+      "confidence": 0.9757631,
+      "speaker": "A"
+    },
+    {
+      "text": "I",
+      "start": 22802,
+      "end": 22834,
+      "confidence": 0.99930656,
+      "speaker": "A"
+    },
+    {
+      "text": "swear",
+      "start": 22882,
+      "end": 23123,
+      "confidence": 0.9999814,
+      "speaker": "A"
+    },
+    {
+      "text": "it",
+      "start": 23123,
+      "end": 23219,
+      "confidence": 0.9907357,
+      "speaker": "A"
+    },
+    {
+      "text": "is",
+      "start": 23219,
+      "end": 23299,
+      "confidence": 0.9963838,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 23347,
+      "end": 23443,
+      "confidence": 0.99983466,
+      "speaker": "A"
+    },
+    {
+      "text": "last",
+      "start": 23443,
+      "end": 23684,
+      "confidence": 0.9996952,
+      "speaker": "A"
+    },
+    {
+      "text": "time",
+      "start": 23684,
+      "end": 23908,
+      "confidence": 0.9999242,
+      "speaker": "A"
+    },
+    {
+      "text": "I",
+      "start": 24005,
+      "end": 24069,
+      "confidence": 0.99818844,
+      "speaker": "A"
+    },
+    {
+      "text": "am",
+      "start": 24069,
+      "end": 24149,
+      "confidence": 0.8207562,
+      "speaker": "A"
+    },
+    {
+      "text": "going",
+      "start": 24165,
+      "end": 24245,
+      "confidence": 0.8538038,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 24245,
+      "end": 24309,
+      "confidence": 0.99957234,
+      "speaker": "A"
+    },
+    {
+      "text": "talk",
+      "start": 24309,
+      "end": 24502,
+      "confidence": 0.9995852,
+      "speaker": "A"
+    },
+    {
+      "text": "about",
+      "start": 24502,
+      "end": 24726,
+      "confidence": 0.99984,
+      "speaker": "A"
+    },
+    {
+      "text": "this",
+      "start": 24726,
+      "end": 24871,
+      "confidence": 0.9994311,
+      "speaker": "A"
+    },
+    {
+      "text": "on",
+      "start": 24967,
+      "end": 25015,
+      "confidence": 0.99921834,
+      "speaker": "A"
+    },
+    {
+      "text": "my",
+      "start": 25047,
+      "end": 25207,
+      "confidence": 0.9997205,
+      "speaker": "A"
+    },
+    {
+      "text": "profile.",
+      "start": 25272,
+      "end": 25640,
+      "confidence": 0.99124897,
+      "speaker": "A"
+    },
+    {
+      "text": "Seriously,",
+      "start": 25913,
+      "end": 26298,
+      "confidence": 0.8958989,
+      "speaker": "A"
+    },
+    {
+      "text": "if",
+      "start": 26490,
+      "end": 26635,
+      "confidence": 0.9973833,
+      "speaker": "A"
+    },
+    {
+      "text": "you",
+      "start": 26635,
+      "end": 26715,
+      "confidence": 0.99988353,
+      "speaker": "A"
+    },
+    {
+      "text": "have",
+      "start": 26715,
+      "end": 26795,
+      "confidence": 0.9667176,
+      "speaker": "A"
+    },
+    {
+      "text": "been",
+      "start": 26795,
+      "end": 26875,
+      "confidence": 0.99902916,
+      "speaker": "A"
+    },
+    {
+      "text": "taking",
+      "start": 26875,
+      "end": 27100,
+      "confidence": 0.9997507,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 27116,
+      "end": 27196,
+      "confidence": 0.9967423,
+      "speaker": "A"
+    },
+    {
+      "text": "baking",
+      "start": 27196,
+      "end": 27420,
+      "confidence": 0.9997199,
+      "speaker": "A"
+    },
+    {
+      "text": "soda",
+      "start": 27452,
+      "end": 27677,
+      "confidence": 0.99967194,
+      "speaker": "A"
+    },
+    {
+      "text": "shot",
+      "start": 27677,
+      "end": 27917,
+      "confidence": 0.99944216,
+      "speaker": "A"
+    },
+    {
+      "text": "for",
+      "start": 27917,
+      "end": 28014,
+      "confidence": 0.99946755,
+      "speaker": "A"
+    },
+    {
+      "text": "at",
+      "start": 28014,
+      "end": 28094,
+      "confidence": 0.9989899,
+      "speaker": "A"
+    },
+    {
+      "text": "least",
+      "start": 28094,
+      "end": 28318,
+      "confidence": 0.9992138,
+      "speaker": "A"
+    },
+    {
+      "text": "5",
+      "start": 28318,
+      "end": 28575,
+      "confidence": 0.99989414,
+      "speaker": "A"
+    },
+    {
+      "text": "days",
+      "start": 28575,
+      "end": 28783,
+      "confidence": 0.9995409,
+      "speaker": "A"
+    },
+    {
+      "text": "and",
+      "start": 28896,
+      "end": 28976,
+      "confidence": 0.9961326,
+      "speaker": "A"
+    },
+    {
+      "text": "did",
+      "start": 28976,
+      "end": 29120,
+      "confidence": 0.9980234,
+      "speaker": "A"
+    },
+    {
+      "text": "not",
+      "start": 29120,
+      "end": 29248,
+      "confidence": 0.99933785,
+      "speaker": "A"
+    },
+    {
+      "text": "need",
+      "start": 29296,
+      "end": 29393,
+      "confidence": 0.9977968,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 29393,
+      "end": 29521,
+      "confidence": 0.99749136,
+      "speaker": "A"
+    },
+    {
+      "text": "rush",
+      "start": 29521,
+      "end": 29681,
+      "confidence": 0.9995784,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 29697,
+      "end": 29794,
+      "confidence": 0.99832195,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 29794,
+      "end": 29874,
+      "confidence": 0.9991787,
+      "speaker": "A"
+    },
+    {
+      "text": "store",
+      "start": 29874,
+      "end": 30114,
+      "confidence": 0.99880433,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 30114,
+      "end": 30194,
+      "confidence": 0.99784374,
+      "speaker": "A"
+    },
+    {
+      "text": "buy",
+      "start": 30243,
+      "end": 30339,
+      "confidence": 0.9987627,
+      "speaker": "A"
+    },
+    {
+      "text": "a",
+      "start": 30339,
+      "end": 30371,
+      "confidence": 0.9990208,
+      "speaker": "A"
+    },
+    {
+      "text": "new",
+      "start": 30419,
+      "end": 30579,
+      "confidence": 0.99902797,
+      "speaker": "A"
+    },
+    {
+      "text": "size",
+      "start": 30579,
+      "end": 30884,
+      "confidence": 0.9992712,
+      "speaker": "A"
+    },
+    {
+      "text": "M",
+      "start": 30884,
+      "end": 30964,
+      "confidence": 0.9945575,
+      "speaker": "A"
+    },
+    {
+      "text": "pair",
+      "start": 30964,
+      "end": 31076,
+      "confidence": 0.9994067,
+      "speaker": "A"
+    },
+    {
+      "text": "of",
+      "start": 31076,
+      "end": 31141,
+      "confidence": 0.9980598,
+      "speaker": "A"
+    },
+    {
+      "text": "pants,",
+      "start": 31141,
+      "end": 31477,
+      "confidence": 0.9901879,
+      "speaker": "A"
+    },
+    {
+      "text": "You",
+      "start": 31630,
+      "end": 31670,
+      "confidence": 0.93701303,
+      "speaker": "A"
+    },
+    {
+      "text": "probably",
+      "start": 31766,
+      "end": 32263,
+      "confidence": 0.99907887,
+      "speaker": "A"
+    },
+    {
+      "text": "fell",
+      "start": 32263,
+      "end": 32455,
+      "confidence": 0.9999089,
+      "speaker": "A"
+    },
+    {
+      "text": "for",
+      "start": 32519,
+      "end": 32664,
+      "confidence": 0.9999596,
+      "speaker": "A"
+    },
+    {
+      "text": "some",
+      "start": 32664,
+      "end": 32824,
+      "confidence": 0.99974865,
+      "speaker": "A"
+    },
+    {
+      "text": "fake",
+      "start": 32840,
+      "end": 33209,
+      "confidence": 0.99985766,
+      "speaker": "A"
+    },
+    {
+      "text": "version",
+      "start": 33225,
+      "end": 33577,
+      "confidence": 0.99969757,
+      "speaker": "A"
+    },
+    {
+      "text": "they",
+      "start": 33609,
+      "end": 33705,
+      "confidence": 0.99613416,
+      "speaker": "A"
+    },
+    {
+      "text": "are",
+      "start": 33705,
+      "end": 33786,
+      "confidence": 0.9452666,
+      "speaker": "A"
+    },
+    {
+      "text": "putting",
+      "start": 33786,
+      "end": 34026,
+      "confidence": 0.99983823,
+      "speaker": "A"
+    },
+    {
+      "text": "out",
+      "start": 34090,
+      "end": 34267,
+      "confidence": 0.9995844,
+      "speaker": "A"
+    },
+    {
+      "text": "there",
+      "start": 34267,
+      "end": 34411,
+      "confidence": 0.9997228,
+      "speaker": "A"
+    },
+    {
+      "text": "on",
+      "start": 34411,
+      "end": 34507,
+      "confidence": 0.9982462,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 34507,
+      "end": 34587,
+      "confidence": 0.9999063,
+      "speaker": "A"
+    },
+    {
+      "text": "internet.",
+      "start": 34587,
+      "end": 34892,
+      "confidence": 0.9967831,
+      "speaker": "A"
+    },
+    {
+      "text": "The",
+      "start": 35068,
+      "end": 35132,
+      "confidence": 0.9631644,
+      "speaker": "A"
+    },
+    {
+      "text": "real",
+      "start": 35132,
+      "end": 35292,
+      "confidence": 0.99988925,
+      "speaker": "A"
+    },
+    {
+      "text": "version",
+      "start": 35308,
+      "end": 35549,
+      "confidence": 0.99989164,
+      "speaker": "A"
+    },
+    {
+      "text": "of",
+      "start": 35549,
+      "end": 35613,
+      "confidence": 0.99930334,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 35613,
+      "end": 35693,
+      "confidence": 0.99479127,
+      "speaker": "A"
+    },
+    {
+      "text": "trick",
+      "start": 35693,
+      "end": 35870,
+      "confidence": 0.99983346,
+      "speaker": "A"
+    },
+    {
+      "text": "costs",
+      "start": 35870,
+      "end": 36110,
+      "confidence": 0.99735653,
+      "speaker": "A"
+    },
+    {
+      "text": "$3,000",
+      "start": 36110,
+      "end": 36847,
+      "confidence": 0.9999326,
+      "speaker": "A"
+    },
+    {
+      "text": "and",
+      "start": 36976,
+      "end": 37056,
+      "confidence": 0.9104621,
+      "speaker": "A"
+    },
+    {
+      "text": "a",
+      "start": 37056,
+      "end": 37072,
+      "confidence": 0.99944717,
+      "speaker": "A"
+    },
+    {
+      "text": "private",
+      "start": 37072,
+      "end": 37360,
+      "confidence": 0.9997718,
+      "speaker": "A"
+    },
+    {
+      "text": "consultation",
+      "start": 37392,
+      "end": 37969,
+      "confidence": 0.9999486,
+      "speaker": "A"
+    },
+    {
+      "text": "with",
+      "start": 37969,
+      "end": 38114,
+      "confidence": 0.9979297,
+      "speaker": "A"
+    },
+    {
+      "text": "Dr.",
+      "start": 38114,
+      "end": 38354,
+      "confidence": 0.99890685,
+      "speaker": "A"
+    },
+    {
+      "text": "Kylie",
+      "start": 38418,
+      "end": 38675,
+      "confidence": 0.9048109,
+      "speaker": "A"
+    },
+    {
+      "text": "Sakaida,",
+      "start": 38675,
+      "end": 39156,
+      "confidence": 0.9776743,
+      "speaker": "A"
+    },
+    {
+      "text": "nutritionist",
+      "start": 39188,
+      "end": 39797,
+      "confidence": 0.9965366,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 39797,
+      "end": 39877,
+      "confidence": 0.999746,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 39877,
+      "end": 39957,
+      "confidence": 0.99958736,
+      "speaker": "A"
+    },
+    {
+      "text": "stars",
+      "start": 39957,
+      "end": 40342,
+      "confidence": 0.9999695,
+      "speaker": "A"
+    },
+    {
+      "text": "in",
+      "start": 40342,
+      "end": 40390,
+      "confidence": 0.99900776,
+      "speaker": "A"
+    },
+    {
+      "text": "Hollywood,",
+      "start": 40422,
+      "end": 40887,
+      "confidence": 0.99879134,
+      "speaker": "A"
+    },
+    {
+      "text": "and",
+      "start": 41240,
+      "end": 41304,
+      "confidence": 0.99598926,
+      "speaker": "A"
+    },
+    {
+      "text": "requires",
+      "start": 41304,
+      "end": 41688,
+      "confidence": 0.9997085,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 41721,
+      "end": 41801,
+      "confidence": 0.99968433,
+      "speaker": "A"
+    },
+    {
+      "text": "correct",
+      "start": 41801,
+      "end": 42185,
+      "confidence": 0.9999385,
+      "speaker": "A"
+    },
+    {
+      "text": "order",
+      "start": 42185,
+      "end": 42362,
+      "confidence": 0.999879,
+      "speaker": "A"
+    },
+    {
+      "text": "and",
+      "start": 42362,
+      "end": 42506,
+      "confidence": 0.99693006,
+      "speaker": "A"
+    },
+    {
+      "text": "exact",
+      "start": 42506,
+      "end": 42730,
+      "confidence": 0.9996661,
+      "speaker": "A"
+    },
+    {
+      "text": "timing",
+      "start": 42827,
+      "end": 43131,
+      "confidence": 0.9999541,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 43163,
+      "end": 43292,
+      "confidence": 0.99839336,
+      "speaker": "A"
+    },
+    {
+      "text": "go",
+      "start": 43308,
+      "end": 43420,
+      "confidence": 0.9998579,
+      "speaker": "A"
+    },
+    {
+      "text": "from",
+      "start": 43420,
+      "end": 43580,
+      "confidence": 0.9993498,
+      "speaker": "A"
+    },
+    {
+      "text": "XL",
+      "start": 43708,
+      "end": 43997,
+      "confidence": 0.99934953,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 44125,
+      "end": 44269,
+      "confidence": 0.99964833,
+      "speaker": "A"
+    },
+    {
+      "text": "S",
+      "start": 44349,
+      "end": 44398,
+      "confidence": 0.9963888,
+      "speaker": "A"
+    },
+    {
+      "text": "in",
+      "start": 44686,
+      "end": 44734,
+      "confidence": 0.9855413,
+      "speaker": "A"
+    },
+    {
+      "text": "less",
+      "start": 45183,
+      "end": 45407,
+      "confidence": 0.98197836,
+      "speaker": "A"
+    },
+    {
+      "text": "than",
+      "start": 45407,
+      "end": 45520,
+      "confidence": 0.9999331,
+      "speaker": "A"
+    },
+    {
+      "text": "3",
+      "start": 45568,
+      "end": 45728,
+      "confidence": 0.9997857,
+      "speaker": "A"
+    },
+    {
+      "text": "months.",
+      "start": 45728,
+      "end": 46049,
+      "confidence": 0.96910095,
+      "speaker": "A"
+    },
+    {
+      "text": "Before",
+      "start": 46289,
+      "end": 46546,
+      "confidence": 0.9382477,
+      "speaker": "A"
+    },
+    {
+      "text": "continuing,",
+      "start": 46594,
+      "end": 46978,
+      "confidence": 0.99089825,
+      "speaker": "A"
+    },
+    {
+      "text": "a",
+      "start": 47267,
+      "end": 47283,
+      "confidence": 0.99529123,
+      "speaker": "A"
+    },
+    {
+      "text": "serious",
+      "start": 47331,
+      "end": 47812,
+      "confidence": 0.9997384,
+      "speaker": "A"
+    },
+    {
+      "text": "warning.",
+      "start": 47876,
+      "end": 48101,
+      "confidence": 0.92863,
+      "speaker": "A"
+    },
+    {
+      "text": "In",
+      "start": 48533,
+      "end": 48581,
+      "confidence": 0.9100287,
+      "speaker": "A"
+    },
+    {
+      "text": "celebration",
+      "start": 48614,
+      "end": 49143,
+      "confidence": 0.9999529,
+      "speaker": "A"
+    },
+    {
+      "text": "of",
+      "start": 49143,
+      "end": 49223,
+      "confidence": 0.9996635,
+      "speaker": "A"
+    },
+    {
+      "text": "more",
+      "start": 49223,
+      "end": 49335,
+      "confidence": 0.99959046,
+      "speaker": "A"
+    },
+    {
+      "text": "than",
+      "start": 49335,
+      "end": 49431,
+      "confidence": 0.9998815,
+      "speaker": "A"
+    },
+    {
+      "text": "70,000",
+      "start": 49431,
+      "end": 50265,
+      "confidence": 0.99984914,
+      "speaker": "A"
+    },
+    {
+      "text": "women",
+      "start": 50297,
+      "end": 50601,
+      "confidence": 0.9999548,
+      "speaker": "A"
+    },
+    {
+      "text": "losing",
+      "start": 50601,
+      "end": 50874,
+      "confidence": 0.9998055,
+      "speaker": "A"
+    },
+    {
+      "text": "at",
+      "start": 50938,
+      "end": 51018,
+      "confidence": 0.9992748,
+      "speaker": "A"
+    },
+    {
+      "text": "least",
+      "start": 51018,
+      "end": 51242,
+      "confidence": 0.9999162,
+      "speaker": "A"
+    },
+    {
+      "text": "9",
+      "start": 51242,
+      "end": 51467,
+      "confidence": 0.9998497,
+      "speaker": "A"
+    },
+    {
+      "text": "pounds",
+      "start": 51499,
+      "end": 51868,
+      "confidence": 0.9963277,
+      "speaker": "A"
+    },
+    {
+      "text": "with",
+      "start": 51884,
+      "end": 51964,
+      "confidence": 0.9984707,
+      "speaker": "A"
+    },
+    {
+      "text": "this",
+      "start": 51964,
+      "end": 52140,
+      "confidence": 0.99715024,
+      "speaker": "A"
+    },
+    {
+      "text": "bariatric",
+      "start": 52140,
+      "end": 52701,
+      "confidence": 0.99386454,
+      "speaker": "A"
+    },
+    {
+      "text": "shot",
+      "start": 52701,
+      "end": 52910,
+      "confidence": 0.999869,
+      "speaker": "A"
+    },
+    {
+      "text": "recipe,",
+      "start": 52942,
+      "end": 53342,
+      "confidence": 0.9992198,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 53647,
+      "end": 53711,
+      "confidence": 0.98022264,
+      "speaker": "A"
+    },
+    {
+      "text": "short",
+      "start": 53727,
+      "end": 53984,
+      "confidence": 0.9996737,
+      "speaker": "A"
+    },
+    {
+      "text": "video",
+      "start": 53984,
+      "end": 54192,
+      "confidence": 0.9996456,
+      "speaker": "A"
+    },
+    {
+      "text": "of",
+      "start": 54224,
+      "end": 54320,
+      "confidence": 0.99916553,
+      "speaker": "A"
+    },
+    {
+      "text": "Dr.",
+      "start": 54320,
+      "end": 54577,
+      "confidence": 0.9995699,
+      "speaker": "A"
+    },
+    {
+      "text": "Kylie's",
+      "start": 54625,
+      "end": 55010,
+      "confidence": 0.99315214,
+      "speaker": "A"
+    },
+    {
+      "text": "original",
+      "start": 55010,
+      "end": 55378,
+      "confidence": 0.99946874,
+      "speaker": "A"
+    },
+    {
+      "text": "recipe,",
+      "start": 55410,
+      "end": 55827,
+      "confidence": 0.9933425,
+      "speaker": "A"
+    },
+    {
+      "text": "who",
+      "start": 55907,
+      "end": 56003,
+      "confidence": 0.9855085,
+      "speaker": "A"
+    },
+    {
+      "text": "has",
+      "start": 56003,
+      "end": 56116,
+      "confidence": 0.99945885,
+      "speaker": "A"
+    },
+    {
+      "text": "already",
+      "start": 56292,
+      "end": 56597,
+      "confidence": 0.9996031,
+      "speaker": "A"
+    },
+    {
+      "text": "helped",
+      "start": 56613,
+      "end": 56853,
+      "confidence": 0.9997768,
+      "speaker": "A"
+    },
+    {
+      "text": "names",
+      "start": 56853,
+      "end": 57126,
+      "confidence": 0.99984384,
+      "speaker": "A"
+    },
+    {
+      "text": "like",
+      "start": 57174,
+      "end": 57334,
+      "confidence": 0.99718803,
+      "speaker": "A"
+    },
+    {
+      "text": "Oprah,",
+      "start": 57494,
+      "end": 57831,
+      "confidence": 0.9422981,
+      "speaker": "A"
+    },
+    {
+      "text": "Kelly",
+      "start": 57911,
+      "end": 58200,
+      "confidence": 0.99977976,
+      "speaker": "A"
+    },
+    {
+      "text": "Clarkson,",
+      "start": 58312,
+      "end": 58761,
+      "confidence": 0.9992844,
+      "speaker": "A"
+    },
+    {
+      "text": "and",
+      "start": 59033,
+      "end": 59097,
+      "confidence": 0.99580246,
+      "speaker": "A"
+    },
+    {
+      "text": "Melissa",
+      "start": 59097,
+      "end": 59354,
+      "confidence": 0.9998454,
+      "speaker": "A"
+    },
+    {
+      "text": "McCarthy",
+      "start": 59354,
+      "end": 59690,
+      "confidence": 0.9999876,
+      "speaker": "A"
+    },
+    {
+      "text": "lose",
+      "start": 59754,
+      "end": 59883,
+      "confidence": 0.9993344,
+      "speaker": "A"
+    },
+    {
+      "text": "weight,",
+      "start": 59979,
+      "end": 60219,
+      "confidence": 0.9991285,
+      "speaker": "A"
+    },
+    {
+      "text": "is",
+      "start": 60235,
+      "end": 60283,
+      "confidence": 0.99471277,
+      "speaker": "A"
+    },
+    {
+      "text": "completely",
+      "start": 60380,
+      "end": 60764,
+      "confidence": 0.9992244,
+      "speaker": "A"
+    },
+    {
+      "text": "free",
+      "start": 60780,
+      "end": 61037,
+      "confidence": 0.99902153,
+      "speaker": "A"
+    },
+    {
+      "text": "for",
+      "start": 61037,
+      "end": 61149,
+      "confidence": 0.99147415,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 61149,
+      "end": 61197,
+      "confidence": 0.9993942,
+      "speaker": "A"
+    },
+    {
+      "text": "next",
+      "start": 61197,
+      "end": 61422,
+      "confidence": 0.9991161,
+      "speaker": "A"
+    },
+    {
+      "text": "20",
+      "start": 61422,
+      "end": 61614,
+      "confidence": 0.99987113,
+      "speaker": "A"
+    },
+    {
+      "text": "minutes.",
+      "start": 61614,
+      "end": 61935,
+      "confidence": 0.9979257,
+      "speaker": "A"
+    },
+    {
+      "text": "Click",
+      "start": 62079,
+      "end": 62303,
+      "confidence": 0.5090164,
+      "speaker": "A"
+    },
+    {
+      "text": "learn",
+      "start": 62303,
+      "end": 62448,
+      "confidence": 0.90059245,
+      "speaker": "A"
+    },
+    {
+      "text": "more",
+      "start": 62480,
+      "end": 62592,
+      "confidence": 0.9993961,
+      "speaker": "A"
+    },
+    {
+      "text": "now",
+      "start": 62656,
+      "end": 62816,
+      "confidence": 0.99852425,
+      "speaker": "A"
+    },
+    {
+      "text": "and",
+      "start": 63121,
+      "end": 63185,
+      "confidence": 0.9517041,
+      "speaker": "A"
+    },
+    {
+      "text": "copy",
+      "start": 63201,
+      "end": 63522,
+      "confidence": 0.9929357,
+      "speaker": "A"
+    },
+    {
+      "text": "The",
+      "start": 63602,
+      "end": 63682,
+      "confidence": 0.31173977,
+      "speaker": "A"
+    },
+    {
+      "text": "correct",
+      "start": 63682,
+      "end": 63922,
+      "confidence": 0.9854811,
+      "speaker": "A"
+    },
+    {
+      "text": "recipe",
+      "start": 63922,
+      "end": 64403,
+      "confidence": 0.9987754,
+      "speaker": "A"
+    },
+    {
+      "text": "before",
+      "start": 64403,
+      "end": 64740,
+      "confidence": 0.95751935,
+      "speaker": "A"
+    },
+    {
+      "text": "it",
+      "start": 64740,
+      "end": 64852,
+      "confidence": 0.9964833,
+      "speaker": "A"
+    },
+    {
+      "text": "goes",
+      "start": 64868,
+      "end": 65012,
+      "confidence": 0.99909914,
+      "speaker": "A"
+    },
+    {
+      "text": "offline.",
+      "start": 65109,
+      "end": 65573,
+      "confidence": 0.9880452,
+      "speaker": "A"
+    },
+    {
+      "text": "Oprah",
+      "start": 65750,
+      "end": 65926,
+      "confidence": 0.88930684,
+      "speaker": "A"
+    },
+    {
+      "text": "is",
+      "start": 65926,
+      "end": 66022,
+      "confidence": 0.92647105,
+      "speaker": "A"
+    },
+    {
+      "text": "gonna",
+      "start": 66070,
+      "end": 66231,
+      "confidence": 0.68579,
+      "speaker": "A"
+    },
+    {
+      "text": "kill",
+      "start": 66231,
+      "end": 66359,
+      "confidence": 0.9990971,
+      "speaker": "A"
+    },
+    {
+      "text": "me",
+      "start": 66407,
+      "end": 66487,
+      "confidence": 0.9997552,
+      "speaker": "A"
+    },
+    {
+      "text": "for",
+      "start": 66487,
+      "end": 66631,
+      "confidence": 0.9993069,
+      "speaker": "A"
+    },
+    {
+      "text": "revealing",
+      "start": 66631,
+      "end": 67016,
+      "confidence": 0.99979013,
+      "speaker": "A"
+    },
+    {
+      "text": "this,",
+      "start": 67064,
+      "end": 67176,
+      "confidence": 0.9915366,
+      "speaker": "A"
+    },
+    {
+      "text": "but",
+      "start": 67529,
+      "end": 67625,
+      "confidence": 0.99791867,
+      "speaker": "A"
+    },
+    {
+      "text": "it",
+      "start": 67625,
+      "end": 67689,
+      "confidence": 0.9972222,
+      "speaker": "A"
+    },
+    {
+      "text": "was",
+      "start": 67689,
+      "end": 67802,
+      "confidence": 0.9987423,
+      "speaker": "A"
+    },
+    {
+      "text": "this",
+      "start": 67850,
+      "end": 68010,
+      "confidence": 0.9984055,
+      "speaker": "A"
+    },
+    {
+      "text": "baking",
+      "start": 68010,
+      "end": 68299,
+      "confidence": 0.9955641,
+      "speaker": "A"
+    },
+    {
+      "text": "soda",
+      "start": 68331,
+      "end": 68587,
+      "confidence": 0.9985298,
+      "speaker": "A"
+    },
+    {
+      "text": "shot",
+      "start": 68587,
+      "end": 68876,
+      "confidence": 0.9997118,
+      "speaker": "A"
+    },
+    {
+      "text": "recipe",
+      "start": 68876,
+      "end": 69212,
+      "confidence": 0.9995116,
+      "speaker": "A"
+    },
+    {
+      "text": "she",
+      "start": 69212,
+      "end": 69389,
+      "confidence": 0.9897798,
+      "speaker": "A"
+    },
+    {
+      "text": "used",
+      "start": 69453,
+      "end": 69693,
+      "confidence": 0.9988174,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 69693,
+      "end": 69773,
+      "confidence": 0.99468887,
+      "speaker": "A"
+    },
+    {
+      "text": "go",
+      "start": 69773,
+      "end": 69934,
+      "confidence": 0.9990977,
+      "speaker": "A"
+    },
+    {
+      "text": "from",
+      "start": 69934,
+      "end": 70158,
+      "confidence": 0.9927683,
+      "speaker": "A"
+    },
+    {
+      "text": "XL",
+      "start": 70174,
+      "end": 70447,
+      "confidence": 0.9970753,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 70575,
+      "end": 70703,
+      "confidence": 0.998922,
+      "speaker": "A"
+    },
+    {
+      "text": "M",
+      "start": 70799,
+      "end": 70944,
+      "confidence": 0.9992914,
+      "speaker": "A"
+    },
+    {
+      "text": "after",
+      "start": 71200,
+      "end": 71440,
+      "confidence": 0.9780904,
+      "speaker": "A"
+    },
+    {
+      "text": "turning",
+      "start": 71440,
+      "end": 71665,
+      "confidence": 0.99987555,
+      "speaker": "A"
+    },
+    {
+      "text": "70.",
+      "start": 71697,
+      "end": 72146,
+      "confidence": 0.9838167,
+      "speaker": "A"
+    },
+    {
+      "text": "It",
+      "start": 72338,
+      "end": 72418,
+      "confidence": 0.9332315,
+      "speaker": "A"
+    },
+    {
+      "text": "is",
+      "start": 72418,
+      "end": 72498,
+      "confidence": 0.9970114,
+      "speaker": "A"
+    },
+    {
+      "text": "impossible",
+      "start": 72498,
+      "end": 72963,
+      "confidence": 0.99956614,
+      "speaker": "A"
+    },
+    {
+      "text": "for",
+      "start": 72963,
+      "end": 73059,
+      "confidence": 0.9982722,
+      "speaker": "A"
+    },
+    {
+      "text": "you",
+      "start": 73059,
+      "end": 73156,
+      "confidence": 0.99979264,
+      "speaker": "A"
+    },
+    {
+      "text": "not",
+      "start": 73156,
+      "end": 73380,
+      "confidence": 0.9959726,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 73380,
+      "end": 73460,
+      "confidence": 0.9987393,
+      "speaker": "A"
+    },
+    {
+      "text": "wake",
+      "start": 73460,
+      "end": 73701,
+      "confidence": 0.998204,
+      "speaker": "A"
+    },
+    {
+      "text": "up",
+      "start": 73701,
+      "end": 73797,
+      "confidence": 0.9995141,
+      "speaker": "A"
+    },
+    {
+      "text": "3",
+      "start": 73797,
+      "end": 74101,
+      "confidence": 0.99986947,
+      "speaker": "A"
+    },
+    {
+      "text": "pounds",
+      "start": 74101,
+      "end": 74390,
+      "confidence": 0.99357927,
+      "speaker": "A"
+    },
+    {
+      "text": "thinner",
+      "start": 74486,
+      "end": 74743,
+      "confidence": 0.9997104,
+      "speaker": "A"
+    },
+    {
+      "text": "tomorrow",
+      "start": 74743,
+      "end": 75127,
+      "confidence": 0.997981,
+      "speaker": "A"
+    },
+    {
+      "text": "if",
+      "start": 75127,
+      "end": 75224,
+      "confidence": 0.98234946,
+      "speaker": "A"
+    },
+    {
+      "text": "you",
+      "start": 75224,
+      "end": 75304,
+      "confidence": 0.9989951,
+      "speaker": "A"
+    },
+    {
+      "text": "make",
+      "start": 75304,
+      "end": 75528,
+      "confidence": 0.99859256,
+      "speaker": "A"
+    },
+    {
+      "text": "this",
+      "start": 75528,
+      "end": 75640,
+      "confidence": 0.9971762,
+      "speaker": "A"
+    },
+    {
+      "text": "recipe",
+      "start": 75688,
+      "end": 76041,
+      "confidence": 0.9995321,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 76041,
+      "end": 76169,
+      "confidence": 0.9928839,
+      "speaker": "A"
+    },
+    {
+      "text": "right",
+      "start": 76169,
+      "end": 76426,
+      "confidence": 0.99906284,
+      "speaker": "A"
+    },
+    {
+      "text": "way",
+      "start": 76426,
+      "end": 76618,
+      "confidence": 0.99963784,
+      "speaker": "A"
+    },
+    {
+      "text": "today.",
+      "start": 76811,
+      "end": 77131,
+      "confidence": 0.9579313,
+      "speaker": "A"
+    },
+    {
+      "text": "The",
+      "start": 77388,
+      "end": 77468,
+      "confidence": 0.89628947,
+      "speaker": "A"
+    },
+    {
+      "text": "combination",
+      "start": 77468,
+      "end": 78013,
+      "confidence": 0.9996119,
+      "speaker": "A"
+    },
+    {
+      "text": "of",
+      "start": 78013,
+      "end": 78045,
+      "confidence": 0.9978567,
+      "speaker": "A"
+    },
+    {
+      "text": "this",
+      "start": 78045,
+      "end": 78189,
+      "confidence": 0.9979019,
+      "speaker": "A"
+    },
+    {
+      "text": "recipe",
+      "start": 78189,
+      "end": 78590,
+      "confidence": 0.99931335,
+      "speaker": "A"
+    },
+    {
+      "text": "is",
+      "start": 78590,
+      "end": 78686,
+      "confidence": 0.99490166,
+      "speaker": "A"
+    },
+    {
+      "text": "more",
+      "start": 78734,
+      "end": 78862,
+      "confidence": 0.9962604,
+      "speaker": "A"
+    },
+    {
+      "text": "powerful",
+      "start": 78911,
+      "end": 79295,
+      "confidence": 0.99731594,
+      "speaker": "A"
+    },
+    {
+      "text": "than",
+      "start": 79295,
+      "end": 79391,
+      "confidence": 0.9970125,
+      "speaker": "A"
+    },
+    {
+      "text": "a",
+      "start": 79391,
+      "end": 79472,
+      "confidence": 0.99939036,
+      "speaker": "A"
+    },
+    {
+      "text": "truckload",
+      "start": 79472,
+      "end": 79872,
+      "confidence": 0.9997582,
+      "speaker": "A"
+    },
+    {
+      "text": "of",
+      "start": 79872,
+      "end": 79952,
+      "confidence": 0.99675614,
+      "speaker": "A"
+    },
+    {
+      "text": "Ozempic.",
+      "start": 79952,
+      "end": 80433,
+      "confidence": 0.99770474,
+      "speaker": "A"
+    },
+    {
+      "text": "Get",
+      "start": 80514,
+      "end": 80610,
+      "confidence": 0.85085934,
+      "speaker": "A"
+    },
+    {
+      "text": "ready",
+      "start": 80610,
+      "end": 80786,
+      "confidence": 0.99963284,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 80786,
+      "end": 80834,
+      "confidence": 0.9982066,
+      "speaker": "A"
+    },
+    {
+      "text": "cry",
+      "start": 80834,
+      "end": 81026,
+      "confidence": 0.9994073,
+      "speaker": "A"
+    },
+    {
+      "text": "with",
+      "start": 81059,
+      "end": 81139,
+      "confidence": 0.9980515,
+      "speaker": "A"
+    },
+    {
+      "text": "joy",
+      "start": 81155,
+      "end": 81379,
+      "confidence": 0.999529,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 81395,
+      "end": 81475,
+      "confidence": 0.9957371,
+      "speaker": "A"
+    },
+    {
+      "text": "day",
+      "start": 81475,
+      "end": 81636,
+      "confidence": 0.9990138,
+      "speaker": "A"
+    },
+    {
+      "text": "you",
+      "start": 81700,
+      "end": 81764,
+      "confidence": 0.99837446,
+      "speaker": "A"
+    },
+    {
+      "text": "manage",
+      "start": 81796,
+      "end": 82084,
+      "confidence": 0.9908398,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 82101,
+      "end": 82197,
+      "confidence": 0.9978277,
+      "speaker": "A"
+    },
+    {
+      "text": "wear",
+      "start": 82197,
+      "end": 82341,
+      "confidence": 0.999371,
+      "speaker": "A"
+    },
+    {
+      "text": "XS",
+      "start": 82341,
+      "end": 82565,
+      "confidence": 0.9352003,
+      "speaker": "A"
+    },
+    {
+      "text": "for",
+      "start": 82678,
+      "end": 82758,
+      "confidence": 0.9961288,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 82758,
+      "end": 82838,
+      "confidence": 0.9973642,
+      "speaker": "A"
+    },
+    {
+      "text": "first",
+      "start": 82838,
+      "end": 83078,
+      "confidence": 0.99663794,
+      "speaker": "A"
+    },
+    {
+      "text": "time",
+      "start": 83078,
+      "end": 83239,
+      "confidence": 0.9989748,
+      "speaker": "A"
+    },
+    {
+      "text": "in",
+      "start": 83239,
+      "end": 83319,
+      "confidence": 0.9987174,
+      "speaker": "A"
+    },
+    {
+      "text": "years.",
+      "start": 83319,
+      "end": 83607,
+      "confidence": 0.99291193,
+      "speaker": "A"
+    },
+    {
+      "text": "I",
+      "start": 83800,
+      "end": 83864,
+      "confidence": 0.9089153,
+      "speaker": "A"
+    },
+    {
+      "text": "bet",
+      "start": 83864,
+      "end": 83944,
+      "confidence": 0.9990914,
+      "speaker": "A"
+    },
+    {
+      "text": "$1",
+      "start": 83944,
+      "end": 84104,
+      "confidence": 0.71607155,
+      "speaker": "A"
+    },
+    {
+      "text": "million",
+      "start": 84104,
+      "end": 84313,
+      "confidence": 0.94792914,
+      "speaker": "A"
+    },
+    {
+      "text": "in",
+      "start": 84585,
+      "end": 84665,
+      "confidence": 0.9949869,
+      "speaker": "A"
+    },
+    {
+      "text": "cash",
+      "start": 84665,
+      "end": 84922,
+      "confidence": 0.9999597,
+      "speaker": "A"
+    },
+    {
+      "text": "that",
+      "start": 84922,
+      "end": 85002,
+      "confidence": 0.98930943,
+      "speaker": "A"
+    },
+    {
+      "text": "you",
+      "start": 85002,
+      "end": 85066,
+      "confidence": 0.9964367,
+      "speaker": "A"
+    },
+    {
+      "text": "will",
+      "start": 85066,
+      "end": 85162,
+      "confidence": 0.97800326,
+      "speaker": "A"
+    },
+    {
+      "text": "get",
+      "start": 85162,
+      "end": 85307,
+      "confidence": 0.99558616,
+      "speaker": "A"
+    },
+    {
+      "text": "out",
+      "start": 85307,
+      "end": 85387,
+      "confidence": 0.9970331,
+      "speaker": "A"
+    },
+    {
+      "text": "of",
+      "start": 85387,
+      "end": 85419,
+      "confidence": 0.9984794,
+      "speaker": "A"
+    },
+    {
+      "text": "an",
+      "start": 85419,
+      "end": 85483,
+      "confidence": 0.9977164,
+      "speaker": "A"
+    },
+    {
+      "text": "XL",
+      "start": 85499,
+      "end": 85755,
+      "confidence": 0.99951994,
+      "speaker": "A"
+    },
+    {
+      "text": "in",
+      "start": 85803,
+      "end": 85852,
+      "confidence": 0.9978817,
+      "speaker": "A"
+    },
+    {
+      "text": "5",
+      "start": 85948,
+      "end": 86172,
+      "confidence": 0.99994326,
+      "speaker": "A"
+    },
+    {
+      "text": "days",
+      "start": 86188,
+      "end": 86332,
+      "confidence": 0.99963117,
+      "speaker": "A"
+    },
+    {
+      "text": "tops",
+      "start": 86365,
+      "end": 86685,
+      "confidence": 0.98314315,
+      "speaker": "A"
+    },
+    {
+      "text": "with",
+      "start": 86685,
+      "end": 86749,
+      "confidence": 0.9920873,
+      "speaker": "A"
+    },
+    {
+      "text": "this",
+      "start": 86749,
+      "end": 86926,
+      "confidence": 0.99780494,
+      "speaker": "A"
+    },
+    {
+      "text": "baking",
+      "start": 86926,
+      "end": 87246,
+      "confidence": 0.99777454,
+      "speaker": "A"
+    },
+    {
+      "text": "soda",
+      "start": 87246,
+      "end": 87471,
+      "confidence": 0.9965121,
+      "speaker": "A"
+    },
+    {
+      "text": "shot",
+      "start": 87471,
+      "end": 87695,
+      "confidence": 0.99889475,
+      "speaker": "A"
+    },
+    {
+      "text": "trick.",
+      "start": 87711,
+      "end": 87952,
+      "confidence": 0.9961037,
+      "speaker": "A"
+    },
+    {
+      "text": "This",
+      "start": 88048,
+      "end": 88272,
+      "confidence": 0.58073187,
+      "speaker": "A"
+    },
+    {
+      "text": "recipe",
+      "start": 88272,
+      "end": 88609,
+      "confidence": 0.99823904,
+      "speaker": "A"
+    },
+    {
+      "text": "turns",
+      "start": 88609,
+      "end": 88913,
+      "confidence": 0.9927684,
+      "speaker": "A"
+    },
+    {
+      "text": "on",
+      "start": 88913,
+      "end": 88945,
+      "confidence": 0.9965334,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 88945,
+      "end": 89026,
+      "confidence": 0.99629706,
+      "speaker": "A"
+    },
+    {
+      "text": "metabolism's",
+      "start": 89026,
+      "end": 89731,
+      "confidence": 0.9983953,
+      "speaker": "A"
+    },
+    {
+      "text": "turbo",
+      "start": 89731,
+      "end": 90116,
+      "confidence": 0.995552,
+      "speaker": "A"
+    },
+    {
+      "text": "mode",
+      "start": 90116,
+      "end": 90420,
+      "confidence": 0.99885976,
+      "speaker": "A"
+    },
+    {
+      "text": "and",
+      "start": 90452,
+      "end": 90516,
+      "confidence": 0.9644598,
+      "speaker": "A"
+    },
+    {
+      "text": "is",
+      "start": 90548,
+      "end": 90629,
+      "confidence": 0.9910104,
+      "speaker": "A"
+    },
+    {
+      "text": "up",
+      "start": 90677,
+      "end": 90757,
+      "confidence": 0.9964541,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 90757,
+      "end": 90917,
+      "confidence": 0.9953317,
+      "speaker": "A"
+    },
+    {
+      "text": "18",
+      "start": 90997,
+      "end": 91366,
+      "confidence": 0.99960643,
+      "speaker": "A"
+    },
+    {
+      "text": "times",
+      "start": 91478,
+      "end": 91815,
+      "confidence": 0.9957546,
+      "speaker": "A"
+    },
+    {
+      "text": "stronger",
+      "start": 91815,
+      "end": 92344,
+      "confidence": 0.9863772,
+      "speaker": "A"
+    },
+    {
+      "text": "than",
+      "start": 92456,
+      "end": 92584,
+      "confidence": 0.9740001,
+      "speaker": "A"
+    },
+    {
+      "text": "cardio",
+      "start": 92616,
+      "end": 93081,
+      "confidence": 0.99867344,
+      "speaker": "A"
+    },
+    {
+      "text": "on",
+      "start": 93097,
+      "end": 93177,
+      "confidence": 0.9897452,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 93177,
+      "end": 93257,
+      "confidence": 0.9940322,
+      "speaker": "A"
+    },
+    {
+      "text": "treadmill.",
+      "start": 93322,
+      "end": 93722,
+      "confidence": 0.99790066,
+      "speaker": "A"
+    },
+    {
+      "text": "The",
+      "start": 93883,
+      "end": 93947,
+      "confidence": 0.9458993,
+      "speaker": "A"
+    },
+    {
+      "text": "results?",
+      "start": 93979,
+      "end": 94380,
+      "confidence": 0.59505475,
+      "speaker": "A"
+    },
+    {
+      "text": "Your",
+      "start": 94636,
+      "end": 94748,
+      "confidence": 0.691706,
+      "speaker": "A"
+    },
+    {
+      "text": "body",
+      "start": 94780,
+      "end": 95021,
+      "confidence": 0.820701,
+      "speaker": "A"
+    },
+    {
+      "text": "enters",
+      "start": 95021,
+      "end": 95229,
+      "confidence": 0.65135336,
+      "speaker": "A"
+    },
+    {
+      "text": "high-speed",
+      "start": 95245,
+      "end": 95438,
+      "confidence": 0.72175574,
+      "speaker": "A"
+    },
+    {
+      "text": "Speed",
+      "start": 95486,
+      "end": 95582,
+      "confidence": 0.2317582,
+      "speaker": "A"
+    },
+    {
+      "text": "burn",
+      "start": 95582,
+      "end": 95790,
+      "confidence": 0.75651705,
+      "speaker": "A"
+    },
+    {
+      "text": "mode",
+      "start": 95822,
+      "end": 96047,
+      "confidence": 0.99951124,
+      "speaker": "A"
+    },
+    {
+      "text": "24",
+      "start": 96047,
+      "end": 96383,
+      "confidence": 0.9999504,
+      "speaker": "A"
+    },
+    {
+      "text": "hours",
+      "start": 96383,
+      "end": 96608,
+      "confidence": 0.9992204,
+      "speaker": "A"
+    },
+    {
+      "text": "a",
+      "start": 96608,
+      "end": 96640,
+      "confidence": 0.9991285,
+      "speaker": "A"
+    },
+    {
+      "text": "day.",
+      "start": 96640,
+      "end": 96864,
+      "confidence": 0.96178204,
+      "speaker": "A"
+    },
+    {
+      "text": "You",
+      "start": 97009,
+      "end": 97073,
+      "confidence": 0.9101928,
+      "speaker": "A"
+    },
+    {
+      "text": "will",
+      "start": 97105,
+      "end": 97201,
+      "confidence": 0.98961884,
+      "speaker": "A"
+    },
+    {
+      "text": "need",
+      "start": 97201,
+      "end": 97377,
+      "confidence": 0.99827695,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 97377,
+      "end": 97505,
+      "confidence": 0.99897397,
+      "speaker": "A"
+    },
+    {
+      "text": "eat",
+      "start": 97505,
+      "end": 97650,
+      "confidence": 0.999689,
+      "speaker": "A"
+    },
+    {
+      "text": "McDonald's",
+      "start": 97650,
+      "end": 98211,
+      "confidence": 0.99969935,
+      "speaker": "A"
+    },
+    {
+      "text": "every",
+      "start": 98211,
+      "end": 98387,
+      "confidence": 0.9989452,
+      "speaker": "A"
+    },
+    {
+      "text": "day",
+      "start": 98387,
+      "end": 98628,
+      "confidence": 0.99916685,
+      "speaker": "A"
+    },
+    {
+      "text": "just",
+      "start": 98628,
+      "end": 98788,
+      "confidence": 0.9864564,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 98788,
+      "end": 98852,
+      "confidence": 0.9986934,
+      "speaker": "A"
+    },
+    {
+      "text": "keep",
+      "start": 98852,
+      "end": 99012,
+      "confidence": 0.99769443,
+      "speaker": "A"
+    },
+    {
+      "text": "from",
+      "start": 99012,
+      "end": 99125,
+      "confidence": 0.99894696,
+      "speaker": "A"
+    },
+    {
+      "text": "getting",
+      "start": 99173,
+      "end": 99333,
+      "confidence": 0.9989759,
+      "speaker": "A"
+    },
+    {
+      "text": "too",
+      "start": 99349,
+      "end": 99509,
+      "confidence": 0.9992048,
+      "speaker": "A"
+    },
+    {
+      "text": "skinny.",
+      "start": 99509,
+      "end": 99878,
+      "confidence": 0.9752977,
+      "speaker": "A"
+    },
+    {
+      "text": "To",
+      "start": 100134,
+      "end": 100215,
+      "confidence": 0.8798862,
+      "speaker": "A"
+    },
+    {
+      "text": "watch",
+      "start": 100215,
+      "end": 100407,
+      "confidence": 0.99934703,
+      "speaker": "A"
+    },
+    {
+      "text": "a",
+      "start": 100407,
+      "end": 100471,
+      "confidence": 0.39833635,
+      "speaker": "A"
+    },
+    {
+      "text": "full",
+      "start": 100471,
+      "end": 100663,
+      "confidence": 0.9994221,
+      "speaker": "A"
+    },
+    {
+      "text": "step-by-step",
+      "start": 100712,
+      "end": 101273,
+      "confidence": 0.99823123,
+      "speaker": "A"
+    },
+    {
+      "text": "video,",
+      "start": 101337,
+      "end": 101673,
+      "confidence": 0.9982207,
+      "speaker": "A"
+    },
+    {
+      "text": "click",
+      "start": 101737,
+      "end": 101994,
+      "confidence": 0.9940806,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 102074,
+      "end": 102218,
+      "confidence": 0.9958448,
+      "speaker": "A"
+    },
+    {
+      "text": "link",
+      "start": 102218,
+      "end": 102459,
+      "confidence": 0.9998331,
+      "speaker": "A"
+    },
+    {
+      "text": "below.",
+      "start": 102459,
+      "end": 102779,
+      "confidence": 0.99702126,
+      "speaker": "A"
+    },
+    {
+      "text": "This",
+      "start": 103116,
+      "end": 103260,
+      "confidence": 0.95285994,
+      "speaker": "A"
+    },
+    {
+      "text": "recipe",
+      "start": 103260,
+      "end": 103597,
+      "confidence": 0.9994679,
+      "speaker": "A"
+    },
+    {
+      "text": "video",
+      "start": 103597,
+      "end": 103902,
+      "confidence": 0.99961555,
+      "speaker": "A"
+    },
+    {
+      "text": "has",
+      "start": 103902,
+      "end": 104014,
+      "confidence": 0.99878377,
+      "speaker": "A"
+    },
+    {
+      "text": "already",
+      "start": 104062,
+      "end": 104206,
+      "confidence": 0.9993554,
+      "speaker": "A"
+    },
+    {
+      "text": "been",
+      "start": 104238,
+      "end": 104302,
+      "confidence": 0.9991911,
+      "speaker": "A"
+    },
+    {
+      "text": "banned",
+      "start": 104398,
+      "end": 104703,
+      "confidence": 0.9996855,
+      "speaker": "A"
+    },
+    {
+      "text": "7",
+      "start": 104703,
+      "end": 105008,
+      "confidence": 0.99897027,
+      "speaker": "A"
+    },
+    {
+      "text": "times",
+      "start": 105040,
+      "end": 105296,
+      "confidence": 0.99972636,
+      "speaker": "A"
+    },
+    {
+      "text": "from",
+      "start": 105296,
+      "end": 105456,
+      "confidence": 0.9979074,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 105456,
+      "end": 105537,
+      "confidence": 0.99954647,
+      "speaker": "A"
+    },
+    {
+      "text": "internet,",
+      "start": 105537,
+      "end": 105889,
+      "confidence": 0.98911774,
+      "speaker": "A"
+    },
+    {
+      "text": "and",
+      "start": 106001,
+      "end": 106066,
+      "confidence": 0.9939511,
+      "speaker": "A"
+    },
+    {
+      "text": "I",
+      "start": 106146,
+      "end": 106162,
+      "confidence": 0.99738294,
+      "speaker": "A"
+    },
+    {
+      "text": "suspect",
+      "start": 106162,
+      "end": 106579,
+      "confidence": 0.9998715,
+      "speaker": "A"
+    },
+    {
+      "text": "it",
+      "start": 106579,
+      "end": 106659,
+      "confidence": 0.9947319,
+      "speaker": "A"
+    },
+    {
+      "text": "is",
+      "start": 106659,
+      "end": 106723,
+      "confidence": 0.99417335,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 106723,
+      "end": 106803,
+      "confidence": 0.99651575,
+      "speaker": "A"
+    },
+    {
+      "text": "manufacturers",
+      "start": 106803,
+      "end": 107412,
+      "confidence": 0.9989881,
+      "speaker": "A"
+    },
+    {
+      "text": "of",
+      "start": 107444,
+      "end": 107524,
+      "confidence": 0.9951271,
+      "speaker": "A"
+    },
+    {
+      "text": "Mounjaro.",
+      "start": 107524,
+      "end": 108069,
+      "confidence": 0.9754439,
+      "speaker": "A"
+    },
+    {
+      "text": "If",
+      "start": 108262,
+      "end": 108342,
+      "confidence": 0.9780462,
+      "speaker": "A"
+    },
+    {
+      "text": "it",
+      "start": 108342,
+      "end": 108406,
+      "confidence": 0.9989022,
+      "speaker": "A"
+    },
+    {
+      "text": "is",
+      "start": 108406,
+      "end": 108438,
+      "confidence": 0.9921876,
+      "speaker": "A"
+    },
+    {
+      "text": "still",
+      "start": 108438,
+      "end": 108662,
+      "confidence": 0.9993374,
+      "speaker": "A"
+    },
+    {
+      "text": "available",
+      "start": 108662,
+      "end": 109111,
+      "confidence": 0.99991727,
+      "speaker": "A"
+    },
+    {
+      "text": "when",
+      "start": 109111,
+      "end": 109191,
+      "confidence": 0.9994506,
+      "speaker": "A"
+    },
+    {
+      "text": "you",
+      "start": 109191,
+      "end": 109288,
+      "confidence": 0.9999347,
+      "speaker": "A"
+    },
+    {
+      "text": "click,",
+      "start": 109288,
+      "end": 109544,
+      "confidence": 0.9993519,
+      "speaker": "A"
+    },
+    {
+      "text": "be",
+      "start": 109769,
+      "end": 109913,
+      "confidence": 0.99484926,
+      "speaker": "A"
+    },
+    {
+      "text": "grateful",
+      "start": 109913,
+      "end": 110394,
+      "confidence": 0.9998795,
+      "speaker": "A"
+    },
+    {
+      "text": "and",
+      "start": 110490,
+      "end": 110554,
+      "confidence": 0.97986275,
+      "speaker": "A"
+    },
+    {
+      "text": "watch.",
+      "start": 110634,
+      "end": 110859,
+      "confidence": 0.99280393,
+      "speaker": "A"
+    },
+    {
+      "text": "It",
+      "start": 111131,
+      "end": 111211,
+      "confidence": 0.9013706,
+      "speaker": "A"
+    },
+    {
+      "text": "might",
+      "start": 111211,
+      "end": 111372,
+      "confidence": 0.9977329,
+      "speaker": "A"
+    },
+    {
+      "text": "be",
+      "start": 111372,
+      "end": 111436,
+      "confidence": 0.99861085,
+      "speaker": "A"
+    },
+    {
+      "text": "your",
+      "start": 111436,
+      "end": 111548,
+      "confidence": 0.99840564,
+      "speaker": "A"
+    },
+    {
+      "text": "last",
+      "start": 111548,
+      "end": 111852,
+      "confidence": 0.99892706,
+      "speaker": "A"
+    },
+    {
+      "text": "chance",
+      "start": 111852,
+      "end": 112045,
+      "confidence": 0.9992306,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 112093,
+      "end": 112157,
+      "confidence": 0.99745184,
+      "speaker": "A"
+    },
+    {
+      "text": "see",
+      "start": 112157,
+      "end": 112333,
+      "confidence": 0.99976367,
+      "speaker": "A"
+    },
+    {
+      "text": "it",
+      "start": 112333,
+      "end": 112365,
+      "confidence": 0.99925524,
+      "speaker": "A"
+    },
+    {
+      "text": "for",
+      "start": 112365,
+      "end": 112510,
+      "confidence": 0.9987437,
+      "speaker": "A"
+    },
+    {
+      "text": "free.",
+      "start": 112558,
+      "end": 112814,
+      "confidence": 0.99350363,
+      "speaker": "A"
+    },
+    {
+      "text": "In",
+      "start": 112975,
+      "end": 113023,
+      "confidence": 0.85667914,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 113055,
+      "end": 113151,
+      "confidence": 0.9983369,
+      "speaker": "A"
+    },
+    {
+      "text": "video,",
+      "start": 113151,
+      "end": 113600,
+      "confidence": 0.99933404,
+      "speaker": "A"
+    },
+    {
+      "text": "you",
+      "start": 113616,
+      "end": 113744,
+      "confidence": 0.99458367,
+      "speaker": "A"
+    },
+    {
+      "text": "will",
+      "start": 113760,
+      "end": 113824,
+      "confidence": 0.99597317,
+      "speaker": "A"
+    },
+    {
+      "text": "discover",
+      "start": 113840,
+      "end": 114257,
+      "confidence": 0.998968,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 114257,
+      "end": 114337,
+      "confidence": 0.9886646,
+      "speaker": "A"
+    },
+    {
+      "text": "correct",
+      "start": 114337,
+      "end": 114722,
+      "confidence": 0.9989477,
+      "speaker": "A"
+    },
+    {
+      "text": "order",
+      "start": 114722,
+      "end": 114898,
+      "confidence": 0.99819225,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 114898,
+      "end": 114994,
+      "confidence": 0.9950081,
+      "speaker": "A"
+    },
+    {
+      "text": "prepare",
+      "start": 114994,
+      "end": 115379,
+      "confidence": 0.9993747,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 115379,
+      "end": 115459,
+      "confidence": 0.9982376,
+      "speaker": "A"
+    },
+    {
+      "text": "recipe",
+      "start": 115459,
+      "end": 115876,
+      "confidence": 0.9994586,
+      "speaker": "A"
+    },
+    {
+      "text": "at",
+      "start": 115876,
+      "end": 115956,
+      "confidence": 0.9995826,
+      "speaker": "A"
+    },
+    {
+      "text": "home",
+      "start": 115956,
+      "end": 116277,
+      "confidence": 0.9999026,
+      "speaker": "A"
+    },
+    {
+      "text": "and",
+      "start": 116405,
+      "end": 116485,
+      "confidence": 0.8973952,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 116485,
+      "end": 116517,
+      "confidence": 0.99795204,
+      "speaker": "A"
+    },
+    {
+      "text": "specific",
+      "start": 116517,
+      "end": 116982,
+      "confidence": 0.99818087,
+      "speaker": "A"
+    },
+    {
+      "text": "timing",
+      "start": 116982,
+      "end": 117303,
+      "confidence": 0.99912363,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 117319,
+      "end": 117447,
+      "confidence": 0.9955584,
+      "speaker": "A"
+    },
+    {
+      "text": "see",
+      "start": 117447,
+      "end": 117607,
+      "confidence": 0.9993647,
+      "speaker": "A"
+    },
+    {
+      "text": "your",
+      "start": 117607,
+      "end": 117768,
+      "confidence": 0.99854004,
+      "speaker": "A"
+    },
+    {
+      "text": "XL",
+      "start": 117768,
+      "end": 118008,
+      "confidence": 0.99627435,
+      "speaker": "A"
+    },
+    {
+      "text": "pants",
+      "start": 118088,
+      "end": 118329,
+      "confidence": 0.9998486,
+      "speaker": "A"
+    },
+    {
+      "text": "slipping",
+      "start": 118329,
+      "end": 118633,
+      "confidence": 0.99860233,
+      "speaker": "A"
+    },
+    {
+      "text": "off",
+      "start": 118729,
+      "end": 118890,
+      "confidence": 0.9996257,
+      "speaker": "A"
+    },
+    {
+      "text": "before",
+      "start": 118906,
+      "end": 119146,
+      "confidence": 0.9954091,
+      "speaker": "A"
+    },
+    {
+      "text": "September",
+      "start": 119146,
+      "end": 119627,
+      "confidence": 0.99309266,
+      "speaker": "A"
+    },
+    {
+      "text": "2026",
+      "start": 119627,
+      "end": 120364,
+      "confidence": 0.9997944,
+      "speaker": "A"
+    },
+    {
+      "text": "is",
+      "start": 120364,
+      "end": 120509,
+      "confidence": 0.9918235,
+      "speaker": "A"
+    },
+    {
+      "text": "over.",
+      "start": 120509,
+      "end": 120749,
+      "confidence": 0.99723524,
+      "speaker": "A"
+    },
+    {
+      "text": "Click",
+      "start": 120909,
+      "end": 121070,
+      "confidence": 0.788351,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 121086,
+      "end": 121166,
+      "confidence": 0.9991774,
+      "speaker": "A"
+    },
+    {
+      "text": "button",
+      "start": 121166,
+      "end": 121390,
+      "confidence": 0.999286,
+      "speaker": "A"
+    },
+    {
+      "text": "below,",
+      "start": 121390,
+      "end": 121791,
+      "confidence": 0.9322572,
+      "speaker": "A"
+    },
+    {
+      "text": "watch",
+      "start": 122016,
+      "end": 122160,
+      "confidence": 0.9910788,
+      "speaker": "A"
+    },
+    {
+      "text": "now,",
+      "start": 122272,
+      "end": 122384,
+      "confidence": 0.9968996,
+      "speaker": "A"
+    },
+    {
+      "text": "and",
+      "start": 122673,
+      "end": 122737,
+      "confidence": 0.9977331,
+      "speaker": "A"
+    },
+    {
+      "text": "prepare",
+      "start": 122753,
+      "end": 123025,
+      "confidence": 0.9979025,
+      "speaker": "A"
+    },
+    {
+      "text": "your",
+      "start": 123058,
+      "end": 123170,
+      "confidence": 0.99636453,
+      "speaker": "A"
+    },
+    {
+      "text": "first",
+      "start": 123170,
+      "end": 123394,
+      "confidence": 0.99745876,
+      "speaker": "A"
+    },
+    {
+      "text": "shot",
+      "start": 123394,
+      "end": 123699,
+      "confidence": 0.99972504,
+      "speaker": "A"
+    },
+    {
+      "text": "today.",
+      "start": 123699,
+      "end": 123987,
+      "confidence": 0.9852215,
+      "speaker": "A"
+    },
+    {
+      "text": "If",
+      "start": 124196,
+      "end": 124260,
+      "confidence": 0.73799837,
+      "speaker": "A"
+    },
+    {
+      "text": "you",
+      "start": 124260,
+      "end": 124324,
+      "confidence": 0.9982664,
+      "speaker": "A"
+    },
+    {
+      "text": "have",
+      "start": 124324,
+      "end": 124404,
+      "confidence": 0.57275474,
+      "speaker": "A"
+    },
+    {
+      "text": "tried",
+      "start": 124420,
+      "end": 124661,
+      "confidence": 0.99779224,
+      "speaker": "A"
+    },
+    {
+      "text": "everything",
+      "start": 124661,
+      "end": 124965,
+      "confidence": 0.99874437,
+      "speaker": "A"
+    },
+    {
+      "text": "and",
+      "start": 124981,
+      "end": 125061,
+      "confidence": 0.9939843,
+      "speaker": "A"
+    },
+    {
+      "text": "never",
+      "start": 125061,
+      "end": 125238,
+      "confidence": 0.9961132,
+      "speaker": "A"
+    },
+    {
+      "text": "managed",
+      "start": 125238,
+      "end": 125542,
+      "confidence": 0.997389,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 125542,
+      "end": 125638,
+      "confidence": 0.9986945,
+      "speaker": "A"
+    },
+    {
+      "text": "lose",
+      "start": 125638,
+      "end": 125767,
+      "confidence": 0.9994361,
+      "speaker": "A"
+    },
+    {
+      "text": "weight,",
+      "start": 125879,
+      "end": 126119,
+      "confidence": 0.9962497,
+      "speaker": "A"
+    },
+    {
+      "text": "this",
+      "start": 126199,
+      "end": 126360,
+      "confidence": 0.9722591,
+      "speaker": "A"
+    },
+    {
+      "text": "is",
+      "start": 126360,
+      "end": 126440,
+      "confidence": 0.9991984,
+      "speaker": "A"
+    },
+    {
+      "text": "your",
+      "start": 126440,
+      "end": 126552,
+      "confidence": 0.9992719,
+      "speaker": "A"
+    },
+    {
+      "text": "chance.",
+      "start": 126584,
+      "end": 126889,
+      "confidence": 0.9841614,
+      "speaker": "A"
+    },
+    {
+      "text": "Click",
+      "start": 127081,
+      "end": 127370,
+      "confidence": 0.9862705,
+      "speaker": "A"
+    },
+    {
+      "text": "Learn",
+      "start": 127362,
+      "end": 127435,
+      "confidence": 0.7558224,
+      "speaker": "A"
+    },
+    {
+      "text": "more",
+      "start": 127484,
+      "end": 127597,
+      "confidence": 0.99965715,
+      "speaker": "A"
+    },
+    {
+      "text": "and",
+      "start": 127711,
+      "end": 127792,
+      "confidence": 0.96121645,
+      "speaker": "A"
+    },
+    {
+      "text": "be",
+      "start": 127792,
+      "end": 127889,
+      "confidence": 0.9991652,
+      "speaker": "A"
+    },
+    {
+      "text": "ready",
+      "start": 127889,
+      "end": 128132,
+      "confidence": 0.99997807,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 128132,
+      "end": 128229,
+      "confidence": 0.9989957,
+      "speaker": "A"
+    },
+    {
+      "text": "lose",
+      "start": 128229,
+      "end": 128537,
+      "confidence": 0.99965453,
+      "speaker": "A"
+    },
+    {
+      "text": "at",
+      "start": 128537,
+      "end": 128585,
+      "confidence": 0.9975763,
+      "speaker": "A"
+    },
+    {
+      "text": "least",
+      "start": 128617,
+      "end": 128844,
+      "confidence": 0.9999386,
+      "speaker": "A"
+    },
+    {
+      "text": "3",
+      "start": 128844,
+      "end": 129022,
+      "confidence": 0.999931,
+      "speaker": "A"
+    },
+    {
+      "text": "pounds",
+      "start": 129022,
+      "end": 129314,
+      "confidence": 0.9949056,
+      "speaker": "A"
+    },
+    {
+      "text": "tomorrow",
+      "start": 129411,
+      "end": 129735,
+      "confidence": 0.9942585,
+      "speaker": "A"
+    },
+    {
+      "text": "morning.",
+      "start": 129735,
+      "end": 129962,
+      "confidence": 0.9592802,
+      "speaker": "A"
+    }
+  ],
+  "utterances": [
+    {
+      "speaker": "A",
+      "text": "This is the last time I am going to drop the baking soda and lemon trick recipe for free, and anyone who starts today is going to need to restock their wardrobe by Monday. I bet a million dollars that you will be wearing an XS bikini by September if you prepare the recipe in the correct order, and that is what separates those who get out of an XL from those who do not see the numbers on the scale go down. So pay attention for the next 30 seconds because I swear it is the last time I am going to talk about this on my profile. Seriously, if you have been taking the baking soda shot for at least 5 days and did not need to rush to the store to buy a new size M pair of pants, You probably fell for some fake version they are putting out there on the internet. The real version of the trick costs $3,000 and a private consultation with Dr. Kylie Sakaida, nutritionist to the stars in Hollywood, and requires the correct order and exact timing to go from XL to S in less than 3 months. Before continuing, a serious warning. In celebration of more than 70,000 women losing at least 9 pounds with this bariatric shot recipe, the short video of Dr. Kylie's original recipe, who has already helped names like Oprah, Kelly Clarkson, and Melissa McCarthy lose weight, is completely free for the next 20 minutes. Click learn more now and copy The correct recipe before it goes offline. Oprah is gonna kill me for revealing this, but it was this baking soda shot recipe she used to go from XL to M after turning 70. It is impossible for you not to wake up 3 pounds thinner tomorrow if you make this recipe the right way today. The combination of this recipe is more powerful than a truckload of Ozempic. Get ready to cry with joy the day you manage to wear XS for the first time in years. I bet $1 million in cash that you will get out of an XL in 5 days tops with this baking soda shot trick. This recipe turns on the metabolism's turbo mode and is up to 18 times stronger than cardio on the treadmill. The results? Your body enters high-speed Speed burn mode 24 hours a day. You will need to eat McDonald's every day just to keep from getting too skinny. To watch a full step-by-step video, click the link below. This recipe video has already been banned 7 times from the internet, and I suspect it is the manufacturers of Mounjaro. If it is still available when you click, be grateful and watch. It might be your last chance to see it for free. In the video, you will discover the correct order to prepare the recipe at home and the specific timing to see your XL pants slipping off before September 2026 is over. Click the button below, watch now, and prepare your first shot today. If you have tried everything and never managed to lose weight, this is your chance. Click Learn more and be ready to lose at least 3 pounds tomorrow morning.",
+      "confidence": 0.9773336,
+      "start": 0,
+      "end": 130062,
+      "words": [
+        {
+          "text": "This",
+          "start": 48,
+          "end": 96,
+          "confidence": 0.9671551,
+          "speaker": "A"
+        },
+        {
+          "text": "is",
+          "start": 176,
+          "end": 240,
+          "confidence": 0.9997477,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 272,
+          "end": 432,
+          "confidence": 0.99884003,
+          "speaker": "A"
+        },
+        {
+          "text": "last",
+          "start": 432,
+          "end": 833,
+          "confidence": 0.9996669,
+          "speaker": "A"
+        },
+        {
+          "text": "time",
+          "start": 833,
+          "end": 1154,
+          "confidence": 0.99991024,
+          "speaker": "A"
+        },
+        {
+          "text": "I",
+          "start": 1298,
+          "end": 1395,
+          "confidence": 0.99696344,
+          "speaker": "A"
+        },
+        {
+          "text": "am",
+          "start": 1395,
+          "end": 1443,
+          "confidence": 0.9520717,
+          "speaker": "A"
+        },
+        {
+          "text": "going",
+          "start": 1475,
+          "end": 1683,
+          "confidence": 0.9973327,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 1715,
+          "end": 1795,
+          "confidence": 0.9998851,
+          "speaker": "A"
+        },
+        {
+          "text": "drop",
+          "start": 1795,
+          "end": 2293,
+          "confidence": 0.9988967,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 2357,
+          "end": 2453,
+          "confidence": 0.99778676,
+          "speaker": "A"
+        },
+        {
+          "text": "baking",
+          "start": 2517,
+          "end": 2870,
+          "confidence": 0.9987167,
+          "speaker": "A"
+        },
+        {
+          "text": "soda",
+          "start": 2918,
+          "end": 3383,
+          "confidence": 0.99967265,
+          "speaker": "A"
+        },
+        {
+          "text": "and",
+          "start": 3399,
+          "end": 3463,
+          "confidence": 0.9992368,
+          "speaker": "A"
+        },
+        {
+          "text": "lemon",
+          "start": 3624,
+          "end": 3832,
+          "confidence": 0.99991786,
+          "speaker": "A"
+        },
+        {
+          "text": "trick",
+          "start": 3944,
+          "end": 4137,
+          "confidence": 0.9997483,
+          "speaker": "A"
+        },
+        {
+          "text": "recipe",
+          "start": 4201,
+          "end": 4634,
+          "confidence": 0.9997459,
+          "speaker": "A"
+        },
+        {
+          "text": "for",
+          "start": 4682,
+          "end": 4826,
+          "confidence": 0.9996387,
+          "speaker": "A"
+        },
+        {
+          "text": "free,",
+          "start": 4842,
+          "end": 5179,
+          "confidence": 0.973536,
+          "speaker": "A"
+        },
+        {
+          "text": "and",
+          "start": 5484,
+          "end": 5548,
+          "confidence": 0.997586,
+          "speaker": "A"
+        },
+        {
+          "text": "anyone",
+          "start": 5708,
+          "end": 6013,
+          "confidence": 0.9982261,
+          "speaker": "A"
+        },
+        {
+          "text": "who",
+          "start": 6109,
+          "end": 6189,
+          "confidence": 0.99976224,
+          "speaker": "A"
+        },
+        {
+          "text": "starts",
+          "start": 6189,
+          "end": 6670,
+          "confidence": 0.9996853,
+          "speaker": "A"
+        },
+        {
+          "text": "today",
+          "start": 6670,
+          "end": 7167,
+          "confidence": 0.9980738,
+          "speaker": "A"
+        },
+        {
+          "text": "is",
+          "start": 7504,
+          "end": 7616,
+          "confidence": 0.989907,
+          "speaker": "A"
+        },
+        {
+          "text": "going",
+          "start": 7632,
+          "end": 7777,
+          "confidence": 0.9991486,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 7809,
+          "end": 7905,
+          "confidence": 0.9997209,
+          "speaker": "A"
+        },
+        {
+          "text": "need",
+          "start": 7905,
+          "end": 8113,
+          "confidence": 0.9996581,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 8113,
+          "end": 8210,
+          "confidence": 0.99982786,
+          "speaker": "A"
+        },
+        {
+          "text": "restock",
+          "start": 8290,
+          "end": 8851,
+          "confidence": 0.9999266,
+          "speaker": "A"
+        },
+        {
+          "text": "their",
+          "start": 8851,
+          "end": 8963,
+          "confidence": 0.9993482,
+          "speaker": "A"
+        },
+        {
+          "text": "wardrobe",
+          "start": 9076,
+          "end": 9733,
+          "confidence": 0.99943167,
+          "speaker": "A"
+        },
+        {
+          "text": "by",
+          "start": 9733,
+          "end": 9909,
+          "confidence": 0.99788636,
+          "speaker": "A"
+        },
+        {
+          "text": "Monday.",
+          "start": 9909,
+          "end": 10310,
+          "confidence": 0.97680235,
+          "speaker": "A"
+        },
+        {
+          "text": "I",
+          "start": 10775,
+          "end": 10823,
+          "confidence": 0.9877079,
+          "speaker": "A"
+        },
+        {
+          "text": "bet",
+          "start": 10856,
+          "end": 11032,
+          "confidence": 0.9985599,
+          "speaker": "A"
+        },
+        {
+          "text": "a",
+          "start": 11032,
+          "end": 11096,
+          "confidence": 0.8501258,
+          "speaker": "A"
+        },
+        {
+          "text": "million",
+          "start": 11096,
+          "end": 11385,
+          "confidence": 0.9997223,
+          "speaker": "A"
+        },
+        {
+          "text": "dollars",
+          "start": 11417,
+          "end": 11721,
+          "confidence": 0.99948406,
+          "speaker": "A"
+        },
+        {
+          "text": "that",
+          "start": 11721,
+          "end": 11818,
+          "confidence": 0.9953052,
+          "speaker": "A"
+        },
+        {
+          "text": "you",
+          "start": 11818,
+          "end": 11898,
+          "confidence": 0.9997358,
+          "speaker": "A"
+        },
+        {
+          "text": "will",
+          "start": 11898,
+          "end": 11994,
+          "confidence": 0.98582304,
+          "speaker": "A"
+        },
+        {
+          "text": "be",
+          "start": 11994,
+          "end": 12106,
+          "confidence": 0.9994893,
+          "speaker": "A"
+        },
+        {
+          "text": "wearing",
+          "start": 12122,
+          "end": 12331,
+          "confidence": 0.9999386,
+          "speaker": "A"
+        },
+        {
+          "text": "an",
+          "start": 12379,
+          "end": 12427,
+          "confidence": 0.9992067,
+          "speaker": "A"
+        },
+        {
+          "text": "XS",
+          "start": 12523,
+          "end": 12844,
+          "confidence": 0.7331967,
+          "speaker": "A"
+        },
+        {
+          "text": "bikini",
+          "start": 12844,
+          "end": 13165,
+          "confidence": 0.9999912,
+          "speaker": "A"
+        },
+        {
+          "text": "by",
+          "start": 13165,
+          "end": 13261,
+          "confidence": 0.9994585,
+          "speaker": "A"
+        },
+        {
+          "text": "September",
+          "start": 13261,
+          "end": 13726,
+          "confidence": 0.99985707,
+          "speaker": "A"
+        },
+        {
+          "text": "if",
+          "start": 13742,
+          "end": 13902,
+          "confidence": 0.9842085,
+          "speaker": "A"
+        },
+        {
+          "text": "you",
+          "start": 13902,
+          "end": 14047,
+          "confidence": 0.99966145,
+          "speaker": "A"
+        },
+        {
+          "text": "prepare",
+          "start": 14223,
+          "end": 14560,
+          "confidence": 0.99489427,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 14560,
+          "end": 14640,
+          "confidence": 0.9993216,
+          "speaker": "A"
+        },
+        {
+          "text": "recipe",
+          "start": 14640,
+          "end": 15025,
+          "confidence": 0.99987924,
+          "speaker": "A"
+        },
+        {
+          "text": "in",
+          "start": 15025,
+          "end": 15073,
+          "confidence": 0.9984137,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 15105,
+          "end": 15185,
+          "confidence": 0.9999418,
+          "speaker": "A"
+        },
+        {
+          "text": "correct",
+          "start": 15185,
+          "end": 15570,
+          "confidence": 0.99967694,
+          "speaker": "A"
+        },
+        {
+          "text": "order,",
+          "start": 15570,
+          "end": 15794,
+          "confidence": 0.9136174,
+          "speaker": "A"
+        },
+        {
+          "text": "and",
+          "start": 16131,
+          "end": 16308,
+          "confidence": 0.99883896,
+          "speaker": "A"
+        },
+        {
+          "text": "that",
+          "start": 16308,
+          "end": 16484,
+          "confidence": 0.9991731,
+          "speaker": "A"
+        },
+        {
+          "text": "is",
+          "start": 16484,
+          "end": 16564,
+          "confidence": 0.9977283,
+          "speaker": "A"
+        },
+        {
+          "text": "what",
+          "start": 16612,
+          "end": 16773,
+          "confidence": 0.9999155,
+          "speaker": "A"
+        },
+        {
+          "text": "separates",
+          "start": 16773,
+          "end": 17254,
+          "confidence": 0.99991274,
+          "speaker": "A"
+        },
+        {
+          "text": "those",
+          "start": 17254,
+          "end": 17478,
+          "confidence": 0.9997615,
+          "speaker": "A"
+        },
+        {
+          "text": "who",
+          "start": 17494,
+          "end": 17526,
+          "confidence": 0.99951994,
+          "speaker": "A"
+        },
+        {
+          "text": "get",
+          "start": 17590,
+          "end": 17735,
+          "confidence": 0.99899,
+          "speaker": "A"
+        },
+        {
+          "text": "out",
+          "start": 17735,
+          "end": 17831,
+          "confidence": 0.9997876,
+          "speaker": "A"
+        },
+        {
+          "text": "of",
+          "start": 17831,
+          "end": 17911,
+          "confidence": 0.99994564,
+          "speaker": "A"
+        },
+        {
+          "text": "an",
+          "start": 17911,
+          "end": 17991,
+          "confidence": 0.9989932,
+          "speaker": "A"
+        },
+        {
+          "text": "XL",
+          "start": 17991,
+          "end": 18280,
+          "confidence": 0.99988556,
+          "speaker": "A"
+        },
+        {
+          "text": "from",
+          "start": 18312,
+          "end": 18440,
+          "confidence": 0.9992291,
+          "speaker": "A"
+        },
+        {
+          "text": "those",
+          "start": 18472,
+          "end": 18681,
+          "confidence": 0.9996829,
+          "speaker": "A"
+        },
+        {
+          "text": "who",
+          "start": 18697,
+          "end": 18793,
+          "confidence": 0.99956375,
+          "speaker": "A"
+        },
+        {
+          "text": "do",
+          "start": 18793,
+          "end": 18889,
+          "confidence": 0.9974354,
+          "speaker": "A"
+        },
+        {
+          "text": "not",
+          "start": 18889,
+          "end": 19066,
+          "confidence": 0.9999374,
+          "speaker": "A"
+        },
+        {
+          "text": "see",
+          "start": 19098,
+          "end": 19274,
+          "confidence": 0.9991788,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 19274,
+          "end": 19354,
+          "confidence": 0.9991007,
+          "speaker": "A"
+        },
+        {
+          "text": "numbers",
+          "start": 19354,
+          "end": 19675,
+          "confidence": 0.99973994,
+          "speaker": "A"
+        },
+        {
+          "text": "on",
+          "start": 19739,
+          "end": 19771,
+          "confidence": 0.9996668,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 19771,
+          "end": 19884,
+          "confidence": 0.9996119,
+          "speaker": "A"
+        },
+        {
+          "text": "scale",
+          "start": 19884,
+          "end": 20108,
+          "confidence": 0.999853,
+          "speaker": "A"
+        },
+        {
+          "text": "go",
+          "start": 20220,
+          "end": 20381,
+          "confidence": 0.99970955,
+          "speaker": "A"
+        },
+        {
+          "text": "down.",
+          "start": 20381,
+          "end": 20589,
+          "confidence": 0.8164975,
+          "speaker": "A"
+        },
+        {
+          "text": "So",
+          "start": 20733,
+          "end": 21038,
+          "confidence": 0.9719767,
+          "speaker": "A"
+        },
+        {
+          "text": "pay",
+          "start": 21038,
+          "end": 21198,
+          "confidence": 0.9365456,
+          "speaker": "A"
+        },
+        {
+          "text": "attention",
+          "start": 21198,
+          "end": 21583,
+          "confidence": 0.9999201,
+          "speaker": "A"
+        },
+        {
+          "text": "for",
+          "start": 21599,
+          "end": 21680,
+          "confidence": 0.9991216,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 21680,
+          "end": 21760,
+          "confidence": 0.9999372,
+          "speaker": "A"
+        },
+        {
+          "text": "next",
+          "start": 21760,
+          "end": 22000,
+          "confidence": 0.9999137,
+          "speaker": "A"
+        },
+        {
+          "text": "30",
+          "start": 22000,
+          "end": 22225,
+          "confidence": 0.9999231,
+          "speaker": "A"
+        },
+        {
+          "text": "seconds",
+          "start": 22225,
+          "end": 22529,
+          "confidence": 0.9999722,
+          "speaker": "A"
+        },
+        {
+          "text": "because",
+          "start": 22561,
+          "end": 22802,
+          "confidence": 0.9757631,
+          "speaker": "A"
+        },
+        {
+          "text": "I",
+          "start": 22802,
+          "end": 22834,
+          "confidence": 0.99930656,
+          "speaker": "A"
+        },
+        {
+          "text": "swear",
+          "start": 22882,
+          "end": 23123,
+          "confidence": 0.9999814,
+          "speaker": "A"
+        },
+        {
+          "text": "it",
+          "start": 23123,
+          "end": 23219,
+          "confidence": 0.9907357,
+          "speaker": "A"
+        },
+        {
+          "text": "is",
+          "start": 23219,
+          "end": 23299,
+          "confidence": 0.9963838,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 23347,
+          "end": 23443,
+          "confidence": 0.99983466,
+          "speaker": "A"
+        },
+        {
+          "text": "last",
+          "start": 23443,
+          "end": 23684,
+          "confidence": 0.9996952,
+          "speaker": "A"
+        },
+        {
+          "text": "time",
+          "start": 23684,
+          "end": 23908,
+          "confidence": 0.9999242,
+          "speaker": "A"
+        },
+        {
+          "text": "I",
+          "start": 24005,
+          "end": 24069,
+          "confidence": 0.99818844,
+          "speaker": "A"
+        },
+        {
+          "text": "am",
+          "start": 24069,
+          "end": 24149,
+          "confidence": 0.8207562,
+          "speaker": "A"
+        },
+        {
+          "text": "going",
+          "start": 24165,
+          "end": 24245,
+          "confidence": 0.8538038,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 24245,
+          "end": 24309,
+          "confidence": 0.99957234,
+          "speaker": "A"
+        },
+        {
+          "text": "talk",
+          "start": 24309,
+          "end": 24502,
+          "confidence": 0.9995852,
+          "speaker": "A"
+        },
+        {
+          "text": "about",
+          "start": 24502,
+          "end": 24726,
+          "confidence": 0.99984,
+          "speaker": "A"
+        },
+        {
+          "text": "this",
+          "start": 24726,
+          "end": 24871,
+          "confidence": 0.9994311,
+          "speaker": "A"
+        },
+        {
+          "text": "on",
+          "start": 24967,
+          "end": 25015,
+          "confidence": 0.99921834,
+          "speaker": "A"
+        },
+        {
+          "text": "my",
+          "start": 25047,
+          "end": 25207,
+          "confidence": 0.9997205,
+          "speaker": "A"
+        },
+        {
+          "text": "profile.",
+          "start": 25272,
+          "end": 25640,
+          "confidence": 0.99124897,
+          "speaker": "A"
+        },
+        {
+          "text": "Seriously,",
+          "start": 25913,
+          "end": 26298,
+          "confidence": 0.8958989,
+          "speaker": "A"
+        },
+        {
+          "text": "if",
+          "start": 26490,
+          "end": 26635,
+          "confidence": 0.9973833,
+          "speaker": "A"
+        },
+        {
+          "text": "you",
+          "start": 26635,
+          "end": 26715,
+          "confidence": 0.99988353,
+          "speaker": "A"
+        },
+        {
+          "text": "have",
+          "start": 26715,
+          "end": 26795,
+          "confidence": 0.9667176,
+          "speaker": "A"
+        },
+        {
+          "text": "been",
+          "start": 26795,
+          "end": 26875,
+          "confidence": 0.99902916,
+          "speaker": "A"
+        },
+        {
+          "text": "taking",
+          "start": 26875,
+          "end": 27100,
+          "confidence": 0.9997507,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 27116,
+          "end": 27196,
+          "confidence": 0.9967423,
+          "speaker": "A"
+        },
+        {
+          "text": "baking",
+          "start": 27196,
+          "end": 27420,
+          "confidence": 0.9997199,
+          "speaker": "A"
+        },
+        {
+          "text": "soda",
+          "start": 27452,
+          "end": 27677,
+          "confidence": 0.99967194,
+          "speaker": "A"
+        },
+        {
+          "text": "shot",
+          "start": 27677,
+          "end": 27917,
+          "confidence": 0.99944216,
+          "speaker": "A"
+        },
+        {
+          "text": "for",
+          "start": 27917,
+          "end": 28014,
+          "confidence": 0.99946755,
+          "speaker": "A"
+        },
+        {
+          "text": "at",
+          "start": 28014,
+          "end": 28094,
+          "confidence": 0.9989899,
+          "speaker": "A"
+        },
+        {
+          "text": "least",
+          "start": 28094,
+          "end": 28318,
+          "confidence": 0.9992138,
+          "speaker": "A"
+        },
+        {
+          "text": "5",
+          "start": 28318,
+          "end": 28575,
+          "confidence": 0.99989414,
+          "speaker": "A"
+        },
+        {
+          "text": "days",
+          "start": 28575,
+          "end": 28783,
+          "confidence": 0.9995409,
+          "speaker": "A"
+        },
+        {
+          "text": "and",
+          "start": 28896,
+          "end": 28976,
+          "confidence": 0.9961326,
+          "speaker": "A"
+        },
+        {
+          "text": "did",
+          "start": 28976,
+          "end": 29120,
+          "confidence": 0.9980234,
+          "speaker": "A"
+        },
+        {
+          "text": "not",
+          "start": 29120,
+          "end": 29248,
+          "confidence": 0.99933785,
+          "speaker": "A"
+        },
+        {
+          "text": "need",
+          "start": 29296,
+          "end": 29393,
+          "confidence": 0.9977968,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 29393,
+          "end": 29521,
+          "confidence": 0.99749136,
+          "speaker": "A"
+        },
+        {
+          "text": "rush",
+          "start": 29521,
+          "end": 29681,
+          "confidence": 0.9995784,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 29697,
+          "end": 29794,
+          "confidence": 0.99832195,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 29794,
+          "end": 29874,
+          "confidence": 0.9991787,
+          "speaker": "A"
+        },
+        {
+          "text": "store",
+          "start": 29874,
+          "end": 30114,
+          "confidence": 0.99880433,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 30114,
+          "end": 30194,
+          "confidence": 0.99784374,
+          "speaker": "A"
+        },
+        {
+          "text": "buy",
+          "start": 30243,
+          "end": 30339,
+          "confidence": 0.9987627,
+          "speaker": "A"
+        },
+        {
+          "text": "a",
+          "start": 30339,
+          "end": 30371,
+          "confidence": 0.9990208,
+          "speaker": "A"
+        },
+        {
+          "text": "new",
+          "start": 30419,
+          "end": 30579,
+          "confidence": 0.99902797,
+          "speaker": "A"
+        },
+        {
+          "text": "size",
+          "start": 30579,
+          "end": 30884,
+          "confidence": 0.9992712,
+          "speaker": "A"
+        },
+        {
+          "text": "M",
+          "start": 30884,
+          "end": 30964,
+          "confidence": 0.9945575,
+          "speaker": "A"
+        },
+        {
+          "text": "pair",
+          "start": 30964,
+          "end": 31076,
+          "confidence": 0.9994067,
+          "speaker": "A"
+        },
+        {
+          "text": "of",
+          "start": 31076,
+          "end": 31141,
+          "confidence": 0.9980598,
+          "speaker": "A"
+        },
+        {
+          "text": "pants,",
+          "start": 31141,
+          "end": 31477,
+          "confidence": 0.9901879,
+          "speaker": "A"
+        },
+        {
+          "text": "You",
+          "start": 31630,
+          "end": 31670,
+          "confidence": 0.93701303,
+          "speaker": "A"
+        },
+        {
+          "text": "probably",
+          "start": 31766,
+          "end": 32263,
+          "confidence": 0.99907887,
+          "speaker": "A"
+        },
+        {
+          "text": "fell",
+          "start": 32263,
+          "end": 32455,
+          "confidence": 0.9999089,
+          "speaker": "A"
+        },
+        {
+          "text": "for",
+          "start": 32519,
+          "end": 32664,
+          "confidence": 0.9999596,
+          "speaker": "A"
+        },
+        {
+          "text": "some",
+          "start": 32664,
+          "end": 32824,
+          "confidence": 0.99974865,
+          "speaker": "A"
+        },
+        {
+          "text": "fake",
+          "start": 32840,
+          "end": 33209,
+          "confidence": 0.99985766,
+          "speaker": "A"
+        },
+        {
+          "text": "version",
+          "start": 33225,
+          "end": 33577,
+          "confidence": 0.99969757,
+          "speaker": "A"
+        },
+        {
+          "text": "they",
+          "start": 33609,
+          "end": 33705,
+          "confidence": 0.99613416,
+          "speaker": "A"
+        },
+        {
+          "text": "are",
+          "start": 33705,
+          "end": 33786,
+          "confidence": 0.9452666,
+          "speaker": "A"
+        },
+        {
+          "text": "putting",
+          "start": 33786,
+          "end": 34026,
+          "confidence": 0.99983823,
+          "speaker": "A"
+        },
+        {
+          "text": "out",
+          "start": 34090,
+          "end": 34267,
+          "confidence": 0.9995844,
+          "speaker": "A"
+        },
+        {
+          "text": "there",
+          "start": 34267,
+          "end": 34411,
+          "confidence": 0.9997228,
+          "speaker": "A"
+        },
+        {
+          "text": "on",
+          "start": 34411,
+          "end": 34507,
+          "confidence": 0.9982462,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 34507,
+          "end": 34587,
+          "confidence": 0.9999063,
+          "speaker": "A"
+        },
+        {
+          "text": "internet.",
+          "start": 34587,
+          "end": 34892,
+          "confidence": 0.9967831,
+          "speaker": "A"
+        },
+        {
+          "text": "The",
+          "start": 35068,
+          "end": 35132,
+          "confidence": 0.9631644,
+          "speaker": "A"
+        },
+        {
+          "text": "real",
+          "start": 35132,
+          "end": 35292,
+          "confidence": 0.99988925,
+          "speaker": "A"
+        },
+        {
+          "text": "version",
+          "start": 35308,
+          "end": 35549,
+          "confidence": 0.99989164,
+          "speaker": "A"
+        },
+        {
+          "text": "of",
+          "start": 35549,
+          "end": 35613,
+          "confidence": 0.99930334,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 35613,
+          "end": 35693,
+          "confidence": 0.99479127,
+          "speaker": "A"
+        },
+        {
+          "text": "trick",
+          "start": 35693,
+          "end": 35870,
+          "confidence": 0.99983346,
+          "speaker": "A"
+        },
+        {
+          "text": "costs",
+          "start": 35870,
+          "end": 36110,
+          "confidence": 0.99735653,
+          "speaker": "A"
+        },
+        {
+          "text": "$3,000",
+          "start": 36110,
+          "end": 36847,
+          "confidence": 0.9999326,
+          "speaker": "A"
+        },
+        {
+          "text": "and",
+          "start": 36976,
+          "end": 37056,
+          "confidence": 0.9104621,
+          "speaker": "A"
+        },
+        {
+          "text": "a",
+          "start": 37056,
+          "end": 37072,
+          "confidence": 0.99944717,
+          "speaker": "A"
+        },
+        {
+          "text": "private",
+          "start": 37072,
+          "end": 37360,
+          "confidence": 0.9997718,
+          "speaker": "A"
+        },
+        {
+          "text": "consultation",
+          "start": 37392,
+          "end": 37969,
+          "confidence": 0.9999486,
+          "speaker": "A"
+        },
+        {
+          "text": "with",
+          "start": 37969,
+          "end": 38114,
+          "confidence": 0.9979297,
+          "speaker": "A"
+        },
+        {
+          "text": "Dr.",
+          "start": 38114,
+          "end": 38354,
+          "confidence": 0.99890685,
+          "speaker": "A"
+        },
+        {
+          "text": "Kylie",
+          "start": 38418,
+          "end": 38675,
+          "confidence": 0.9048109,
+          "speaker": "A"
+        },
+        {
+          "text": "Sakaida,",
+          "start": 38675,
+          "end": 39156,
+          "confidence": 0.9776743,
+          "speaker": "A"
+        },
+        {
+          "text": "nutritionist",
+          "start": 39188,
+          "end": 39797,
+          "confidence": 0.9965366,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 39797,
+          "end": 39877,
+          "confidence": 0.999746,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 39877,
+          "end": 39957,
+          "confidence": 0.99958736,
+          "speaker": "A"
+        },
+        {
+          "text": "stars",
+          "start": 39957,
+          "end": 40342,
+          "confidence": 0.9999695,
+          "speaker": "A"
+        },
+        {
+          "text": "in",
+          "start": 40342,
+          "end": 40390,
+          "confidence": 0.99900776,
+          "speaker": "A"
+        },
+        {
+          "text": "Hollywood,",
+          "start": 40422,
+          "end": 40887,
+          "confidence": 0.99879134,
+          "speaker": "A"
+        },
+        {
+          "text": "and",
+          "start": 41240,
+          "end": 41304,
+          "confidence": 0.99598926,
+          "speaker": "A"
+        },
+        {
+          "text": "requires",
+          "start": 41304,
+          "end": 41688,
+          "confidence": 0.9997085,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 41721,
+          "end": 41801,
+          "confidence": 0.99968433,
+          "speaker": "A"
+        },
+        {
+          "text": "correct",
+          "start": 41801,
+          "end": 42185,
+          "confidence": 0.9999385,
+          "speaker": "A"
+        },
+        {
+          "text": "order",
+          "start": 42185,
+          "end": 42362,
+          "confidence": 0.999879,
+          "speaker": "A"
+        },
+        {
+          "text": "and",
+          "start": 42362,
+          "end": 42506,
+          "confidence": 0.99693006,
+          "speaker": "A"
+        },
+        {
+          "text": "exact",
+          "start": 42506,
+          "end": 42730,
+          "confidence": 0.9996661,
+          "speaker": "A"
+        },
+        {
+          "text": "timing",
+          "start": 42827,
+          "end": 43131,
+          "confidence": 0.9999541,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 43163,
+          "end": 43292,
+          "confidence": 0.99839336,
+          "speaker": "A"
+        },
+        {
+          "text": "go",
+          "start": 43308,
+          "end": 43420,
+          "confidence": 0.9998579,
+          "speaker": "A"
+        },
+        {
+          "text": "from",
+          "start": 43420,
+          "end": 43580,
+          "confidence": 0.9993498,
+          "speaker": "A"
+        },
+        {
+          "text": "XL",
+          "start": 43708,
+          "end": 43997,
+          "confidence": 0.99934953,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 44125,
+          "end": 44269,
+          "confidence": 0.99964833,
+          "speaker": "A"
+        },
+        {
+          "text": "S",
+          "start": 44349,
+          "end": 44398,
+          "confidence": 0.9963888,
+          "speaker": "A"
+        },
+        {
+          "text": "in",
+          "start": 44686,
+          "end": 44734,
+          "confidence": 0.9855413,
+          "speaker": "A"
+        },
+        {
+          "text": "less",
+          "start": 45183,
+          "end": 45407,
+          "confidence": 0.98197836,
+          "speaker": "A"
+        },
+        {
+          "text": "than",
+          "start": 45407,
+          "end": 45520,
+          "confidence": 0.9999331,
+          "speaker": "A"
+        },
+        {
+          "text": "3",
+          "start": 45568,
+          "end": 45728,
+          "confidence": 0.9997857,
+          "speaker": "A"
+        },
+        {
+          "text": "months.",
+          "start": 45728,
+          "end": 46049,
+          "confidence": 0.96910095,
+          "speaker": "A"
+        },
+        {
+          "text": "Before",
+          "start": 46289,
+          "end": 46546,
+          "confidence": 0.9382477,
+          "speaker": "A"
+        },
+        {
+          "text": "continuing,",
+          "start": 46594,
+          "end": 46978,
+          "confidence": 0.99089825,
+          "speaker": "A"
+        },
+        {
+          "text": "a",
+          "start": 47267,
+          "end": 47283,
+          "confidence": 0.99529123,
+          "speaker": "A"
+        },
+        {
+          "text": "serious",
+          "start": 47331,
+          "end": 47812,
+          "confidence": 0.9997384,
+          "speaker": "A"
+        },
+        {
+          "text": "warning.",
+          "start": 47876,
+          "end": 48101,
+          "confidence": 0.92863,
+          "speaker": "A"
+        },
+        {
+          "text": "In",
+          "start": 48533,
+          "end": 48581,
+          "confidence": 0.9100287,
+          "speaker": "A"
+        },
+        {
+          "text": "celebration",
+          "start": 48614,
+          "end": 49143,
+          "confidence": 0.9999529,
+          "speaker": "A"
+        },
+        {
+          "text": "of",
+          "start": 49143,
+          "end": 49223,
+          "confidence": 0.9996635,
+          "speaker": "A"
+        },
+        {
+          "text": "more",
+          "start": 49223,
+          "end": 49335,
+          "confidence": 0.99959046,
+          "speaker": "A"
+        },
+        {
+          "text": "than",
+          "start": 49335,
+          "end": 49431,
+          "confidence": 0.9998815,
+          "speaker": "A"
+        },
+        {
+          "text": "70,000",
+          "start": 49431,
+          "end": 50265,
+          "confidence": 0.99984914,
+          "speaker": "A"
+        },
+        {
+          "text": "women",
+          "start": 50297,
+          "end": 50601,
+          "confidence": 0.9999548,
+          "speaker": "A"
+        },
+        {
+          "text": "losing",
+          "start": 50601,
+          "end": 50874,
+          "confidence": 0.9998055,
+          "speaker": "A"
+        },
+        {
+          "text": "at",
+          "start": 50938,
+          "end": 51018,
+          "confidence": 0.9992748,
+          "speaker": "A"
+        },
+        {
+          "text": "least",
+          "start": 51018,
+          "end": 51242,
+          "confidence": 0.9999162,
+          "speaker": "A"
+        },
+        {
+          "text": "9",
+          "start": 51242,
+          "end": 51467,
+          "confidence": 0.9998497,
+          "speaker": "A"
+        },
+        {
+          "text": "pounds",
+          "start": 51499,
+          "end": 51868,
+          "confidence": 0.9963277,
+          "speaker": "A"
+        },
+        {
+          "text": "with",
+          "start": 51884,
+          "end": 51964,
+          "confidence": 0.9984707,
+          "speaker": "A"
+        },
+        {
+          "text": "this",
+          "start": 51964,
+          "end": 52140,
+          "confidence": 0.99715024,
+          "speaker": "A"
+        },
+        {
+          "text": "bariatric",
+          "start": 52140,
+          "end": 52701,
+          "confidence": 0.99386454,
+          "speaker": "A"
+        },
+        {
+          "text": "shot",
+          "start": 52701,
+          "end": 52910,
+          "confidence": 0.999869,
+          "speaker": "A"
+        },
+        {
+          "text": "recipe,",
+          "start": 52942,
+          "end": 53342,
+          "confidence": 0.9992198,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 53647,
+          "end": 53711,
+          "confidence": 0.98022264,
+          "speaker": "A"
+        },
+        {
+          "text": "short",
+          "start": 53727,
+          "end": 53984,
+          "confidence": 0.9996737,
+          "speaker": "A"
+        },
+        {
+          "text": "video",
+          "start": 53984,
+          "end": 54192,
+          "confidence": 0.9996456,
+          "speaker": "A"
+        },
+        {
+          "text": "of",
+          "start": 54224,
+          "end": 54320,
+          "confidence": 0.99916553,
+          "speaker": "A"
+        },
+        {
+          "text": "Dr.",
+          "start": 54320,
+          "end": 54577,
+          "confidence": 0.9995699,
+          "speaker": "A"
+        },
+        {
+          "text": "Kylie's",
+          "start": 54625,
+          "end": 55010,
+          "confidence": 0.99315214,
+          "speaker": "A"
+        },
+        {
+          "text": "original",
+          "start": 55010,
+          "end": 55378,
+          "confidence": 0.99946874,
+          "speaker": "A"
+        },
+        {
+          "text": "recipe,",
+          "start": 55410,
+          "end": 55827,
+          "confidence": 0.9933425,
+          "speaker": "A"
+        },
+        {
+          "text": "who",
+          "start": 55907,
+          "end": 56003,
+          "confidence": 0.9855085,
+          "speaker": "A"
+        },
+        {
+          "text": "has",
+          "start": 56003,
+          "end": 56116,
+          "confidence": 0.99945885,
+          "speaker": "A"
+        },
+        {
+          "text": "already",
+          "start": 56292,
+          "end": 56597,
+          "confidence": 0.9996031,
+          "speaker": "A"
+        },
+        {
+          "text": "helped",
+          "start": 56613,
+          "end": 56853,
+          "confidence": 0.9997768,
+          "speaker": "A"
+        },
+        {
+          "text": "names",
+          "start": 56853,
+          "end": 57126,
+          "confidence": 0.99984384,
+          "speaker": "A"
+        },
+        {
+          "text": "like",
+          "start": 57174,
+          "end": 57334,
+          "confidence": 0.99718803,
+          "speaker": "A"
+        },
+        {
+          "text": "Oprah,",
+          "start": 57494,
+          "end": 57831,
+          "confidence": 0.9422981,
+          "speaker": "A"
+        },
+        {
+          "text": "Kelly",
+          "start": 57911,
+          "end": 58200,
+          "confidence": 0.99977976,
+          "speaker": "A"
+        },
+        {
+          "text": "Clarkson,",
+          "start": 58312,
+          "end": 58761,
+          "confidence": 0.9992844,
+          "speaker": "A"
+        },
+        {
+          "text": "and",
+          "start": 59033,
+          "end": 59097,
+          "confidence": 0.99580246,
+          "speaker": "A"
+        },
+        {
+          "text": "Melissa",
+          "start": 59097,
+          "end": 59354,
+          "confidence": 0.9998454,
+          "speaker": "A"
+        },
+        {
+          "text": "McCarthy",
+          "start": 59354,
+          "end": 59690,
+          "confidence": 0.9999876,
+          "speaker": "A"
+        },
+        {
+          "text": "lose",
+          "start": 59754,
+          "end": 59883,
+          "confidence": 0.9993344,
+          "speaker": "A"
+        },
+        {
+          "text": "weight,",
+          "start": 59979,
+          "end": 60219,
+          "confidence": 0.9991285,
+          "speaker": "A"
+        },
+        {
+          "text": "is",
+          "start": 60235,
+          "end": 60283,
+          "confidence": 0.99471277,
+          "speaker": "A"
+        },
+        {
+          "text": "completely",
+          "start": 60380,
+          "end": 60764,
+          "confidence": 0.9992244,
+          "speaker": "A"
+        },
+        {
+          "text": "free",
+          "start": 60780,
+          "end": 61037,
+          "confidence": 0.99902153,
+          "speaker": "A"
+        },
+        {
+          "text": "for",
+          "start": 61037,
+          "end": 61149,
+          "confidence": 0.99147415,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 61149,
+          "end": 61197,
+          "confidence": 0.9993942,
+          "speaker": "A"
+        },
+        {
+          "text": "next",
+          "start": 61197,
+          "end": 61422,
+          "confidence": 0.9991161,
+          "speaker": "A"
+        },
+        {
+          "text": "20",
+          "start": 61422,
+          "end": 61614,
+          "confidence": 0.99987113,
+          "speaker": "A"
+        },
+        {
+          "text": "minutes.",
+          "start": 61614,
+          "end": 61935,
+          "confidence": 0.9979257,
+          "speaker": "A"
+        },
+        {
+          "text": "Click",
+          "start": 62079,
+          "end": 62303,
+          "confidence": 0.5090164,
+          "speaker": "A"
+        },
+        {
+          "text": "learn",
+          "start": 62303,
+          "end": 62448,
+          "confidence": 0.90059245,
+          "speaker": "A"
+        },
+        {
+          "text": "more",
+          "start": 62480,
+          "end": 62592,
+          "confidence": 0.9993961,
+          "speaker": "A"
+        },
+        {
+          "text": "now",
+          "start": 62656,
+          "end": 62816,
+          "confidence": 0.99852425,
+          "speaker": "A"
+        },
+        {
+          "text": "and",
+          "start": 63121,
+          "end": 63185,
+          "confidence": 0.9517041,
+          "speaker": "A"
+        },
+        {
+          "text": "copy",
+          "start": 63201,
+          "end": 63522,
+          "confidence": 0.9929357,
+          "speaker": "A"
+        },
+        {
+          "text": "The",
+          "start": 63602,
+          "end": 63682,
+          "confidence": 0.31173977,
+          "speaker": "A"
+        },
+        {
+          "text": "correct",
+          "start": 63682,
+          "end": 63922,
+          "confidence": 0.9854811,
+          "speaker": "A"
+        },
+        {
+          "text": "recipe",
+          "start": 63922,
+          "end": 64403,
+          "confidence": 0.9987754,
+          "speaker": "A"
+        },
+        {
+          "text": "before",
+          "start": 64403,
+          "end": 64740,
+          "confidence": 0.95751935,
+          "speaker": "A"
+        },
+        {
+          "text": "it",
+          "start": 64740,
+          "end": 64852,
+          "confidence": 0.9964833,
+          "speaker": "A"
+        },
+        {
+          "text": "goes",
+          "start": 64868,
+          "end": 65012,
+          "confidence": 0.99909914,
+          "speaker": "A"
+        },
+        {
+          "text": "offline.",
+          "start": 65109,
+          "end": 65573,
+          "confidence": 0.9880452,
+          "speaker": "A"
+        },
+        {
+          "text": "Oprah",
+          "start": 65750,
+          "end": 65926,
+          "confidence": 0.88930684,
+          "speaker": "A"
+        },
+        {
+          "text": "is",
+          "start": 65926,
+          "end": 66022,
+          "confidence": 0.92647105,
+          "speaker": "A"
+        },
+        {
+          "text": "gonna",
+          "start": 66070,
+          "end": 66231,
+          "confidence": 0.68579,
+          "speaker": "A"
+        },
+        {
+          "text": "kill",
+          "start": 66231,
+          "end": 66359,
+          "confidence": 0.9990971,
+          "speaker": "A"
+        },
+        {
+          "text": "me",
+          "start": 66407,
+          "end": 66487,
+          "confidence": 0.9997552,
+          "speaker": "A"
+        },
+        {
+          "text": "for",
+          "start": 66487,
+          "end": 66631,
+          "confidence": 0.9993069,
+          "speaker": "A"
+        },
+        {
+          "text": "revealing",
+          "start": 66631,
+          "end": 67016,
+          "confidence": 0.99979013,
+          "speaker": "A"
+        },
+        {
+          "text": "this,",
+          "start": 67064,
+          "end": 67176,
+          "confidence": 0.9915366,
+          "speaker": "A"
+        },
+        {
+          "text": "but",
+          "start": 67529,
+          "end": 67625,
+          "confidence": 0.99791867,
+          "speaker": "A"
+        },
+        {
+          "text": "it",
+          "start": 67625,
+          "end": 67689,
+          "confidence": 0.9972222,
+          "speaker": "A"
+        },
+        {
+          "text": "was",
+          "start": 67689,
+          "end": 67802,
+          "confidence": 0.9987423,
+          "speaker": "A"
+        },
+        {
+          "text": "this",
+          "start": 67850,
+          "end": 68010,
+          "confidence": 0.9984055,
+          "speaker": "A"
+        },
+        {
+          "text": "baking",
+          "start": 68010,
+          "end": 68299,
+          "confidence": 0.9955641,
+          "speaker": "A"
+        },
+        {
+          "text": "soda",
+          "start": 68331,
+          "end": 68587,
+          "confidence": 0.9985298,
+          "speaker": "A"
+        },
+        {
+          "text": "shot",
+          "start": 68587,
+          "end": 68876,
+          "confidence": 0.9997118,
+          "speaker": "A"
+        },
+        {
+          "text": "recipe",
+          "start": 68876,
+          "end": 69212,
+          "confidence": 0.9995116,
+          "speaker": "A"
+        },
+        {
+          "text": "she",
+          "start": 69212,
+          "end": 69389,
+          "confidence": 0.9897798,
+          "speaker": "A"
+        },
+        {
+          "text": "used",
+          "start": 69453,
+          "end": 69693,
+          "confidence": 0.9988174,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 69693,
+          "end": 69773,
+          "confidence": 0.99468887,
+          "speaker": "A"
+        },
+        {
+          "text": "go",
+          "start": 69773,
+          "end": 69934,
+          "confidence": 0.9990977,
+          "speaker": "A"
+        },
+        {
+          "text": "from",
+          "start": 69934,
+          "end": 70158,
+          "confidence": 0.9927683,
+          "speaker": "A"
+        },
+        {
+          "text": "XL",
+          "start": 70174,
+          "end": 70447,
+          "confidence": 0.9970753,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 70575,
+          "end": 70703,
+          "confidence": 0.998922,
+          "speaker": "A"
+        },
+        {
+          "text": "M",
+          "start": 70799,
+          "end": 70944,
+          "confidence": 0.9992914,
+          "speaker": "A"
+        },
+        {
+          "text": "after",
+          "start": 71200,
+          "end": 71440,
+          "confidence": 0.9780904,
+          "speaker": "A"
+        },
+        {
+          "text": "turning",
+          "start": 71440,
+          "end": 71665,
+          "confidence": 0.99987555,
+          "speaker": "A"
+        },
+        {
+          "text": "70.",
+          "start": 71697,
+          "end": 72146,
+          "confidence": 0.9838167,
+          "speaker": "A"
+        },
+        {
+          "text": "It",
+          "start": 72338,
+          "end": 72418,
+          "confidence": 0.9332315,
+          "speaker": "A"
+        },
+        {
+          "text": "is",
+          "start": 72418,
+          "end": 72498,
+          "confidence": 0.9970114,
+          "speaker": "A"
+        },
+        {
+          "text": "impossible",
+          "start": 72498,
+          "end": 72963,
+          "confidence": 0.99956614,
+          "speaker": "A"
+        },
+        {
+          "text": "for",
+          "start": 72963,
+          "end": 73059,
+          "confidence": 0.9982722,
+          "speaker": "A"
+        },
+        {
+          "text": "you",
+          "start": 73059,
+          "end": 73156,
+          "confidence": 0.99979264,
+          "speaker": "A"
+        },
+        {
+          "text": "not",
+          "start": 73156,
+          "end": 73380,
+          "confidence": 0.9959726,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 73380,
+          "end": 73460,
+          "confidence": 0.9987393,
+          "speaker": "A"
+        },
+        {
+          "text": "wake",
+          "start": 73460,
+          "end": 73701,
+          "confidence": 0.998204,
+          "speaker": "A"
+        },
+        {
+          "text": "up",
+          "start": 73701,
+          "end": 73797,
+          "confidence": 0.9995141,
+          "speaker": "A"
+        },
+        {
+          "text": "3",
+          "start": 73797,
+          "end": 74101,
+          "confidence": 0.99986947,
+          "speaker": "A"
+        },
+        {
+          "text": "pounds",
+          "start": 74101,
+          "end": 74390,
+          "confidence": 0.99357927,
+          "speaker": "A"
+        },
+        {
+          "text": "thinner",
+          "start": 74486,
+          "end": 74743,
+          "confidence": 0.9997104,
+          "speaker": "A"
+        },
+        {
+          "text": "tomorrow",
+          "start": 74743,
+          "end": 75127,
+          "confidence": 0.997981,
+          "speaker": "A"
+        },
+        {
+          "text": "if",
+          "start": 75127,
+          "end": 75224,
+          "confidence": 0.98234946,
+          "speaker": "A"
+        },
+        {
+          "text": "you",
+          "start": 75224,
+          "end": 75304,
+          "confidence": 0.9989951,
+          "speaker": "A"
+        },
+        {
+          "text": "make",
+          "start": 75304,
+          "end": 75528,
+          "confidence": 0.99859256,
+          "speaker": "A"
+        },
+        {
+          "text": "this",
+          "start": 75528,
+          "end": 75640,
+          "confidence": 0.9971762,
+          "speaker": "A"
+        },
+        {
+          "text": "recipe",
+          "start": 75688,
+          "end": 76041,
+          "confidence": 0.9995321,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 76041,
+          "end": 76169,
+          "confidence": 0.9928839,
+          "speaker": "A"
+        },
+        {
+          "text": "right",
+          "start": 76169,
+          "end": 76426,
+          "confidence": 0.99906284,
+          "speaker": "A"
+        },
+        {
+          "text": "way",
+          "start": 76426,
+          "end": 76618,
+          "confidence": 0.99963784,
+          "speaker": "A"
+        },
+        {
+          "text": "today.",
+          "start": 76811,
+          "end": 77131,
+          "confidence": 0.9579313,
+          "speaker": "A"
+        },
+        {
+          "text": "The",
+          "start": 77388,
+          "end": 77468,
+          "confidence": 0.89628947,
+          "speaker": "A"
+        },
+        {
+          "text": "combination",
+          "start": 77468,
+          "end": 78013,
+          "confidence": 0.9996119,
+          "speaker": "A"
+        },
+        {
+          "text": "of",
+          "start": 78013,
+          "end": 78045,
+          "confidence": 0.9978567,
+          "speaker": "A"
+        },
+        {
+          "text": "this",
+          "start": 78045,
+          "end": 78189,
+          "confidence": 0.9979019,
+          "speaker": "A"
+        },
+        {
+          "text": "recipe",
+          "start": 78189,
+          "end": 78590,
+          "confidence": 0.99931335,
+          "speaker": "A"
+        },
+        {
+          "text": "is",
+          "start": 78590,
+          "end": 78686,
+          "confidence": 0.99490166,
+          "speaker": "A"
+        },
+        {
+          "text": "more",
+          "start": 78734,
+          "end": 78862,
+          "confidence": 0.9962604,
+          "speaker": "A"
+        },
+        {
+          "text": "powerful",
+          "start": 78911,
+          "end": 79295,
+          "confidence": 0.99731594,
+          "speaker": "A"
+        },
+        {
+          "text": "than",
+          "start": 79295,
+          "end": 79391,
+          "confidence": 0.9970125,
+          "speaker": "A"
+        },
+        {
+          "text": "a",
+          "start": 79391,
+          "end": 79472,
+          "confidence": 0.99939036,
+          "speaker": "A"
+        },
+        {
+          "text": "truckload",
+          "start": 79472,
+          "end": 79872,
+          "confidence": 0.9997582,
+          "speaker": "A"
+        },
+        {
+          "text": "of",
+          "start": 79872,
+          "end": 79952,
+          "confidence": 0.99675614,
+          "speaker": "A"
+        },
+        {
+          "text": "Ozempic.",
+          "start": 79952,
+          "end": 80433,
+          "confidence": 0.99770474,
+          "speaker": "A"
+        },
+        {
+          "text": "Get",
+          "start": 80514,
+          "end": 80610,
+          "confidence": 0.85085934,
+          "speaker": "A"
+        },
+        {
+          "text": "ready",
+          "start": 80610,
+          "end": 80786,
+          "confidence": 0.99963284,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 80786,
+          "end": 80834,
+          "confidence": 0.9982066,
+          "speaker": "A"
+        },
+        {
+          "text": "cry",
+          "start": 80834,
+          "end": 81026,
+          "confidence": 0.9994073,
+          "speaker": "A"
+        },
+        {
+          "text": "with",
+          "start": 81059,
+          "end": 81139,
+          "confidence": 0.9980515,
+          "speaker": "A"
+        },
+        {
+          "text": "joy",
+          "start": 81155,
+          "end": 81379,
+          "confidence": 0.999529,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 81395,
+          "end": 81475,
+          "confidence": 0.9957371,
+          "speaker": "A"
+        },
+        {
+          "text": "day",
+          "start": 81475,
+          "end": 81636,
+          "confidence": 0.9990138,
+          "speaker": "A"
+        },
+        {
+          "text": "you",
+          "start": 81700,
+          "end": 81764,
+          "confidence": 0.99837446,
+          "speaker": "A"
+        },
+        {
+          "text": "manage",
+          "start": 81796,
+          "end": 82084,
+          "confidence": 0.9908398,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 82101,
+          "end": 82197,
+          "confidence": 0.9978277,
+          "speaker": "A"
+        },
+        {
+          "text": "wear",
+          "start": 82197,
+          "end": 82341,
+          "confidence": 0.999371,
+          "speaker": "A"
+        },
+        {
+          "text": "XS",
+          "start": 82341,
+          "end": 82565,
+          "confidence": 0.9352003,
+          "speaker": "A"
+        },
+        {
+          "text": "for",
+          "start": 82678,
+          "end": 82758,
+          "confidence": 0.9961288,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 82758,
+          "end": 82838,
+          "confidence": 0.9973642,
+          "speaker": "A"
+        },
+        {
+          "text": "first",
+          "start": 82838,
+          "end": 83078,
+          "confidence": 0.99663794,
+          "speaker": "A"
+        },
+        {
+          "text": "time",
+          "start": 83078,
+          "end": 83239,
+          "confidence": 0.9989748,
+          "speaker": "A"
+        },
+        {
+          "text": "in",
+          "start": 83239,
+          "end": 83319,
+          "confidence": 0.9987174,
+          "speaker": "A"
+        },
+        {
+          "text": "years.",
+          "start": 83319,
+          "end": 83607,
+          "confidence": 0.99291193,
+          "speaker": "A"
+        },
+        {
+          "text": "I",
+          "start": 83800,
+          "end": 83864,
+          "confidence": 0.9089153,
+          "speaker": "A"
+        },
+        {
+          "text": "bet",
+          "start": 83864,
+          "end": 83944,
+          "confidence": 0.9990914,
+          "speaker": "A"
+        },
+        {
+          "text": "$1",
+          "start": 83944,
+          "end": 84104,
+          "confidence": 0.71607155,
+          "speaker": "A"
+        },
+        {
+          "text": "million",
+          "start": 84104,
+          "end": 84313,
+          "confidence": 0.94792914,
+          "speaker": "A"
+        },
+        {
+          "text": "in",
+          "start": 84585,
+          "end": 84665,
+          "confidence": 0.9949869,
+          "speaker": "A"
+        },
+        {
+          "text": "cash",
+          "start": 84665,
+          "end": 84922,
+          "confidence": 0.9999597,
+          "speaker": "A"
+        },
+        {
+          "text": "that",
+          "start": 84922,
+          "end": 85002,
+          "confidence": 0.98930943,
+          "speaker": "A"
+        },
+        {
+          "text": "you",
+          "start": 85002,
+          "end": 85066,
+          "confidence": 0.9964367,
+          "speaker": "A"
+        },
+        {
+          "text": "will",
+          "start": 85066,
+          "end": 85162,
+          "confidence": 0.97800326,
+          "speaker": "A"
+        },
+        {
+          "text": "get",
+          "start": 85162,
+          "end": 85307,
+          "confidence": 0.99558616,
+          "speaker": "A"
+        },
+        {
+          "text": "out",
+          "start": 85307,
+          "end": 85387,
+          "confidence": 0.9970331,
+          "speaker": "A"
+        },
+        {
+          "text": "of",
+          "start": 85387,
+          "end": 85419,
+          "confidence": 0.9984794,
+          "speaker": "A"
+        },
+        {
+          "text": "an",
+          "start": 85419,
+          "end": 85483,
+          "confidence": 0.9977164,
+          "speaker": "A"
+        },
+        {
+          "text": "XL",
+          "start": 85499,
+          "end": 85755,
+          "confidence": 0.99951994,
+          "speaker": "A"
+        },
+        {
+          "text": "in",
+          "start": 85803,
+          "end": 85852,
+          "confidence": 0.9978817,
+          "speaker": "A"
+        },
+        {
+          "text": "5",
+          "start": 85948,
+          "end": 86172,
+          "confidence": 0.99994326,
+          "speaker": "A"
+        },
+        {
+          "text": "days",
+          "start": 86188,
+          "end": 86332,
+          "confidence": 0.99963117,
+          "speaker": "A"
+        },
+        {
+          "text": "tops",
+          "start": 86365,
+          "end": 86685,
+          "confidence": 0.98314315,
+          "speaker": "A"
+        },
+        {
+          "text": "with",
+          "start": 86685,
+          "end": 86749,
+          "confidence": 0.9920873,
+          "speaker": "A"
+        },
+        {
+          "text": "this",
+          "start": 86749,
+          "end": 86926,
+          "confidence": 0.99780494,
+          "speaker": "A"
+        },
+        {
+          "text": "baking",
+          "start": 86926,
+          "end": 87246,
+          "confidence": 0.99777454,
+          "speaker": "A"
+        },
+        {
+          "text": "soda",
+          "start": 87246,
+          "end": 87471,
+          "confidence": 0.9965121,
+          "speaker": "A"
+        },
+        {
+          "text": "shot",
+          "start": 87471,
+          "end": 87695,
+          "confidence": 0.99889475,
+          "speaker": "A"
+        },
+        {
+          "text": "trick.",
+          "start": 87711,
+          "end": 87952,
+          "confidence": 0.9961037,
+          "speaker": "A"
+        },
+        {
+          "text": "This",
+          "start": 88048,
+          "end": 88272,
+          "confidence": 0.58073187,
+          "speaker": "A"
+        },
+        {
+          "text": "recipe",
+          "start": 88272,
+          "end": 88609,
+          "confidence": 0.99823904,
+          "speaker": "A"
+        },
+        {
+          "text": "turns",
+          "start": 88609,
+          "end": 88913,
+          "confidence": 0.9927684,
+          "speaker": "A"
+        },
+        {
+          "text": "on",
+          "start": 88913,
+          "end": 88945,
+          "confidence": 0.9965334,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 88945,
+          "end": 89026,
+          "confidence": 0.99629706,
+          "speaker": "A"
+        },
+        {
+          "text": "metabolism's",
+          "start": 89026,
+          "end": 89731,
+          "confidence": 0.9983953,
+          "speaker": "A"
+        },
+        {
+          "text": "turbo",
+          "start": 89731,
+          "end": 90116,
+          "confidence": 0.995552,
+          "speaker": "A"
+        },
+        {
+          "text": "mode",
+          "start": 90116,
+          "end": 90420,
+          "confidence": 0.99885976,
+          "speaker": "A"
+        },
+        {
+          "text": "and",
+          "start": 90452,
+          "end": 90516,
+          "confidence": 0.9644598,
+          "speaker": "A"
+        },
+        {
+          "text": "is",
+          "start": 90548,
+          "end": 90629,
+          "confidence": 0.9910104,
+          "speaker": "A"
+        },
+        {
+          "text": "up",
+          "start": 90677,
+          "end": 90757,
+          "confidence": 0.9964541,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 90757,
+          "end": 90917,
+          "confidence": 0.9953317,
+          "speaker": "A"
+        },
+        {
+          "text": "18",
+          "start": 90997,
+          "end": 91366,
+          "confidence": 0.99960643,
+          "speaker": "A"
+        },
+        {
+          "text": "times",
+          "start": 91478,
+          "end": 91815,
+          "confidence": 0.9957546,
+          "speaker": "A"
+        },
+        {
+          "text": "stronger",
+          "start": 91815,
+          "end": 92344,
+          "confidence": 0.9863772,
+          "speaker": "A"
+        },
+        {
+          "text": "than",
+          "start": 92456,
+          "end": 92584,
+          "confidence": 0.9740001,
+          "speaker": "A"
+        },
+        {
+          "text": "cardio",
+          "start": 92616,
+          "end": 93081,
+          "confidence": 0.99867344,
+          "speaker": "A"
+        },
+        {
+          "text": "on",
+          "start": 93097,
+          "end": 93177,
+          "confidence": 0.9897452,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 93177,
+          "end": 93257,
+          "confidence": 0.9940322,
+          "speaker": "A"
+        },
+        {
+          "text": "treadmill.",
+          "start": 93322,
+          "end": 93722,
+          "confidence": 0.99790066,
+          "speaker": "A"
+        },
+        {
+          "text": "The",
+          "start": 93883,
+          "end": 93947,
+          "confidence": 0.9458993,
+          "speaker": "A"
+        },
+        {
+          "text": "results?",
+          "start": 93979,
+          "end": 94380,
+          "confidence": 0.59505475,
+          "speaker": "A"
+        },
+        {
+          "text": "Your",
+          "start": 94636,
+          "end": 94748,
+          "confidence": 0.691706,
+          "speaker": "A"
+        },
+        {
+          "text": "body",
+          "start": 94780,
+          "end": 95021,
+          "confidence": 0.820701,
+          "speaker": "A"
+        },
+        {
+          "text": "enters",
+          "start": 95021,
+          "end": 95229,
+          "confidence": 0.65135336,
+          "speaker": "A"
+        },
+        {
+          "text": "high-speed",
+          "start": 95245,
+          "end": 95438,
+          "confidence": 0.72175574,
+          "speaker": "A"
+        },
+        {
+          "text": "Speed",
+          "start": 95486,
+          "end": 95582,
+          "confidence": 0.2317582,
+          "speaker": "A"
+        },
+        {
+          "text": "burn",
+          "start": 95582,
+          "end": 95790,
+          "confidence": 0.75651705,
+          "speaker": "A"
+        },
+        {
+          "text": "mode",
+          "start": 95822,
+          "end": 96047,
+          "confidence": 0.99951124,
+          "speaker": "A"
+        },
+        {
+          "text": "24",
+          "start": 96047,
+          "end": 96383,
+          "confidence": 0.9999504,
+          "speaker": "A"
+        },
+        {
+          "text": "hours",
+          "start": 96383,
+          "end": 96608,
+          "confidence": 0.9992204,
+          "speaker": "A"
+        },
+        {
+          "text": "a",
+          "start": 96608,
+          "end": 96640,
+          "confidence": 0.9991285,
+          "speaker": "A"
+        },
+        {
+          "text": "day.",
+          "start": 96640,
+          "end": 96864,
+          "confidence": 0.96178204,
+          "speaker": "A"
+        },
+        {
+          "text": "You",
+          "start": 97009,
+          "end": 97073,
+          "confidence": 0.9101928,
+          "speaker": "A"
+        },
+        {
+          "text": "will",
+          "start": 97105,
+          "end": 97201,
+          "confidence": 0.98961884,
+          "speaker": "A"
+        },
+        {
+          "text": "need",
+          "start": 97201,
+          "end": 97377,
+          "confidence": 0.99827695,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 97377,
+          "end": 97505,
+          "confidence": 0.99897397,
+          "speaker": "A"
+        },
+        {
+          "text": "eat",
+          "start": 97505,
+          "end": 97650,
+          "confidence": 0.999689,
+          "speaker": "A"
+        },
+        {
+          "text": "McDonald's",
+          "start": 97650,
+          "end": 98211,
+          "confidence": 0.99969935,
+          "speaker": "A"
+        },
+        {
+          "text": "every",
+          "start": 98211,
+          "end": 98387,
+          "confidence": 0.9989452,
+          "speaker": "A"
+        },
+        {
+          "text": "day",
+          "start": 98387,
+          "end": 98628,
+          "confidence": 0.99916685,
+          "speaker": "A"
+        },
+        {
+          "text": "just",
+          "start": 98628,
+          "end": 98788,
+          "confidence": 0.9864564,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 98788,
+          "end": 98852,
+          "confidence": 0.9986934,
+          "speaker": "A"
+        },
+        {
+          "text": "keep",
+          "start": 98852,
+          "end": 99012,
+          "confidence": 0.99769443,
+          "speaker": "A"
+        },
+        {
+          "text": "from",
+          "start": 99012,
+          "end": 99125,
+          "confidence": 0.99894696,
+          "speaker": "A"
+        },
+        {
+          "text": "getting",
+          "start": 99173,
+          "end": 99333,
+          "confidence": 0.9989759,
+          "speaker": "A"
+        },
+        {
+          "text": "too",
+          "start": 99349,
+          "end": 99509,
+          "confidence": 0.9992048,
+          "speaker": "A"
+        },
+        {
+          "text": "skinny.",
+          "start": 99509,
+          "end": 99878,
+          "confidence": 0.9752977,
+          "speaker": "A"
+        },
+        {
+          "text": "To",
+          "start": 100134,
+          "end": 100215,
+          "confidence": 0.8798862,
+          "speaker": "A"
+        },
+        {
+          "text": "watch",
+          "start": 100215,
+          "end": 100407,
+          "confidence": 0.99934703,
+          "speaker": "A"
+        },
+        {
+          "text": "a",
+          "start": 100407,
+          "end": 100471,
+          "confidence": 0.39833635,
+          "speaker": "A"
+        },
+        {
+          "text": "full",
+          "start": 100471,
+          "end": 100663,
+          "confidence": 0.9994221,
+          "speaker": "A"
+        },
+        {
+          "text": "step-by-step",
+          "start": 100712,
+          "end": 101273,
+          "confidence": 0.99823123,
+          "speaker": "A"
+        },
+        {
+          "text": "video,",
+          "start": 101337,
+          "end": 101673,
+          "confidence": 0.9982207,
+          "speaker": "A"
+        },
+        {
+          "text": "click",
+          "start": 101737,
+          "end": 101994,
+          "confidence": 0.9940806,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 102074,
+          "end": 102218,
+          "confidence": 0.9958448,
+          "speaker": "A"
+        },
+        {
+          "text": "link",
+          "start": 102218,
+          "end": 102459,
+          "confidence": 0.9998331,
+          "speaker": "A"
+        },
+        {
+          "text": "below.",
+          "start": 102459,
+          "end": 102779,
+          "confidence": 0.99702126,
+          "speaker": "A"
+        },
+        {
+          "text": "This",
+          "start": 103116,
+          "end": 103260,
+          "confidence": 0.95285994,
+          "speaker": "A"
+        },
+        {
+          "text": "recipe",
+          "start": 103260,
+          "end": 103597,
+          "confidence": 0.9994679,
+          "speaker": "A"
+        },
+        {
+          "text": "video",
+          "start": 103597,
+          "end": 103902,
+          "confidence": 0.99961555,
+          "speaker": "A"
+        },
+        {
+          "text": "has",
+          "start": 103902,
+          "end": 104014,
+          "confidence": 0.99878377,
+          "speaker": "A"
+        },
+        {
+          "text": "already",
+          "start": 104062,
+          "end": 104206,
+          "confidence": 0.9993554,
+          "speaker": "A"
+        },
+        {
+          "text": "been",
+          "start": 104238,
+          "end": 104302,
+          "confidence": 0.9991911,
+          "speaker": "A"
+        },
+        {
+          "text": "banned",
+          "start": 104398,
+          "end": 104703,
+          "confidence": 0.9996855,
+          "speaker": "A"
+        },
+        {
+          "text": "7",
+          "start": 104703,
+          "end": 105008,
+          "confidence": 0.99897027,
+          "speaker": "A"
+        },
+        {
+          "text": "times",
+          "start": 105040,
+          "end": 105296,
+          "confidence": 0.99972636,
+          "speaker": "A"
+        },
+        {
+          "text": "from",
+          "start": 105296,
+          "end": 105456,
+          "confidence": 0.9979074,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 105456,
+          "end": 105537,
+          "confidence": 0.99954647,
+          "speaker": "A"
+        },
+        {
+          "text": "internet,",
+          "start": 105537,
+          "end": 105889,
+          "confidence": 0.98911774,
+          "speaker": "A"
+        },
+        {
+          "text": "and",
+          "start": 106001,
+          "end": 106066,
+          "confidence": 0.9939511,
+          "speaker": "A"
+        },
+        {
+          "text": "I",
+          "start": 106146,
+          "end": 106162,
+          "confidence": 0.99738294,
+          "speaker": "A"
+        },
+        {
+          "text": "suspect",
+          "start": 106162,
+          "end": 106579,
+          "confidence": 0.9998715,
+          "speaker": "A"
+        },
+        {
+          "text": "it",
+          "start": 106579,
+          "end": 106659,
+          "confidence": 0.9947319,
+          "speaker": "A"
+        },
+        {
+          "text": "is",
+          "start": 106659,
+          "end": 106723,
+          "confidence": 0.99417335,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 106723,
+          "end": 106803,
+          "confidence": 0.99651575,
+          "speaker": "A"
+        },
+        {
+          "text": "manufacturers",
+          "start": 106803,
+          "end": 107412,
+          "confidence": 0.9989881,
+          "speaker": "A"
+        },
+        {
+          "text": "of",
+          "start": 107444,
+          "end": 107524,
+          "confidence": 0.9951271,
+          "speaker": "A"
+        },
+        {
+          "text": "Mounjaro.",
+          "start": 107524,
+          "end": 108069,
+          "confidence": 0.9754439,
+          "speaker": "A"
+        },
+        {
+          "text": "If",
+          "start": 108262,
+          "end": 108342,
+          "confidence": 0.9780462,
+          "speaker": "A"
+        },
+        {
+          "text": "it",
+          "start": 108342,
+          "end": 108406,
+          "confidence": 0.9989022,
+          "speaker": "A"
+        },
+        {
+          "text": "is",
+          "start": 108406,
+          "end": 108438,
+          "confidence": 0.9921876,
+          "speaker": "A"
+        },
+        {
+          "text": "still",
+          "start": 108438,
+          "end": 108662,
+          "confidence": 0.9993374,
+          "speaker": "A"
+        },
+        {
+          "text": "available",
+          "start": 108662,
+          "end": 109111,
+          "confidence": 0.99991727,
+          "speaker": "A"
+        },
+        {
+          "text": "when",
+          "start": 109111,
+          "end": 109191,
+          "confidence": 0.9994506,
+          "speaker": "A"
+        },
+        {
+          "text": "you",
+          "start": 109191,
+          "end": 109288,
+          "confidence": 0.9999347,
+          "speaker": "A"
+        },
+        {
+          "text": "click,",
+          "start": 109288,
+          "end": 109544,
+          "confidence": 0.9993519,
+          "speaker": "A"
+        },
+        {
+          "text": "be",
+          "start": 109769,
+          "end": 109913,
+          "confidence": 0.99484926,
+          "speaker": "A"
+        },
+        {
+          "text": "grateful",
+          "start": 109913,
+          "end": 110394,
+          "confidence": 0.9998795,
+          "speaker": "A"
+        },
+        {
+          "text": "and",
+          "start": 110490,
+          "end": 110554,
+          "confidence": 0.97986275,
+          "speaker": "A"
+        },
+        {
+          "text": "watch.",
+          "start": 110634,
+          "end": 110859,
+          "confidence": 0.99280393,
+          "speaker": "A"
+        },
+        {
+          "text": "It",
+          "start": 111131,
+          "end": 111211,
+          "confidence": 0.9013706,
+          "speaker": "A"
+        },
+        {
+          "text": "might",
+          "start": 111211,
+          "end": 111372,
+          "confidence": 0.9977329,
+          "speaker": "A"
+        },
+        {
+          "text": "be",
+          "start": 111372,
+          "end": 111436,
+          "confidence": 0.99861085,
+          "speaker": "A"
+        },
+        {
+          "text": "your",
+          "start": 111436,
+          "end": 111548,
+          "confidence": 0.99840564,
+          "speaker": "A"
+        },
+        {
+          "text": "last",
+          "start": 111548,
+          "end": 111852,
+          "confidence": 0.99892706,
+          "speaker": "A"
+        },
+        {
+          "text": "chance",
+          "start": 111852,
+          "end": 112045,
+          "confidence": 0.9992306,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 112093,
+          "end": 112157,
+          "confidence": 0.99745184,
+          "speaker": "A"
+        },
+        {
+          "text": "see",
+          "start": 112157,
+          "end": 112333,
+          "confidence": 0.99976367,
+          "speaker": "A"
+        },
+        {
+          "text": "it",
+          "start": 112333,
+          "end": 112365,
+          "confidence": 0.99925524,
+          "speaker": "A"
+        },
+        {
+          "text": "for",
+          "start": 112365,
+          "end": 112510,
+          "confidence": 0.9987437,
+          "speaker": "A"
+        },
+        {
+          "text": "free.",
+          "start": 112558,
+          "end": 112814,
+          "confidence": 0.99350363,
+          "speaker": "A"
+        },
+        {
+          "text": "In",
+          "start": 112975,
+          "end": 113023,
+          "confidence": 0.85667914,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 113055,
+          "end": 113151,
+          "confidence": 0.9983369,
+          "speaker": "A"
+        },
+        {
+          "text": "video,",
+          "start": 113151,
+          "end": 113600,
+          "confidence": 0.99933404,
+          "speaker": "A"
+        },
+        {
+          "text": "you",
+          "start": 113616,
+          "end": 113744,
+          "confidence": 0.99458367,
+          "speaker": "A"
+        },
+        {
+          "text": "will",
+          "start": 113760,
+          "end": 113824,
+          "confidence": 0.99597317,
+          "speaker": "A"
+        },
+        {
+          "text": "discover",
+          "start": 113840,
+          "end": 114257,
+          "confidence": 0.998968,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 114257,
+          "end": 114337,
+          "confidence": 0.9886646,
+          "speaker": "A"
+        },
+        {
+          "text": "correct",
+          "start": 114337,
+          "end": 114722,
+          "confidence": 0.9989477,
+          "speaker": "A"
+        },
+        {
+          "text": "order",
+          "start": 114722,
+          "end": 114898,
+          "confidence": 0.99819225,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 114898,
+          "end": 114994,
+          "confidence": 0.9950081,
+          "speaker": "A"
+        },
+        {
+          "text": "prepare",
+          "start": 114994,
+          "end": 115379,
+          "confidence": 0.9993747,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 115379,
+          "end": 115459,
+          "confidence": 0.9982376,
+          "speaker": "A"
+        },
+        {
+          "text": "recipe",
+          "start": 115459,
+          "end": 115876,
+          "confidence": 0.9994586,
+          "speaker": "A"
+        },
+        {
+          "text": "at",
+          "start": 115876,
+          "end": 115956,
+          "confidence": 0.9995826,
+          "speaker": "A"
+        },
+        {
+          "text": "home",
+          "start": 115956,
+          "end": 116277,
+          "confidence": 0.9999026,
+          "speaker": "A"
+        },
+        {
+          "text": "and",
+          "start": 116405,
+          "end": 116485,
+          "confidence": 0.8973952,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 116485,
+          "end": 116517,
+          "confidence": 0.99795204,
+          "speaker": "A"
+        },
+        {
+          "text": "specific",
+          "start": 116517,
+          "end": 116982,
+          "confidence": 0.99818087,
+          "speaker": "A"
+        },
+        {
+          "text": "timing",
+          "start": 116982,
+          "end": 117303,
+          "confidence": 0.99912363,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 117319,
+          "end": 117447,
+          "confidence": 0.9955584,
+          "speaker": "A"
+        },
+        {
+          "text": "see",
+          "start": 117447,
+          "end": 117607,
+          "confidence": 0.9993647,
+          "speaker": "A"
+        },
+        {
+          "text": "your",
+          "start": 117607,
+          "end": 117768,
+          "confidence": 0.99854004,
+          "speaker": "A"
+        },
+        {
+          "text": "XL",
+          "start": 117768,
+          "end": 118008,
+          "confidence": 0.99627435,
+          "speaker": "A"
+        },
+        {
+          "text": "pants",
+          "start": 118088,
+          "end": 118329,
+          "confidence": 0.9998486,
+          "speaker": "A"
+        },
+        {
+          "text": "slipping",
+          "start": 118329,
+          "end": 118633,
+          "confidence": 0.99860233,
+          "speaker": "A"
+        },
+        {
+          "text": "off",
+          "start": 118729,
+          "end": 118890,
+          "confidence": 0.9996257,
+          "speaker": "A"
+        },
+        {
+          "text": "before",
+          "start": 118906,
+          "end": 119146,
+          "confidence": 0.9954091,
+          "speaker": "A"
+        },
+        {
+          "text": "September",
+          "start": 119146,
+          "end": 119627,
+          "confidence": 0.99309266,
+          "speaker": "A"
+        },
+        {
+          "text": "2026",
+          "start": 119627,
+          "end": 120364,
+          "confidence": 0.9997944,
+          "speaker": "A"
+        },
+        {
+          "text": "is",
+          "start": 120364,
+          "end": 120509,
+          "confidence": 0.9918235,
+          "speaker": "A"
+        },
+        {
+          "text": "over.",
+          "start": 120509,
+          "end": 120749,
+          "confidence": 0.99723524,
+          "speaker": "A"
+        },
+        {
+          "text": "Click",
+          "start": 120909,
+          "end": 121070,
+          "confidence": 0.788351,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 121086,
+          "end": 121166,
+          "confidence": 0.9991774,
+          "speaker": "A"
+        },
+        {
+          "text": "button",
+          "start": 121166,
+          "end": 121390,
+          "confidence": 0.999286,
+          "speaker": "A"
+        },
+        {
+          "text": "below,",
+          "start": 121390,
+          "end": 121791,
+          "confidence": 0.9322572,
+          "speaker": "A"
+        },
+        {
+          "text": "watch",
+          "start": 122016,
+          "end": 122160,
+          "confidence": 0.9910788,
+          "speaker": "A"
+        },
+        {
+          "text": "now,",
+          "start": 122272,
+          "end": 122384,
+          "confidence": 0.9968996,
+          "speaker": "A"
+        },
+        {
+          "text": "and",
+          "start": 122673,
+          "end": 122737,
+          "confidence": 0.9977331,
+          "speaker": "A"
+        },
+        {
+          "text": "prepare",
+          "start": 122753,
+          "end": 123025,
+          "confidence": 0.9979025,
+          "speaker": "A"
+        },
+        {
+          "text": "your",
+          "start": 123058,
+          "end": 123170,
+          "confidence": 0.99636453,
+          "speaker": "A"
+        },
+        {
+          "text": "first",
+          "start": 123170,
+          "end": 123394,
+          "confidence": 0.99745876,
+          "speaker": "A"
+        },
+        {
+          "text": "shot",
+          "start": 123394,
+          "end": 123699,
+          "confidence": 0.99972504,
+          "speaker": "A"
+        },
+        {
+          "text": "today.",
+          "start": 123699,
+          "end": 123987,
+          "confidence": 0.9852215,
+          "speaker": "A"
+        },
+        {
+          "text": "If",
+          "start": 124196,
+          "end": 124260,
+          "confidence": 0.73799837,
+          "speaker": "A"
+        },
+        {
+          "text": "you",
+          "start": 124260,
+          "end": 124324,
+          "confidence": 0.9982664,
+          "speaker": "A"
+        },
+        {
+          "text": "have",
+          "start": 124324,
+          "end": 124404,
+          "confidence": 0.57275474,
+          "speaker": "A"
+        },
+        {
+          "text": "tried",
+          "start": 124420,
+          "end": 124661,
+          "confidence": 0.99779224,
+          "speaker": "A"
+        },
+        {
+          "text": "everything",
+          "start": 124661,
+          "end": 124965,
+          "confidence": 0.99874437,
+          "speaker": "A"
+        },
+        {
+          "text": "and",
+          "start": 124981,
+          "end": 125061,
+          "confidence": 0.9939843,
+          "speaker": "A"
+        },
+        {
+          "text": "never",
+          "start": 125061,
+          "end": 125238,
+          "confidence": 0.9961132,
+          "speaker": "A"
+        },
+        {
+          "text": "managed",
+          "start": 125238,
+          "end": 125542,
+          "confidence": 0.997389,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 125542,
+          "end": 125638,
+          "confidence": 0.9986945,
+          "speaker": "A"
+        },
+        {
+          "text": "lose",
+          "start": 125638,
+          "end": 125767,
+          "confidence": 0.9994361,
+          "speaker": "A"
+        },
+        {
+          "text": "weight,",
+          "start": 125879,
+          "end": 126119,
+          "confidence": 0.9962497,
+          "speaker": "A"
+        },
+        {
+          "text": "this",
+          "start": 126199,
+          "end": 126360,
+          "confidence": 0.9722591,
+          "speaker": "A"
+        },
+        {
+          "text": "is",
+          "start": 126360,
+          "end": 126440,
+          "confidence": 0.9991984,
+          "speaker": "A"
+        },
+        {
+          "text": "your",
+          "start": 126440,
+          "end": 126552,
+          "confidence": 0.9992719,
+          "speaker": "A"
+        },
+        {
+          "text": "chance.",
+          "start": 126584,
+          "end": 126889,
+          "confidence": 0.9841614,
+          "speaker": "A"
+        },
+        {
+          "text": "Click",
+          "start": 127081,
+          "end": 127370,
+          "confidence": 0.9862705,
+          "speaker": "A"
+        },
+        {
+          "text": "Learn",
+          "start": 127362,
+          "end": 127435,
+          "confidence": 0.7558224,
+          "speaker": "A"
+        },
+        {
+          "text": "more",
+          "start": 127484,
+          "end": 127597,
+          "confidence": 0.99965715,
+          "speaker": "A"
+        },
+        {
+          "text": "and",
+          "start": 127711,
+          "end": 127792,
+          "confidence": 0.96121645,
+          "speaker": "A"
+        },
+        {
+          "text": "be",
+          "start": 127792,
+          "end": 127889,
+          "confidence": 0.9991652,
+          "speaker": "A"
+        },
+        {
+          "text": "ready",
+          "start": 127889,
+          "end": 128132,
+          "confidence": 0.99997807,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 128132,
+          "end": 128229,
+          "confidence": 0.9989957,
+          "speaker": "A"
+        },
+        {
+          "text": "lose",
+          "start": 128229,
+          "end": 128537,
+          "confidence": 0.99965453,
+          "speaker": "A"
+        },
+        {
+          "text": "at",
+          "start": 128537,
+          "end": 128585,
+          "confidence": 0.9975763,
+          "speaker": "A"
+        },
+        {
+          "text": "least",
+          "start": 128617,
+          "end": 128844,
+          "confidence": 0.9999386,
+          "speaker": "A"
+        },
+        {
+          "text": "3",
+          "start": 128844,
+          "end": 129022,
+          "confidence": 0.999931,
+          "speaker": "A"
+        },
+        {
+          "text": "pounds",
+          "start": 129022,
+          "end": 129314,
+          "confidence": 0.9949056,
+          "speaker": "A"
+        },
+        {
+          "text": "tomorrow",
+          "start": 129411,
+          "end": 129735,
+          "confidence": 0.9942585,
+          "speaker": "A"
+        },
+        {
+          "text": "morning.",
+          "start": 129735,
+          "end": 129962,
+          "confidence": 0.9592802,
+          "speaker": "A"
+        }
+      ]
+    }
+  ],
+  "confidence": 0.97850674,
+  "audio_duration": 133,
+  "punctuate": true,
+  "format_text": true,
+  "dual_channel": false,
+  "webhook_url": null,
+  "webhook_status_code": null,
+  "webhook_auth": false,
+  "webhook_auth_header_name": null,
+  "speed_boost": false,
+  "auto_highlights_result": null,
+  "auto_highlights": false,
+  "audio_start_from": null,
+  "audio_end_at": null,
+  "word_boost": [],
+  "boost_param": null,
+  "prompt": null,
+  "keyterms_prompt": [],
+  "filter_profanity": false,
+  "redact_pii": false,
+  "redact_pii_audio": false,
+  "redact_pii_audio_quality": null,
+  "redact_pii_audio_options": null,
+  "redact_pii_policies": null,
+  "redact_pii_sub": null,
+  "redact_static_entities": null,
+  "speaker_labels": true,
+  "speaker_options": {
+    "min_speakers_expected": null,
+    "max_speakers_expected": null,
+    "advanced_speaker_segmentation": true
+  },
+  "content_safety": false,
+  "iab_categories": false,
+  "content_safety_labels": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "iab_categories_result": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "language_detection": false,
+  "language_detection_options": null,
+  "language_detection_results": null,
+  "language_confidence_threshold": null,
+  "language_confidence": null,
+  "custom_spelling": null,
+  "throttled": false,
+  "auto_chapters": false,
+  "summarization": false,
+  "summary_type": null,
+  "summary_model": null,
+  "custom_topics": false,
+  "topics": [],
+  "speech_threshold": null,
+  "speech_model": null,
+  "speech_models": [
+    "universal-3-5-pro",
+    "universal-2"
+  ],
+  "speech_model_used": "universal-3-5-pro",
+  "temperature": null,
+  "remove_audio_tags": "all",
+  "chapters": null,
+  "disfluencies": false,
+  "entity_detection": false,
+  "sentiment_analysis": false,
+  "sentiment_analysis_results": null,
+  "entities": null,
+  "speakers_expected": null,
+  "summary": null,
+  "custom_topics_results": null,
+  "is_deleted": null,
+  "multichannel": null,
+  "project_id": 1431881,
+  "token_id": 1443892
+}

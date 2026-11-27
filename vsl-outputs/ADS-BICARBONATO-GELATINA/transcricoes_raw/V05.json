@@ -1,0 +1,6221 @@
+{
+  "id": "f26874e7-9bd9-4a0a-be7e-dbfcc55a42b4",
+  "language_model": "assemblyai_default",
+  "acoustic_model": "assemblyai_default",
+  "language_code": "en_us",
+  "speech_understanding": null,
+  "translated_texts": null,
+  "status": "completed",
+  "audio_url": "https://drive.usercontent.google.com/download?id=1ynvRerSfbP_N4eclCTdvNceTYiiu9WvW&export=download&confirm=t",
+  "text": "Mi esposo me llamó ilusa cuando le conté sobre la receta viral de la gelatina, pero se puso celoso cuando me vio en la playa usando el mismo bikini que usaba a los 23 años. Primero, vas a tomar unos 200 mililitros de agua fría, agregas la gelatina y la pones en un tazón, ¿ok? Ahora, añade el jugo de medio limón. Ingredientes que todos tenemos en casa, ¿verdad? Pero presta mucha atención, porque esta es la clave. Comer gelatina con limón y otros 2 ingredientes simples no me funcionó al principio. Solo fue cuando pasé de 89 a 65 kilos que entendí el secreto. Solo necesitaba un pequeño ajuste en mi rutina y boom. Los resultados fueron tan rápidos que, en el cumpleaños de mi sobrino, mi cuñada me preguntó en voz baja si me había hecho la lipo o alguna cirugía secreta. Este es el método casero que salvó mi cuerpo. Desde mediados de año, este extraño truco de la gelatina se ha vuelto viral en redes sociales porque está ayudando a miles de mujeres a derretir grasa de forma acelerada. Guardé este secreto por un tiempo porque quería estar segura, pero cuando vi que tanto yo como mi esposo bajamos tallas en pocas semanas y nuestros exámenes médicos salieron perfectos, supe que tenía que compartirlo. De hecho, fue él quien me convenció. Lo vio en las noticias y me pidió que lo probáramos. Honestamente, yo no creía que fuera a funcionar, pero no tenía nada que perder. Y hoy estoy feliz de haberlo hecho. Por fin podemos volver a disfrutar de nuestras comidas caseras, como unas ricas tortillas o un buen plato de arroz, sin sentir culpa ni miedo a la báscula. Este truco de la gelatina ha salido en varios reportajes de salud, pero quizás te lo perdiste. Por suerte, guardé el video exacto que me enseñó cómo hacerlo en casa. Para ver la receta paso a paso, solo toca el botón de abajo que dice más información. Pero te advierto, la industria farmacéutica odia esto. Es una receta que genera los mismos resultados que esos tratamientos de clínicas de lujo, pero sin gastar miles de pesos y sin dolor. Es natural, seguro y ataca la raíz de la grasa acumulada. Si este video apareció para ti, tómalo como una señal. Toca el botón abajo, mira el video corto y copia la receta antes de que la borren. Ah, y el video también revela 3 alimentos supuestamente saludables que en realidad te están engordando, incluido uno que comes en el desayuno. Yo quedé en shock. Haz clic en más información y míralo ahora.",
+  "words": [
+    {
+      "text": "Mi",
+      "start": 256,
+      "end": 288,
+      "confidence": 0.8147063,
+      "speaker": "A"
+    },
+    {
+      "text": "esposo",
+      "start": 288,
+      "end": 658,
+      "confidence": 0.99987626,
+      "speaker": "A"
+    },
+    {
+      "text": "me",
+      "start": 658,
+      "end": 738,
+      "confidence": 0.9998622,
+      "speaker": "A"
+    },
+    {
+      "text": "llamó",
+      "start": 738,
+      "end": 930,
+      "confidence": 0.9999703,
+      "speaker": "A"
+    },
+    {
+      "text": "ilusa",
+      "start": 930,
+      "end": 1219,
+      "confidence": 0.9994242,
+      "speaker": "A"
+    },
+    {
+      "text": "cuando",
+      "start": 1219,
+      "end": 1460,
+      "confidence": 0.99995303,
+      "speaker": "A"
+    },
+    {
+      "text": "le",
+      "start": 1460,
+      "end": 1540,
+      "confidence": 0.999833,
+      "speaker": "A"
+    },
+    {
+      "text": "conté",
+      "start": 1540,
+      "end": 1781,
+      "confidence": 0.9999821,
+      "speaker": "A"
+    },
+    {
+      "text": "sobre",
+      "start": 1781,
+      "end": 2022,
+      "confidence": 0.9999471,
+      "speaker": "A"
+    },
+    {
+      "text": "la",
+      "start": 2022,
+      "end": 2134,
+      "confidence": 0.9999354,
+      "speaker": "A"
+    },
+    {
+      "text": "receta",
+      "start": 2134,
+      "end": 2455,
+      "confidence": 0.9999832,
+      "speaker": "A"
+    },
+    {
+      "text": "viral",
+      "start": 2455,
+      "end": 2696,
+      "confidence": 0.9999459,
+      "speaker": "A"
+    },
+    {
+      "text": "de",
+      "start": 2744,
+      "end": 2776,
+      "confidence": 0.9999651,
+      "speaker": "A"
+    },
+    {
+      "text": "la",
+      "start": 2776,
+      "end": 2905,
+      "confidence": 0.9999082,
+      "speaker": "A"
+    },
+    {
+      "text": "gelatina,",
+      "start": 2905,
+      "end": 3274,
+      "confidence": 0.98911,
+      "speaker": "A"
+    },
+    {
+      "text": "pero",
+      "start": 3467,
+      "end": 3579,
+      "confidence": 0.9978624,
+      "speaker": "A"
+    },
+    {
+      "text": "se",
+      "start": 3627,
+      "end": 3788,
+      "confidence": 0.9990079,
+      "speaker": "A"
+    },
+    {
+      "text": "puso",
+      "start": 3788,
+      "end": 4028,
+      "confidence": 0.99996936,
+      "speaker": "A"
+    },
+    {
+      "text": "celoso",
+      "start": 4028,
+      "end": 4349,
+      "confidence": 0.99997115,
+      "speaker": "A"
+    },
+    {
+      "text": "cuando",
+      "start": 4349,
+      "end": 4590,
+      "confidence": 0.9999509,
+      "speaker": "A"
+    },
+    {
+      "text": "me",
+      "start": 4590,
+      "end": 4670,
+      "confidence": 0.9999287,
+      "speaker": "A"
+    },
+    {
+      "text": "vio",
+      "start": 4670,
+      "end": 4815,
+      "confidence": 0.99988675,
+      "speaker": "A"
+    },
+    {
+      "text": "en",
+      "start": 4815,
+      "end": 4847,
+      "confidence": 0.99994886,
+      "speaker": "A"
+    },
+    {
+      "text": "la",
+      "start": 4847,
+      "end": 4959,
+      "confidence": 0.9999747,
+      "speaker": "A"
+    },
+    {
+      "text": "playa",
+      "start": 4991,
+      "end": 5264,
+      "confidence": 0.99999404,
+      "speaker": "A"
+    },
+    {
+      "text": "usando",
+      "start": 5264,
+      "end": 5585,
+      "confidence": 0.99983704,
+      "speaker": "A"
+    },
+    {
+      "text": "el",
+      "start": 5585,
+      "end": 5650,
+      "confidence": 0.99989283,
+      "speaker": "A"
+    },
+    {
+      "text": "mismo",
+      "start": 5650,
+      "end": 5906,
+      "confidence": 0.9999765,
+      "speaker": "A"
+    },
+    {
+      "text": "bikini",
+      "start": 5906,
+      "end": 6276,
+      "confidence": 0.9998242,
+      "speaker": "A"
+    },
+    {
+      "text": "que",
+      "start": 6276,
+      "end": 6388,
+      "confidence": 0.999871,
+      "speaker": "A"
+    },
+    {
+      "text": "usaba",
+      "start": 6388,
+      "end": 6645,
+      "confidence": 0.9997881,
+      "speaker": "A"
+    },
+    {
+      "text": "a",
+      "start": 6693,
+      "end": 6709,
+      "confidence": 0.9998568,
+      "speaker": "A"
+    },
+    {
+      "text": "los",
+      "start": 6709,
+      "end": 6837,
+      "confidence": 0.9999665,
+      "speaker": "A"
+    },
+    {
+      "text": "23",
+      "start": 6837,
+      "end": 7335,
+      "confidence": 0.9999113,
+      "speaker": "A"
+    },
+    {
+      "text": "años.",
+      "start": 7335,
+      "end": 7608,
+      "confidence": 0.9984383,
+      "speaker": "A"
+    },
+    {
+      "text": "Primero,",
+      "start": 8121,
+      "end": 8523,
+      "confidence": 0.9360313,
+      "speaker": "A"
+    },
+    {
+      "text": "vas",
+      "start": 8683,
+      "end": 8860,
+      "confidence": 0.9996681,
+      "speaker": "A"
+    },
+    {
+      "text": "a",
+      "start": 8860,
+      "end": 8924,
+      "confidence": 0.9999939,
+      "speaker": "A"
+    },
+    {
+      "text": "tomar",
+      "start": 8924,
+      "end": 9165,
+      "confidence": 0.99994934,
+      "speaker": "A"
+    },
+    {
+      "text": "unos",
+      "start": 9165,
+      "end": 9325,
+      "confidence": 0.9997812,
+      "speaker": "A"
+    },
+    {
+      "text": "200",
+      "start": 9325,
+      "end": 9807,
+      "confidence": 0.99953794,
+      "speaker": "A"
+    },
+    {
+      "text": "mililitros",
+      "start": 9807,
+      "end": 10288,
+      "confidence": 0.9041647,
+      "speaker": "A"
+    },
+    {
+      "text": "de",
+      "start": 10288,
+      "end": 10385,
+      "confidence": 0.9999654,
+      "speaker": "A"
+    },
+    {
+      "text": "agua",
+      "start": 10385,
+      "end": 10529,
+      "confidence": 0.9999956,
+      "speaker": "A"
+    },
+    {
+      "text": "fría,",
+      "start": 10529,
+      "end": 10818,
+      "confidence": 0.9889197,
+      "speaker": "A"
+    },
+    {
+      "text": "agregas",
+      "start": 11107,
+      "end": 11492,
+      "confidence": 0.99977696,
+      "speaker": "A"
+    },
+    {
+      "text": "la",
+      "start": 11492,
+      "end": 11572,
+      "confidence": 0.9999186,
+      "speaker": "A"
+    },
+    {
+      "text": "gelatina",
+      "start": 11572,
+      "end": 11990,
+      "confidence": 0.99998957,
+      "speaker": "A"
+    },
+    {
+      "text": "y",
+      "start": 11990,
+      "end": 12054,
+      "confidence": 0.999777,
+      "speaker": "A"
+    },
+    {
+      "text": "la",
+      "start": 12054,
+      "end": 12134,
+      "confidence": 0.99985623,
+      "speaker": "A"
+    },
+    {
+      "text": "pones",
+      "start": 12134,
+      "end": 12359,
+      "confidence": 0.99999136,
+      "speaker": "A"
+    },
+    {
+      "text": "en",
+      "start": 12391,
+      "end": 12471,
+      "confidence": 0.9999919,
+      "speaker": "A"
+    },
+    {
+      "text": "un",
+      "start": 12471,
+      "end": 12520,
+      "confidence": 0.9997787,
+      "speaker": "A"
+    },
+    {
+      "text": "tazón,",
+      "start": 12616,
+      "end": 12905,
+      "confidence": 0.99438995,
+      "speaker": "A"
+    },
+    {
+      "text": "¿ok?",
+      "start": 13113,
+      "end": 13386,
+      "confidence": 0.9558819,
+      "speaker": "A"
+    },
+    {
+      "text": "Ahora,",
+      "start": 13836,
+      "end": 14028,
+      "confidence": 0.98945814,
+      "speaker": "A"
+    },
+    {
+      "text": "añade",
+      "start": 14157,
+      "end": 14398,
+      "confidence": 0.9999633,
+      "speaker": "A"
+    },
+    {
+      "text": "el",
+      "start": 14398,
+      "end": 14446,
+      "confidence": 0.99974996,
+      "speaker": "A"
+    },
+    {
+      "text": "jugo",
+      "start": 14542,
+      "end": 14702,
+      "confidence": 0.9999584,
+      "speaker": "A"
+    },
+    {
+      "text": "de",
+      "start": 14702,
+      "end": 14783,
+      "confidence": 0.99994636,
+      "speaker": "A"
+    },
+    {
+      "text": "medio",
+      "start": 14783,
+      "end": 15024,
+      "confidence": 0.9995442,
+      "speaker": "A"
+    },
+    {
+      "text": "limón.",
+      "start": 15024,
+      "end": 15232,
+      "confidence": 0.99984056,
+      "speaker": "A"
+    },
+    {
+      "text": "Ingredientes",
+      "start": 15682,
+      "end": 16131,
+      "confidence": 0.9997914,
+      "speaker": "A"
+    },
+    {
+      "text": "que",
+      "start": 16147,
+      "end": 16227,
+      "confidence": 0.99994564,
+      "speaker": "A"
+    },
+    {
+      "text": "todos",
+      "start": 16259,
+      "end": 16500,
+      "confidence": 0.9999312,
+      "speaker": "A"
+    },
+    {
+      "text": "tenemos",
+      "start": 16500,
+      "end": 16805,
+      "confidence": 0.9999374,
+      "speaker": "A"
+    },
+    {
+      "text": "en",
+      "start": 16805,
+      "end": 16902,
+      "confidence": 0.9999856,
+      "speaker": "A"
+    },
+    {
+      "text": "casa,",
+      "start": 16950,
+      "end": 17158,
+      "confidence": 0.9999693,
+      "speaker": "A"
+    },
+    {
+      "text": "¿verdad?",
+      "start": 17431,
+      "end": 17720,
+      "confidence": 0.9999458,
+      "speaker": "A"
+    },
+    {
+      "text": "Pero",
+      "start": 17993,
+      "end": 18154,
+      "confidence": 0.99181587,
+      "speaker": "A"
+    },
+    {
+      "text": "presta",
+      "start": 18154,
+      "end": 18394,
+      "confidence": 0.99990064,
+      "speaker": "A"
+    },
+    {
+      "text": "mucha",
+      "start": 18394,
+      "end": 18619,
+      "confidence": 0.9999653,
+      "speaker": "A"
+    },
+    {
+      "text": "atención,",
+      "start": 18619,
+      "end": 19004,
+      "confidence": 0.9994679,
+      "speaker": "A"
+    },
+    {
+      "text": "porque",
+      "start": 19197,
+      "end": 19454,
+      "confidence": 0.99850684,
+      "speaker": "A"
+    },
+    {
+      "text": "esta",
+      "start": 19454,
+      "end": 19662,
+      "confidence": 0.9951056,
+      "speaker": "A"
+    },
+    {
+      "text": "es",
+      "start": 19662,
+      "end": 19759,
+      "confidence": 0.9999714,
+      "speaker": "A"
+    },
+    {
+      "text": "la",
+      "start": 19759,
+      "end": 19839,
+      "confidence": 0.99996006,
+      "speaker": "A"
+    },
+    {
+      "text": "clave.",
+      "start": 19839,
+      "end": 20048,
+      "confidence": 0.99069554,
+      "speaker": "A"
+    },
+    {
+      "text": "Comer",
+      "start": 20641,
+      "end": 20850,
+      "confidence": 0.9934164,
+      "speaker": "A"
+    },
+    {
+      "text": "gelatina",
+      "start": 20882,
+      "end": 21284,
+      "confidence": 0.99998313,
+      "speaker": "A"
+    },
+    {
+      "text": "con",
+      "start": 21284,
+      "end": 21364,
+      "confidence": 0.9999598,
+      "speaker": "A"
+    },
+    {
+      "text": "limón",
+      "start": 21364,
+      "end": 21701,
+      "confidence": 0.9999956,
+      "speaker": "A"
+    },
+    {
+      "text": "y",
+      "start": 21701,
+      "end": 21781,
+      "confidence": 0.9999715,
+      "speaker": "A"
+    },
+    {
+      "text": "otros",
+      "start": 21781,
+      "end": 22006,
+      "confidence": 0.9999696,
+      "speaker": "A"
+    },
+    {
+      "text": "2",
+      "start": 22006,
+      "end": 22102,
+      "confidence": 0.9999721,
+      "speaker": "A"
+    },
+    {
+      "text": "ingredientes",
+      "start": 22102,
+      "end": 22600,
+      "confidence": 0.99999297,
+      "speaker": "A"
+    },
+    {
+      "text": "simples",
+      "start": 22600,
+      "end": 22953,
+      "confidence": 0.9999819,
+      "speaker": "A"
+    },
+    {
+      "text": "no",
+      "start": 22985,
+      "end": 23081,
+      "confidence": 0.99984205,
+      "speaker": "A"
+    },
+    {
+      "text": "me",
+      "start": 23081,
+      "end": 23210,
+      "confidence": 0.99995947,
+      "speaker": "A"
+    },
+    {
+      "text": "funcionó",
+      "start": 23210,
+      "end": 23547,
+      "confidence": 0.99997896,
+      "speaker": "A"
+    },
+    {
+      "text": "al",
+      "start": 23547,
+      "end": 23595,
+      "confidence": 0.99996614,
+      "speaker": "A"
+    },
+    {
+      "text": "principio.",
+      "start": 23611,
+      "end": 24060,
+      "confidence": 0.98326397,
+      "speaker": "A"
+    },
+    {
+      "text": "Solo",
+      "start": 24414,
+      "end": 24654,
+      "confidence": 0.99778736,
+      "speaker": "A"
+    },
+    {
+      "text": "fue",
+      "start": 24654,
+      "end": 24815,
+      "confidence": 0.9997008,
+      "speaker": "A"
+    },
+    {
+      "text": "cuando",
+      "start": 24815,
+      "end": 25056,
+      "confidence": 0.99997616,
+      "speaker": "A"
+    },
+    {
+      "text": "pasé",
+      "start": 25056,
+      "end": 25248,
+      "confidence": 0.99997145,
+      "speaker": "A"
+    },
+    {
+      "text": "de",
+      "start": 25248,
+      "end": 25328,
+      "confidence": 0.99993944,
+      "speaker": "A"
+    },
+    {
+      "text": "89",
+      "start": 25328,
+      "end": 25954,
+      "confidence": 0.9999912,
+      "speaker": "A"
+    },
+    {
+      "text": "a",
+      "start": 25954,
+      "end": 26019,
+      "confidence": 0.9986959,
+      "speaker": "A"
+    },
+    {
+      "text": "65",
+      "start": 26019,
+      "end": 26741,
+      "confidence": 0.9997336,
+      "speaker": "A"
+    },
+    {
+      "text": "kilos",
+      "start": 26741,
+      "end": 27062,
+      "confidence": 0.9997774,
+      "speaker": "A"
+    },
+    {
+      "text": "que",
+      "start": 27062,
+      "end": 27174,
+      "confidence": 0.99972314,
+      "speaker": "A"
+    },
+    {
+      "text": "entendí",
+      "start": 27174,
+      "end": 27479,
+      "confidence": 0.99992394,
+      "speaker": "A"
+    },
+    {
+      "text": "el",
+      "start": 27479,
+      "end": 27544,
+      "confidence": 0.99987614,
+      "speaker": "A"
+    },
+    {
+      "text": "secreto.",
+      "start": 27544,
+      "end": 27913,
+      "confidence": 0.9989274,
+      "speaker": "A"
+    },
+    {
+      "text": "Solo",
+      "start": 28446,
+      "end": 28587,
+      "confidence": 0.98859906,
+      "speaker": "A"
+    },
+    {
+      "text": "necesitaba",
+      "start": 28587,
+      "end": 29085,
+      "confidence": 0.99998146,
+      "speaker": "A"
+    },
+    {
+      "text": "un",
+      "start": 29085,
+      "end": 29149,
+      "confidence": 0.9993316,
+      "speaker": "A"
+    },
+    {
+      "text": "pequeño",
+      "start": 29149,
+      "end": 29470,
+      "confidence": 0.999985,
+      "speaker": "A"
+    },
+    {
+      "text": "ajuste",
+      "start": 29486,
+      "end": 29807,
+      "confidence": 0.99990326,
+      "speaker": "A"
+    },
+    {
+      "text": "en",
+      "start": 29807,
+      "end": 29871,
+      "confidence": 0.9998975,
+      "speaker": "A"
+    },
+    {
+      "text": "mi",
+      "start": 29871,
+      "end": 29951,
+      "confidence": 0.99993086,
+      "speaker": "A"
+    },
+    {
+      "text": "rutina",
+      "start": 29951,
+      "end": 30305,
+      "confidence": 0.99999547,
+      "speaker": "A"
+    },
+    {
+      "text": "y",
+      "start": 30305,
+      "end": 30353,
+      "confidence": 0.9837833,
+      "speaker": "A"
+    },
+    {
+      "text": "boom.",
+      "start": 30353,
+      "end": 30513,
+      "confidence": 0.5652465,
+      "speaker": "A"
+    },
+    {
+      "text": "Los",
+      "start": 30995,
+      "end": 31155,
+      "confidence": 0.97710437,
+      "speaker": "A"
+    },
+    {
+      "text": "resultados",
+      "start": 31155,
+      "end": 31637,
+      "confidence": 0.999984,
+      "speaker": "A"
+    },
+    {
+      "text": "fueron",
+      "start": 31637,
+      "end": 31878,
+      "confidence": 0.9999387,
+      "speaker": "A"
+    },
+    {
+      "text": "tan",
+      "start": 31878,
+      "end": 32119,
+      "confidence": 0.9999596,
+      "speaker": "A"
+    },
+    {
+      "text": "rápidos",
+      "start": 32119,
+      "end": 32520,
+      "confidence": 0.99998534,
+      "speaker": "A"
+    },
+    {
+      "text": "que,",
+      "start": 32520,
+      "end": 32729,
+      "confidence": 0.9168603,
+      "speaker": "A"
+    },
+    {
+      "text": "en",
+      "start": 32937,
+      "end": 33034,
+      "confidence": 0.9996779,
+      "speaker": "A"
+    },
+    {
+      "text": "el",
+      "start": 33034,
+      "end": 33082,
+      "confidence": 0.9999349,
+      "speaker": "A"
+    },
+    {
+      "text": "cumpleaños",
+      "start": 33082,
+      "end": 33644,
+      "confidence": 0.9999901,
+      "speaker": "A"
+    },
+    {
+      "text": "de",
+      "start": 33644,
+      "end": 33676,
+      "confidence": 0.99996567,
+      "speaker": "A"
+    },
+    {
+      "text": "mi",
+      "start": 33676,
+      "end": 33804,
+      "confidence": 0.99991643,
+      "speaker": "A"
+    },
+    {
+      "text": "sobrino,",
+      "start": 33804,
+      "end": 34157,
+      "confidence": 0.9999318,
+      "speaker": "A"
+    },
+    {
+      "text": "mi",
+      "start": 34527,
+      "end": 34687,
+      "confidence": 0.9975775,
+      "speaker": "A"
+    },
+    {
+      "text": "cuñada",
+      "start": 34687,
+      "end": 34976,
+      "confidence": 0.99999416,
+      "speaker": "A"
+    },
+    {
+      "text": "me",
+      "start": 34992,
+      "end": 35088,
+      "confidence": 0.999894,
+      "speaker": "A"
+    },
+    {
+      "text": "preguntó",
+      "start": 35088,
+      "end": 35506,
+      "confidence": 0.99997014,
+      "speaker": "A"
+    },
+    {
+      "text": "en",
+      "start": 35506,
+      "end": 35650,
+      "confidence": 0.9999167,
+      "speaker": "A"
+    },
+    {
+      "text": "voz",
+      "start": 35650,
+      "end": 35763,
+      "confidence": 0.9999783,
+      "speaker": "A"
+    },
+    {
+      "text": "baja",
+      "start": 35811,
+      "end": 36052,
+      "confidence": 0.9999584,
+      "speaker": "A"
+    },
+    {
+      "text": "si",
+      "start": 36052,
+      "end": 36164,
+      "confidence": 0.99991083,
+      "speaker": "A"
+    },
+    {
+      "text": "me",
+      "start": 36164,
+      "end": 36244,
+      "confidence": 0.99982965,
+      "speaker": "A"
+    },
+    {
+      "text": "había",
+      "start": 36244,
+      "end": 36469,
+      "confidence": 0.9999466,
+      "speaker": "A"
+    },
+    {
+      "text": "hecho",
+      "start": 36469,
+      "end": 36710,
+      "confidence": 0.9999429,
+      "speaker": "A"
+    },
+    {
+      "text": "la",
+      "start": 36710,
+      "end": 36806,
+      "confidence": 0.99801445,
+      "speaker": "A"
+    },
+    {
+      "text": "lipo",
+      "start": 36806,
+      "end": 37031,
+      "confidence": 0.9998697,
+      "speaker": "A"
+    },
+    {
+      "text": "o",
+      "start": 37031,
+      "end": 37111,
+      "confidence": 0.99927133,
+      "speaker": "A"
+    },
+    {
+      "text": "alguna",
+      "start": 37111,
+      "end": 37416,
+      "confidence": 0.99958724,
+      "speaker": "A"
+    },
+    {
+      "text": "cirugía",
+      "start": 37416,
+      "end": 37850,
+      "confidence": 0.9998844,
+      "speaker": "A"
+    },
+    {
+      "text": "secreta.",
+      "start": 37850,
+      "end": 38187,
+      "confidence": 0.99765646,
+      "speaker": "A"
+    },
+    {
+      "text": "Este",
+      "start": 38716,
+      "end": 38829,
+      "confidence": 0.91750735,
+      "speaker": "A"
+    },
+    {
+      "text": "es",
+      "start": 38877,
+      "end": 38957,
+      "confidence": 0.9998374,
+      "speaker": "A"
+    },
+    {
+      "text": "el",
+      "start": 38957,
+      "end": 39102,
+      "confidence": 0.99983764,
+      "speaker": "A"
+    },
+    {
+      "text": "método",
+      "start": 39102,
+      "end": 39423,
+      "confidence": 0.9995461,
+      "speaker": "A"
+    },
+    {
+      "text": "casero",
+      "start": 39423,
+      "end": 39744,
+      "confidence": 0.9999871,
+      "speaker": "A"
+    },
+    {
+      "text": "que",
+      "start": 39744,
+      "end": 39824,
+      "confidence": 0.99969673,
+      "speaker": "A"
+    },
+    {
+      "text": "salvó",
+      "start": 39824,
+      "end": 40097,
+      "confidence": 0.9997282,
+      "speaker": "A"
+    },
+    {
+      "text": "mi",
+      "start": 40097,
+      "end": 40225,
+      "confidence": 0.99979657,
+      "speaker": "A"
+    },
+    {
+      "text": "cuerpo.",
+      "start": 40225,
+      "end": 40514,
+      "confidence": 0.9971091,
+      "speaker": "A"
+    },
+    {
+      "text": "Desde",
+      "start": 41028,
+      "end": 41269,
+      "confidence": 0.9942713,
+      "speaker": "A"
+    },
+    {
+      "text": "mediados",
+      "start": 41269,
+      "end": 41670,
+      "confidence": 0.9999852,
+      "speaker": "A"
+    },
+    {
+      "text": "de",
+      "start": 41670,
+      "end": 41847,
+      "confidence": 0.99715793,
+      "speaker": "A"
+    },
+    {
+      "text": "año,",
+      "start": 41847,
+      "end": 41959,
+      "confidence": 0.9993693,
+      "speaker": "A"
+    },
+    {
+      "text": "este",
+      "start": 42409,
+      "end": 42569,
+      "confidence": 0.9997249,
+      "speaker": "A"
+    },
+    {
+      "text": "extraño",
+      "start": 42569,
+      "end": 42954,
+      "confidence": 0.9999328,
+      "speaker": "A"
+    },
+    {
+      "text": "truco",
+      "start": 42954,
+      "end": 43276,
+      "confidence": 0.9999589,
+      "speaker": "A"
+    },
+    {
+      "text": "de",
+      "start": 43276,
+      "end": 43356,
+      "confidence": 0.99973065,
+      "speaker": "A"
+    },
+    {
+      "text": "la",
+      "start": 43356,
+      "end": 43404,
+      "confidence": 0.99964786,
+      "speaker": "A"
+    },
+    {
+      "text": "gelatina",
+      "start": 43436,
+      "end": 43918,
+      "confidence": 0.9999852,
+      "speaker": "A"
+    },
+    {
+      "text": "se",
+      "start": 43918,
+      "end": 44094,
+      "confidence": 0.99953294,
+      "speaker": "A"
+    },
+    {
+      "text": "ha",
+      "start": 44094,
+      "end": 44110,
+      "confidence": 0.99996746,
+      "speaker": "A"
+    },
+    {
+      "text": "vuelto",
+      "start": 44110,
+      "end": 44399,
+      "confidence": 0.9999875,
+      "speaker": "A"
+    },
+    {
+      "text": "viral",
+      "start": 44399,
+      "end": 44656,
+      "confidence": 0.9999554,
+      "speaker": "A"
+    },
+    {
+      "text": "en",
+      "start": 44656,
+      "end": 44752,
+      "confidence": 0.99995375,
+      "speaker": "A"
+    },
+    {
+      "text": "redes",
+      "start": 44881,
+      "end": 45041,
+      "confidence": 0.9992619,
+      "speaker": "A"
+    },
+    {
+      "text": "sociales",
+      "start": 45041,
+      "end": 45700,
+      "confidence": 0.9999933,
+      "speaker": "A"
+    },
+    {
+      "text": "porque",
+      "start": 45764,
+      "end": 45989,
+      "confidence": 0.58131415,
+      "speaker": "A"
+    },
+    {
+      "text": "está",
+      "start": 45989,
+      "end": 46181,
+      "confidence": 0.9998473,
+      "speaker": "A"
+    },
+    {
+      "text": "ayudando",
+      "start": 46181,
+      "end": 46518,
+      "confidence": 0.999985,
+      "speaker": "A"
+    },
+    {
+      "text": "a",
+      "start": 46518,
+      "end": 46599,
+      "confidence": 0.9999846,
+      "speaker": "A"
+    },
+    {
+      "text": "miles",
+      "start": 46599,
+      "end": 46839,
+      "confidence": 0.9999348,
+      "speaker": "A"
+    },
+    {
+      "text": "de",
+      "start": 46888,
+      "end": 46920,
+      "confidence": 0.99998796,
+      "speaker": "A"
+    },
+    {
+      "text": "mujeres",
+      "start": 46920,
+      "end": 47385,
+      "confidence": 0.9999695,
+      "speaker": "A"
+    },
+    {
+      "text": "a",
+      "start": 47385,
+      "end": 47449,
+      "confidence": 0.99993277,
+      "speaker": "A"
+    },
+    {
+      "text": "derretir",
+      "start": 47449,
+      "end": 47851,
+      "confidence": 0.9999903,
+      "speaker": "A"
+    },
+    {
+      "text": "grasa",
+      "start": 47851,
+      "end": 48172,
+      "confidence": 0.99977964,
+      "speaker": "A"
+    },
+    {
+      "text": "de",
+      "start": 48172,
+      "end": 48252,
+      "confidence": 0.9998011,
+      "speaker": "A"
+    },
+    {
+      "text": "forma",
+      "start": 48252,
+      "end": 48557,
+      "confidence": 0.9999254,
+      "speaker": "A"
+    },
+    {
+      "text": "acelerada.",
+      "start": 48557,
+      "end": 49023,
+      "confidence": 0.994374,
+      "speaker": "A"
+    },
+    {
+      "text": "Guardé",
+      "start": 49456,
+      "end": 49697,
+      "confidence": 0.766694,
+      "speaker": "A"
+    },
+    {
+      "text": "este",
+      "start": 49713,
+      "end": 49938,
+      "confidence": 0.99979514,
+      "speaker": "A"
+    },
+    {
+      "text": "secreto",
+      "start": 49938,
+      "end": 50259,
+      "confidence": 0.9999858,
+      "speaker": "A"
+    },
+    {
+      "text": "por",
+      "start": 50259,
+      "end": 50371,
+      "confidence": 0.9995074,
+      "speaker": "A"
+    },
+    {
+      "text": "un",
+      "start": 50371,
+      "end": 50451,
+      "confidence": 0.9999453,
+      "speaker": "A"
+    },
+    {
+      "text": "tiempo",
+      "start": 50499,
+      "end": 50740,
+      "confidence": 0.99996424,
+      "speaker": "A"
+    },
+    {
+      "text": "porque",
+      "start": 50740,
+      "end": 50981,
+      "confidence": 0.9998666,
+      "speaker": "A"
+    },
+    {
+      "text": "quería",
+      "start": 50981,
+      "end": 51238,
+      "confidence": 0.9999721,
+      "speaker": "A"
+    },
+    {
+      "text": "estar",
+      "start": 51238,
+      "end": 51463,
+      "confidence": 0.99997497,
+      "speaker": "A"
+    },
+    {
+      "text": "segura,",
+      "start": 51463,
+      "end": 51752,
+      "confidence": 0.9974772,
+      "speaker": "A"
+    },
+    {
+      "text": "pero",
+      "start": 52025,
+      "end": 52185,
+      "confidence": 0.9996743,
+      "speaker": "A"
+    },
+    {
+      "text": "cuando",
+      "start": 52185,
+      "end": 52426,
+      "confidence": 0.99991,
+      "speaker": "A"
+    },
+    {
+      "text": "vi",
+      "start": 52426,
+      "end": 52538,
+      "confidence": 0.99994445,
+      "speaker": "A"
+    },
+    {
+      "text": "que",
+      "start": 52538,
+      "end": 52667,
+      "confidence": 0.99988997,
+      "speaker": "A"
+    },
+    {
+      "text": "tanto",
+      "start": 52667,
+      "end": 52907,
+      "confidence": 0.99982786,
+      "speaker": "A"
+    },
+    {
+      "text": "yo",
+      "start": 52907,
+      "end": 52956,
+      "confidence": 0.9999409,
+      "speaker": "A"
+    },
+    {
+      "text": "como",
+      "start": 52988,
+      "end": 53180,
+      "confidence": 0.99997747,
+      "speaker": "A"
+    },
+    {
+      "text": "mi",
+      "start": 53180,
+      "end": 53245,
+      "confidence": 0.9999728,
+      "speaker": "A"
+    },
+    {
+      "text": "esposo",
+      "start": 53245,
+      "end": 53582,
+      "confidence": 0.9998993,
+      "speaker": "A"
+    },
+    {
+      "text": "bajamos",
+      "start": 53582,
+      "end": 53951,
+      "confidence": 0.9999708,
+      "speaker": "A"
+    },
+    {
+      "text": "tallas",
+      "start": 53951,
+      "end": 54144,
+      "confidence": 0.9999578,
+      "speaker": "A"
+    },
+    {
+      "text": "en",
+      "start": 54208,
+      "end": 54272,
+      "confidence": 0.99996066,
+      "speaker": "A"
+    },
+    {
+      "text": "pocas",
+      "start": 54272,
+      "end": 54513,
+      "confidence": 0.9999828,
+      "speaker": "A"
+    },
+    {
+      "text": "semanas",
+      "start": 54513,
+      "end": 54930,
+      "confidence": 0.9999821,
+      "speaker": "A"
+    },
+    {
+      "text": "y",
+      "start": 55171,
+      "end": 55187,
+      "confidence": 0.98596734,
+      "speaker": "A"
+    },
+    {
+      "text": "nuestros",
+      "start": 55187,
+      "end": 55428,
+      "confidence": 0.9996456,
+      "speaker": "A"
+    },
+    {
+      "text": "exámenes",
+      "start": 55492,
+      "end": 55877,
+      "confidence": 0.9999917,
+      "speaker": "A"
+    },
+    {
+      "text": "médicos",
+      "start": 55877,
+      "end": 56150,
+      "confidence": 0.9999698,
+      "speaker": "A"
+    },
+    {
+      "text": "salieron",
+      "start": 56150,
+      "end": 56519,
+      "confidence": 0.99990773,
+      "speaker": "A"
+    },
+    {
+      "text": "perfectos,",
+      "start": 56519,
+      "end": 56889,
+      "confidence": 0.99627316,
+      "speaker": "A"
+    },
+    {
+      "text": "supe",
+      "start": 56921,
+      "end": 57162,
+      "confidence": 0.9999316,
+      "speaker": "A"
+    },
+    {
+      "text": "que",
+      "start": 57162,
+      "end": 57242,
+      "confidence": 0.9999678,
+      "speaker": "A"
+    },
+    {
+      "text": "tenía",
+      "start": 57242,
+      "end": 57483,
+      "confidence": 0.99955314,
+      "speaker": "A"
+    },
+    {
+      "text": "que",
+      "start": 57483,
+      "end": 57563,
+      "confidence": 0.9998553,
+      "speaker": "A"
+    },
+    {
+      "text": "compartirlo.",
+      "start": 57563,
+      "end": 58093,
+      "confidence": 0.9994158,
+      "speaker": "A"
+    },
+    {
+      "text": "De",
+      "start": 58574,
+      "end": 58622,
+      "confidence": 0.97540957,
+      "speaker": "A"
+    },
+    {
+      "text": "hecho,",
+      "start": 58622,
+      "end": 59007,
+      "confidence": 0.99955857,
+      "speaker": "A"
+    },
+    {
+      "text": "fue",
+      "start": 59087,
+      "end": 59264,
+      "confidence": 0.98940736,
+      "speaker": "A"
+    },
+    {
+      "text": "él",
+      "start": 59264,
+      "end": 59360,
+      "confidence": 0.99971014,
+      "speaker": "A"
+    },
+    {
+      "text": "quien",
+      "start": 59408,
+      "end": 59504,
+      "confidence": 0.9996327,
+      "speaker": "A"
+    },
+    {
+      "text": "me",
+      "start": 59504,
+      "end": 59648,
+      "confidence": 0.9998385,
+      "speaker": "A"
+    },
+    {
+      "text": "convenció.",
+      "start": 59648,
+      "end": 60097,
+      "confidence": 0.9855016,
+      "speaker": "A"
+    },
+    {
+      "text": "Lo",
+      "start": 60611,
+      "end": 60691,
+      "confidence": 0.9959189,
+      "speaker": "A"
+    },
+    {
+      "text": "vio",
+      "start": 60691,
+      "end": 60803,
+      "confidence": 0.99958706,
+      "speaker": "A"
+    },
+    {
+      "text": "en",
+      "start": 60803,
+      "end": 60883,
+      "confidence": 0.99995553,
+      "speaker": "A"
+    },
+    {
+      "text": "las",
+      "start": 60931,
+      "end": 61044,
+      "confidence": 0.9999517,
+      "speaker": "A"
+    },
+    {
+      "text": "noticias",
+      "start": 61044,
+      "end": 61509,
+      "confidence": 0.99998605,
+      "speaker": "A"
+    },
+    {
+      "text": "y",
+      "start": 61509,
+      "end": 61525,
+      "confidence": 0.99913186,
+      "speaker": "A"
+    },
+    {
+      "text": "me",
+      "start": 61525,
+      "end": 61653,
+      "confidence": 0.99990606,
+      "speaker": "A"
+    },
+    {
+      "text": "pidió",
+      "start": 61653,
+      "end": 61974,
+      "confidence": 0.99998254,
+      "speaker": "A"
+    },
+    {
+      "text": "que",
+      "start": 61974,
+      "end": 62054,
+      "confidence": 0.9999751,
+      "speaker": "A"
+    },
+    {
+      "text": "lo",
+      "start": 62054,
+      "end": 62134,
+      "confidence": 0.99993205,
+      "speaker": "A"
+    },
+    {
+      "text": "probáramos.",
+      "start": 62134,
+      "end": 62663,
+      "confidence": 0.9993793,
+      "speaker": "A"
+    },
+    {
+      "text": "Honestamente,",
+      "start": 63273,
+      "end": 63946,
+      "confidence": 0.99798816,
+      "speaker": "A"
+    },
+    {
+      "text": "yo",
+      "start": 64139,
+      "end": 64219,
+      "confidence": 0.9996493,
+      "speaker": "A"
+    },
+    {
+      "text": "no",
+      "start": 64219,
+      "end": 64379,
+      "confidence": 0.9998578,
+      "speaker": "A"
+    },
+    {
+      "text": "creía",
+      "start": 64379,
+      "end": 64652,
+      "confidence": 0.9998634,
+      "speaker": "A"
+    },
+    {
+      "text": "que",
+      "start": 64652,
+      "end": 64780,
+      "confidence": 0.9993444,
+      "speaker": "A"
+    },
+    {
+      "text": "fuera",
+      "start": 64780,
+      "end": 65004,
+      "confidence": 0.99933136,
+      "speaker": "A"
+    },
+    {
+      "text": "a",
+      "start": 65004,
+      "end": 65020,
+      "confidence": 0.9999856,
+      "speaker": "A"
+    },
+    {
+      "text": "funcionar,",
+      "start": 65020,
+      "end": 65470,
+      "confidence": 0.9984283,
+      "speaker": "A"
+    },
+    {
+      "text": "pero",
+      "start": 65822,
+      "end": 65983,
+      "confidence": 0.99822575,
+      "speaker": "A"
+    },
+    {
+      "text": "no",
+      "start": 65983,
+      "end": 66063,
+      "confidence": 0.99892837,
+      "speaker": "A"
+    },
+    {
+      "text": "tenía",
+      "start": 66063,
+      "end": 66335,
+      "confidence": 0.9997423,
+      "speaker": "A"
+    },
+    {
+      "text": "nada",
+      "start": 66335,
+      "end": 66512,
+      "confidence": 0.99994683,
+      "speaker": "A"
+    },
+    {
+      "text": "que",
+      "start": 66544,
+      "end": 66704,
+      "confidence": 0.9998884,
+      "speaker": "A"
+    },
+    {
+      "text": "perder.",
+      "start": 66704,
+      "end": 66977,
+      "confidence": 0.9444721,
+      "speaker": "A"
+    },
+    {
+      "text": "Y",
+      "start": 67522,
+      "end": 67682,
+      "confidence": 0.8099692,
+      "speaker": "A"
+    },
+    {
+      "text": "hoy",
+      "start": 67682,
+      "end": 67715,
+      "confidence": 0.9967078,
+      "speaker": "A"
+    },
+    {
+      "text": "estoy",
+      "start": 67763,
+      "end": 68115,
+      "confidence": 0.77719146,
+      "speaker": "A"
+    },
+    {
+      "text": "feliz",
+      "start": 68148,
+      "end": 68292,
+      "confidence": 0.9992619,
+      "speaker": "A"
+    },
+    {
+      "text": "de",
+      "start": 68388,
+      "end": 68420,
+      "confidence": 0.99987626,
+      "speaker": "A"
+    },
+    {
+      "text": "haberlo",
+      "start": 68420,
+      "end": 68725,
+      "confidence": 0.9999269,
+      "speaker": "A"
+    },
+    {
+      "text": "hecho.",
+      "start": 68725,
+      "end": 68997,
+      "confidence": 0.99321336,
+      "speaker": "A"
+    },
+    {
+      "text": "Por",
+      "start": 69911,
+      "end": 70056,
+      "confidence": 0.74607533,
+      "speaker": "A"
+    },
+    {
+      "text": "fin",
+      "start": 70072,
+      "end": 70232,
+      "confidence": 0.9999819,
+      "speaker": "A"
+    },
+    {
+      "text": "podemos",
+      "start": 70232,
+      "end": 70585,
+      "confidence": 0.9986455,
+      "speaker": "A"
+    },
+    {
+      "text": "volver",
+      "start": 70585,
+      "end": 70809,
+      "confidence": 0.9998331,
+      "speaker": "A"
+    },
+    {
+      "text": "a",
+      "start": 70809,
+      "end": 70842,
+      "confidence": 0.9999832,
+      "speaker": "A"
+    },
+    {
+      "text": "disfrutar",
+      "start": 70874,
+      "end": 71275,
+      "confidence": 0.9999886,
+      "speaker": "A"
+    },
+    {
+      "text": "de",
+      "start": 71275,
+      "end": 71355,
+      "confidence": 0.999943,
+      "speaker": "A"
+    },
+    {
+      "text": "nuestras",
+      "start": 71355,
+      "end": 71659,
+      "confidence": 0.99992144,
+      "speaker": "A"
+    },
+    {
+      "text": "comidas",
+      "start": 71675,
+      "end": 71980,
+      "confidence": 0.99997914,
+      "speaker": "A"
+    },
+    {
+      "text": "caseras,",
+      "start": 71996,
+      "end": 72509,
+      "confidence": 0.9998987,
+      "speaker": "A"
+    },
+    {
+      "text": "como",
+      "start": 72638,
+      "end": 72814,
+      "confidence": 0.9958253,
+      "speaker": "A"
+    },
+    {
+      "text": "unas",
+      "start": 72814,
+      "end": 73039,
+      "confidence": 0.99973506,
+      "speaker": "A"
+    },
+    {
+      "text": "ricas",
+      "start": 73039,
+      "end": 73279,
+      "confidence": 0.9999897,
+      "speaker": "A"
+    },
+    {
+      "text": "tortillas",
+      "start": 73279,
+      "end": 73712,
+      "confidence": 0.99992716,
+      "speaker": "A"
+    },
+    {
+      "text": "o",
+      "start": 73712,
+      "end": 73760,
+      "confidence": 0.9959967,
+      "speaker": "A"
+    },
+    {
+      "text": "un",
+      "start": 73937,
+      "end": 74001,
+      "confidence": 0.99991035,
+      "speaker": "A"
+    },
+    {
+      "text": "buen",
+      "start": 74001,
+      "end": 74241,
+      "confidence": 0.99996567,
+      "speaker": "A"
+    },
+    {
+      "text": "plato",
+      "start": 74241,
+      "end": 74434,
+      "confidence": 0.99999464,
+      "speaker": "A"
+    },
+    {
+      "text": "de",
+      "start": 74434,
+      "end": 74578,
+      "confidence": 0.9999691,
+      "speaker": "A"
+    },
+    {
+      "text": "arroz,",
+      "start": 74578,
+      "end": 74851,
+      "confidence": 0.9996631,
+      "speaker": "A"
+    },
+    {
+      "text": "sin",
+      "start": 75043,
+      "end": 75203,
+      "confidence": 0.99440396,
+      "speaker": "A"
+    },
+    {
+      "text": "sentir",
+      "start": 75203,
+      "end": 75476,
+      "confidence": 0.9999616,
+      "speaker": "A"
+    },
+    {
+      "text": "culpa",
+      "start": 75524,
+      "end": 75765,
+      "confidence": 0.9999746,
+      "speaker": "A"
+    },
+    {
+      "text": "ni",
+      "start": 75765,
+      "end": 75845,
+      "confidence": 0.99985445,
+      "speaker": "A"
+    },
+    {
+      "text": "miedo",
+      "start": 75845,
+      "end": 76101,
+      "confidence": 0.9999639,
+      "speaker": "A"
+    },
+    {
+      "text": "a",
+      "start": 76101,
+      "end": 76133,
+      "confidence": 0.99944454,
+      "speaker": "A"
+    },
+    {
+      "text": "la",
+      "start": 76166,
+      "end": 76198,
+      "confidence": 0.99989045,
+      "speaker": "A"
+    },
+    {
+      "text": "báscula.",
+      "start": 76198,
+      "end": 76615,
+      "confidence": 0.999077,
+      "speaker": "A"
+    },
+    {
+      "text": "Este",
+      "start": 77144,
+      "end": 77368,
+      "confidence": 0.6369576,
+      "speaker": "A"
+    },
+    {
+      "text": "truco",
+      "start": 77368,
+      "end": 77609,
+      "confidence": 0.99992645,
+      "speaker": "A"
+    },
+    {
+      "text": "de",
+      "start": 77609,
+      "end": 77689,
+      "confidence": 0.99987316,
+      "speaker": "A"
+    },
+    {
+      "text": "la",
+      "start": 77689,
+      "end": 77849,
+      "confidence": 0.9999454,
+      "speaker": "A"
+    },
+    {
+      "text": "gelatina",
+      "start": 77849,
+      "end": 78186,
+      "confidence": 0.99996907,
+      "speaker": "A"
+    },
+    {
+      "text": "ha",
+      "start": 78186,
+      "end": 78250,
+      "confidence": 0.99957126,
+      "speaker": "A"
+    },
+    {
+      "text": "salido",
+      "start": 78250,
+      "end": 78587,
+      "confidence": 0.9999426,
+      "speaker": "A"
+    },
+    {
+      "text": "en",
+      "start": 78587,
+      "end": 78651,
+      "confidence": 0.9999286,
+      "speaker": "A"
+    },
+    {
+      "text": "varios",
+      "start": 78651,
+      "end": 78972,
+      "confidence": 0.9999628,
+      "speaker": "A"
+    },
+    {
+      "text": "reportajes",
+      "start": 78972,
+      "end": 79453,
+      "confidence": 0.9999959,
+      "speaker": "A"
+    },
+    {
+      "text": "de",
+      "start": 79453,
+      "end": 79533,
+      "confidence": 0.9997905,
+      "speaker": "A"
+    },
+    {
+      "text": "salud,",
+      "start": 79533,
+      "end": 79902,
+      "confidence": 0.99987906,
+      "speaker": "A"
+    },
+    {
+      "text": "pero",
+      "start": 80014,
+      "end": 80175,
+      "confidence": 0.9970065,
+      "speaker": "A"
+    },
+    {
+      "text": "quizás",
+      "start": 80175,
+      "end": 80495,
+      "confidence": 0.99933624,
+      "speaker": "A"
+    },
+    {
+      "text": "te",
+      "start": 80495,
+      "end": 80575,
+      "confidence": 0.9996101,
+      "speaker": "A"
+    },
+    {
+      "text": "lo",
+      "start": 80575,
+      "end": 80656,
+      "confidence": 0.9998779,
+      "speaker": "A"
+    },
+    {
+      "text": "perdiste.",
+      "start": 80656,
+      "end": 81105,
+      "confidence": 0.9960529,
+      "speaker": "A"
+    },
+    {
+      "text": "Por",
+      "start": 81538,
+      "end": 81682,
+      "confidence": 0.879594,
+      "speaker": "A"
+    },
+    {
+      "text": "suerte,",
+      "start": 81698,
+      "end": 82099,
+      "confidence": 0.99940395,
+      "speaker": "A"
+    },
+    {
+      "text": "guardé",
+      "start": 82259,
+      "end": 82516,
+      "confidence": 0.9997538,
+      "speaker": "A"
+    },
+    {
+      "text": "el",
+      "start": 82516,
+      "end": 82612,
+      "confidence": 0.9997521,
+      "speaker": "A"
+    },
+    {
+      "text": "video",
+      "start": 82612,
+      "end": 82756,
+      "confidence": 0.84337693,
+      "speaker": "A"
+    },
+    {
+      "text": "exacto",
+      "start": 82756,
+      "end": 83302,
+      "confidence": 0.999861,
+      "speaker": "A"
+    },
+    {
+      "text": "que",
+      "start": 83302,
+      "end": 83414,
+      "confidence": 0.98202896,
+      "speaker": "A"
+    },
+    {
+      "text": "me",
+      "start": 83414,
+      "end": 83478,
+      "confidence": 0.9995881,
+      "speaker": "A"
+    },
+    {
+      "text": "enseñó",
+      "start": 83478,
+      "end": 83863,
+      "confidence": 0.9999694,
+      "speaker": "A"
+    },
+    {
+      "text": "cómo",
+      "start": 83863,
+      "end": 84039,
+      "confidence": 0.99811184,
+      "speaker": "A"
+    },
+    {
+      "text": "hacerlo",
+      "start": 84039,
+      "end": 84360,
+      "confidence": 0.9998457,
+      "speaker": "A"
+    },
+    {
+      "text": "en",
+      "start": 84360,
+      "end": 84504,
+      "confidence": 0.999785,
+      "speaker": "A"
+    },
+    {
+      "text": "casa.",
+      "start": 84504,
+      "end": 84713,
+      "confidence": 0.9948344,
+      "speaker": "A"
+    },
+    {
+      "text": "Para",
+      "start": 85282,
+      "end": 85338,
+      "confidence": 0.99180377,
+      "speaker": "A"
+    },
+    {
+      "text": "ver",
+      "start": 85338,
+      "end": 85482,
+      "confidence": 0.99987316,
+      "speaker": "A"
+    },
+    {
+      "text": "la",
+      "start": 85482,
+      "end": 85578,
+      "confidence": 0.9995234,
+      "speaker": "A"
+    },
+    {
+      "text": "receta",
+      "start": 85578,
+      "end": 85947,
+      "confidence": 0.9999759,
+      "speaker": "A"
+    },
+    {
+      "text": "paso",
+      "start": 85947,
+      "end": 86123,
+      "confidence": 0.99945503,
+      "speaker": "A"
+    },
+    {
+      "text": "a",
+      "start": 86123,
+      "end": 86155,
+      "confidence": 0.99987674,
+      "speaker": "A"
+    },
+    {
+      "text": "paso,",
+      "start": 86187,
+      "end": 86475,
+      "confidence": 0.9997914,
+      "speaker": "A"
+    },
+    {
+      "text": "solo",
+      "start": 86828,
+      "end": 87068,
+      "confidence": 0.97587216,
+      "speaker": "A"
+    },
+    {
+      "text": "toca",
+      "start": 87068,
+      "end": 87260,
+      "confidence": 0.9999473,
+      "speaker": "A"
+    },
+    {
+      "text": "el",
+      "start": 87260,
+      "end": 87308,
+      "confidence": 0.9996519,
+      "speaker": "A"
+    },
+    {
+      "text": "botón",
+      "start": 87308,
+      "end": 87533,
+      "confidence": 0.9999825,
+      "speaker": "A"
+    },
+    {
+      "text": "de",
+      "start": 87565,
+      "end": 87661,
+      "confidence": 0.99940705,
+      "speaker": "A"
+    },
+    {
+      "text": "abajo",
+      "start": 87661,
+      "end": 87949,
+      "confidence": 0.99998057,
+      "speaker": "A"
+    },
+    {
+      "text": "que",
+      "start": 87949,
+      "end": 88029,
+      "confidence": 0.99952626,
+      "speaker": "A"
+    },
+    {
+      "text": "dice",
+      "start": 88029,
+      "end": 88222,
+      "confidence": 0.9999839,
+      "speaker": "A"
+    },
+    {
+      "text": "más",
+      "start": 88222,
+      "end": 88414,
+      "confidence": 0.8881281,
+      "speaker": "A"
+    },
+    {
+      "text": "información.",
+      "start": 88446,
+      "end": 88958,
+      "confidence": 0.9959684,
+      "speaker": "A"
+    },
+    {
+      "text": "Pero",
+      "start": 89551,
+      "end": 89711,
+      "confidence": 0.75567263,
+      "speaker": "A"
+    },
+    {
+      "text": "te",
+      "start": 89711,
+      "end": 89808,
+      "confidence": 0.9984693,
+      "speaker": "A"
+    },
+    {
+      "text": "advierto,",
+      "start": 89808,
+      "end": 90240,
+      "confidence": 0.8149225,
+      "speaker": "A"
+    },
+    {
+      "text": "la",
+      "start": 90753,
+      "end": 90785,
+      "confidence": 0.9568756,
+      "speaker": "A"
+    },
+    {
+      "text": "industria",
+      "start": 90785,
+      "end": 91153,
+      "confidence": 0.99998605,
+      "speaker": "A"
+    },
+    {
+      "text": "farmacéutica",
+      "start": 91153,
+      "end": 91890,
+      "confidence": 0.9999951,
+      "speaker": "A"
+    },
+    {
+      "text": "odia",
+      "start": 91890,
+      "end": 92050,
+      "confidence": 0.9999914,
+      "speaker": "A"
+    },
+    {
+      "text": "esto.",
+      "start": 92050,
+      "end": 92323,
+      "confidence": 0.98854536,
+      "speaker": "A"
+    },
+    {
+      "text": "Es",
+      "start": 92771,
+      "end": 92819,
+      "confidence": 0.9717505,
+      "speaker": "A"
+    },
+    {
+      "text": "una",
+      "start": 92851,
+      "end": 92964,
+      "confidence": 0.9999404,
+      "speaker": "A"
+    },
+    {
+      "text": "receta",
+      "start": 92996,
+      "end": 93380,
+      "confidence": 0.9999395,
+      "speaker": "A"
+    },
+    {
+      "text": "que",
+      "start": 93380,
+      "end": 93476,
+      "confidence": 0.9985744,
+      "speaker": "A"
+    },
+    {
+      "text": "genera",
+      "start": 93476,
+      "end": 93797,
+      "confidence": 0.99991894,
+      "speaker": "A"
+    },
+    {
+      "text": "los",
+      "start": 93797,
+      "end": 93861,
+      "confidence": 0.9999323,
+      "speaker": "A"
+    },
+    {
+      "text": "mismos",
+      "start": 93909,
+      "end": 94197,
+      "confidence": 0.9999886,
+      "speaker": "A"
+    },
+    {
+      "text": "resultados",
+      "start": 94197,
+      "end": 94710,
+      "confidence": 0.9999449,
+      "speaker": "A"
+    },
+    {
+      "text": "que",
+      "start": 94758,
+      "end": 94854,
+      "confidence": 0.9990804,
+      "speaker": "A"
+    },
+    {
+      "text": "esos",
+      "start": 94854,
+      "end": 95078,
+      "confidence": 0.99972385,
+      "speaker": "A"
+    },
+    {
+      "text": "tratamientos",
+      "start": 95078,
+      "end": 95591,
+      "confidence": 0.99999255,
+      "speaker": "A"
+    },
+    {
+      "text": "de",
+      "start": 95591,
+      "end": 95719,
+      "confidence": 0.99926144,
+      "speaker": "A"
+    },
+    {
+      "text": "clínicas",
+      "start": 95719,
+      "end": 96120,
+      "confidence": 0.9999716,
+      "speaker": "A"
+    },
+    {
+      "text": "de",
+      "start": 96120,
+      "end": 96200,
+      "confidence": 0.9999752,
+      "speaker": "A"
+    },
+    {
+      "text": "lujo,",
+      "start": 96200,
+      "end": 96488,
+      "confidence": 0.99947274,
+      "speaker": "A"
+    },
+    {
+      "text": "pero",
+      "start": 96841,
+      "end": 97001,
+      "confidence": 0.97912806,
+      "speaker": "A"
+    },
+    {
+      "text": "sin",
+      "start": 97001,
+      "end": 97161,
+      "confidence": 0.9986149,
+      "speaker": "A"
+    },
+    {
+      "text": "gastar",
+      "start": 97161,
+      "end": 97481,
+      "confidence": 0.9998947,
+      "speaker": "A"
+    },
+    {
+      "text": "miles",
+      "start": 97481,
+      "end": 97722,
+      "confidence": 0.9998888,
+      "speaker": "A"
+    },
+    {
+      "text": "de",
+      "start": 97722,
+      "end": 97802,
+      "confidence": 0.99993885,
+      "speaker": "A"
+    },
+    {
+      "text": "pesos",
+      "start": 97802,
+      "end": 98138,
+      "confidence": 0.99989426,
+      "speaker": "A"
+    },
+    {
+      "text": "y",
+      "start": 98138,
+      "end": 98202,
+      "confidence": 0.99819666,
+      "speaker": "A"
+    },
+    {
+      "text": "sin",
+      "start": 98202,
+      "end": 98363,
+      "confidence": 0.998041,
+      "speaker": "A"
+    },
+    {
+      "text": "dolor.",
+      "start": 98363,
+      "end": 98571,
+      "confidence": 0.9982366,
+      "speaker": "A"
+    },
+    {
+      "text": "Es",
+      "start": 99099,
+      "end": 99244,
+      "confidence": 0.9718285,
+      "speaker": "A"
+    },
+    {
+      "text": "natural,",
+      "start": 99244,
+      "end": 99612,
+      "confidence": 0.9998493,
+      "speaker": "A"
+    },
+    {
+      "text": "seguro",
+      "start": 99644,
+      "end": 99981,
+      "confidence": 0.9995895,
+      "speaker": "A"
+    },
+    {
+      "text": "y",
+      "start": 99981,
+      "end": 100013,
+      "confidence": 0.9933642,
+      "speaker": "A"
+    },
+    {
+      "text": "ataca",
+      "start": 100061,
+      "end": 100365,
+      "confidence": 0.9999609,
+      "speaker": "A"
+    },
+    {
+      "text": "la",
+      "start": 100365,
+      "end": 100477,
+      "confidence": 0.5829345,
+      "speaker": "A"
+    },
+    {
+      "text": "raíz",
+      "start": 100477,
+      "end": 100653,
+      "confidence": 0.999991,
+      "speaker": "A"
+    },
+    {
+      "text": "de",
+      "start": 100766,
+      "end": 100846,
+      "confidence": 0.9997888,
+      "speaker": "A"
+    },
+    {
+      "text": "la",
+      "start": 100846,
+      "end": 100894,
+      "confidence": 0.9998305,
+      "speaker": "A"
+    },
+    {
+      "text": "grasa",
+      "start": 100926,
+      "end": 101310,
+      "confidence": 0.999994,
+      "speaker": "A"
+    },
+    {
+      "text": "acumulada.",
+      "start": 101310,
+      "end": 101695,
+      "confidence": 0.99958014,
+      "speaker": "A"
+    },
+    {
+      "text": "Si",
+      "start": 102368,
+      "end": 102464,
+      "confidence": 0.8217995,
+      "speaker": "A"
+    },
+    {
+      "text": "este",
+      "start": 102464,
+      "end": 102688,
+      "confidence": 0.99982315,
+      "speaker": "A"
+    },
+    {
+      "text": "video",
+      "start": 102688,
+      "end": 103024,
+      "confidence": 0.9569007,
+      "speaker": "A"
+    },
+    {
+      "text": "apareció",
+      "start": 103024,
+      "end": 103489,
+      "confidence": 0.9995442,
+      "speaker": "A"
+    },
+    {
+      "text": "para",
+      "start": 103489,
+      "end": 103617,
+      "confidence": 0.9997446,
+      "speaker": "A"
+    },
+    {
+      "text": "ti,",
+      "start": 103649,
+      "end": 103777,
+      "confidence": 0.999962,
+      "speaker": "A"
+    },
+    {
+      "text": "tómalo",
+      "start": 104050,
+      "end": 104370,
+      "confidence": 0.9999291,
+      "speaker": "A"
+    },
+    {
+      "text": "como",
+      "start": 104370,
+      "end": 104498,
+      "confidence": 0.999974,
+      "speaker": "A"
+    },
+    {
+      "text": "una",
+      "start": 104546,
+      "end": 104691,
+      "confidence": 0.9999286,
+      "speaker": "A"
+    },
+    {
+      "text": "señal.",
+      "start": 104691,
+      "end": 105043,
+      "confidence": 0.996376,
+      "speaker": "A"
+    },
+    {
+      "text": "Toca",
+      "start": 105732,
+      "end": 105908,
+      "confidence": 0.99627244,
+      "speaker": "A"
+    },
+    {
+      "text": "el",
+      "start": 105908,
+      "end": 105972,
+      "confidence": 0.9998541,
+      "speaker": "A"
+    },
+    {
+      "text": "botón",
+      "start": 105972,
+      "end": 106309,
+      "confidence": 0.99997693,
+      "speaker": "A"
+    },
+    {
+      "text": "abajo,",
+      "start": 106309,
+      "end": 106581,
+      "confidence": 0.9977966,
+      "speaker": "A"
+    },
+    {
+      "text": "mira",
+      "start": 106853,
+      "end": 107046,
+      "confidence": 0.9999116,
+      "speaker": "A"
+    },
+    {
+      "text": "el",
+      "start": 107046,
+      "end": 107126,
+      "confidence": 0.9998385,
+      "speaker": "A"
+    },
+    {
+      "text": "video",
+      "start": 107174,
+      "end": 107414,
+      "confidence": 0.9994443,
+      "speaker": "A"
+    },
+    {
+      "text": "corto",
+      "start": 107414,
+      "end": 107750,
+      "confidence": 0.9999686,
+      "speaker": "A"
+    },
+    {
+      "text": "y",
+      "start": 107750,
+      "end": 107815,
+      "confidence": 0.99946386,
+      "speaker": "A"
+    },
+    {
+      "text": "copia",
+      "start": 107815,
+      "end": 108135,
+      "confidence": 0.9999507,
+      "speaker": "A"
+    },
+    {
+      "text": "la",
+      "start": 108135,
+      "end": 108167,
+      "confidence": 0.9998124,
+      "speaker": "A"
+    },
+    {
+      "text": "receta",
+      "start": 108167,
+      "end": 108552,
+      "confidence": 0.99999034,
+      "speaker": "A"
+    },
+    {
+      "text": "antes",
+      "start": 108552,
+      "end": 108792,
+      "confidence": 0.9998357,
+      "speaker": "A"
+    },
+    {
+      "text": "de",
+      "start": 108792,
+      "end": 108888,
+      "confidence": 0.9999703,
+      "speaker": "A"
+    },
+    {
+      "text": "que",
+      "start": 108888,
+      "end": 109016,
+      "confidence": 0.9999865,
+      "speaker": "A"
+    },
+    {
+      "text": "la",
+      "start": 109016,
+      "end": 109048,
+      "confidence": 0.999819,
+      "speaker": "A"
+    },
+    {
+      "text": "borren.",
+      "start": 109048,
+      "end": 109304,
+      "confidence": 0.99852926,
+      "speaker": "A"
+    },
+    {
+      "text": "Ah,",
+      "start": 109913,
+      "end": 110025,
+      "confidence": 0.9031389,
+      "speaker": "A"
+    },
+    {
+      "text": "y",
+      "start": 110394,
+      "end": 110474,
+      "confidence": 0.99128145,
+      "speaker": "A"
+    },
+    {
+      "text": "el",
+      "start": 110474,
+      "end": 110538,
+      "confidence": 0.998585,
+      "speaker": "A"
+    },
+    {
+      "text": "video",
+      "start": 110538,
+      "end": 110778,
+      "confidence": 0.9994406,
+      "speaker": "A"
+    },
+    {
+      "text": "también",
+      "start": 110810,
+      "end": 111131,
+      "confidence": 0.99994946,
+      "speaker": "A"
+    },
+    {
+      "text": "revela",
+      "start": 111131,
+      "end": 111387,
+      "confidence": 0.9999144,
+      "speaker": "A"
+    },
+    {
+      "text": "3",
+      "start": 111419,
+      "end": 111676,
+      "confidence": 0.99942845,
+      "speaker": "A"
+    },
+    {
+      "text": "alimentos",
+      "start": 111676,
+      "end": 112060,
+      "confidence": 0.9999175,
+      "speaker": "A"
+    },
+    {
+      "text": "supuestamente",
+      "start": 112060,
+      "end": 112653,
+      "confidence": 0.9999559,
+      "speaker": "A"
+    },
+    {
+      "text": "saludables",
+      "start": 112653,
+      "end": 113117,
+      "confidence": 0.9999663,
+      "speaker": "A"
+    },
+    {
+      "text": "que",
+      "start": 113117,
+      "end": 113197,
+      "confidence": 0.9990095,
+      "speaker": "A"
+    },
+    {
+      "text": "en",
+      "start": 113197,
+      "end": 113262,
+      "confidence": 0.9991386,
+      "speaker": "A"
+    },
+    {
+      "text": "realidad",
+      "start": 113262,
+      "end": 113582,
+      "confidence": 0.9999641,
+      "speaker": "A"
+    },
+    {
+      "text": "te",
+      "start": 113582,
+      "end": 113678,
+      "confidence": 0.99983513,
+      "speaker": "A"
+    },
+    {
+      "text": "están",
+      "start": 113678,
+      "end": 113886,
+      "confidence": 0.9998343,
+      "speaker": "A"
+    },
+    {
+      "text": "engordando,",
+      "start": 113918,
+      "end": 114351,
+      "confidence": 0.9997485,
+      "speaker": "A"
+    },
+    {
+      "text": "incluido",
+      "start": 114639,
+      "end": 115040,
+      "confidence": 0.994075,
+      "speaker": "A"
+    },
+    {
+      "text": "uno",
+      "start": 115040,
+      "end": 115184,
+      "confidence": 0.9986185,
+      "speaker": "A"
+    },
+    {
+      "text": "que",
+      "start": 115184,
+      "end": 115264,
+      "confidence": 0.99976844,
+      "speaker": "A"
+    },
+    {
+      "text": "comes",
+      "start": 115264,
+      "end": 115520,
+      "confidence": 0.9998808,
+      "speaker": "A"
+    },
+    {
+      "text": "en",
+      "start": 115520,
+      "end": 115601,
+      "confidence": 0.99965096,
+      "speaker": "A"
+    },
+    {
+      "text": "el",
+      "start": 115601,
+      "end": 115697,
+      "confidence": 0.99968064,
+      "speaker": "A"
+    },
+    {
+      "text": "desayuno.",
+      "start": 115697,
+      "end": 116113,
+      "confidence": 0.9957285,
+      "speaker": "A"
+    },
+    {
+      "text": "Yo",
+      "start": 116468,
+      "end": 116550,
+      "confidence": 0.9277659,
+      "speaker": "A"
+    },
+    {
+      "text": "quedé",
+      "start": 116550,
+      "end": 116731,
+      "confidence": 0.9998675,
+      "speaker": "A"
+    },
+    {
+      "text": "en",
+      "start": 116731,
+      "end": 116879,
+      "confidence": 0.9998907,
+      "speaker": "A"
+    },
+    {
+      "text": "shock.",
+      "start": 116879,
+      "end": 117092,
+      "confidence": 0.988119,
+      "speaker": "A"
+    },
+    {
+      "text": "Haz",
+      "start": 117552,
+      "end": 117667,
+      "confidence": 0.9336983,
+      "speaker": "A"
+    },
+    {
+      "text": "clic",
+      "start": 117700,
+      "end": 117880,
+      "confidence": 0.99674976,
+      "speaker": "A"
+    },
+    {
+      "text": "en",
+      "start": 117880,
+      "end": 118028,
+      "confidence": 0.9996606,
+      "speaker": "A"
+    },
+    {
+      "text": "más",
+      "start": 118028,
+      "end": 118126,
+      "confidence": 0.9928429,
+      "speaker": "A"
+    },
+    {
+      "text": "información",
+      "start": 118126,
+      "end": 118652,
+      "confidence": 0.99996424,
+      "speaker": "A"
+    },
+    {
+      "text": "y",
+      "start": 118701,
+      "end": 118718,
+      "confidence": 0.9990933,
+      "speaker": "A"
+    },
+    {
+      "text": "míralo",
+      "start": 118718,
+      "end": 119030,
+      "confidence": 0.9999556,
+      "speaker": "A"
+    },
+    {
+      "text": "ahora.",
+      "start": 119030,
+      "end": 119227,
+      "confidence": 0.9979167,
+      "speaker": "A"
+    }
+  ],
+  "utterances": [
+    {
+      "speaker": "A",
+      "text": "Mi esposo me llamó ilusa cuando le conté sobre la receta viral de la gelatina, pero se puso celoso cuando me vio en la playa usando el mismo bikini que usaba a los 23 años. Primero, vas a tomar unos 200 mililitros de agua fría, agregas la gelatina y la pones en un tazón, ¿ok? Ahora, añade el jugo de medio limón. Ingredientes que todos tenemos en casa, ¿verdad? Pero presta mucha atención, porque esta es la clave. Comer gelatina con limón y otros 2 ingredientes simples no me funcionó al principio. Solo fue cuando pasé de 89 a 65 kilos que entendí el secreto. Solo necesitaba un pequeño ajuste en mi rutina y boom. Los resultados fueron tan rápidos que, en el cumpleaños de mi sobrino, mi cuñada me preguntó en voz baja si me había hecho la lipo o alguna cirugía secreta. Este es el método casero que salvó mi cuerpo. Desde mediados de año, este extraño truco de la gelatina se ha vuelto viral en redes sociales porque está ayudando a miles de mujeres a derretir grasa de forma acelerada. Guardé este secreto por un tiempo porque quería estar segura, pero cuando vi que tanto yo como mi esposo bajamos tallas en pocas semanas y nuestros exámenes médicos salieron perfectos, supe que tenía que compartirlo. De hecho, fue él quien me convenció. Lo vio en las noticias y me pidió que lo probáramos. Honestamente, yo no creía que fuera a funcionar, pero no tenía nada que perder. Y hoy estoy feliz de haberlo hecho. Por fin podemos volver a disfrutar de nuestras comidas caseras, como unas ricas tortillas o un buen plato de arroz, sin sentir culpa ni miedo a la báscula. Este truco de la gelatina ha salido en varios reportajes de salud, pero quizás te lo perdiste. Por suerte, guardé el video exacto que me enseñó cómo hacerlo en casa. Para ver la receta paso a paso, solo toca el botón de abajo que dice más información. Pero te advierto, la industria farmacéutica odia esto. Es una receta que genera los mismos resultados que esos tratamientos de clínicas de lujo, pero sin gastar miles de pesos y sin dolor. Es natural, seguro y ataca la raíz de la grasa acumulada. Si este video apareció para ti, tómalo como una señal. Toca el botón abajo, mira el video corto y copia la receta antes de que la borren. Ah, y el video también revela 3 alimentos supuestamente saludables que en realidad te están engordando, incluido uno que comes en el desayuno. Yo quedé en shock. Haz clic en más información y míralo ahora.",
+      "confidence": 0.98755556,
+      "start": 256,
+      "end": 119227,
+      "words": [
+        {
+          "text": "Mi",
+          "start": 256,
+          "end": 288,
+          "confidence": 0.8147063,
+          "speaker": "A"
+        },
+        {
+          "text": "esposo",
+          "start": 288,
+          "end": 658,
+          "confidence": 0.99987626,
+          "speaker": "A"
+        },
+        {
+          "text": "me",
+          "start": 658,
+          "end": 738,
+          "confidence": 0.9998622,
+          "speaker": "A"
+        },
+        {
+          "text": "llamó",
+          "start": 738,
+          "end": 930,
+          "confidence": 0.9999703,
+          "speaker": "A"
+        },
+        {
+          "text": "ilusa",
+          "start": 930,
+          "end": 1219,
+          "confidence": 0.9994242,
+          "speaker": "A"
+        },
+        {
+          "text": "cuando",
+          "start": 1219,
+          "end": 1460,
+          "confidence": 0.99995303,
+          "speaker": "A"
+        },
+        {
+          "text": "le",
+          "start": 1460,
+          "end": 1540,
+          "confidence": 0.999833,
+          "speaker": "A"
+        },
+        {
+          "text": "conté",
+          "start": 1540,
+          "end": 1781,
+          "confidence": 0.9999821,
+          "speaker": "A"
+        },
+        {
+          "text": "sobre",
+          "start": 1781,
+          "end": 2022,
+          "confidence": 0.9999471,
+          "speaker": "A"
+        },
+        {
+          "text": "la",
+          "start": 2022,
+          "end": 2134,
+          "confidence": 0.9999354,
+          "speaker": "A"
+        },
+        {
+          "text": "receta",
+          "start": 2134,
+          "end": 2455,
+          "confidence": 0.9999832,
+          "speaker": "A"
+        },
+        {
+          "text": "viral",
+          "start": 2455,
+          "end": 2696,
+          "confidence": 0.9999459,
+          "speaker": "A"
+        },
+        {
+          "text": "de",
+          "start": 2744,
+          "end": 2776,
+          "confidence": 0.9999651,
+          "speaker": "A"
+        },
+        {
+          "text": "la",
+          "start": 2776,
+          "end": 2905,
+          "confidence": 0.9999082,
+          "speaker": "A"
+        },
+        {
+          "text": "gelatina,",
+          "start": 2905,
+          "end": 3274,
+          "confidence": 0.98911,
+          "speaker": "A"
+        },
+        {
+          "text": "pero",
+          "start": 3467,
+          "end": 3579,
+          "confidence": 0.9978624,
+          "speaker": "A"
+        },
+        {
+          "text": "se",
+          "start": 3627,
+          "end": 3788,
+          "confidence": 0.9990079,
+          "speaker": "A"
+        },
+        {
+          "text": "puso",
+          "start": 3788,
+          "end": 4028,
+          "confidence": 0.99996936,
+          "speaker": "A"
+        },
+        {
+          "text": "celoso",
+          "start": 4028,
+          "end": 4349,
+          "confidence": 0.99997115,
+          "speaker": "A"
+        },
+        {
+          "text": "cuando",
+          "start": 4349,
+          "end": 4590,
+          "confidence": 0.9999509,
+          "speaker": "A"
+        },
+        {
+          "text": "me",
+          "start": 4590,
+          "end": 4670,
+          "confidence": 0.9999287,
+          "speaker": "A"
+        },
+        {
+          "text": "vio",
+          "start": 4670,
+          "end": 4815,
+          "confidence": 0.99988675,
+          "speaker": "A"
+        },
+        {
+          "text": "en",
+          "start": 4815,
+          "end": 4847,
+          "confidence": 0.99994886,
+          "speaker": "A"
+        },
+        {
+          "text": "la",
+          "start": 4847,
+          "end": 4959,
+          "confidence": 0.9999747,
+          "speaker": "A"
+        },
+        {
+          "text": "playa",
+          "start": 4991,
+          "end": 5264,
+          "confidence": 0.99999404,
+          "speaker": "A"
+        },
+        {
+          "text": "usando",
+          "start": 5264,
+          "end": 5585,
+          "confidence": 0.99983704,
+          "speaker": "A"
+        },
+        {
+          "text": "el",
+          "start": 5585,
+          "end": 5650,
+          "confidence": 0.99989283,
+          "speaker": "A"
+        },
+        {
+          "text": "mismo",
+          "start": 5650,
+          "end": 5906,
+          "confidence": 0.9999765,
+          "speaker": "A"
+        },
+        {
+          "text": "bikini",
+          "start": 5906,
+          "end": 6276,
+          "confidence": 0.9998242,
+          "speaker": "A"
+        },
+        {
+          "text": "que",
+          "start": 6276,
+          "end": 6388,
+          "confidence": 0.999871,
+          "speaker": "A"
+        },
+        {
+          "text": "usaba",
+          "start": 6388,
+          "end": 6645,
+          "confidence": 0.9997881,
+          "speaker": "A"
+        },
+        {
+          "text": "a",
+          "start": 6693,
+          "end": 6709,
+          "confidence": 0.9998568,
+          "speaker": "A"
+        },
+        {
+          "text": "los",
+          "start": 6709,
+          "end": 6837,
+          "confidence": 0.9999665,
+          "speaker": "A"
+        },
+        {
+          "text": "23",
+          "start": 6837,
+          "end": 7335,
+          "confidence": 0.9999113,
+          "speaker": "A"
+        },
+        {
+          "text": "años.",
+          "start": 7335,
+          "end": 7608,
+          "confidence": 0.9984383,
+          "speaker": "A"
+        },
+        {
+          "text": "Primero,",
+          "start": 8121,
+          "end": 8523,
+          "confidence": 0.9360313,
+          "speaker": "A"
+        },
+        {
+          "text": "vas",
+          "start": 8683,
+          "end": 8860,
+          "confidence": 0.9996681,
+          "speaker": "A"
+        },
+        {
+          "text": "a",
+          "start": 8860,
+          "end": 8924,
+          "confidence": 0.9999939,
+          "speaker": "A"
+        },
+        {
+          "text": "tomar",
+          "start": 8924,
+          "end": 9165,
+          "confidence": 0.99994934,
+          "speaker": "A"
+        },
+        {
+          "text": "unos",
+          "start": 9165,
+          "end": 9325,
+          "confidence": 0.9997812,
+          "speaker": "A"
+        },
+        {
+          "text": "200",
+          "start": 9325,
+          "end": 9807,
+          "confidence": 0.99953794,
+          "speaker": "A"
+        },
+        {
+          "text": "mililitros",
+          "start": 9807,
+          "end": 10288,
+          "confidence": 0.9041647,
+          "speaker": "A"
+        },
+        {
+          "text": "de",
+          "start": 10288,
+          "end": 10385,
+          "confidence": 0.9999654,
+          "speaker": "A"
+        },
+        {
+          "text": "agua",
+          "start": 10385,
+          "end": 10529,
+          "confidence": 0.9999956,
+          "speaker": "A"
+        },
+        {
+          "text": "fría,",
+          "start": 10529,
+          "end": 10818,
+          "confidence": 0.9889197,
+          "speaker": "A"
+        },
+        {
+          "text": "agregas",
+          "start": 11107,
+          "end": 11492,
+          "confidence": 0.99977696,
+          "speaker": "A"
+        },
+        {
+          "text": "la",
+          "start": 11492,
+          "end": 11572,
+          "confidence": 0.9999186,
+          "speaker": "A"
+        },
+        {
+          "text": "gelatina",
+          "start": 11572,
+          "end": 11990,
+          "confidence": 0.99998957,
+          "speaker": "A"
+        },
+        {
+          "text": "y",
+          "start": 11990,
+          "end": 12054,
+          "confidence": 0.999777,
+          "speaker": "A"
+        },
+        {
+          "text": "la",
+          "start": 12054,
+          "end": 12134,
+          "confidence": 0.99985623,
+          "speaker": "A"
+        },
+        {
+          "text": "pones",
+          "start": 12134,
+          "end": 12359,
+          "confidence": 0.99999136,
+          "speaker": "A"
+        },
+        {
+          "text": "en",
+          "start": 12391,
+          "end": 12471,
+          "confidence": 0.9999919,
+          "speaker": "A"
+        },
+        {
+          "text": "un",
+          "start": 12471,
+          "end": 12520,
+          "confidence": 0.9997787,
+          "speaker": "A"
+        },
+        {
+          "text": "tazón,",
+          "start": 12616,
+          "end": 12905,
+          "confidence": 0.99438995,
+          "speaker": "A"
+        },
+        {
+          "text": "¿ok?",
+          "start": 13113,
+          "end": 13386,
+          "confidence": 0.9558819,
+          "speaker": "A"
+        },
+        {
+          "text": "Ahora,",
+          "start": 13836,
+          "end": 14028,
+          "confidence": 0.98945814,
+          "speaker": "A"
+        },
+        {
+          "text": "añade",
+          "start": 14157,
+          "end": 14398,
+          "confidence": 0.9999633,
+          "speaker": "A"
+        },
+        {
+          "text": "el",
+          "start": 14398,
+          "end": 14446,
+          "confidence": 0.99974996,
+          "speaker": "A"
+        },
+        {
+          "text": "jugo",
+          "start": 14542,
+          "end": 14702,
+          "confidence": 0.9999584,
+          "speaker": "A"
+        },
+        {
+          "text": "de",
+          "start": 14702,
+          "end": 14783,
+          "confidence": 0.99994636,
+          "speaker": "A"
+        },
+        {
+          "text": "medio",
+          "start": 14783,
+          "end": 15024,
+          "confidence": 0.9995442,
+          "speaker": "A"
+        },
+        {
+          "text": "limón.",
+          "start": 15024,
+          "end": 15232,
+          "confidence": 0.99984056,
+          "speaker": "A"
+        },
+        {
+          "text": "Ingredientes",
+          "start": 15682,
+          "end": 16131,
+          "confidence": 0.9997914,
+          "speaker": "A"
+        },
+        {
+          "text": "que",
+          "start": 16147,
+          "end": 16227,
+          "confidence": 0.99994564,
+          "speaker": "A"
+        },
+        {
+          "text": "todos",
+          "start": 16259,
+          "end": 16500,
+          "confidence": 0.9999312,
+          "speaker": "A"
+        },
+        {
+          "text": "tenemos",
+          "start": 16500,
+          "end": 16805,
+          "confidence": 0.9999374,
+          "speaker": "A"
+        },
+        {
+          "text": "en",
+          "start": 16805,
+          "end": 16902,
+          "confidence": 0.9999856,
+          "speaker": "A"
+        },
+        {
+          "text": "casa,",
+          "start": 16950,
+          "end": 17158,
+          "confidence": 0.9999693,
+          "speaker": "A"
+        },
+        {
+          "text": "¿verdad?",
+          "start": 17431,
+          "end": 17720,
+          "confidence": 0.9999458,
+          "speaker": "A"
+        },
+        {
+          "text": "Pero",
+          "start": 17993,
+          "end": 18154,
+          "confidence": 0.99181587,
+          "speaker": "A"
+        },
+        {
+          "text": "presta",
+          "start": 18154,
+          "end": 18394,
+          "confidence": 0.99990064,
+          "speaker": "A"
+        },
+        {
+          "text": "mucha",
+          "start": 18394,
+          "end": 18619,
+          "confidence": 0.9999653,
+          "speaker": "A"
+        },
+        {
+          "text": "atención,",
+          "start": 18619,
+          "end": 19004,
+          "confidence": 0.9994679,
+          "speaker": "A"
+        },
+        {
+          "text": "porque",
+          "start": 19197,
+          "end": 19454,
+          "confidence": 0.99850684,
+          "speaker": "A"
+        },
+        {
+          "text": "esta",
+          "start": 19454,
+          "end": 19662,
+          "confidence": 0.9951056,
+          "speaker": "A"
+        },
+        {
+          "text": "es",
+          "start": 19662,
+          "end": 19759,
+          "confidence": 0.9999714,
+          "speaker": "A"
+        },
+        {
+          "text": "la",
+          "start": 19759,
+          "end": 19839,
+          "confidence": 0.99996006,
+          "speaker": "A"
+        },
+        {
+          "text": "clave.",
+          "start": 19839,
+          "end": 20048,
+          "confidence": 0.99069554,
+          "speaker": "A"
+        },
+        {
+          "text": "Comer",
+          "start": 20641,
+          "end": 20850,
+          "confidence": 0.9934164,
+          "speaker": "A"
+        },
+        {
+          "text": "gelatina",
+          "start": 20882,
+          "end": 21284,
+          "confidence": 0.99998313,
+          "speaker": "A"
+        },
+        {
+          "text": "con",
+          "start": 21284,
+          "end": 21364,
+          "confidence": 0.9999598,
+          "speaker": "A"
+        },
+        {
+          "text": "limón",
+          "start": 21364,
+          "end": 21701,
+          "confidence": 0.9999956,
+          "speaker": "A"
+        },
+        {
+          "text": "y",
+          "start": 21701,
+          "end": 21781,
+          "confidence": 0.9999715,
+          "speaker": "A"
+        },
+        {
+          "text": "otros",
+          "start": 21781,
+          "end": 22006,
+          "confidence": 0.9999696,
+          "speaker": "A"
+        },
+        {
+          "text": "2",
+          "start": 22006,
+          "end": 22102,
+          "confidence": 0.9999721,
+          "speaker": "A"
+        },
+        {
+          "text": "ingredientes",
+          "start": 22102,
+          "end": 22600,
+          "confidence": 0.99999297,
+          "speaker": "A"
+        },
+        {
+          "text": "simples",
+          "start": 22600,
+          "end": 22953,
+          "confidence": 0.9999819,
+          "speaker": "A"
+        },
+        {
+          "text": "no",
+          "start": 22985,
+          "end": 23081,
+          "confidence": 0.99984205,
+          "speaker": "A"
+        },
+        {
+          "text": "me",
+          "start": 23081,
+          "end": 23210,
+          "confidence": 0.99995947,
+          "speaker": "A"
+        },
+        {
+          "text": "funcionó",
+          "start": 23210,
+          "end": 23547,
+          "confidence": 0.99997896,
+          "speaker": "A"
+        },
+        {
+          "text": "al",
+          "start": 23547,
+          "end": 23595,
+          "confidence": 0.99996614,
+          "speaker": "A"
+        },
+        {
+          "text": "principio.",
+          "start": 23611,
+          "end": 24060,
+          "confidence": 0.98326397,
+          "speaker": "A"
+        },
+        {
+          "text": "Solo",
+          "start": 24414,
+          "end": 24654,
+          "confidence": 0.99778736,
+          "speaker": "A"
+        },
+        {
+          "text": "fue",
+          "start": 24654,
+          "end": 24815,
+          "confidence": 0.9997008,
+          "speaker": "A"
+        },
+        {
+          "text": "cuando",
+          "start": 24815,
+          "end": 25056,
+          "confidence": 0.99997616,
+          "speaker": "A"
+        },
+        {
+          "text": "pasé",
+          "start": 25056,
+          "end": 25248,
+          "confidence": 0.99997145,
+          "speaker": "A"
+        },
+        {
+          "text": "de",
+          "start": 25248,
+          "end": 25328,
+          "confidence": 0.99993944,
+          "speaker": "A"
+        },
+        {
+          "text": "89",
+          "start": 25328,
+          "end": 25954,
+          "confidence": 0.9999912,
+          "speaker": "A"
+        },
+        {
+          "text": "a",
+          "start": 25954,
+          "end": 26019,
+          "confidence": 0.9986959,
+          "speaker": "A"
+        },
+        {
+          "text": "65",
+          "start": 26019,
+          "end": 26741,
+          "confidence": 0.9997336,
+          "speaker": "A"
+        },
+        {
+          "text": "kilos",
+          "start": 26741,
+          "end": 27062,
+          "confidence": 0.9997774,
+          "speaker": "A"
+        },
+        {
+          "text": "que",
+          "start": 27062,
+          "end": 27174,
+          "confidence": 0.99972314,
+          "speaker": "A"
+        },
+        {
+          "text": "entendí",
+          "start": 27174,
+          "end": 27479,
+          "confidence": 0.99992394,
+          "speaker": "A"
+        },
+        {
+          "text": "el",
+          "start": 27479,
+          "end": 27544,
+          "confidence": 0.99987614,
+          "speaker": "A"
+        },
+        {
+          "text": "secreto.",
+          "start": 27544,
+          "end": 27913,
+          "confidence": 0.9989274,
+          "speaker": "A"
+        },
+        {
+          "text": "Solo",
+          "start": 28446,
+          "end": 28587,
+          "confidence": 0.98859906,
+          "speaker": "A"
+        },
+        {
+          "text": "necesitaba",
+          "start": 28587,
+          "end": 29085,
+          "confidence": 0.99998146,
+          "speaker": "A"
+        },
+        {
+          "text": "un",
+          "start": 29085,
+          "end": 29149,
+          "confidence": 0.9993316,
+          "speaker": "A"
+        },
+        {
+          "text": "pequeño",
+          "start": 29149,
+          "end": 29470,
+          "confidence": 0.999985,
+          "speaker": "A"
+        },
+        {
+          "text": "ajuste",
+          "start": 29486,
+          "end": 29807,
+          "confidence": 0.99990326,
+          "speaker": "A"
+        },
+        {
+          "text": "en",
+          "start": 29807,
+          "end": 29871,
+          "confidence": 0.9998975,
+          "speaker": "A"
+        },
+        {
+          "text": "mi",
+          "start": 29871,
+          "end": 29951,
+          "confidence": 0.99993086,
+          "speaker": "A"
+        },
+        {
+          "text": "rutina",
+          "start": 29951,
+          "end": 30305,
+          "confidence": 0.99999547,
+          "speaker": "A"
+        },
+        {
+          "text": "y",
+          "start": 30305,
+          "end": 30353,
+          "confidence": 0.9837833,
+          "speaker": "A"
+        },
+        {
+          "text": "boom.",
+          "start": 30353,
+          "end": 30513,
+          "confidence": 0.5652465,
+          "speaker": "A"
+        },
+        {
+          "text": "Los",
+          "start": 30995,
+          "end": 31155,
+          "confidence": 0.97710437,
+          "speaker": "A"
+        },
+        {
+          "text": "resultados",
+          "start": 31155,
+          "end": 31637,
+          "confidence": 0.999984,
+          "speaker": "A"
+        },
+        {
+          "text": "fueron",
+          "start": 31637,
+          "end": 31878,
+          "confidence": 0.9999387,
+          "speaker": "A"
+        },
+        {
+          "text": "tan",
+          "start": 31878,
+          "end": 32119,
+          "confidence": 0.9999596,
+          "speaker": "A"
+        },
+        {
+          "text": "rápidos",
+          "start": 32119,
+          "end": 32520,
+          "confidence": 0.99998534,
+          "speaker": "A"
+        },
+        {
+          "text": "que,",
+          "start": 32520,
+          "end": 32729,
+          "confidence": 0.9168603,
+          "speaker": "A"
+        },
+        {
+          "text": "en",
+          "start": 32937,
+          "end": 33034,
+          "confidence": 0.9996779,
+          "speaker": "A"
+        },
+        {
+          "text": "el",
+          "start": 33034,
+          "end": 33082,
+          "confidence": 0.9999349,
+          "speaker": "A"
+        },
+        {
+          "text": "cumpleaños",
+          "start": 33082,
+          "end": 33644,
+          "confidence": 0.9999901,
+          "speaker": "A"
+        },
+        {
+          "text": "de",
+          "start": 33644,
+          "end": 33676,
+          "confidence": 0.99996567,
+          "speaker": "A"
+        },
+        {
+          "text": "mi",
+          "start": 33676,
+          "end": 33804,
+          "confidence": 0.99991643,
+          "speaker": "A"
+        },
+        {
+          "text": "sobrino,",
+          "start": 33804,
+          "end": 34157,
+          "confidence": 0.9999318,
+          "speaker": "A"
+        },
+        {
+          "text": "mi",
+          "start": 34527,
+          "end": 34687,
+          "confidence": 0.9975775,
+          "speaker": "A"
+        },
+        {
+          "text": "cuñada",
+          "start": 34687,
+          "end": 34976,
+          "confidence": 0.99999416,
+          "speaker": "A"
+        },
+        {
+          "text": "me",
+          "start": 34992,
+          "end": 35088,
+          "confidence": 0.999894,
+          "speaker": "A"
+        },
+        {
+          "text": "preguntó",
+          "start": 35088,
+          "end": 35506,
+          "confidence": 0.99997014,
+          "speaker": "A"
+        },
+        {
+          "text": "en",
+          "start": 35506,
+          "end": 35650,
+          "confidence": 0.9999167,
+          "speaker": "A"
+        },
+        {
+          "text": "voz",
+          "start": 35650,
+          "end": 35763,
+          "confidence": 0.9999783,
+          "speaker": "A"
+        },
+        {
+          "text": "baja",
+          "start": 35811,
+          "end": 36052,
+          "confidence": 0.9999584,
+          "speaker": "A"
+        },
+        {
+          "text": "si",
+          "start": 36052,
+          "end": 36164,
+          "confidence": 0.99991083,
+          "speaker": "A"
+        },
+        {
+          "text": "me",
+          "start": 36164,
+          "end": 36244,
+          "confidence": 0.99982965,
+          "speaker": "A"
+        },
+        {
+          "text": "había",
+          "start": 36244,
+          "end": 36469,
+          "confidence": 0.9999466,
+          "speaker": "A"
+        },
+        {
+          "text": "hecho",
+          "start": 36469,
+          "end": 36710,
+          "confidence": 0.9999429,
+          "speaker": "A"
+        },
+        {
+          "text": "la",
+          "start": 36710,
+          "end": 36806,
+          "confidence": 0.99801445,
+          "speaker": "A"
+        },
+        {
+          "text": "lipo",
+          "start": 36806,
+          "end": 37031,
+          "confidence": 0.9998697,
+          "speaker": "A"
+        },
+        {
+          "text": "o",
+          "start": 37031,
+          "end": 37111,
+          "confidence": 0.99927133,
+          "speaker": "A"
+        },
+        {
+          "text": "alguna",
+          "start": 37111,
+          "end": 37416,
+          "confidence": 0.99958724,
+          "speaker": "A"
+        },
+        {
+          "text": "cirugía",
+          "start": 37416,
+          "end": 37850,
+          "confidence": 0.9998844,
+          "speaker": "A"
+        },
+        {
+          "text": "secreta.",
+          "start": 37850,
+          "end": 38187,
+          "confidence": 0.99765646,
+          "speaker": "A"
+        },
+        {
+          "text": "Este",
+          "start": 38716,
+          "end": 38829,
+          "confidence": 0.91750735,
+          "speaker": "A"
+        },
+        {
+          "text": "es",
+          "start": 38877,
+          "end": 38957,
+          "confidence": 0.9998374,
+          "speaker": "A"
+        },
+        {
+          "text": "el",
+          "start": 38957,
+          "end": 39102,
+          "confidence": 0.99983764,
+          "speaker": "A"
+        },
+        {
+          "text": "método",
+          "start": 39102,
+          "end": 39423,
+          "confidence": 0.9995461,
+          "speaker": "A"
+        },
+        {
+          "text": "casero",
+          "start": 39423,
+          "end": 39744,
+          "confidence": 0.9999871,
+          "speaker": "A"
+        },
+        {
+          "text": "que",
+          "start": 39744,
+          "end": 39824,
+          "confidence": 0.99969673,
+          "speaker": "A"
+        },
+        {
+          "text": "salvó",
+          "start": 39824,
+          "end": 40097,
+          "confidence": 0.9997282,
+          "speaker": "A"
+        },
+        {
+          "text": "mi",
+          "start": 40097,
+          "end": 40225,
+          "confidence": 0.99979657,
+          "speaker": "A"
+        },
+        {
+          "text": "cuerpo.",
+          "start": 40225,
+          "end": 40514,
+          "confidence": 0.9971091,
+          "speaker": "A"
+        },
+        {
+          "text": "Desde",
+          "start": 41028,
+          "end": 41269,
+          "confidence": 0.9942713,
+          "speaker": "A"
+        },
+        {
+          "text": "mediados",
+          "start": 41269,
+          "end": 41670,
+          "confidence": 0.9999852,
+          "speaker": "A"
+        },
+        {
+          "text": "de",
+          "start": 41670,
+          "end": 41847,
+          "confidence": 0.99715793,
+          "speaker": "A"
+        },
+        {
+          "text": "año,",
+          "start": 41847,
+          "end": 41959,
+          "confidence": 0.9993693,
+          "speaker": "A"
+        },
+        {
+          "text": "este",
+          "start": 42409,
+          "end": 42569,
+          "confidence": 0.9997249,
+          "speaker": "A"
+        },
+        {
+          "text": "extraño",
+          "start": 42569,
+          "end": 42954,
+          "confidence": 0.9999328,
+          "speaker": "A"
+        },
+        {
+          "text": "truco",
+          "start": 42954,
+          "end": 43276,
+          "confidence": 0.9999589,
+          "speaker": "A"
+        },
+        {
+          "text": "de",
+          "start": 43276,
+          "end": 43356,
+          "confidence": 0.99973065,
+          "speaker": "A"
+        },
+        {
+          "text": "la",
+          "start": 43356,
+          "end": 43404,
+          "confidence": 0.99964786,
+          "speaker": "A"
+        },
+        {
+          "text": "gelatina",
+          "start": 43436,
+          "end": 43918,
+          "confidence": 0.9999852,
+          "speaker": "A"
+        },
+        {
+          "text": "se",
+          "start": 43918,
+          "end": 44094,
+          "confidence": 0.99953294,
+          "speaker": "A"
+        },
+        {
+          "text": "ha",
+          "start": 44094,
+          "end": 44110,
+          "confidence": 0.99996746,
+          "speaker": "A"
+        },
+        {
+          "text": "vuelto",
+          "start": 44110,
+          "end": 44399,
+          "confidence": 0.9999875,
+          "speaker": "A"
+        },
+        {
+          "text": "viral",
+          "start": 44399,
+          "end": 44656,
+          "confidence": 0.9999554,
+          "speaker": "A"
+        },
+        {
+          "text": "en",
+          "start": 44656,
+          "end": 44752,
+          "confidence": 0.99995375,
+          "speaker": "A"
+        },
+        {
+          "text": "redes",
+          "start": 44881,
+          "end": 45041,
+          "confidence": 0.9992619,
+          "speaker": "A"
+        },
+        {
+          "text": "sociales",
+          "start": 45041,
+          "end": 45700,
+          "confidence": 0.9999933,
+          "speaker": "A"
+        },
+        {
+          "text": "porque",
+          "start": 45764,
+          "end": 45989,
+          "confidence": 0.58131415,
+          "speaker": "A"
+        },
+        {
+          "text": "está",
+          "start": 45989,
+          "end": 46181,
+          "confidence": 0.9998473,
+          "speaker": "A"
+        },
+        {
+          "text": "ayudando",
+          "start": 46181,
+          "end": 46518,
+          "confidence": 0.999985,
+          "speaker": "A"
+        },
+        {
+          "text": "a",
+          "start": 46518,
+          "end": 46599,
+          "confidence": 0.9999846,
+          "speaker": "A"
+        },
+        {
+          "text": "miles",
+          "start": 46599,
+          "end": 46839,
+          "confidence": 0.9999348,
+          "speaker": "A"
+        },
+        {
+          "text": "de",
+          "start": 46888,
+          "end": 46920,
+          "confidence": 0.99998796,
+          "speaker": "A"
+        },
+        {
+          "text": "mujeres",
+          "start": 46920,
+          "end": 47385,
+          "confidence": 0.9999695,
+          "speaker": "A"
+        },
+        {
+          "text": "a",
+          "start": 47385,
+          "end": 47449,
+          "confidence": 0.99993277,
+          "speaker": "A"
+        },
+        {
+          "text": "derretir",
+          "start": 47449,
+          "end": 47851,
+          "confidence": 0.9999903,
+          "speaker": "A"
+        },
+        {
+          "text": "grasa",
+          "start": 47851,
+          "end": 48172,
+          "confidence": 0.99977964,
+          "speaker": "A"
+        },
+        {
+          "text": "de",
+          "start": 48172,
+          "end": 48252,
+          "confidence": 0.9998011,
+          "speaker": "A"
+        },
+        {
+          "text": "forma",
+          "start": 48252,
+          "end": 48557,
+          "confidence": 0.9999254,
+          "speaker": "A"
+        },
+        {
+          "text": "acelerada.",
+          "start": 48557,
+          "end": 49023,
+          "confidence": 0.994374,
+          "speaker": "A"
+        },
+        {
+          "text": "Guardé",
+          "start": 49456,
+          "end": 49697,
+          "confidence": 0.766694,
+          "speaker": "A"
+        },
+        {
+          "text": "este",
+          "start": 49713,
+          "end": 49938,
+          "confidence": 0.99979514,
+          "speaker": "A"
+        },
+        {
+          "text": "secreto",
+          "start": 49938,
+          "end": 50259,
+          "confidence": 0.9999858,
+          "speaker": "A"
+        },
+        {
+          "text": "por",
+          "start": 50259,
+          "end": 50371,
+          "confidence": 0.9995074,
+          "speaker": "A"
+        },
+        {
+          "text": "un",
+          "start": 50371,
+          "end": 50451,
+          "confidence": 0.9999453,
+          "speaker": "A"
+        },
+        {
+          "text": "tiempo",
+          "start": 50499,
+          "end": 50740,
+          "confidence": 0.99996424,
+          "speaker": "A"
+        },
+        {
+          "text": "porque",
+          "start": 50740,
+          "end": 50981,
+          "confidence": 0.9998666,
+          "speaker": "A"
+        },
+        {
+          "text": "quería",
+          "start": 50981,
+          "end": 51238,
+          "confidence": 0.9999721,
+          "speaker": "A"
+        },
+        {
+          "text": "estar",
+          "start": 51238,
+          "end": 51463,
+          "confidence": 0.99997497,
+          "speaker": "A"
+        },
+        {
+          "text": "segura,",
+          "start": 51463,
+          "end": 51752,
+          "confidence": 0.9974772,
+          "speaker": "A"
+        },
+        {
+          "text": "pero",
+          "start": 52025,
+          "end": 52185,
+          "confidence": 0.9996743,
+          "speaker": "A"
+        },
+        {
+          "text": "cuando",
+          "start": 52185,
+          "end": 52426,
+          "confidence": 0.99991,
+          "speaker": "A"
+        },
+        {
+          "text": "vi",
+          "start": 52426,
+          "end": 52538,
+          "confidence": 0.99994445,
+          "speaker": "A"
+        },
+        {
+          "text": "que",
+          "start": 52538,
+          "end": 52667,
+          "confidence": 0.99988997,
+          "speaker": "A"
+        },
+        {
+          "text": "tanto",
+          "start": 52667,
+          "end": 52907,
+          "confidence": 0.99982786,
+          "speaker": "A"
+        },
+        {
+          "text": "yo",
+          "start": 52907,
+          "end": 52956,
+          "confidence": 0.9999409,
+          "speaker": "A"
+        },
+        {
+          "text": "como",
+          "start": 52988,
+          "end": 53180,
+          "confidence": 0.99997747,
+          "speaker": "A"
+        },
+        {
+          "text": "mi",
+          "start": 53180,
+          "end": 53245,
+          "confidence": 0.9999728,
+          "speaker": "A"
+        },
+        {
+          "text": "esposo",
+          "start": 53245,
+          "end": 53582,
+          "confidence": 0.9998993,
+          "speaker": "A"
+        },
+        {
+          "text": "bajamos",
+          "start": 53582,
+          "end": 53951,
+          "confidence": 0.9999708,
+          "speaker": "A"
+        },
+        {
+          "text": "tallas",
+          "start": 53951,
+          "end": 54144,
+          "confidence": 0.9999578,
+          "speaker": "A"
+        },
+        {
+          "text": "en",
+          "start": 54208,
+          "end": 54272,
+          "confidence": 0.99996066,
+          "speaker": "A"
+        },
+        {
+          "text": "pocas",
+          "start": 54272,
+          "end": 54513,
+          "confidence": 0.9999828,
+          "speaker": "A"
+        },
+        {
+          "text": "semanas",
+          "start": 54513,
+          "end": 54930,
+          "confidence": 0.9999821,
+          "speaker": "A"
+        },
+        {
+          "text": "y",
+          "start": 55171,
+          "end": 55187,
+          "confidence": 0.98596734,
+          "speaker": "A"
+        },
+        {
+          "text": "nuestros",
+          "start": 55187,
+          "end": 55428,
+          "confidence": 0.9996456,
+          "speaker": "A"
+        },
+        {
+          "text": "exámenes",
+          "start": 55492,
+          "end": 55877,
+          "confidence": 0.9999917,
+          "speaker": "A"
+        },
+        {
+          "text": "médicos",
+          "start": 55877,
+          "end": 56150,
+          "confidence": 0.9999698,
+          "speaker": "A"
+        },
+        {
+          "text": "salieron",
+          "start": 56150,
+          "end": 56519,
+          "confidence": 0.99990773,
+          "speaker": "A"
+        },
+        {
+          "text": "perfectos,",
+          "start": 56519,
+          "end": 56889,
+          "confidence": 0.99627316,
+          "speaker": "A"
+        },
+        {
+          "text": "supe",
+          "start": 56921,
+          "end": 57162,
+          "confidence": 0.9999316,
+          "speaker": "A"
+        },
+        {
+          "text": "que",
+          "start": 57162,
+          "end": 57242,
+          "confidence": 0.9999678,
+          "speaker": "A"
+        },
+        {
+          "text": "tenía",
+          "start": 57242,
+          "end": 57483,
+          "confidence": 0.99955314,
+          "speaker": "A"
+        },
+        {
+          "text": "que",
+          "start": 57483,
+          "end": 57563,
+          "confidence": 0.9998553,
+          "speaker": "A"
+        },
+        {
+          "text": "compartirlo.",
+          "start": 57563,
+          "end": 58093,
+          "confidence": 0.9994158,
+          "speaker": "A"
+        },
+        {
+          "text": "De",
+          "start": 58574,
+          "end": 58622,
+          "confidence": 0.97540957,
+          "speaker": "A"
+        },
+        {
+          "text": "hecho,",
+          "start": 58622,
+          "end": 59007,
+          "confidence": 0.99955857,
+          "speaker": "A"
+        },
+        {
+          "text": "fue",
+          "start": 59087,
+          "end": 59264,
+          "confidence": 0.98940736,
+          "speaker": "A"
+        },
+        {
+          "text": "él",
+          "start": 59264,
+          "end": 59360,
+          "confidence": 0.99971014,
+          "speaker": "A"
+        },
+        {
+          "text": "quien",
+          "start": 59408,
+          "end": 59504,
+          "confidence": 0.9996327,
+          "speaker": "A"
+        },
+        {
+          "text": "me",
+          "start": 59504,
+          "end": 59648,
+          "confidence": 0.9998385,
+          "speaker": "A"
+        },
+        {
+          "text": "convenció.",
+          "start": 59648,
+          "end": 60097,
+          "confidence": 0.9855016,
+          "speaker": "A"
+        },
+        {
+          "text": "Lo",
+          "start": 60611,
+          "end": 60691,
+          "confidence": 0.9959189,
+          "speaker": "A"
+        },
+        {
+          "text": "vio",
+          "start": 60691,
+          "end": 60803,
+          "confidence": 0.99958706,
+          "speaker": "A"
+        },
+        {
+          "text": "en",
+          "start": 60803,
+          "end": 60883,
+          "confidence": 0.99995553,
+          "speaker": "A"
+        },
+        {
+          "text": "las",
+          "start": 60931,
+          "end": 61044,
+          "confidence": 0.9999517,
+          "speaker": "A"
+        },
+        {
+          "text": "noticias",
+          "start": 61044,
+          "end": 61509,
+          "confidence": 0.99998605,
+          "speaker": "A"
+        },
+        {
+          "text": "y",
+          "start": 61509,
+          "end": 61525,
+          "confidence": 0.99913186,
+          "speaker": "A"
+        },
+        {
+          "text": "me",
+          "start": 61525,
+          "end": 61653,
+          "confidence": 0.99990606,
+          "speaker": "A"
+        },
+        {
+          "text": "pidió",
+          "start": 61653,
+          "end": 61974,
+          "confidence": 0.99998254,
+          "speaker": "A"
+        },
+        {
+          "text": "que",
+          "start": 61974,
+          "end": 62054,
+          "confidence": 0.9999751,
+          "speaker": "A"
+        },
+        {
+          "text": "lo",
+          "start": 62054,
+          "end": 62134,
+          "confidence": 0.99993205,
+          "speaker": "A"
+        },
+        {
+          "text": "probáramos.",
+          "start": 62134,
+          "end": 62663,
+          "confidence": 0.9993793,
+          "speaker": "A"
+        },
+        {
+          "text": "Honestamente,",
+          "start": 63273,
+          "end": 63946,
+          "confidence": 0.99798816,
+          "speaker": "A"
+        },
+        {
+          "text": "yo",
+          "start": 64139,
+          "end": 64219,
+          "confidence": 0.9996493,
+          "speaker": "A"
+        },
+        {
+          "text": "no",
+          "start": 64219,
+          "end": 64379,
+          "confidence": 0.9998578,
+          "speaker": "A"
+        },
+        {
+          "text": "creía",
+          "start": 64379,
+          "end": 64652,
+          "confidence": 0.9998634,
+          "speaker": "A"
+        },
+        {
+          "text": "que",
+          "start": 64652,
+          "end": 64780,
+          "confidence": 0.9993444,
+          "speaker": "A"
+        },
+        {
+          "text": "fuera",
+          "start": 64780,
+          "end": 65004,
+          "confidence": 0.99933136,
+          "speaker": "A"
+        },
+        {
+          "text": "a",
+          "start": 65004,
+          "end": 65020,
+          "confidence": 0.9999856,
+          "speaker": "A"
+        },
+        {
+          "text": "funcionar,",
+          "start": 65020,
+          "end": 65470,
+          "confidence": 0.9984283,
+          "speaker": "A"
+        },
+        {
+          "text": "pero",
+          "start": 65822,
+          "end": 65983,
+          "confidence": 0.99822575,
+          "speaker": "A"
+        },
+        {
+          "text": "no",
+          "start": 65983,
+          "end": 66063,
+          "confidence": 0.99892837,
+          "speaker": "A"
+        },
+        {
+          "text": "tenía",
+          "start": 66063,
+          "end": 66335,
+          "confidence": 0.9997423,
+          "speaker": "A"
+        },
+        {
+          "text": "nada",
+          "start": 66335,
+          "end": 66512,
+          "confidence": 0.99994683,
+          "speaker": "A"
+        },
+        {
+          "text": "que",
+          "start": 66544,
+          "end": 66704,
+          "confidence": 0.9998884,
+          "speaker": "A"
+        },
+        {
+          "text": "perder.",
+          "start": 66704,
+          "end": 66977,
+          "confidence": 0.9444721,
+          "speaker": "A"
+        },
+        {
+          "text": "Y",
+          "start": 67522,
+          "end": 67682,
+          "confidence": 0.8099692,
+          "speaker": "A"
+        },
+        {
+          "text": "hoy",
+          "start": 67682,
+          "end": 67715,
+          "confidence": 0.9967078,
+          "speaker": "A"
+        },
+        {
+          "text": "estoy",
+          "start": 67763,
+          "end": 68115,
+          "confidence": 0.77719146,
+          "speaker": "A"
+        },
+        {
+          "text": "feliz",
+          "start": 68148,
+          "end": 68292,
+          "confidence": 0.9992619,
+          "speaker": "A"
+        },
+        {
+          "text": "de",
+          "start": 68388,
+          "end": 68420,
+          "confidence": 0.99987626,
+          "speaker": "A"
+        },
+        {
+          "text": "haberlo",
+          "start": 68420,
+          "end": 68725,
+          "confidence": 0.9999269,
+          "speaker": "A"
+        },
+        {
+          "text": "hecho.",
+          "start": 68725,
+          "end": 68997,
+          "confidence": 0.99321336,
+          "speaker": "A"
+        },
+        {
+          "text": "Por",
+          "start": 69911,
+          "end": 70056,
+          "confidence": 0.74607533,
+          "speaker": "A"
+        },
+        {
+          "text": "fin",
+          "start": 70072,
+          "end": 70232,
+          "confidence": 0.9999819,
+          "speaker": "A"
+        },
+        {
+          "text": "podemos",
+          "start": 70232,
+          "end": 70585,
+          "confidence": 0.9986455,
+          "speaker": "A"
+        },
+        {
+          "text": "volver",
+          "start": 70585,
+          "end": 70809,
+          "confidence": 0.9998331,
+          "speaker": "A"
+        },
+        {
+          "text": "a",
+          "start": 70809,
+          "end": 70842,
+          "confidence": 0.9999832,
+          "speaker": "A"
+        },
+        {
+          "text": "disfrutar",
+          "start": 70874,
+          "end": 71275,
+          "confidence": 0.9999886,
+          "speaker": "A"
+        },
+        {
+          "text": "de",
+          "start": 71275,
+          "end": 71355,
+          "confidence": 0.999943,
+          "speaker": "A"
+        },
+        {
+          "text": "nuestras",
+          "start": 71355,
+          "end": 71659,
+          "confidence": 0.99992144,
+          "speaker": "A"
+        },
+        {
+          "text": "comidas",
+          "start": 71675,
+          "end": 71980,
+          "confidence": 0.99997914,
+          "speaker": "A"
+        },
+        {
+          "text": "caseras,",
+          "start": 71996,
+          "end": 72509,
+          "confidence": 0.9998987,
+          "speaker": "A"
+        },
+        {
+          "text": "como",
+          "start": 72638,
+          "end": 72814,
+          "confidence": 0.9958253,
+          "speaker": "A"
+        },
+        {
+          "text": "unas",
+          "start": 72814,
+          "end": 73039,
+          "confidence": 0.99973506,
+          "speaker": "A"
+        },
+        {
+          "text": "ricas",
+          "start": 73039,
+          "end": 73279,
+          "confidence": 0.9999897,
+          "speaker": "A"
+        },
+        {
+          "text": "tortillas",
+          "start": 73279,
+          "end": 73712,
+          "confidence": 0.99992716,
+          "speaker": "A"
+        },
+        {
+          "text": "o",
+          "start": 73712,
+          "end": 73760,
+          "confidence": 0.9959967,
+          "speaker": "A"
+        },
+        {
+          "text": "un",
+          "start": 73937,
+          "end": 74001,
+          "confidence": 0.99991035,
+          "speaker": "A"
+        },
+        {
+          "text": "buen",
+          "start": 74001,
+          "end": 74241,
+          "confidence": 0.99996567,
+          "speaker": "A"
+        },
+        {
+          "text": "plato",
+          "start": 74241,
+          "end": 74434,
+          "confidence": 0.99999464,
+          "speaker": "A"
+        },
+        {
+          "text": "de",
+          "start": 74434,
+          "end": 74578,
+          "confidence": 0.9999691,
+          "speaker": "A"
+        },
+        {
+          "text": "arroz,",
+          "start": 74578,
+          "end": 74851,
+          "confidence": 0.9996631,
+          "speaker": "A"
+        },
+        {
+          "text": "sin",
+          "start": 75043,
+          "end": 75203,
+          "confidence": 0.99440396,
+          "speaker": "A"
+        },
+        {
+          "text": "sentir",
+          "start": 75203,
+          "end": 75476,
+          "confidence": 0.9999616,
+          "speaker": "A"
+        },
+        {
+          "text": "culpa",
+          "start": 75524,
+          "end": 75765,
+          "confidence": 0.9999746,
+          "speaker": "A"
+        },
+        {
+          "text": "ni",
+          "start": 75765,
+          "end": 75845,
+          "confidence": 0.99985445,
+          "speaker": "A"
+        },
+        {
+          "text": "miedo",
+          "start": 75845,
+          "end": 76101,
+          "confidence": 0.9999639,
+          "speaker": "A"
+        },
+        {
+          "text": "a",
+          "start": 76101,
+          "end": 76133,
+          "confidence": 0.99944454,
+          "speaker": "A"
+        },
+        {
+          "text": "la",
+          "start": 76166,
+          "end": 76198,
+          "confidence": 0.99989045,
+          "speaker": "A"
+        },
+        {
+          "text": "báscula.",
+          "start": 76198,
+          "end": 76615,
+          "confidence": 0.999077,
+          "speaker": "A"
+        },
+        {
+          "text": "Este",
+          "start": 77144,
+          "end": 77368,
+          "confidence": 0.6369576,
+          "speaker": "A"
+        },
+        {
+          "text": "truco",
+          "start": 77368,
+          "end": 77609,
+          "confidence": 0.99992645,
+          "speaker": "A"
+        },
+        {
+          "text": "de",
+          "start": 77609,
+          "end": 77689,
+          "confidence": 0.99987316,
+          "speaker": "A"
+        },
+        {
+          "text": "la",
+          "start": 77689,
+          "end": 77849,
+          "confidence": 0.9999454,
+          "speaker": "A"
+        },
+        {
+          "text": "gelatina",
+          "start": 77849,
+          "end": 78186,
+          "confidence": 0.99996907,
+          "speaker": "A"
+        },
+        {
+          "text": "ha",
+          "start": 78186,
+          "end": 78250,
+          "confidence": 0.99957126,
+          "speaker": "A"
+        },
+        {
+          "text": "salido",
+          "start": 78250,
+          "end": 78587,
+          "confidence": 0.9999426,
+          "speaker": "A"
+        },
+        {
+          "text": "en",
+          "start": 78587,
+          "end": 78651,
+          "confidence": 0.9999286,
+          "speaker": "A"
+        },
+        {
+          "text": "varios",
+          "start": 78651,
+          "end": 78972,
+          "confidence": 0.9999628,
+          "speaker": "A"
+        },
+        {
+          "text": "reportajes",
+          "start": 78972,
+          "end": 79453,
+          "confidence": 0.9999959,
+          "speaker": "A"
+        },
+        {
+          "text": "de",
+          "start": 79453,
+          "end": 79533,
+          "confidence": 0.9997905,
+          "speaker": "A"
+        },
+        {
+          "text": "salud,",
+          "start": 79533,
+          "end": 79902,
+          "confidence": 0.99987906,
+          "speaker": "A"
+        },
+        {
+          "text": "pero",
+          "start": 80014,
+          "end": 80175,
+          "confidence": 0.9970065,
+          "speaker": "A"
+        },
+        {
+          "text": "quizás",
+          "start": 80175,
+          "end": 80495,
+          "confidence": 0.99933624,
+          "speaker": "A"
+        },
+        {
+          "text": "te",
+          "start": 80495,
+          "end": 80575,
+          "confidence": 0.9996101,
+          "speaker": "A"
+        },
+        {
+          "text": "lo",
+          "start": 80575,
+          "end": 80656,
+          "confidence": 0.9998779,
+          "speaker": "A"
+        },
+        {
+          "text": "perdiste.",
+          "start": 80656,
+          "end": 81105,
+          "confidence": 0.9960529,
+          "speaker": "A"
+        },
+        {
+          "text": "Por",
+          "start": 81538,
+          "end": 81682,
+          "confidence": 0.879594,
+          "speaker": "A"
+        },
+        {
+          "text": "suerte,",
+          "start": 81698,
+          "end": 82099,
+          "confidence": 0.99940395,
+          "speaker": "A"
+        },
+        {
+          "text": "guardé",
+          "start": 82259,
+          "end": 82516,
+          "confidence": 0.9997538,
+          "speaker": "A"
+        },
+        {
+          "text": "el",
+          "start": 82516,
+          "end": 82612,
+          "confidence": 0.9997521,
+          "speaker": "A"
+        },
+        {
+          "text": "video",
+          "start": 82612,
+          "end": 82756,
+          "confidence": 0.84337693,
+          "speaker": "A"
+        },
+        {
+          "text": "exacto",
+          "start": 82756,
+          "end": 83302,
+          "confidence": 0.999861,
+          "speaker": "A"
+        },
+        {
+          "text": "que",
+          "start": 83302,
+          "end": 83414,
+          "confidence": 0.98202896,
+          "speaker": "A"
+        },
+        {
+          "text": "me",
+          "start": 83414,
+          "end": 83478,
+          "confidence": 0.9995881,
+          "speaker": "A"
+        },
+        {
+          "text": "enseñó",
+          "start": 83478,
+          "end": 83863,
+          "confidence": 0.9999694,
+          "speaker": "A"
+        },
+        {
+          "text": "cómo",
+          "start": 83863,
+          "end": 84039,
+          "confidence": 0.99811184,
+          "speaker": "A"
+        },
+        {
+          "text": "hacerlo",
+          "start": 84039,
+          "end": 84360,
+          "confidence": 0.9998457,
+          "speaker": "A"
+        },
+        {
+          "text": "en",
+          "start": 84360,
+          "end": 84504,
+          "confidence": 0.999785,
+          "speaker": "A"
+        },
+        {
+          "text": "casa.",
+          "start": 84504,
+          "end": 84713,
+          "confidence": 0.9948344,
+          "speaker": "A"
+        },
+        {
+          "text": "Para",
+          "start": 85282,
+          "end": 85338,
+          "confidence": 0.99180377,
+          "speaker": "A"
+        },
+        {
+          "text": "ver",
+          "start": 85338,
+          "end": 85482,
+          "confidence": 0.99987316,
+          "speaker": "A"
+        },
+        {
+          "text": "la",
+          "start": 85482,
+          "end": 85578,
+          "confidence": 0.9995234,
+          "speaker": "A"
+        },
+        {
+          "text": "receta",
+          "start": 85578,
+          "end": 85947,
+          "confidence": 0.9999759,
+          "speaker": "A"
+        },
+        {
+          "text": "paso",
+          "start": 85947,
+          "end": 86123,
+          "confidence": 0.99945503,
+          "speaker": "A"
+        },
+        {
+          "text": "a",
+          "start": 86123,
+          "end": 86155,
+          "confidence": 0.99987674,
+          "speaker": "A"
+        },
+        {
+          "text": "paso,",
+          "start": 86187,
+          "end": 86475,
+          "confidence": 0.9997914,
+          "speaker": "A"
+        },
+        {
+          "text": "solo",
+          "start": 86828,
+          "end": 87068,
+          "confidence": 0.97587216,
+          "speaker": "A"
+        },
+        {
+          "text": "toca",
+          "start": 87068,
+          "end": 87260,
+          "confidence": 0.9999473,
+          "speaker": "A"
+        },
+        {
+          "text": "el",
+          "start": 87260,
+          "end": 87308,
+          "confidence": 0.9996519,
+          "speaker": "A"
+        },
+        {
+          "text": "botón",
+          "start": 87308,
+          "end": 87533,
+          "confidence": 0.9999825,
+          "speaker": "A"
+        },
+        {
+          "text": "de",
+          "start": 87565,
+          "end": 87661,
+          "confidence": 0.99940705,
+          "speaker": "A"
+        },
+        {
+          "text": "abajo",
+          "start": 87661,
+          "end": 87949,
+          "confidence": 0.99998057,
+          "speaker": "A"
+        },
+        {
+          "text": "que",
+          "start": 87949,
+          "end": 88029,
+          "confidence": 0.99952626,
+          "speaker": "A"
+        },
+        {
+          "text": "dice",
+          "start": 88029,
+          "end": 88222,
+          "confidence": 0.9999839,
+          "speaker": "A"
+        },
+        {
+          "text": "más",
+          "start": 88222,
+          "end": 88414,
+          "confidence": 0.8881281,
+          "speaker": "A"
+        },
+        {
+          "text": "información.",
+          "start": 88446,
+          "end": 88958,
+          "confidence": 0.9959684,
+          "speaker": "A"
+        },
+        {
+          "text": "Pero",
+          "start": 89551,
+          "end": 89711,
+          "confidence": 0.75567263,
+          "speaker": "A"
+        },
+        {
+          "text": "te",
+          "start": 89711,
+          "end": 89808,
+          "confidence": 0.9984693,
+          "speaker": "A"
+        },
+        {
+          "text": "advierto,",
+          "start": 89808,
+          "end": 90240,
+          "confidence": 0.8149225,
+          "speaker": "A"
+        },
+        {
+          "text": "la",
+          "start": 90753,
+          "end": 90785,
+          "confidence": 0.9568756,
+          "speaker": "A"
+        },
+        {
+          "text": "industria",
+          "start": 90785,
+          "end": 91153,
+          "confidence": 0.99998605,
+          "speaker": "A"
+        },
+        {
+          "text": "farmacéutica",
+          "start": 91153,
+          "end": 91890,
+          "confidence": 0.9999951,
+          "speaker": "A"
+        },
+        {
+          "text": "odia",
+          "start": 91890,
+          "end": 92050,
+          "confidence": 0.9999914,
+          "speaker": "A"
+        },
+        {
+          "text": "esto.",
+          "start": 92050,
+          "end": 92323,
+          "confidence": 0.98854536,
+          "speaker": "A"
+        },
+        {
+          "text": "Es",
+          "start": 92771,
+          "end": 92819,
+          "confidence": 0.9717505,
+          "speaker": "A"
+        },
+        {
+          "text": "una",
+          "start": 92851,
+          "end": 92964,
+          "confidence": 0.9999404,
+          "speaker": "A"
+        },
+        {
+          "text": "receta",
+          "start": 92996,
+          "end": 93380,
+          "confidence": 0.9999395,
+          "speaker": "A"
+        },
+        {
+          "text": "que",
+          "start": 93380,
+          "end": 93476,
+          "confidence": 0.9985744,
+          "speaker": "A"
+        },
+        {
+          "text": "genera",
+          "start": 93476,
+          "end": 93797,
+          "confidence": 0.99991894,
+          "speaker": "A"
+        },
+        {
+          "text": "los",
+          "start": 93797,
+          "end": 93861,
+          "confidence": 0.9999323,
+          "speaker": "A"
+        },
+        {
+          "text": "mismos",
+          "start": 93909,
+          "end": 94197,
+          "confidence": 0.9999886,
+          "speaker": "A"
+        },
+        {
+          "text": "resultados",
+          "start": 94197,
+          "end": 94710,
+          "confidence": 0.9999449,
+          "speaker": "A"
+        },
+        {
+          "text": "que",
+          "start": 94758,
+          "end": 94854,
+          "confidence": 0.9990804,
+          "speaker": "A"
+        },
+        {
+          "text": "esos",
+          "start": 94854,
+          "end": 95078,
+          "confidence": 0.99972385,
+          "speaker": "A"
+        },
+        {
+          "text": "tratamientos",
+          "start": 95078,
+          "end": 95591,
+          "confidence": 0.99999255,
+          "speaker": "A"
+        },
+        {
+          "text": "de",
+          "start": 95591,
+          "end": 95719,
+          "confidence": 0.99926144,
+          "speaker": "A"
+        },
+        {
+          "text": "clínicas",
+          "start": 95719,
+          "end": 96120,
+          "confidence": 0.9999716,
+          "speaker": "A"
+        },
+        {
+          "text": "de",
+          "start": 96120,
+          "end": 96200,
+          "confidence": 0.9999752,
+          "speaker": "A"
+        },
+        {
+          "text": "lujo,",
+          "start": 96200,
+          "end": 96488,
+          "confidence": 0.99947274,
+          "speaker": "A"
+        },
+        {
+          "text": "pero",
+          "start": 96841,
+          "end": 97001,
+          "confidence": 0.97912806,
+          "speaker": "A"
+        },
+        {
+          "text": "sin",
+          "start": 97001,
+          "end": 97161,
+          "confidence": 0.9986149,
+          "speaker": "A"
+        },
+        {
+          "text": "gastar",
+          "start": 97161,
+          "end": 97481,
+          "confidence": 0.9998947,
+          "speaker": "A"
+        },
+        {
+          "text": "miles",
+          "start": 97481,
+          "end": 97722,
+          "confidence": 0.9998888,
+          "speaker": "A"
+        },
+        {
+          "text": "de",
+          "start": 97722,
+          "end": 97802,
+          "confidence": 0.99993885,
+          "speaker": "A"
+        },
+        {
+          "text": "pesos",
+          "start": 97802,
+          "end": 98138,
+          "confidence": 0.99989426,
+          "speaker": "A"
+        },
+        {
+          "text": "y",
+          "start": 98138,
+          "end": 98202,
+          "confidence": 0.99819666,
+          "speaker": "A"
+        },
+        {
+          "text": "sin",
+          "start": 98202,
+          "end": 98363,
+          "confidence": 0.998041,
+          "speaker": "A"
+        },
+        {
+          "text": "dolor.",
+          "start": 98363,
+          "end": 98571,
+          "confidence": 0.9982366,
+          "speaker": "A"
+        },
+        {
+          "text": "Es",
+          "start": 99099,
+          "end": 99244,
+          "confidence": 0.9718285,
+          "speaker": "A"
+        },
+        {
+          "text": "natural,",
+          "start": 99244,
+          "end": 99612,
+          "confidence": 0.9998493,
+          "speaker": "A"
+        },
+        {
+          "text": "seguro",
+          "start": 99644,
+          "end": 99981,
+          "confidence": 0.9995895,
+          "speaker": "A"
+        },
+        {
+          "text": "y",
+          "start": 99981,
+          "end": 100013,
+          "confidence": 0.9933642,
+          "speaker": "A"
+        },
+        {
+          "text": "ataca",
+          "start": 100061,
+          "end": 100365,
+          "confidence": 0.9999609,
+          "speaker": "A"
+        },
+        {
+          "text": "la",
+          "start": 100365,
+          "end": 100477,
+          "confidence": 0.5829345,
+          "speaker": "A"
+        },
+        {
+          "text": "raíz",
+          "start": 100477,
+          "end": 100653,
+          "confidence": 0.999991,
+          "speaker": "A"
+        },
+        {
+          "text": "de",
+          "start": 100766,
+          "end": 100846,
+          "confidence": 0.9997888,
+          "speaker": "A"
+        },
+        {
+          "text": "la",
+          "start": 100846,
+          "end": 100894,
+          "confidence": 0.9998305,
+          "speaker": "A"
+        },
+        {
+          "text": "grasa",
+          "start": 100926,
+          "end": 101310,
+          "confidence": 0.999994,
+          "speaker": "A"
+        },
+        {
+          "text": "acumulada.",
+          "start": 101310,
+          "end": 101695,
+          "confidence": 0.99958014,
+          "speaker": "A"
+        },
+        {
+          "text": "Si",
+          "start": 102368,
+          "end": 102464,
+          "confidence": 0.8217995,
+          "speaker": "A"
+        },
+        {
+          "text": "este",
+          "start": 102464,
+          "end": 102688,
+          "confidence": 0.99982315,
+          "speaker": "A"
+        },
+        {
+          "text": "video",
+          "start": 102688,
+          "end": 103024,
+          "confidence": 0.9569007,
+          "speaker": "A"
+        },
+        {
+          "text": "apareció",
+          "start": 103024,
+          "end": 103489,
+          "confidence": 0.9995442,
+          "speaker": "A"
+        },
+        {
+          "text": "para",
+          "start": 103489,
+          "end": 103617,
+          "confidence": 0.9997446,
+          "speaker": "A"
+        },
+        {
+          "text": "ti,",
+          "start": 103649,
+          "end": 103777,
+          "confidence": 0.999962,
+          "speaker": "A"
+        },
+        {
+          "text": "tómalo",
+          "start": 104050,
+          "end": 104370,
+          "confidence": 0.9999291,
+          "speaker": "A"
+        },
+        {
+          "text": "como",
+          "start": 104370,
+          "end": 104498,
+          "confidence": 0.999974,
+          "speaker": "A"
+        },
+        {
+          "text": "una",
+          "start": 104546,
+          "end": 104691,
+          "confidence": 0.9999286,
+          "speaker": "A"
+        },
+        {
+          "text": "señal.",
+          "start": 104691,
+          "end": 105043,
+          "confidence": 0.996376,
+          "speaker": "A"
+        },
+        {
+          "text": "Toca",
+          "start": 105732,
+          "end": 105908,
+          "confidence": 0.99627244,
+          "speaker": "A"
+        },
+        {
+          "text": "el",
+          "start": 105908,
+          "end": 105972,
+          "confidence": 0.9998541,
+          "speaker": "A"
+        },
+        {
+          "text": "botón",
+          "start": 105972,
+          "end": 106309,
+          "confidence": 0.99997693,
+          "speaker": "A"
+        },
+        {
+          "text": "abajo,",
+          "start": 106309,
+          "end": 106581,
+          "confidence": 0.9977966,
+          "speaker": "A"
+        },
+        {
+          "text": "mira",
+          "start": 106853,
+          "end": 107046,
+          "confidence": 0.9999116,
+          "speaker": "A"
+        },
+        {
+          "text": "el",
+          "start": 107046,
+          "end": 107126,
+          "confidence": 0.9998385,
+          "speaker": "A"
+        },
+        {
+          "text": "video",
+          "start": 107174,
+          "end": 107414,
+          "confidence": 0.9994443,
+          "speaker": "A"
+        },
+        {
+          "text": "corto",
+          "start": 107414,
+          "end": 107750,
+          "confidence": 0.9999686,
+          "speaker": "A"
+        },
+        {
+          "text": "y",
+          "start": 107750,
+          "end": 107815,
+          "confidence": 0.99946386,
+          "speaker": "A"
+        },
+        {
+          "text": "copia",
+          "start": 107815,
+          "end": 108135,
+          "confidence": 0.9999507,
+          "speaker": "A"
+        },
+        {
+          "text": "la",
+          "start": 108135,
+          "end": 108167,
+          "confidence": 0.9998124,
+          "speaker": "A"
+        },
+        {
+          "text": "receta",
+          "start": 108167,
+          "end": 108552,
+          "confidence": 0.99999034,
+          "speaker": "A"
+        },
+        {
+          "text": "antes",
+          "start": 108552,
+          "end": 108792,
+          "confidence": 0.9998357,
+          "speaker": "A"
+        },
+        {
+          "text": "de",
+          "start": 108792,
+          "end": 108888,
+          "confidence": 0.9999703,
+          "speaker": "A"
+        },
+        {
+          "text": "que",
+          "start": 108888,
+          "end": 109016,
+          "confidence": 0.9999865,
+          "speaker": "A"
+        },
+        {
+          "text": "la",
+          "start": 109016,
+          "end": 109048,
+          "confidence": 0.999819,
+          "speaker": "A"
+        },
+        {
+          "text": "borren.",
+          "start": 109048,
+          "end": 109304,
+          "confidence": 0.99852926,
+          "speaker": "A"
+        },
+        {
+          "text": "Ah,",
+          "start": 109913,
+          "end": 110025,
+          "confidence": 0.9031389,
+          "speaker": "A"
+        },
+        {
+          "text": "y",
+          "start": 110394,
+          "end": 110474,
+          "confidence": 0.99128145,
+          "speaker": "A"
+        },
+        {
+          "text": "el",
+          "start": 110474,
+          "end": 110538,
+          "confidence": 0.998585,
+          "speaker": "A"
+        },
+        {
+          "text": "video",
+          "start": 110538,
+          "end": 110778,
+          "confidence": 0.9994406,
+          "speaker": "A"
+        },
+        {
+          "text": "también",
+          "start": 110810,
+          "end": 111131,
+          "confidence": 0.99994946,
+          "speaker": "A"
+        },
+        {
+          "text": "revela",
+          "start": 111131,
+          "end": 111387,
+          "confidence": 0.9999144,
+          "speaker": "A"
+        },
+        {
+          "text": "3",
+          "start": 111419,
+          "end": 111676,
+          "confidence": 0.99942845,
+          "speaker": "A"
+        },
+        {
+          "text": "alimentos",
+          "start": 111676,
+          "end": 112060,
+          "confidence": 0.9999175,
+          "speaker": "A"
+        },
+        {
+          "text": "supuestamente",
+          "start": 112060,
+          "end": 112653,
+          "confidence": 0.9999559,
+          "speaker": "A"
+        },
+        {
+          "text": "saludables",
+          "start": 112653,
+          "end": 113117,
+          "confidence": 0.9999663,
+          "speaker": "A"
+        },
+        {
+          "text": "que",
+          "start": 113117,
+          "end": 113197,
+          "confidence": 0.9990095,
+          "speaker": "A"
+        },
+        {
+          "text": "en",
+          "start": 113197,
+          "end": 113262,
+          "confidence": 0.9991386,
+          "speaker": "A"
+        },
+        {
+          "text": "realidad",
+          "start": 113262,
+          "end": 113582,
+          "confidence": 0.9999641,
+          "speaker": "A"
+        },
+        {
+          "text": "te",
+          "start": 113582,
+          "end": 113678,
+          "confidence": 0.99983513,
+          "speaker": "A"
+        },
+        {
+          "text": "están",
+          "start": 113678,
+          "end": 113886,
+          "confidence": 0.9998343,
+          "speaker": "A"
+        },
+        {
+          "text": "engordando,",
+          "start": 113918,
+          "end": 114351,
+          "confidence": 0.9997485,
+          "speaker": "A"
+        },
+        {
+          "text": "incluido",
+          "start": 114639,
+          "end": 115040,
+          "confidence": 0.994075,
+          "speaker": "A"
+        },
+        {
+          "text": "uno",
+          "start": 115040,
+          "end": 115184,
+          "confidence": 0.9986185,
+          "speaker": "A"
+        },
+        {
+          "text": "que",
+          "start": 115184,
+          "end": 115264,
+          "confidence": 0.99976844,
+          "speaker": "A"
+        },
+        {
+          "text": "comes",
+          "start": 115264,
+          "end": 115520,
+          "confidence": 0.9998808,
+          "speaker": "A"
+        },
+        {
+          "text": "en",
+          "start": 115520,
+          "end": 115601,
+          "confidence": 0.99965096,
+          "speaker": "A"
+        },
+        {
+          "text": "el",
+          "start": 115601,
+          "end": 115697,
+          "confidence": 0.99968064,
+          "speaker": "A"
+        },
+        {
+          "text": "desayuno.",
+          "start": 115697,
+          "end": 116113,
+          "confidence": 0.9957285,
+          "speaker": "A"
+        },
+        {
+          "text": "Yo",
+          "start": 116468,
+          "end": 116550,
+          "confidence": 0.9277659,
+          "speaker": "A"
+        },
+        {
+          "text": "quedé",
+          "start": 116550,
+          "end": 116731,
+          "confidence": 0.9998675,
+          "speaker": "A"
+        },
+        {
+          "text": "en",
+          "start": 116731,
+          "end": 116879,
+          "confidence": 0.9998907,
+          "speaker": "A"
+        },
+        {
+          "text": "shock.",
+          "start": 116879,
+          "end": 117092,
+          "confidence": 0.988119,
+          "speaker": "A"
+        },
+        {
+          "text": "Haz",
+          "start": 117552,
+          "end": 117667,
+          "confidence": 0.9336983,
+          "speaker": "A"
+        },
+        {
+          "text": "clic",
+          "start": 117700,
+          "end": 117880,
+          "confidence": 0.99674976,
+          "speaker": "A"
+        },
+        {
+          "text": "en",
+          "start": 117880,
+          "end": 118028,
+          "confidence": 0.9996606,
+          "speaker": "A"
+        },
+        {
+          "text": "más",
+          "start": 118028,
+          "end": 118126,
+          "confidence": 0.9928429,
+          "speaker": "A"
+        },
+        {
+          "text": "información",
+          "start": 118126,
+          "end": 118652,
+          "confidence": 0.99996424,
+          "speaker": "A"
+        },
+        {
+          "text": "y",
+          "start": 118701,
+          "end": 118718,
+          "confidence": 0.9990933,
+          "speaker": "A"
+        },
+        {
+          "text": "míralo",
+          "start": 118718,
+          "end": 119030,
+          "confidence": 0.9999556,
+          "speaker": "A"
+        },
+        {
+          "text": "ahora.",
+          "start": 119030,
+          "end": 119227,
+          "confidence": 0.9979167,
+          "speaker": "A"
+        }
+      ]
+    }
+  ],
+  "confidence": 0.9885097,
+  "audio_duration": 120,
+  "punctuate": true,
+  "format_text": true,
+  "dual_channel": false,
+  "webhook_url": null,
+  "webhook_status_code": null,
+  "webhook_auth": false,
+  "webhook_auth_header_name": null,
+  "speed_boost": false,
+  "auto_highlights_result": null,
+  "auto_highlights": false,
+  "audio_start_from": null,
+  "audio_end_at": null,
+  "word_boost": [],
+  "boost_param": null,
+  "prompt": null,
+  "keyterms_prompt": [],
+  "filter_profanity": false,
+  "redact_pii": false,
+  "redact_pii_audio": false,
+  "redact_pii_audio_quality": null,
+  "redact_pii_audio_options": null,
+  "redact_pii_policies": null,
+  "redact_pii_sub": null,
+  "redact_static_entities": null,
+  "speaker_labels": true,
+  "speaker_options": {
+    "min_speakers_expected": null,
+    "max_speakers_expected": null,
+    "advanced_speaker_segmentation": true
+  },
+  "content_safety": false,
+  "iab_categories": false,
+  "content_safety_labels": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "iab_categories_result": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "language_detection": false,
+  "language_detection_options": null,
+  "language_detection_results": null,
+  "language_confidence_threshold": null,
+  "language_confidence": null,
+  "custom_spelling": null,
+  "throttled": false,
+  "auto_chapters": false,
+  "summarization": false,
+  "summary_type": null,
+  "summary_model": null,
+  "custom_topics": false,
+  "topics": [],
+  "speech_threshold": null,
+  "speech_model": null,
+  "speech_models": [
+    "universal-3-5-pro",
+    "universal-2"
+  ],
+  "speech_model_used": "universal-3-5-pro",
+  "temperature": null,
+  "remove_audio_tags": "all",
+  "chapters": null,
+  "disfluencies": false,
+  "entity_detection": false,
+  "sentiment_analysis": false,
+  "sentiment_analysis_results": null,
+  "entities": null,
+  "speakers_expected": null,
+  "summary": null,
+  "custom_topics_results": null,
+  "is_deleted": null,
+  "multichannel": null,
+  "project_id": 1431881,
+  "token_id": 1443892
+}

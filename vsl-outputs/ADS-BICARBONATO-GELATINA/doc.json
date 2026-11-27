@@ -1,0 +1,703 @@
+{
+ "titulo": "ADS — pasta Drive (5 anúncios: bicarbonato e gelatina) — Transcrição original + Tradução PT-BR + Prints",
+ "fonte": "Fonte: pasta do Drive com 5 vídeos (video-03-09, 17-09, 06-10 e 13-11-2026, mais '1 Facebook.mp4', colocado por último por não ter data). Transcrição: AssemblyAI (speaker labels), falantes conferidos pelos frames. ADs 01, 02 e 04 em inglês; ADs 03 e 05 em espanhol (coluna 'Transcrição original'). Tradução fiel: nomes, marcas, valores (dólares, pesos), libras e quilos mantidos como falados. AD 02: 'live' simulada no Instagram com avatar do Dr. Oz (nome de usuário 'Dr.oz', 1.554 espectadores, comentários rolando), quadro praticamente estático; cita uma 'Dra. Kylie Sakaida'. AD 03: as legendas queimadas usam grafia alterada (truc0, b4r1atr1c4, p3rder p3so, os3mp1c, monj4ro) para burlar a moderação; a transcrição segue o áudio normal. AD 04: narração em off sobre b-roll do preparo, a mulher só aparece com o copo no início e no fim.",
+ "nota_prints": "Minutagens: cada trecho traz o [m:ss] em que começa. Prints: frames dos momentos em que muda a cena, o lettering ou aparece a prova, com legenda descrevendo a imagem e o texto queimado no vídeo, nomeados adNN_descricao_HH-MM-SS.jpg na pasta frames/.",
+ "falantes": [
+  "APRESENTADORA (UGC, loira, cozinha)",
+  "DR. OZ (avatar, 'LIVE' no Instagram)",
+  "MULHER (UGC, blusa branca e legging cinza)",
+  "MULHER 50+ (UGC, cozinha, voz em off)",
+  "MULHER (UGC, jaqueta preta, à mesa)"
+ ],
+ "blocos": [
+  {
+   "n": 1,
+   "titulo": "AD 01 — video-03-09-2026 (1:38) — 'Meu corpo depois de 6 semanas de bicarbonato' (células travadas, reset alcalino)",
+   "inicio": "0:00",
+   "fim": "1:37",
+   "falas": [
+    {
+     "falante": "APRESENTADORA (UGC, loira, cozinha)",
+     "ts": "0:00",
+     "en": "This is my body after 2 years of calorie restriction. This is my body after 8 months on the shots. This is my body after just 6 weeks of using baking soda every morning. Here's exactly what happened. I was 43, and I'd been carrying the same stubborn weight for well over a decade. I thought I was doing everything right. I was consistent. I was spending the money. I was following the instructions exactly. Why was my body still not responding?",
+     "pt": "Este é o meu corpo depois de 2 anos de restrição calórica. Este é o meu corpo depois de 8 meses nas injeções. Este é o meu corpo depois de só 6 semanas usando bicarbonato de sódio toda manhã. Aqui está exatamente o que aconteceu. Eu tinha 43 anos e vinha carregando o mesmo peso teimoso havia bem mais de uma década. Eu achava que estava fazendo tudo certo. Eu era consistente. Eu estava gastando o dinheiro. Eu estava seguindo as instruções à risca. Por que o meu corpo ainda não respondia?"
+    },
+    {
+     "falante": "APRESENTADORA (UGC, loira, cozinha)",
+     "ts": "0:23",
+     "en": "Then a doctor a friend referred me to told me something that stopped me cold. The weight didn't come from eating too much. It didn't come from not moving enough. It's locked. Your cells go into a lockdown state when your internal environment becomes too acidic. And once they lock, nothing you do on the outside can reach the level where the actual release signal lives. Everything I'd been trying, the diets, the shots, the programs, were only ever hitting the surface. What I needed was something that could shift the inside environment.",
+     "pt": "Então um médico que uma amiga me indicou me disse uma coisa que me deixou paralisada. O peso não veio de comer demais. Não veio de me mexer de menos. Ele está travado. As suas células entram num estado de bloqueio quando o seu ambiente interno fica ácido demais. E, uma vez travadas, nada que você faça por fora consegue chegar ao nível onde o verdadeiro sinal de liberação mora. Tudo o que eu vinha tentando, as dietas, as injeções, os programas, só atingia a superfície. O que eu precisava era de algo que mudasse o ambiente de dentro."
+    },
+    {
+     "falante": "APRESENTADORA (UGC, loira, cozinha)",
+     "ts": "0:51",
+     "en": "That's where baking soda comes in. The right combo with 2 other kitchen ingredients creates an alkaline reset that reaches the cells directly. Once the environment shifts, the cells come out of lockdown and the body starts responding in all the right places. That means chipping away at the belly, neck, and arms after years of struggle. One glass of this every morning took me about 30 seconds. Here's why it's the best thing I've tried.",
+     "pt": "É aí que entra o bicarbonato de sódio. A combinação certa com 2 outros ingredientes de cozinha cria um reset alcalino que chega direto às células. Quando o ambiente muda, as células saem do bloqueio e o corpo começa a responder em todos os lugares certos. Isso significa ir diminuindo a barriga, o pescoço e os braços depois de anos de luta. Um copo disso toda manhã me tomava uns 30 segundos. Aqui está por que é a melhor coisa que eu já tentei."
+    },
+    {
+     "falante": "APRESENTADORA (UGC, loira, cozinha)",
+     "ts": "1:14",
+     "en": "6 weeks in, my clothes were fitting differently. By month 3, people were asking what I'd changed. Over 90,000 people have already used this after everything else failed them. The exact routine with the real directions are on the video at the next page. You don't need a free weekend to start, and there's nothing to buy to get started. Just watch the video and try it yourself. Tap below right now.",
+     "pt": "Com 6 semanas, as minhas roupas estavam vestindo diferente. No mês 3, as pessoas perguntavam o que eu tinha mudado. Mais de 90.000 pessoas já usaram isso depois que todo o resto falhou com elas. A rotina exata com as instruções reais está no vídeo da próxima página. Você não precisa de um fim de semana livre para começar, e não tem nada para comprar para começar. É só assistir ao vídeo e testar você mesma. Toque abaixo agora mesmo."
+    }
+   ],
+   "prints": [
+    {
+     "ts": "0:00",
+     "legenda": "Abertura: mulher gorda de top cinza (antes) com a apresentadora em PIP; 'THIS IS MY BODY AFTER TWO YEARS OF CALORIE RESTRICTION'",
+     "arquivo": "ad01_antes_2_anos_restricao_00-00-00.jpg"
+    },
+    {
+     "ts": "0:03",
+     "legenda": "Mulher de top preto; 'THIS IS MY BODY AFTER EIGHT MONTHS ON THE SHOTS'",
+     "arquivo": "ad01_antes_8_meses_injecoes_00-00-03.jpg"
+    },
+    {
+     "ts": "0:05",
+     "legenda": "Mulher magra de top lilás; 'THIS IS MY BODY AFTER JUST SIX WEEKS OF USING BAKING SODA'",
+     "arquivo": "ad01_depois_6_semanas_bicarbonato_00-00-05.jpg"
+    },
+    {
+     "ts": "0:10",
+     "legenda": "Apresentadora (loira, camiseta branca) na cozinha; 'I WAS 43'",
+     "arquivo": "ad01_mulher_cozinha_i_was_43_00-00-10.jpg"
+    },
+    {
+     "ts": "0:14",
+     "legenda": "Apresentadora; 'SAME STUBBORN WEIGHT FOR WELL OVER A DECADE'",
+     "arquivo": "ad01_mulher_a_decade_00-00-14.jpg"
+    },
+    {
+     "ts": "0:19",
+     "legenda": "Apresentadora gesticulando; 'I WAS FOLLOWING THE INSTRUCTIONS EXACTLY'",
+     "arquivo": "ad01_mulher_following_instructions_00-00-19.jpg"
+    },
+    {
+     "ts": "0:23",
+     "legenda": "Médico de jaleco desfocado; 'THEN A DOCTOR A FRIEND REFERRED'",
+     "arquivo": "ad01_medico_jaleco_doctor_referred_00-00-23.jpg"
+    },
+    {
+     "ts": "0:27",
+     "legenda": "Prato com omelete; 'THE WEIGHT DIDN'T COME FROM EATING'",
+     "arquivo": "ad01_omelete_weight_didnt_come_from_eating_00-00-27.jpg"
+    },
+    {
+     "ts": "0:30",
+     "legenda": "Mulher correndo na estrada; 'MOVING ENOUGH. IT'S LOCKED'",
+     "arquivo": "ad01_mulher_correndo_not_moving_00-00-30.jpg"
+    },
+    {
+     "ts": "0:32",
+     "legenda": "Ilustração de células; 'YOUR CELLS GO INTO A LOCKDOWN STATE'",
+     "arquivo": "ad01_celulas_lockdown_state_00-00-32.jpg"
+    },
+    {
+     "ts": "0:34",
+     "legenda": "Ilustração do esôfago/estômago; 'WHEN YOUR INTERNAL ENVIRONMENT BECOMES TOO ACIDIC'",
+     "arquivo": "ad01_estomago_too_acidic_00-00-34.jpg"
+    },
+    {
+     "ts": "0:37",
+     "legenda": "Ponteiro de balança; 'AND ONCE THEY LOCK, NOTHING YOU DO ON THE OUTSIDE'",
+     "arquivo": "ad01_balanca_ponteiro_lock_00-00-37.jpg"
+    },
+    {
+     "ts": "0:43",
+     "legenda": "Apresentadora; 'THE DIETS, THE SHOTS, THE PROGRAMS WERE ONLY EVER HITTING THE SURFACE'",
+     "arquivo": "ad01_mulher_the_diets_the_shots_00-00-43.jpg"
+    },
+    {
+     "ts": "0:49",
+     "legenda": "Bancada com vinagre Bragg, bicarbonato e limão; 'THAT COULD SHIFT THE INSIDE ENVIRONMENT'",
+     "arquivo": "ad01_bancada_bragg_bicarbonato_limao_00-00-49.jpg"
+    },
+    {
+     "ts": "0:51",
+     "legenda": "Mexendo o copo com bicarbonato; 'THAT'S WHERE BAKING SODA COMES IN'",
+     "arquivo": "ad01_copo_bicarbonato_thats_where_00-00-51.jpg"
+    },
+    {
+     "ts": "0:53",
+     "legenda": "Espremendo limão no copo; 'THE RIGHT COMBO WITH TWO OTHER KITCHEN INGREDIENTS'",
+     "arquivo": "ad01_espremendo_limao_right_combo_00-00-53.jpg"
+    },
+    {
+     "ts": "0:58",
+     "legenda": "Animação do homem gordo virando magro; 'REACHES THE CELLS DIRECTLY... ONCE THE ENVIRONMENT SHIFTS'",
+     "arquivo": "ad01_animacao_homem_gordo_magro_00-00-58.jpg"
+    },
+    {
+     "ts": "1:02",
+     "legenda": "Animação do corpo; 'THE CELLS COME OUT OF LOCKDOWN... IN ALL THE RIGHT PLACES'",
+     "arquivo": "ad01_animacao_cells_lockdown_00-01-02.jpg"
+    },
+    {
+     "ts": "1:04",
+     "legenda": "Mulher gorda apertando a barriga; 'THAT MEANS CHIPPING AWAY AT THE BELLY'",
+     "arquivo": "ad01_barriga_chipping_away_00-01-04.jpg"
+    },
+    {
+     "ts": "1:07",
+     "legenda": "Mulher de costas; 'NECK AND ARMS AFTER YEARS OF STRUGGLE'",
+     "arquivo": "ad01_costas_neck_and_arms_00-01-07.jpg"
+    },
+    {
+     "ts": "1:11",
+     "legenda": "Mulher magra de top lilás; 'ONE GLASS OF THIS EVERY MORNING TOOK ME ABOUT 30 SECONDS'",
+     "arquivo": "ad01_mulher_lilas_one_glass_30_seconds_00-01-11.jpg"
+    },
+    {
+     "ts": "1:15",
+     "legenda": "Apresentadora; 'SIX WEEKS IN MY CLOTHES WERE FITTING DIFFERENTLY'",
+     "arquivo": "ad01_mulher_six_weeks_in_00-01-15.jpg"
+    },
+    {
+     "ts": "1:18",
+     "legenda": "Apresentadora; 'BY MONTH THREE PEOPLE WERE ASKING WHAT I CHANGED'",
+     "arquivo": "ad01_mulher_by_month_three_00-01-18.jpg"
+    },
+    {
+     "ts": "1:20",
+     "legenda": "Apresentadora; 'OVER 90,000 PEOPLE HAVE ALREADY USED THIS'",
+     "arquivo": "ad01_mulher_over_90000_people_00-01-20.jpg"
+    },
+    {
+     "ts": "1:24",
+     "legenda": "Bancada com mel, limão e canela; 'THE EXACT ROUTINE WITH THE REAL DIRECTIONS ARE ON THE VIDEO'",
+     "arquivo": "ad01_bancada_mel_limao_directions_00-01-24.jpg"
+    },
+    {
+     "ts": "1:29",
+     "legenda": "Mão pegando o pote na bancada; 'DON'T NEED A FREE WEEKEND... NOTHING TO BUY TO START'",
+     "arquivo": "ad01_pegando_pote_nothing_to_buy_00-01-29.jpg"
+    },
+    {
+     "ts": "1:33",
+     "legenda": "Apresentadora apontando; 'JUST WATCH THE VIDEO AND TRY IT YOURSELF'",
+     "arquivo": "ad01_mulher_just_watch_the_video_00-01-33.jpg"
+    },
+    {
+     "ts": "1:36",
+     "legenda": "Apresentadora; 'TAP BELOW RIGHT NOW'",
+     "arquivo": "ad01_mulher_tap_below_right_now_00-01-36.jpg"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "AD 02 — video-17-09-2026 (2:13) — Dr. Oz (avatar) ao vivo: 'a última vez' da receita de bicarbonato com limão (XL → XS)",
+   "inicio": "0:00",
+   "fim": "2:09",
+   "falas": [
+    {
+     "falante": "DR. OZ (avatar, 'LIVE' no Instagram)",
+     "ts": "0:00",
+     "en": "This is the last time I am going to drop the baking soda and lemon trick recipe for free, and anyone who starts today is going to need to restock their wardrobe by Monday. I bet a million dollars that you will be wearing an XS bikini by September if you prepare the recipe in the correct order, and that is what separates those who get out of an XL from those who do not see the numbers on the scale go down. So pay attention for the next 30 seconds because I swear it is the last time I am going to talk about this on my profile. Seriously, if you have been taking the baking soda shot for at least 5 days and did not need to rush to the store to buy a new size M pair of pants, You probably fell for some fake version they are putting out there on the internet. The real version of the trick costs $3,000 and a private consultation with Dr. Kylie Sakaida, nutritionist to the stars in Hollywood, and requires the correct order and exact timing to go from XL to S in less than 3 months.",
+     "pt": "Esta é a última vez que eu vou soltar de graça a receita do truque do bicarbonato com limão, e quem começar hoje vai precisar renovar o guarda-roupa até segunda-feira. Eu aposto um milhão de dólares que você vai estar usando um biquíni XS até setembro se preparar a receita na ordem correta, e é isso que separa quem sai do XL de quem não vê os números da balança caírem. Então preste atenção pelos próximos 30 segundos, porque eu juro que é a última vez que vou falar disso no meu perfil. Sério, se você está tomando o shot de bicarbonato há pelo menos 5 dias e não precisou correr para a loja comprar uma calça nova tamanho M, você provavelmente caiu em alguma versão falsa que estão espalhando por aí na internet. A versão real do truque custa $3.000 e uma consulta particular com a Dra. Kylie Sakaida, nutricionista das estrelas de Hollywood, e exige a ordem correta e o tempo exato para ir do XL ao S em menos de 3 meses."
+    },
+    {
+     "falante": "DR. OZ (avatar, 'LIVE' no Instagram)",
+     "ts": "0:46",
+     "en": "Before continuing, a serious warning. In celebration of more than 70,000 women losing at least 9 pounds with this bariatric shot recipe, the short video of Dr. Kylie's original recipe, who has already helped names like Oprah, Kelly Clarkson, and Melissa McCarthy lose weight, is completely free for the next 20 minutes. Click learn more now and copy the correct recipe before it goes offline. Oprah is gonna kill me for revealing this, but it was this baking soda shot recipe she used to go from XL to M after turning 70. It is impossible for you not to wake up 3 pounds thinner tomorrow if you make this recipe the right way today. The combination of this recipe is more powerful than a truckload of Ozempic. Get ready to cry with joy the day you manage to wear XS for the first time in years.",
+     "pt": "Antes de continuar, um aviso sério. Em comemoração a mais de 70.000 mulheres que perderam pelo menos 9 libras com esta receita de shot bariátrico, o vídeo curto da receita original da Dra. Kylie, que já ajudou nomes como Oprah, Kelly Clarkson e Melissa McCarthy a emagrecer, está totalmente de graça pelos próximos 20 minutos. Clique em Saiba Mais agora e copie a receita correta antes que ela saia do ar. A Oprah vai me matar por revelar isso, mas foi esta receita de shot de bicarbonato que ela usou para ir do XL ao M depois dos 70. É impossível você não acordar 3 libras mais magra amanhã se fizer esta receita do jeito certo hoje. A combinação desta receita é mais poderosa do que um caminhão de Ozempic. Prepare-se para chorar de alegria no dia em que conseguir vestir XS pela primeira vez em anos."
+    },
+    {
+     "falante": "DR. OZ (avatar, 'LIVE' no Instagram)",
+     "ts": "1:23",
+     "en": "I bet $1 million in cash that you will get out of an XL in 5 days tops with this baking soda shot trick. This recipe turns on the metabolism's turbo mode and is up to 18 times stronger than cardio on the treadmill. The results? Your body enters high-speed burn mode 24 hours a day. You will need to eat McDonald's every day just to keep from getting too skinny. To watch a full step-by-step video, click the link below.",
+     "pt": "Eu aposto $1 milhão em dinheiro que você vai sair do XL em no máximo 5 dias com este truque do shot de bicarbonato. Esta receita liga o modo turbo do metabolismo e é até 18 vezes mais forte do que o cardio na esteira. O resultado? O seu corpo entra em modo de queima em alta velocidade 24 horas por dia. Você vai precisar comer McDonald's todo dia só para não ficar magra demais. Para assistir ao vídeo completo com o passo a passo, clique no link abaixo."
+    },
+    {
+     "falante": "DR. OZ (avatar, 'LIVE' no Instagram)",
+     "ts": "1:43",
+     "en": "This recipe video has already been banned 7 times from the internet, and I suspect it is the manufacturers of Mounjaro. If it is still available when you click, be grateful and watch. It might be your last chance to see it for free. In the video, you will discover the correct order to prepare the recipe at home and the specific timing to see your XL pants slipping off before September 2026 is over. Click the button below, watch now, and prepare your first shot today. If you have tried everything and never managed to lose weight, this is your chance. Click Learn more and be ready to lose at least 3 pounds tomorrow morning.",
+     "pt": "Este vídeo da receita já foi banido 7 vezes da internet, e eu suspeito que sejam os fabricantes do Mounjaro. Se ainda estiver disponível quando você clicar, agradeça e assista. Pode ser a sua última chance de ver de graça. No vídeo, você vai descobrir a ordem correta para preparar a receita em casa e o tempo específico para ver a sua calça XL escorregando antes que setembro de 2026 termine. Clique no botão abaixo, assista agora e prepare o seu primeiro shot hoje. Se você já tentou de tudo e nunca conseguiu emagrecer, esta é a sua chance. Clique em Saiba Mais e esteja pronta para perder pelo menos 3 libras amanhã de manhã."
+    }
+   ],
+   "prints": [
+    {
+     "ts": "0:00",
+     "legenda": "Abertura: Dr. Oz (avatar) em 'LIVE' no Instagram ('Dr.oz', 1.554 espectadores) segurando a caixa de bicarbonato Arm & Hammer, tigela de gelo à frente e comentários rolando",
+     "arquivo": "ad02_dr_oz_live_bicarbonato_gelo_00-00-00.jpg"
+    },
+    {
+     "ts": "0:07",
+     "legenda": "Dr. Oz abrindo a caixa de bicarbonato",
+     "arquivo": "ad02_dr_oz_abrindo_caixa_00-00-07.jpg"
+    },
+    {
+     "ts": "0:10",
+     "legenda": "Dr. Oz em close com a caixa; 'I bet a million dollars that you will be wearing an XS bikini'",
+     "arquivo": "ad02_dr_oz_closeup_caixa_00-00-10.jpg"
+    },
+    {
+     "ts": "0:25",
+     "legenda": "Dr. Oz; 'you probably fell for some fake version'",
+     "arquivo": "ad02_dr_oz_fake_version_00-00-25.jpg"
+    },
+    {
+     "ts": "0:35",
+     "legenda": "Dr. Oz; 'The real version of the trick costs $3,000'",
+     "arquivo": "ad02_dr_oz_3000_dollars_00-00-35.jpg"
+    },
+    {
+     "ts": "0:47",
+     "legenda": "Dr. Oz; 'Before continuing, a serious warning'",
+     "arquivo": "ad02_dr_oz_serious_warning_00-00-47.jpg"
+    },
+    {
+     "ts": "1:02",
+     "legenda": "Dr. Oz; 'Click learn more now and copy the correct recipe'",
+     "arquivo": "ad02_dr_oz_click_learn_more_00-01-02.jpg"
+    },
+    {
+     "ts": "1:06",
+     "legenda": "Dr. Oz; 'Oprah is gonna kill me for revealing this'",
+     "arquivo": "ad02_dr_oz_oprah_gonna_kill_me_00-01-06.jpg"
+    },
+    {
+     "ts": "1:23",
+     "legenda": "Dr. Oz; 'I bet $1 million in cash'",
+     "arquivo": "ad02_dr_oz_1_million_cash_00-01-23.jpg"
+    },
+    {
+     "ts": "1:38",
+     "legenda": "Dr. Oz; 'You will need to eat McDonald's every day'",
+     "arquivo": "ad02_dr_oz_mcdonalds_every_day_00-01-38.jpg"
+    },
+    {
+     "ts": "1:43",
+     "legenda": "Dr. Oz; 'This recipe video has already been banned 7 times'",
+     "arquivo": "ad02_dr_oz_banned_7_times_00-01-43.jpg"
+    },
+    {
+     "ts": "2:00",
+     "legenda": "Dr. Oz; 'Click the button below, watch now'",
+     "arquivo": "ad02_dr_oz_click_the_button_below_00-02-00.jpg"
+    },
+    {
+     "ts": "2:08",
+     "legenda": "Dr. Oz; 'Click Learn more and be ready to lose at least 3 pounds'",
+     "arquivo": "ad02_dr_oz_ultimo_frame_00-02-08.jpg"
+    },
+    {
+     "ts": "2:10",
+     "legenda": "Cartela 'CLICK THE BUTTON BELOW' com setas vermelhas (CTA final)",
+     "arquivo": "ad02_cartela_click_the_button_below_00-02-10.jpg"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "AD 03 — video-06-10-2026 (1:15) — [ESPANHOL] Gelatina bariátrica: 'que lipo que nada' (legendas com grafia alterada)",
+   "inicio": "0:00",
+   "fim": "1:14",
+   "falas": [
+    {
+     "falante": "MULHER (UGC, blusa branca e legging cinza)",
+     "ts": "0:00",
+     "en": "Preparé este truco de la gelatina bariátrica y ahora no puedo parar de perder peso. Ay, pero es que no hay un estudio que demuestre la efectividad de la gelatina bariátrica a la hora correcta. Por favor, mujer. Después de 2 embarazos, una cesárea y un parto natural, mira cómo quedó esta barriga. Antes de este truco yo no tenía ni el valor de ponerme un topcito así, jamás. Y ahora me vas a preguntar: ¿te hiciste la lipo, amiga? ¡Qué lipo ni qué nada! Yo no me he hecho nada ni me he matado en el gimnasio. Esto de aquí es para nosotras, las simples mortales que no tenemos $1000 para gastar todos los meses en Ozempic o Mounjaro.",
+     "pt": "Preparei este truque da gelatina bariátrica e agora não consigo parar de perder peso. Ai, mas é que não existe um estudo que comprove a eficácia da gelatina bariátrica na hora certa. Por favor, mulher. Depois de 2 gestações, uma cesárea e um parto normal, olha como ficou esta barriga. Antes deste truque eu não tinha nem coragem de colocar um topzinho assim, jamais. E agora você vai me perguntar: você fez lipo, amiga? Que lipo que nada! Eu não fiz nada nem me matei na academia. Isto aqui é para nós, as simples mortais que não temos $1.000 para gastar todo mês em Ozempic ou Mounjaro."
+    },
+    {
+     "falante": "MULHER (UGC, blusa branca e legging cinza)",
+     "ts": "0:29",
+     "en": "Entonces, ¿qué hacemos? Usamos la cabeza. Es solo una mezcla específica de gelatina casera que tiene un efecto similar al de una cirugía bariátrica, tomada exactamente de la forma correcta todos los días en ayunas. Solo acuérdate de hacer este truco antes de tomar tu desayuno normal. Te toma menos de 30 segundos prepararla y cuesta centavos. Quiero verte probar esto por 7 días y no volver aquí a decirme que tu cintura no se desinfló y se afinó en una sola semana.",
+     "pt": "Então, o que a gente faz? Usa a cabeça. É só uma mistura específica de gelatina caseira que tem um efeito parecido com o de uma cirurgia bariátrica, tomada exatamente do jeito certo todos os dias em jejum. Só lembre de fazer este truque antes de tomar o seu café da manhã normal. Leva menos de 30 segundos para preparar e custa centavos. Quero ver você testar isso por 7 dias e não voltar aqui para me dizer que a sua cintura não desinchou e afinou em uma única semana."
+    },
+    {
+     "falante": "MULHER (UGC, blusa branca e legging cinza)",
+     "ts": "0:53",
+     "en": "Ve a hacerlo, mujer, es increíblemente fácil. Te dejé el enlace con el vídeo corto donde muestran el paso a paso exacto de cómo prepararla en el botón que está aquí abajo. Solo presta mucha atención a cómo se hace y míralo hasta el final. Sinceramente, estoy teniendo que controlar a mi esposo porque ya me está hablando de tener un tercer hijo desde que vio cómo me volvió a quedar la cintura. Haz clic en el botón de abajo, ve a ver el vídeo y después me das las gracias. Chao, chao.",
+     "pt": "Vai lá fazer, mulher, é incrivelmente fácil. Deixei o link com o vídeo curto onde mostram o passo a passo exato de como preparar no botão que está aqui embaixo. Só preste muita atenção em como se faz e assista até o final. Sinceramente, estou tendo que controlar o meu marido, porque ele já está falando em ter um terceiro filho desde que viu como a minha cintura voltou a ficar. Clique no botão abaixo, vai ver o vídeo e depois me agradece. Tchau, tchau."
+    }
+   ],
+   "prints": [
+    {
+     "ts": "0:00",
+     "legenda": "Abertura: despejando gelatina em pó vermelha numa tigela; legenda 'preparé este truc0 de la gelatina' (grafia alterada para burlar moderação)",
+     "arquivo": "ad03_gelatina_po_vermelho_tigela_00-00-00.jpg"
+    },
+    {
+     "ts": "0:02",
+     "legenda": "Tigela; legenda 'b4r1atr1c4 y ahora no puedo parar de p3rder p3so'",
+     "arquivo": "ad03_gelatina_b4r1atr1c4_00-00-02.jpg"
+    },
+    {
+     "ts": "0:04",
+     "legenda": "Mulher (UGC, blusa branca, legging cinza) com caneta na mão; 'ay pero... un estudio'",
+     "arquivo": "ad03_mulher_blusa_branca_ay_pero_00-00-04.jpg"
+    },
+    {
+     "ts": "0:06",
+     "legenda": "Caixa de Jell-O de morango sobre a mulher; 'la efectividad de la gelatina b4r1atr1c4 a la hora correcta'",
+     "arquivo": "ad03_caixa_jello_morango_00-00-06.jpg"
+    },
+    {
+     "ts": "0:12",
+     "legenda": "Mulher mostrando a barriga; 'mira cómo quedó esta barriga'",
+     "arquivo": "ad03_mulher_mira_esta_barriga_00-00-12.jpg"
+    },
+    {
+     "ts": "0:14",
+     "legenda": "Foto 'antes' (mulher sentada, mais gorda) em PIP; 'antes de este truc0'",
+     "arquivo": "ad03_foto_antes_cadeira_00-00-14.jpg"
+    },
+    {
+     "ts": "0:16",
+     "legenda": "Foto 'antes' de top preto; 'un topcito así jamás'",
+     "arquivo": "ad03_foto_antes_top_00-00-16.jpg"
+    },
+    {
+     "ts": "0:20",
+     "legenda": "Print de mensagem de seguidora ('Estoy haciendo el truco del bicarbonato...'); 'qué lipo ni qué nada'",
+     "arquivo": "ad03_print_mensagem_bicarbonato_00-00-20.jpg"
+    },
+    {
+     "ts": "0:21",
+     "legenda": "Mulher com print de mensagem; 'yo no me he hecho nada ni me he matado en el gimnasio'",
+     "arquivo": "ad03_mulher_print_no_me_he_hecho_nada_00-00-21.jpg"
+    },
+    {
+     "ts": "0:26",
+     "legenda": "Print de mensagem; legenda '$1.000'",
+     "arquivo": "ad03_print_1000_dolares_00-00-26.jpg"
+    },
+    {
+     "ts": "0:28",
+     "legenda": "Mulher; legenda 'para gastar todos los meses en os3mp1c o monj4ro'",
+     "arquivo": "ad03_mulher_os3mp1c_monj4ro_00-00-28.jpg"
+    },
+    {
+     "ts": "0:32",
+     "legenda": "Print de mensagem ('Ya llevo tomando 2 meses y sí, ¡veo resultados!'); 'una mezcla específica de gelatina casera'",
+     "arquivo": "ad03_print_2_meses_resultados_00-00-32.jpg"
+    },
+    {
+     "ts": "0:37",
+     "legenda": "Mulher; 'b4r1atr1c4 tomada exactamente de la forma correcta'",
+     "arquivo": "ad03_mulher_forma_correcta_00-00-37.jpg"
+    },
+    {
+     "ts": "0:41",
+     "legenda": "Mulher; 'de hacer este truc0 antes de tomar tu desayuno normal'",
+     "arquivo": "ad03_mulher_antes_del_desayuno_00-00-41.jpg"
+    },
+    {
+     "ts": "0:44",
+     "legenda": "Mulher; 'toma menos de 30 segundos prepararla y cuesta centavos'",
+     "arquivo": "ad03_mulher_30_segundos_centavos_00-00-44.jpg"
+    },
+    {
+     "ts": "0:50",
+     "legenda": "Mulher; 'tu cintura no se desinfló y se afinó en una sola semana'",
+     "arquivo": "ad03_mulher_cintura_se_desinflo_00-00-50.jpg"
+    },
+    {
+     "ts": "0:55",
+     "legenda": "Caixa de Jell-O e pote de Cool Whip; 'es increíblemente fácil'",
+     "arquivo": "ad03_jello_pote_cool_whip_00-00-55.jpg"
+    },
+    {
+     "ts": "0:57",
+     "legenda": "Colher com pó e caixa de Jell-O; 'donde muestran el paso a paso'",
+     "arquivo": "ad03_colher_po_passo_a_passo_00-00-57.jpg"
+    },
+    {
+     "ts": "1:01",
+     "legenda": "Tigela com pó branco; 'en el botón que está aquí abajo'",
+     "arquivo": "ad03_tigela_bicarbonato_boton_abajo_00-01-01.jpg"
+    },
+    {
+     "ts": "1:04",
+     "legenda": "Despejando pó na gelatina vermelha; 'sinceramente estoy teniendo que controlar a mi esposo'",
+     "arquivo": "ad03_despejando_po_gelatina_vermelha_00-01-04.jpg"
+    },
+    {
+     "ts": "1:08",
+     "legenda": "Gelatina rosa espumando na jarra medidora; 'desde que vio cómo me volvió a quedar la cintura'",
+     "arquivo": "ad03_gelatina_rosa_espumando_00-01-08.jpg"
+    },
+    {
+     "ts": "1:11",
+     "legenda": "Jarra medidora; 'haz clic en el botón de abajo'",
+     "arquivo": "ad03_jarra_haz_clic_boton_00-01-11.jpg"
+    },
+    {
+     "ts": "1:14",
+     "legenda": "Mulher acenando; 'chao chao'",
+     "arquivo": "ad03_mulher_chao_chao_00-01-14.jpg"
+    }
+   ],
+   "rotulo_original": "Transcrição original (espanhol)"
+  },
+  {
+   "n": 4,
+   "titulo": "AD 04 — video-13-11-2026 (1:10) — 'Mães, nunca misturem bicarbonato com estas 3 coisas' (limão, gelo e o 3º ingrediente)",
+   "inicio": "0:00",
+   "fim": "1:09",
+   "falas": [
+    {
+     "falante": "MULHER 50+ (UGC, cozinha, voz em off)",
+     "ts": "0:00",
+     "en": "Moms, never mix baking soda with these 3 things unless you're ready to buy a whole new wardrobe. Watch till the end. This was me before at my heaviest, and this is me now. No crazy diets, no expensive programs, just this. 1 is lemon, 2 is ice, and 3 is the one every version online leaves out.",
+     "pt": "Mães, nunca misturem bicarbonato de sódio com estas 3 coisas, a não ser que estejam prontas para comprar um guarda-roupa inteiro novo. Assistam até o fim. Esta era eu antes, no meu peso máximo, e esta sou eu agora. Sem dietas malucas, sem programas caros, só isto. O 1 é limão, o 2 é gelo e o 3 é o que toda versão da internet deixa de fora."
+    },
+    {
+     "falante": "MULHER 50+ (UGC, cozinha, voz em off)",
+     "ts": "0:25",
+     "en": "I kept seeing this all over my feed and every version skipped the 3rd ingredient. Then my sister sent me the one with the real ratio. Keto, low-carb, pink salt, fasting: none of it stuck. But this? Pound after pound, week after week, and it stayed off. My cravings quieted down and my jeans went from tight to comfortable to falling off.",
+     "pt": "Eu vivia vendo isso no meu feed, e toda versão pulava o 3º ingrediente. Então a minha irmã me mandou a versão com a proporção real. Keto, low-carb, sal rosa, jejum: nada disso pegou. Mas isto? Libra após libra, semana após semana, e o peso não voltou. A minha fome diminuiu e os meus jeans foram de apertados a confortáveis a caindo."
+    },
+    {
+     "falante": "MULHER 50+ (UGC, cozinha, voz em off)",
+     "ts": "0:50",
+     "en": "My sister didn't recognize me at Thanksgiving. Now she makes it every night too. Takes less than a minute with 3 things already in my kitchen, and it costs about $2, so nobody's ever going to run a commercial for it. I saved the short clip with the exact amounts. Tap Learn More and watch it before you try it.",
+     "pt": "A minha irmã não me reconheceu no Dia de Ação de Graças. Agora ela também faz toda noite. Leva menos de um minuto com 3 coisas que já estão na minha cozinha, e custa uns $2, então ninguém nunca vai fazer um comercial disso. Eu salvei o clipe curto com as quantidades exatas. Toque em Saiba Mais e assista antes de testar."
+    }
+   ],
+   "prints": [
+    {
+     "ts": "0:00",
+     "legenda": "Abertura: caixa de Arm & Hammer, limão e colheres medidoras na bancada; 'Moms, never mix baking soda with these 3 things'",
+     "arquivo": "ad04_bicarbonato_limao_colheres_00-00-00.jpg"
+    },
+    {
+     "ts": "0:03",
+     "legenda": "Despejando bicarbonato no copo com limão e gelo",
+     "arquivo": "ad04_despejando_bicarbonato_copo_00-00-03.jpg"
+    },
+    {
+     "ts": "0:05",
+     "legenda": "Espremendo limão no copo; 'Watch till the end'",
+     "arquivo": "ad04_espremendo_limao_copo_00-00-05.jpg"
+    },
+    {
+     "ts": "0:07",
+     "legenda": "Celular com foto 'antes' (mulher gorda); 'This was me before at my heaviest'",
+     "arquivo": "ad04_celular_foto_antes_00-00-07.jpg"
+    },
+    {
+     "ts": "0:10",
+     "legenda": "Mulher 50+ (camiseta verde) erguendo o copo; 'and this is me now'",
+     "arquivo": "ad04_mulher_50_copo_this_is_me_now_00-00-10.jpg"
+    },
+    {
+     "ts": "0:16",
+     "legenda": "Colocando rodela de limão no copo com gelo; '1 is lemon'",
+     "arquivo": "ad04_rodela_limao_copo_gelo_00-00-16.jpg"
+    },
+    {
+     "ts": "0:19",
+     "legenda": "Pegando gelo na geladeira; '2 is ice'",
+     "arquivo": "ad04_geladeira_gelo_00-00-19.jpg"
+    },
+    {
+     "ts": "0:21",
+     "legenda": "Três colheres medidoras com pós; '3 is the one every version online leaves out'",
+     "arquivo": "ad04_colheres_medidoras_3_ingredientes_00-00-21.jpg"
+    },
+    {
+     "ts": "0:25",
+     "legenda": "Mexendo a mistura branca na jarra; 'every version skipped the 3rd ingredient'",
+     "arquivo": "ad04_mexendo_jarra_branca_00-00-25.jpg"
+    },
+    {
+     "ts": "0:33",
+     "legenda": "Armário com potes (sal rosa, pó branco); 'Keto, low-carb, pink salt, fasting'",
+     "arquivo": "ad04_armario_potes_sal_rosa_00-00-33.jpg"
+    },
+    {
+     "ts": "0:38",
+     "legenda": "Despejando a mistura na forma de gelo azul; 'Pound after pound, week after week'",
+     "arquivo": "ad04_despejando_forma_gelo_00-00-38.jpg"
+    },
+    {
+     "ts": "0:44",
+     "legenda": "Forma de gelo no freezer; 'my jeans went from tight to comfortable'",
+     "arquivo": "ad04_forma_gelo_freezer_00-00-44.jpg"
+    },
+    {
+     "ts": "0:50",
+     "legenda": "Desenformando os cubos no copo; 'My sister didn't recognize me at Thanksgiving'",
+     "arquivo": "ad04_cubos_mistura_copo_00-00-50.jpg"
+    },
+    {
+     "ts": "0:55",
+     "legenda": "Mexendo o copo com rodela de limão; 'Takes less than a minute with 3 things already in my kitchen'",
+     "arquivo": "ad04_copo_limao_mexendo_00-00-55.jpg"
+    },
+    {
+     "ts": "0:59",
+     "legenda": "Caixa de bicarbonato ao lado do copo; 'it costs about $2'",
+     "arquivo": "ad04_caixa_bicarbonato_copo_2_dollars_00-00-59.jpg"
+    },
+    {
+     "ts": "1:04",
+     "legenda": "Mulher 50+ com o copo; 'Tap Learn More and watch it before you try it'",
+     "arquivo": "ad04_mulher_50_copo_tap_learn_more_00-01-04.jpg"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "titulo": "AD 05 — 1 Facebook.mp4 (2:00) — [ESPANHOL] 'Meu marido me chamou de iludida': a receita viral da gelatina (89 → 65 kg)",
+   "inicio": "0:00",
+   "fim": "1:59",
+   "falas": [
+    {
+     "falante": "MULHER (UGC, jaqueta preta, à mesa)",
+     "ts": "0:00",
+     "en": "Mi esposo me llamó ilusa cuando le conté sobre la receta viral de la gelatina, pero se puso celoso cuando me vio en la playa usando el mismo bikini que usaba a los 23 años. Primero, vas a tomar unos 200 mililitros de agua fría, agregas la gelatina y la pones en un tazón, ¿ok? Ahora, añade el jugo de medio limón. Ingredientes que todos tenemos en casa, ¿verdad? Pero presta mucha atención, porque esta es la clave. Comer gelatina con limón y otros 2 ingredientes simples no me funcionó al principio. Solo fue cuando pasé de 89 a 65 kilos que entendí el secreto. Solo necesitaba un pequeño ajuste en mi rutina y boom. Los resultados fueron tan rápidos que, en el cumpleaños de mi sobrino, mi cuñada me preguntó en voz baja si me había hecho la lipo o alguna cirugía secreta. Este es el método casero que salvó mi cuerpo.",
+     "pt": "O meu marido me chamou de iludida quando eu contei para ele sobre a receita viral da gelatina, mas ficou com ciúme quando me viu na praia usando o mesmo biquíni que eu usava aos 23 anos. Primeiro, você vai pegar uns 200 mililitros de água fria, acrescenta a gelatina e coloca numa tigela, ok? Agora, adicione o suco de meio limão. Ingredientes que todo mundo tem em casa, né? Mas preste muita atenção, porque esta é a chave. Comer gelatina com limão e outros 2 ingredientes simples não funcionou comigo no começo. Foi só quando eu passei de 89 para 65 quilos que entendi o segredo. Eu só precisava de um pequeno ajuste na minha rotina e bum. Os resultados foram tão rápidos que, no aniversário do meu sobrinho, a minha cunhada me perguntou baixinho se eu tinha feito lipo ou alguma cirurgia secreta. Este é o método caseiro que salvou o meu corpo."
+    },
+    {
+     "falante": "MULHER (UGC, jaqueta preta, à mesa)",
+     "ts": "0:41",
+     "en": "Desde mediados de año, este extraño truco de la gelatina se ha vuelto viral en redes sociales porque está ayudando a miles de mujeres a derretir grasa de forma acelerada. Guardé este secreto por un tiempo porque quería estar segura, pero cuando vi que tanto yo como mi esposo bajamos tallas en pocas semanas y nuestros exámenes médicos salieron perfectos, supe que tenía que compartirlo. De hecho, fue él quien me convenció. Lo vio en las noticias y me pidió que lo probáramos. Honestamente, yo no creía que fuera a funcionar, pero no tenía nada que perder. Y hoy estoy feliz de haberlo hecho. Por fin podemos volver a disfrutar de nuestras comidas caseras, como unas ricas tortillas o un buen plato de arroz, sin sentir culpa ni miedo a la báscula.",
+     "pt": "Desde o meio do ano, este estranho truque da gelatina viralizou nas redes sociais porque está ajudando milhares de mulheres a derreter gordura de forma acelerada. Eu guardei este segredo por um tempo porque queria ter certeza, mas, quando vi que tanto eu quanto o meu marido perdemos tamanhos em poucas semanas e os nossos exames médicos saíram perfeitos, soube que tinha que compartilhar. Na verdade, foi ele quem me convenceu. Ele viu no noticiário e me pediu para a gente testar. Honestamente, eu não acreditava que fosse funcionar, mas não tinha nada a perder. E hoje estou feliz por ter feito. Finalmente podemos voltar a aproveitar as nossas comidas caseiras, como umas tortillas gostosas ou um bom prato de arroz, sem sentir culpa nem medo da balança."
+    },
+    {
+     "falante": "MULHER (UGC, jaqueta preta, à mesa)",
+     "ts": "1:17",
+     "en": "Este truco de la gelatina ha salido en varios reportajes de salud, pero quizás te lo perdiste. Por suerte, guardé el video exacto que me enseñó cómo hacerlo en casa. Para ver la receta paso a paso, solo toca el botón de abajo que dice más información. Pero te advierto, la industria farmacéutica odia esto. Es una receta que genera los mismos resultados que esos tratamientos de clínicas de lujo, pero sin gastar miles de pesos y sin dolor. Es natural, seguro y ataca la raíz de la grasa acumulada. Si este video apareció para ti, tómalo como una señal. Toca el botón abajo, mira el video corto y copia la receta antes de que la borren. Ah, y el video también revela 3 alimentos supuestamente saludables que en realidad te están engordando, incluido uno que comes en el desayuno. Yo quedé en shock. Haz clic en más información y míralo ahora.",
+     "pt": "Este truque da gelatina já saiu em várias reportagens de saúde, mas talvez você tenha perdido. Por sorte, eu guardei o vídeo exato que me ensinou a fazer em casa. Para ver a receita passo a passo, é só tocar no botão abaixo que diz 'mais informações'. Mas eu te aviso, a indústria farmacêutica odeia isto. É uma receita que gera os mesmos resultados daqueles tratamentos de clínicas de luxo, mas sem gastar milhares de pesos e sem dor. É natural, seguro e ataca a raiz da gordura acumulada. Se este vídeo apareceu para você, tome como um sinal. Toque no botão abaixo, assista ao vídeo curto e copie a receita antes que apaguem. Ah, e o vídeo também revela 3 alimentos supostamente saudáveis que na verdade estão te engordando, incluindo um que você come no café da manhã. Eu fiquei em choque. Clique em 'mais informações' e assista agora."
+    }
+   ],
+   "prints": [
+    {
+     "ts": "0:00",
+     "legenda": "Abertura: mulher gorda de costas na praia, de biquíni azul; 'MI ESPOSO ME ILUSA CUANDO LE'",
+     "arquivo": "ad05_mulher_praia_biquini_mi_esposo_00-00-00.jpg"
+    },
+    {
+     "ts": "0:05",
+     "legenda": "Mulher na praia tirando a blusa; 'CELOSO CUANDO ME USANDO EL MISMO BIKINI'",
+     "arquivo": "ad05_mulher_praia_celoso_00-00-05.jpg"
+    },
+    {
+     "ts": "0:08",
+     "legenda": "Mulher (UGC, jaqueta preta) à mesa; 'PRIMERO VAS A TOMAR UNOS 200 ML'",
+     "arquivo": "ad05_mulher_jaqueta_preta_primero_00-00-08.jpg"
+    },
+    {
+     "ts": "0:10",
+     "legenda": "Despejando água fria na tigela; 'DE AGUA FRÍA'",
+     "arquivo": "ad05_despejando_agua_tigela_00-00-10.jpg"
+    },
+    {
+     "ts": "0:15",
+     "legenda": "Despejando gelatina vermelha na panela com líquido branco; 'JUGO DE MEDIO LIMÓN'",
+     "arquivo": "ad05_gelatina_vermelha_leite_00-00-15.jpg"
+    },
+    {
+     "ts": "0:18",
+     "legenda": "Mulher à mesa; 'PERO PRESTA MUCHA ATENCIÓN PORQUE ESTA ES LA CLAVE'",
+     "arquivo": "ad05_mulher_presta_mucha_atencion_00-00-18.jpg"
+    },
+    {
+     "ts": "0:25",
+     "legenda": "Mulher; 'PASÉ DE 89 A 65'",
+     "arquivo": "ad05_mulher_pase_de_89_a_65_00-00-25.jpg"
+    },
+    {
+     "ts": "0:27",
+     "legenda": "Despejando pó rosa na gelatina vermelha; 'EL SECRETO: SOLO NECESITABA UN PEQUEÑO AJUSTE'",
+     "arquivo": "ad05_despejando_po_rosa_gelatina_00-00-27.jpg"
+    },
+    {
+     "ts": "0:33",
+     "legenda": "Mulher gesticulando; 'CUMPLEAÑOS DE MI... MI CUÑADA ME... LIPO O ALGUNA'",
+     "arquivo": "ad05_mulher_cumpleanos_cunada_00-00-33.jpg"
+    },
+    {
+     "ts": "0:42",
+     "legenda": "Batendo a gelatina vermelha com fouet; 'ESTE EXTRAÑO TRUCO DE LA GELATINA VIRAL'",
+     "arquivo": "ad05_batendo_gelatina_fouet_00-00-42.jpg"
+    },
+    {
+     "ts": "0:46",
+     "legenda": "Gelatina rosa espumando na panela; 'A MILES DE MUJERES A DERRETIR GRASA'",
+     "arquivo": "ad05_gelatina_rosa_panela_derretir_00-00-46.jpg"
+    },
+    {
+     "ts": "0:49",
+     "legenda": "Despejando creme branco na gelatina; 'ACELERADA GUARDÉ'",
+     "arquivo": "ad05_despejando_creme_branco_00-00-49.jpg"
+    },
+    {
+     "ts": "0:51",
+     "legenda": "Mulher; 'QUERÍA ESTAR SEGURA QUE TANTO YO... BAJAMOS TALLAS'",
+     "arquivo": "ad05_mulher_queria_estar_segura_00-00-51.jpg"
+    },
+    {
+     "ts": "0:57",
+     "legenda": "Blocos brancos na gelatina rosa; 'MÉDICOS SALIERON PERFECTOS, QUE COMPARTIRLO'",
+     "arquivo": "ad05_gelatina_rosa_blocos_brancos_00-00-57.jpg"
+    },
+    {
+     "ts": "1:03",
+     "legenda": "Despejando a gelatina rosa na forma; 'HONESTAMENTE YO NO CREÍA QUE FUERA A FUNCIONAR'",
+     "arquivo": "ad05_despejando_gelatina_rosa_forma_00-01-03.jpg"
+    },
+    {
+     "ts": "1:06",
+     "legenda": "Cobrindo a forma com filme plástico; 'NADA QUE PERDER... POR FIN PODEMOS'",
+     "arquivo": "ad05_gelatina_rosa_filme_plastico_00-01-06.jpg"
+    },
+    {
+     "ts": "1:12",
+     "legenda": "Mulher; 'COMIDAS CASERAS COMO TORTILLAS O UN BUEN PLATO DE ARROZ'",
+     "arquivo": "ad05_mulher_tortillas_plato_arroz_00-01-12.jpg"
+    },
+    {
+     "ts": "1:18",
+     "legenda": "Mulher; 'HA SALIDO EN REPORTAJES DE SALUD'",
+     "arquivo": "ad05_mulher_reportajes_de_salud_00-01-18.jpg"
+    },
+    {
+     "ts": "1:25",
+     "legenda": "Mulher com as mãos juntas; 'PARA VER LA... BOTÓN DE ABAJO QUE DICE MÁS INFORMACIÓN'",
+     "arquivo": "ad05_mulher_boton_de_abajo_mas_informacion_00-01-25.jpg"
+    },
+    {
+     "ts": "1:30",
+     "legenda": "Mulher; 'PERO TE ADVIERTO, FARMACÉUTICA ODIA ESTO'",
+     "arquivo": "ad05_mulher_farmaceutica_odia_esto_00-01-30.jpg"
+    },
+    {
+     "ts": "1:33",
+     "legenda": "Cortando a gelatina rosa com faca; 'QUE GENERA LOS RESULTADOS QUE ESOS TRATAMIENTOS DE CLÍNICAS DE LUJO'",
+     "arquivo": "ad05_cortando_gelatina_faca_00-01-33.jpg"
+    },
+    {
+     "ts": "1:39",
+     "legenda": "Levantando um bloco de gelatina rosa; 'ES NATURAL, SEGURO Y ATACA LA GRASA ACUMULADA'",
+     "arquivo": "ad05_bloco_gelatina_natural_seguro_00-01-39.jpg"
+    },
+    {
+     "ts": "1:44",
+     "legenda": "Colher cortando o bloco de gelatina no prato; 'SI ESTE VIDEO APARECIÓ PARA TI, TÓMALO COMO UNA SEÑAL'",
+     "arquivo": "ad05_colher_gelatina_si_este_video_00-01-44.jpg"
+    },
+    {
+     "ts": "1:48",
+     "legenda": "Prato com gelatina; 'CORTO Y COPIA LA RECETA ANTES BORREN'",
+     "arquivo": "ad05_prato_gelatina_copia_la_receta_00-01-48.jpg"
+    },
+    {
+     "ts": "1:50",
+     "legenda": "Mulher à mesa; 'AH Y EL VIDEO... SUPUESTAMENTE... REALIDAD TE ESTÁN'",
+     "arquivo": "ad05_mulher_ah_y_el_video_00-01-50.jpg"
+    },
+    {
+     "ts": "1:57",
+     "legenda": "Mulher; 'YO QUEDÉ EN SHOCK. HAZ CLIC EN MÁS INFORMACIÓN Y'",
+     "arquivo": "ad05_mulher_haz_clic_mas_informacion_00-01-57.jpg"
+    }
+   ],
+   "rotulo_original": "Transcrição original (espanhol)"
+  }
+ ]
+}
